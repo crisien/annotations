@@ -1,0 +1,4 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo
+streamed-ctdpf_sbe43_sample,3,2016-07-14T21:18:00,2017-02-15T14:43:05,,Not evaluated,,need to identify time ranges for suspect DO data
+streamed-ctdpf_sbe43_sample,3,2017-02-15T14:43:06,2017-02-16T23:40:23,,Unavailable,,
+streamed-ctdpf_sbe43_sample,3,2017-02-16T23:40:24,now,,Not evaluated,,need to identify time ranges for suspect DO data

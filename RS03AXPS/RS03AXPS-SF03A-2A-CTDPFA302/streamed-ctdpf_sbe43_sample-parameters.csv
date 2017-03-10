@@ -1,0 +1,5 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo
+seawater_conductivity,3,2017-01-12T13:00:00,2017-01-12T17:00:00,,Suspect,,create annotation text
+conductivity,3,2017-01-12T13:00:00,2017-01-12T17:00:00,,Suspect,,create annotation text
+practical_salinity,3,2017-01-12T13:00:00,2017-01-12T17:00:00,,Suspect,,create annotation text
+seawater_density,3,2017-01-12T13:00:00,2017-01-12T17:00:00,,Suspect,,create annotation text

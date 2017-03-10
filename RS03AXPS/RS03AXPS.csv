@@ -1,1 +1,1 @@
-Annotation ID,Level,Deployment,TimeRange,Type,Text,Status,Redmine #,Public (True or False),To do flag,RS03AXPS,3,"['2016-07-14T21:18:00.492217', 'None']'",Annotation,,Operational,,False',,RS03AXPS,3,"['2017-02-15 14:43:05', '2017-02-16 23:40:23']'",Annotation,,Not operational,11998,True',
+Level,Deployment,TimeRange,Type,Text,Status,Redmine #,Public (True or False),To do flagRS03AXPS,3,"['2016-07-14T21:18:00.492217', 'None']'",Annotation,,Operational,,False',RS03AXPS,3,"['2017-02-15 14:43:05', '2017-02-16 23:40:23']'",Annotation,,Not operational,11998,True',True'

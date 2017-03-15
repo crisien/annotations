@@ -1,5 +1,9 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo
-seawater_conductivity,3,2017-01-12T13:00:00,2017-01-12T17:00:00,,Suspect,,create annotation text
-conductivity,3,2017-01-12T13:00:00,2017-01-12T17:00:00,,Suspect,,create annotation text
-practical_salinity,3,2017-01-12T13:00:00,2017-01-12T17:00:00,,Suspect,,create annotation text
-seawater_density,3,2017-01-12T13:00:00,2017-01-12T17:00:00,,Suspect,,create annotation text
+seawater_conductivity,3,2017-01-12T13:00:00,2017-01-12T17:00:00,"Data values are within plausible ranges, but lower than usual values throughout the entire water column during this time period make the values suspect.",Suspect,,
+conductivity,3,2017-01-12T13:00:00,2017-01-12T17:00:00,"Data values are within plausible ranges, but lower than usual values throughout the entire water column during this time period make the values suspect.",Suspect,,
+practical_salinity,3,2017-01-12T13:00:00,2017-01-12T17:00:00,"Data values are within plausible ranges, but lower than usual values throughout the entire water column during this time period make the values suspect.",Suspect,,
+seawater_density,3,2017-01-12T13:00:00,2017-01-12T17:00:00,"Data values are within plausible ranges, but lower than usual values throughout the entire water column during this time period make the values suspect.",Suspect,,
+corrected_dissolved_oxygen,3,2016-09-03T18:30:00,2016-09-04T02:00:00,"Data values are within plausible ranges, but lower than usual values throughout the entire water column during this time period make the values suspect.",Suspect,,
+corrected_dissolved_oxygen,3,2016-08-30T22:00:00,2016-08-31T05:00:00,"Data values are within plausible ranges, but lower than usual values throughout the entire water column during this time period make the values suspect.",Suspect,,
+corrected_dissolved_oxygen,3,2016-09-14T12:00:00,2016-09-14T22:00:00,"Data values are within plausible ranges, but lower than usual values throughout the entire water column during this time period make the values suspect.",Suspect,,
+corrected_dissolved_oxygen,3,2017-01-12T00:00:00,2017-01-14T00:00:00,"Data values are within plausible ranges, but lower than usual values throughout the entire water column during this time period make the values suspect.",Suspect,,

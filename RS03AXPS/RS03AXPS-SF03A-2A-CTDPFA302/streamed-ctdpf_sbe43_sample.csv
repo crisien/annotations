@@ -1,4 +1,13 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo
+,,2015-07-10T22:47:00,2016-04-15T22:10:02,,Available,,
+streamed-ctdpf_sbe43_sample,2,2016-04-15T22:10:02,2016-04-20T15:15:49,,Unavailable,,find out if known issue
+streamed-ctdpf_sbe43_sample,2,2016-04-20T15:15:49,2016-04-20T18:34:58,"Data collected in between the gaps is suspect. Multiple data products show values lower than expected, throughout the entire water column.",Suspect,,
+streamed-ctdpf_sbe43_sample,2,2016-04-20T18:34:58,2016-04-22T14:44:53,,Unavailable,,find out if known issue
+streamed-ctdpf_sbe43_sample,2,2016-04-22T14:44:53,2016-04-22T17:46:52,"Data collected in between the gaps is suspect. Multiple data products show values lower than expected, throughout the entire water column.",Suspect,,
+streamed-ctdpf_sbe43_sample,2,2016-04-22T17:46:52,2016-04-25T02:24:00,,Unavailable,,find out if known issue
+streamed-ctdpf_sbe43_sample,2,2016-04-25T02:24:00,2016-05-06T21:26:00,,Available,,
+streamed-ctdpf_sbe43_sample,2,2016-05-06T21:26:00,2016-05-07T14:48:00,Suspect intermittent data gaps.,Suspect,12121,
+streamed-ctdpf_sbe43_sample,2,2016-05-07T14:48:00,2016-06-30T11:59:59,,Available,,
 streamed-ctdpf_sbe43_sample,3,2016-07-14T21:18:00,2017-02-15T14:43:05,These data have been reviewed and are available. Issues with individual data products are remarked at the parameter level.,Available,,
 streamed-ctdpf_sbe43_sample,3,2017-02-15T14:43:06,2017-02-16T23:40:23,,Unavailable,,
 streamed-ctdpf_sbe43_sample,3,2017-02-16T23:40:24,2017-02-24T00:00:00,These data have been reviewed and are available. Issues with individual data products are remarked at the parameter level.,Available,,

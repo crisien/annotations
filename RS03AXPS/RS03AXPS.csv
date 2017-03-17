@@ -1,5 +1,15 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo
 RS03AXPS,3,2017-02-15T14:43:06,2017-02-16T23:40:23,"On Wednesday, February 15, power to the North and South cable lines of the Cabled Array was interrupted and all deployed infrastructure went offline.  Power was restored on February 16. No hardware issue subsea was identified.",Not operational,11998,
-RS03AXPS,2,2016-04-15T22:10:02,2016-04-20T15:15:49,,Not operational,,find out if known issue
-RS03AXPS,2,2016-04-20T18:34:58',2016-04-22T14:44:53,,Not operational,,find out if known issue
-RS03AXPS,2,2016-04-22T17:46:52,2016-04-25T02:24:00,,Not operational,,find out if known issue
+RS03AXPS,2,2016-04-15T22:10:02,2016-04-20T15:15:49,,Not operational,,find out if known issue and platform wide or only on profiler CTD. add annotation accordingly.
+RS03AXPS,2,2016-04-20T18:34:58,2016-04-22T14:44:53,,Not operational,,find out if known issue and platform wide or only on profiler CTD. add annotation accordingly.
+RS03AXPS,2,2016-04-22T17:46:52,2016-04-25T02:24:00,,Not operational,,find out if known issue and platform wide or only on profiler CTD. add annotation accordingly.
+RS03AXPS,1,2014-10-30T05:47:42,2014-12-03T22:52:26,,Not operational,,find out if known issue and platform wide or only on profiler CTD. add annotation accordingly.
+RS03AXPS,1,2014-12-07T20:59:39,2014-12-16T18:07:01,,Not operational,,find out if known issue and platform wide or only on profiler CTD. add annotation accordingly.
+RS03AXPS,1,2015-02-01T20:36:30,2015-02-03T09:56:33,,Not operational,,find out if known issue and platform wide or only on profiler CTD. add annotation accordingly.
+RS03AXPS,1,2015-02-26T17:01:52,2015-03-02T20:03:38,,Not operational,,find out if known issue and platform wide or only on profiler CTD. add annotation accordingly.
+RS03AXPS,1,2015-03-07T23:10:59,2015-03-09T07:39:49,,Not operational,,find out if known issue and platform wide or only on profiler CTD. add annotation accordingly.
+RS03AXPS,1,2015-03-30T17:11:48,2015-04-01T17:37:12,,Not operational,,find out if known issue and platform wide or only on profiler CTD. add annotation accordingly.
+RS03AXPS,1,2015-04-09T18:26:38,2015-04-13T20:52:28,,Not operational,,find out if known issue and platform wide or only on profiler CTD. add annotation accordingly.
+RS03AXPS,1,2015-06-19T22:02:17,2015-06-22T17:11:02,,Not operational,,find out if known issue and platform wide or only on profiler CTD. add annotation accordingly.
+RS03AXPS,1,2015-07-01T16:46:48,2015-07-03T21:12:49,,Not operational,,find out if known issue and platform wide or only on profiler CTD. add annotation accordingly.
+,,,,,,,

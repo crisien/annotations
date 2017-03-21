@@ -1,2 +1,30 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,reviewed_by
-ctdpf_sbe43_sample,,,,,,,,leila
+ctdpf_sbe43_sample,1,2014-09-29T04:43:00,2014-10-12T03:22:11,,AVAILABLE,,,leila
+ctdpf_sbe43_sample,1,2014-10-12T03:22:11,2014-10-14T21:01:22,,NOT_AVAILABLE,,find out the reason gap exist,leila
+ctdpf_sbe43_sample,1,2014-10-14T21:01:22,2014-10-25T16:20:11,,AVAILABLE,,,leila
+ctdpf_sbe43_sample,1,2014-10-25T16:20:11,2014-10-30T17:16:26,,NOT_AVAILABLE,,find out the reason gap exist,leila
+ctdpf_sbe43_sample,1,2014-10-30T17:16:26,2014-11-02T14:29:01,,AVAILABLE,,,leila
+ctdpf_sbe43_sample,1,2014-11-02T14:29:01,2014-11-05T19:35:03,,NOT_AVAILABLE,,find out the reason gap exist,leila
+ctdpf_sbe43_sample,1,2014-11-05T19:35:03,2014-11-0T00:17:20,,AVAILABLE,,,leila
+ctdpf_sbe43_sample,1,2014-11-0T00:17:20,2014-11-13T22:00:52,,NOT_AVAILABLE,,find out the reason gap exist,leila
+ctdpf_sbe43_sample,1,2014-11-13T22:00:52,2014-11-14T18:36:18,,AVAILABLE,,,leila
+ctdpf_sbe43_sample,1,2014-11-14T18:36:18,2014-11-17T18:32:34,,NOT_AVAILABLE,,find out the reason gap exist,leila
+ctdpf_sbe43_sample,1,2014-11-17T18:32:34,2014-11-20T13:27:46,,AVAILABLE,,,leila
+ctdpf_sbe43_sample,1,2014-11-20T13:27:46,2014-12-16T20:29:00,,NOT_AVAILABLE,,find out the reason gap exist,leila
+ctdpf_sbe43_sample,1,2014-12-16T20:29:00,2015-02-01T20:36:31,,AVAILABLE,,,leila
+ctdpf_sbe43_sample,1,2015-02-01T20:36:31,2015-02-03T09:57:03,,NOT_AVAILABLE,,find out the reason gap exist,leila
+ctdpf_sbe43_sample,1,2015-02-03T09:57:03,2015-03-07T23:08:40,,AVAILABLE,,,leila
+ctdpf_sbe43_sample,1,2015-03-07T23:08:40,2015-03-09T07:39:50,,NOT_AVAILABLE,,find out the reason gap exist,leila
+ctdpf_sbe43_sample,1,2015-03-09T07:39:50,2015-07-06T00:00:00,,AVAILABLE,,,leila
+ctdpf_sbe43_sample,,2015-07-06T00:00:00,2015-07-07T20:47:00,between deployments,NOT_AVAILABLE,,,leila
+ctdpf_sbe43_sample,2,2015-07-07T20:47:00,2015-09-30T23:59:59,,AVAILABLE,,,leila
+ctdpf_sbe43_sample,2,2015-09-30T23:59:59,2015-10-02T22:15:31,,NOT_AVAILABLE,,find out the reason gap exist,leila
+ctdpf_sbe43_sample,2,2015-10-02T22:15:31,2015-10-28T13:37:12,,AVAILABLE,,,leila
+ctdpf_sbe43_sample,2,2015-10-28T13:37:12,2015-11-05T18:44:35,,NOT_AVAILABLE,,find out the reason gap exist,leila
+ctdpf_sbe43_sample,2,2015-11-05T18:44:35,2016-04-23T05:32:40,,AVAILABLE,,,leila
+ctdpf_sbe43_sample,2,2016-04-23T05:32:40,2016-04-25T02:24:00,,NOT_AVAILABLE,,find out the reason gap exist,leila
+ctdpf_sbe43_sample,2,2016-04-25T02:24:00,2016-07-17T00:00:00,,AVAILABLE,,,leila
+ctdpf_sbe43_sample,,2016-07-17T00:00:00,2016-07-18T00:19:00,between deployments,NOT_AVAILABLE,,between deployments,leila
+ctdpf_sbe43_sample,3,2016-07-18T00:19:00,2017-01-09T18:30:53,,AVAILABLE,,,leila
+ctdpf_sbe43_sample,3,2017-01-09T18:30:53,2017-01-11T00:55:40,,NOT_AVAILABLE,,find out the reason gap exist,leila
+,,,,,,,,

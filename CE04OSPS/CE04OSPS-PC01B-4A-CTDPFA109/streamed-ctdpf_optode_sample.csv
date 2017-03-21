@@ -1,0 +1,15 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,reviewed_by
+ctdpf_optode_sample,1,2014-08-30T09:16:00,2014-11-04T16:05:39,,AVAILABLE,,,leila
+ctdpf_optode_sample,1,2014-11-04T16:05:39,2014-11-05T19:25:40,,NOT_AVAILABLE,,find out if known issue,leila
+ctdpf_optode_sample,1,2014-11-05T19:25:40,2014-11-06T00:25:49,,AVAILABLE,,,leila
+ctdpf_optode_sample,1,2014-11-06T00:25:49,2015-01-08T18:28:52,,NOT_AVAILABLE,,find out if known issue,leila
+ctdpf_optode_sample,1,2015-01-08T18:28:52,2015-01-30T23:08:24,,AVAILABLE,,,leila
+ctdpf_optode_sample,1,2015-01-30T23:08:24,2015-02-05T21:13:35,,NOT_AVAILABLE,,find out if known issue,leila
+ctdpf_optode_sample,1,2015-02-05T21:13:35,2015-03-07T23:06:04,,AVAILABLE,,,leila
+ctdpf_optode_sample,1,2015-03-07T23:06:04,2015-03-09T07:39:57,,NOT_AVAILABLE,,find out if known issue,leila
+ctdpf_optode_sample,1,2015-03-09T07:39:57,2015-08-02T00:00:00,,AVAILABLE,,,leila
+ctdpf_optode_sample,3,2016-07-19T08:00:00,2017-01-09T18:30:53,,AVAILABLE,,,leila
+ctdpf_optode_sample,3,2017-01-09T18:30:53,2017-01-11T01:02:52,,NOT_AVAILABLE,,find out if known issue,leila
+ctdpf_optode_sample,3,2017-01-11T01:02:52,2017-02-15T14:43:05,,AVAILABLE,,,leila
+ctdpf_optode_sample,3,2017-02-15T14:43:05,2017-02-16T23:12:03,,NOT_AVAILABLE,,find out if known issue,leila
+,,,,,,,,

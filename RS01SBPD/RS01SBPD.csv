@@ -1,2 +1,2 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,reviewed_by
-RS01SBPD,,2017-02-15T14:43:06,2017-02-16T23:40:23,"On Wednesday, February 15, power to the North and South cable lines of the Cabled Array was interrupted and all deployed infrastructure went offline.  Power was restored on February 16. No hardware issue subsea was identified.",Not operational,11998,add subsite deployment number,friedrich
+RS01SBPD,,2017-02-15T14:43:06,2017-02-16T23:40:23,"On Wednesday, February 15, power to the North and South cable lines of the Cabled Array was interrupted and all deployed infrastructure went offline.  Power was restored on February 16. No hardware issue subsea was identified.",NOT_OPERATIONAL,11998,add subsite deployment number,friedrich

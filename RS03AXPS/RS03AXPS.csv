@@ -1,5 +1,5 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,reviewed_by
-RS03AXPS,3,2017-02-15T14:43:06,2017-02-16T23:40:23,"On Wednesday, February 15, power to the North and South cable lines of the Cabled Array was interrupted and all deployed infrastructure went offline.  Power was restored on February 16. No hardware issue subsea was identified.",Not operational,11998,,friedrich
+RS03AXPS,,2017-02-15T14:43:06,2017-02-16T23:40:23,"On Wednesday, February 15, power to the North and South cable lines of the Cabled Array was interrupted and all deployed infrastructure went offline.  Power was restored on February 16. No hardware issue subsea was identified.",Not operational,11998,add subsite deployment number,friedrich
 RS03AXPS-SF03A-2A-CTDPFA302,2,2016-04-15T22:10:02,2016-04-20T15:15:49,,Not operational,,find out if known issue and platform wide or only on profiler CTD. add annotation accordingly.,friedrich
 RS03AXPS-SF03A-2A-CTDPFA302,2,2016-04-20T18:34:58,2016-04-22T14:44:53,,Not operational,,find out if known issue and platform wide or only on profiler CTD. add annotation accordingly.,friedrich
 RS03AXPS-SF03A-2A-CTDPFA302,2,2016-04-22T17:46:52,2016-04-25T02:24:00,,Not operational,,find out if known issue and platform wide or only on profiler CTD. add annotation accordingly.,friedrich
@@ -12,6 +12,6 @@ RS03AXPS-SF03A-2A-CTDPFA302,1,2015-03-30T17:11:48,2015-04-01T17:37:12,,Not opera
 RS03AXPS-SF03A-2A-CTDPFA302,1,2015-04-09T18:26:38,2015-04-13T20:52:28,,Not operational,,find out if known issue and platform wide or only on profiler CTD. add annotation accordingly.,friedrich
 RS03AXPS-SF03A-2A-CTDPFA302,1,2015-06-19T22:02:17,2015-06-22T17:11:02,,Not operational,,find out if known issue and platform wide or only on profiler CTD. add annotation accordingly.,friedrich
 RS03AXPS-SF03A-2A-CTDPFA302,1,2015-07-01T16:46:48,2015-07-03T21:12:49,,Not operational,,find out if known issue and platform wide or only on profiler CTD. add annotation accordingly.,friedrich
-RS03AXPS-SF03A,1,,,Profiler sits at bottom during multiple time periods.,,,,friedrich
-RS03AXPS-SF03A,2,,,Profiler sits at bottom during multiple time periods.,,,,friedrich
-RS03AXPS-SF03A,3,,,"Profiler sits at bottom during multiple time periods. Since January 27th 2017, the profiler has been sitting at 50 meters because of an issue with the winch. ",,,Need to add Redmine ticket.,friedrich
+RS03AXPS-SF03A,,,,Profiler sits at bottom during multiple time periods.,,,add node deployment number,friedrich
+RS03AXPS-SF03A,,,,Profiler sits at bottom during multiple time periods.,,,add node deployment number,friedrich
+RS03AXPS-SF03A,,,,"Profiler sits at bottom during multiple time periods. Since January 27th 2017, the profiler has been sitting at 50 meters because of an issue with the winch. ",,,add node deployment number,friedrich

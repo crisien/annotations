@@ -10,6 +10,7 @@ import numpy as np
 # TODO auto source deployment time ranges
 # TODO create color legend
 # TODO calculate metrics
+# TODO write out only specified reference designator to csv
 
 # specify path to annotation csvs, reference designator and theoretical end date for ongoing deployment, specified as 'None' in asset management
 # (you can use the date on which you downloaded the data, for example.)
@@ -128,7 +129,6 @@ counter = counter -1
 for index, row in stream_df.iterrows():
 	stream_time = np.array([row["StartTime"],row["EndTime"]])
 	stream_shape = np.full((stream_time.shape), y[counter])
-	# TODO available timeline shows inaccurate overlap
 	if row["Status"] == 'AVAILABLE':
 		plt.plot(stream_time, stream_shape, linewidth=10, color='green')
 	elif row["Status"] == 'NOT_AVAILABLE':
@@ -154,7 +154,6 @@ counter = counter -1
 for index, row in stream_df.iterrows():
 	stream_time = np.array([row["StartTime"],row["EndTime"]])
 	stream_shape = np.full((stream_time.shape), y[counter])
-	# TODO available timeline shows inaccurate overlap
 	if row["Status"] == 'AVAILABLE':
 		plt.plot(stream_time, stream_shape, linewidth=10, color='green')
 	elif row["Status"] == 'NOT_AVAILABLE':
@@ -186,7 +185,6 @@ counter = counter -1
 for index, row in stream_df.iterrows():
 	stream_time = np.array([row["StartTime"],row["EndTime"]])
 	stream_shape = np.full((stream_time.shape), y[counter])
-	# TODO available timeline shows inaccurate overlap
 	if row["Status"] == 'AVAILABLE':
 		plt.plot(stream_time, stream_shape, linewidth=10, color='green')
 	elif row["Status"] == 'NOT_AVAILABLE':

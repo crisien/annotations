@@ -11,7 +11,7 @@ import numpy as np
 assets = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/RS03AXPS/RS03AXPS.csv'
 stream = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/RS03AXPS/RS03AXPS-SF03A-2A-CTDPFA302/streamed-ctdpf_sbe43_sample.csv'
 parameters = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/RS03AXPS/RS03AXPS-SF03A-2A-CTDPFA302/streamed-ctdpf_sbe43_sample-parameters.csv'
-
+reference_designator = 'RS03AXPS-SF03A-2A-CTDPFA302'
 
 
 
@@ -54,7 +54,14 @@ parameters_df['EndTime'] = parameters_df['EndTime'].apply(lambda x: pd.to_dateti
 yticks = ['Deployments']
 
 for index, row in assets_df.iterrows():
-	yticks.append(row["Level"])
+	if len(row["Level"]) == 8:
+		yticks.append(row["Level"])
+for index, row in assets_df.iterrows():
+	if len(row["Level"]) == 14:
+		yticks.append(row["Level"])
+for index, row in assets_df.iterrows():
+	if len(row["Level"]) == 27 and row["Level"] == reference_designator:
+		yticks.append(row["Level"])
 
 for index, row in stream_df.iterrows():
 	yticks.append(row["Level"])
@@ -63,8 +70,10 @@ for index, row in parameters_df.iterrows():
 	yticks.append(row["Level"])
 
 yticks = pd.unique(yticks)
+print yticks
 yticks = yticks[::-1]
 y = np.arange(len(yticks))
+print y
 counter = -1
 
 
@@ -128,8 +137,7 @@ for index, row in stream_df.iterrows():
 for index, row in assets_df.iterrows():
 	instrument_time = np.array([row["StartTime"],row["EndTime"]])
 	instrument_shape = np.full((instrument_time.shape), y[counter])
-	if len(row["Level"]) == 27 and type(row["Status"]) == str:
-		plt_title = row["Level"]
+	if len(row["Level"]) == 27 and type(row["Status"]) == str and row["Level"]=='reference_designator':
 		plt.plot(instrument_time, instrument_shape, linewidth=10, color='lightgray')
 
 counter = counter -1
@@ -181,7 +189,7 @@ for parameter in parameters:
 
 # TODO create color legend
 
-plt.title(plt_title)
+plt.title(reference_designator)
 plt.yticks(y, yticks)
 plt.xticks(rotation=20)
 plt.tight_layout()

@@ -27,11 +27,19 @@ assets_df = pd.read_csv(assets, parse_dates=True)
 stream_df = pd.read_csv(stream, parse_dates=True)
 parameters_df = pd.read_csv(parameters, parse_dates=True)
 
-# # Output all annotations to single csv for report
-# df = assets_df
-# df = df.append(stream_df)
-# df = df.append(parameters_df)
-# df.to_csv(open('annotations_list.csv', 'w'))
+
+
+
+
+# output all annotations to single csv for report
+df = assets_df
+df = df.append(stream_df)
+df = df.append(parameters_df)
+df.to_csv(open('annotations_list.csv', 'w'))
+
+
+
+
 
 # convert time stamps to date time
 deployments_df[0] = deployments_df[0].apply(lambda x: pd.to_datetime(unicode(x)))
@@ -46,6 +54,7 @@ stream_df['EndTime'] = stream_df['EndTime'].apply(lambda x: pd.to_datetime(unico
 
 parameters_df['StartTime'] = parameters_df['StartTime'].apply(lambda x: pd.to_datetime(unicode(x)))
 parameters_df['EndTime'] = parameters_df['EndTime'].apply(lambda x: pd.to_datetime(unicode(x)))
+
 
 
 
@@ -70,11 +79,10 @@ for index, row in parameters_df.iterrows():
 	yticks.append(row["Level"])
 
 yticks = pd.unique(yticks)
-print yticks
 yticks = yticks[::-1]
 y = np.arange(len(yticks))
-print y
 counter = -1
+
 
 
 
@@ -88,7 +96,60 @@ for index, row in deployments_df.iterrows():
 
 counter = counter -1
 
+
+
+
 # plot subsite timelines
+for index, row in stream_df.iterrows():
+	stream_time = np.array([row["StartTime"],row["EndTime"]])
+	stream_shape = np.full((stream_time.shape), y[counter])
+	# TODO available timeline shows inaccurate overlap
+	if row["Status"] == 'AVAILABLE':
+		plt.plot(stream_time, stream_shape, linewidth=10, color='green')
+	elif row["Status"] == 'NOT_AVAILABLE':
+		plt.plot(stream_time, stream_shape, linewidth=10, color='green')
+
+for index, row in assets_df.iterrows():
+	subsite_time = np.array([row["StartTime"],row["EndTime"]])
+	subsite_shape = np.full((subsite_time.shape), y[counter])
+	if len(row["Level"]) == 8 and type(row["Status"]) == str:
+		plt.plot(subsite_time, subsite_shape, linewidth=10, color='lightgray',zorder = 3)
+
+counter = counter -1
+
+
+
+
+
+# plot node timelines
+for index, row in stream_df.iterrows():
+	stream_time = np.array([row["StartTime"],row["EndTime"]])
+	stream_shape = np.full((stream_time.shape), y[counter])
+	# TODO available timeline shows inaccurate overlap
+	if row["Status"] == 'AVAILABLE':
+		plt.plot(stream_time, stream_shape, linewidth=10, color='green')
+	elif row["Status"] == 'NOT_AVAILABLE':
+		plt.plot(stream_time, stream_shape, linewidth=10, color='green')
+
+for index, row in assets_df.iterrows():
+	subsite_time = np.array([row["StartTime"],row["EndTime"]])
+	subsite_shape = np.full((subsite_time.shape), y[counter])
+	if len(row["Level"]) == 8 and type(row["Status"]) == str:
+		plt.plot(subsite_time, subsite_shape, linewidth=10, color='lightgray',zorder = 3)
+
+for index, row in assets_df.iterrows():
+	node_time = np.array([row["StartTime"],row["EndTime"]])
+	node_shape = np.full((node_time.shape), y[counter])
+	if len(row["Level"]) == 14 and type(row["Status"]) == str:
+		plt.plot(node_time, node_shape, linewidth=10, color='lightgray',zorder = 3)
+
+counter = counter -1
+
+
+
+
+
+# plot instrument timelines
 for index, row in stream_df.iterrows():
 	stream_time = np.array([row["StartTime"],row["EndTime"]])
 	stream_shape = np.full((stream_time.shape), y[counter])
@@ -102,45 +163,25 @@ for index, row in assets_df.iterrows():
 	subsite_time = np.array([row["StartTime"],row["EndTime"]])
 	subsite_shape = np.full((subsite_time.shape), y[counter])
 	if len(row["Level"]) == 8 and type(row["Status"]) == str:
-		plt.plot(subsite_time, subsite_shape, linewidth=10, color='lightgray')
-
-counter = counter -1
-
-# plot node timelines
-for index, row in stream_df.iterrows():
-	stream_time = np.array([row["StartTime"],row["EndTime"]])
-	stream_shape = np.full((stream_time.shape), y[counter])
-	# TODO available timeline shows inaccurate overlap
-	if row["Status"] == 'AVAILABLE':
-		plt.plot(stream_time, stream_shape, linewidth=10, color='green')
-	elif row["Status"] == 'NOT_AVAILABLE':
-		plt.plot(stream_time, stream_shape, linewidth=10, color='lightgray',zorder = 3)
+		plt.plot(subsite_time, subsite_shape, linewidth=10, color='lightgray',zorder = 3)
 
 for index, row in assets_df.iterrows():
 	node_time = np.array([row["StartTime"],row["EndTime"]])
 	node_shape = np.full((node_time.shape), y[counter])
 	if len(row["Level"]) == 14 and type(row["Status"]) == str:
-		plt.plot(node_time, node_shape, linewidth=10, color='lightgray')
-
-counter = counter -1
-
-# plot instrument timelines
-for index, row in stream_df.iterrows():
-	stream_time = np.array([row["StartTime"],row["EndTime"]])
-	stream_shape = np.full((stream_time.shape), y[counter])
-	# TODO available timeline shows inaccurate overlap
-	if row["Status"] == 'AVAILABLE':
-		plt.plot(stream_time, stream_shape, linewidth=10, color='green')
-	elif row["Status"] == 'NOT_AVAILABLE':
-		plt.plot(stream_time, stream_shape, linewidth=10, color='lightgray',zorder = 3)
+		plt.plot(node_time, node_shape, linewidth=10, color='lightgray',zorder = 3)
 
 for index, row in assets_df.iterrows():
 	instrument_time = np.array([row["StartTime"],row["EndTime"]])
 	instrument_shape = np.full((instrument_time.shape), y[counter])
 	if len(row["Level"]) == 27 and type(row["Status"]) == str and row["Level"]=='reference_designator':
-		plt.plot(instrument_time, instrument_shape, linewidth=10, color='lightgray')
+		plt.plot(instrument_time, instrument_shape, linewidth=10, color='lightgray',zorder = 3)
 
 counter = counter -1
+
+
+
+
 
 # plot stream timelines
 for index, row in stream_df.iterrows():
@@ -158,12 +199,9 @@ counter = counter -1
 
 
 # plot parameter timelines
-parameters = []
-for index, row in parameters_df.iterrows():
-	parameters.append(row["Level"])
-parameters = np.unique(parameters)
+parameters = yticks[:-5]
+parameters = parameters[::-1]
 
-# plot data availability derived from stream level beneath data quality issues
 for parameter in parameters:
 	for index, row in stream_df.iterrows():
 		stream_time = np.array([row["StartTime"],row["EndTime"]])
@@ -187,8 +225,10 @@ for parameter in parameters:
 	counter = counter -1
 
 
-# TODO create color legend
 
+
+# show plot
+# TODO create color legend
 plt.title(reference_designator)
 plt.yticks(y, yticks)
 plt.xticks(rotation=20)

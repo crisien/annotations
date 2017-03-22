@@ -20,3 +20,7 @@ practical_salinity,3,2017-01-12T13:00:00,2017-01-12T17:00:00,"Data values are wi
 seawater_density,3,2017-01-12T13:00:00,2017-01-12T17:00:00,"Data values are within plausible ranges, but lower than usual values throughout the entire water column during this time period make the values suspect.",SUSPECT,,,friedrich
 corrected_dissolved_oxygen,3,2017-01-12T13:07:00,2016-09-16T19:21:00,"Data values are within plausible ranges, but lower than usual values throughout the entire water column during this time period make the values suspect.",SUSPECT,,,friedrich
 corrected_dissolved_oxygen,3,2017-01-13T10:28:00,2017-01-13T22:02:00,"Data values are within plausible ranges, but lower than usual values throughout the entire water column during this time period make the values suspect.",SUSPECT,,,friedrich
+pressure,,,,,,,,
+seawater_pressure,,,,,,,,
+temperature,,,,,,,,
+seawater_temperature,,,,,,,,

@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+import requests
+import os
 import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
@@ -9,17 +11,39 @@ import numpy as np
 # TODO create color legend
 # TODO calculate metrics
 
-# specify path to annotation csvs
+# specify path to annotation csvs, reference designator and theoretical end date for ongoing deployment, specified as 'None' in asset management
+# (you can use the date on which you downloaded the data, for example.)
 assets = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/RS03AXPS/RS03AXPS.csv'
 stream = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/RS03AXPS/RS03AXPS-SF03A-2A-CTDPFA302/streamed-ctdpf_sbe43_sample.csv'
 parameters = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/RS03AXPS/RS03AXPS-SF03A-2A-CTDPFA302/streamed-ctdpf_sbe43_sample-parameters.csv'
 reference_designator = 'RS03AXPS-SF03A-2A-CTDPFA302'
+ongoing_dep_end = '2017-03-21T00:00:00'
+
+## use this to manually specify deployment start and end times. comment block using ongoing_dep_end out accordingly.
+# deployments_df = pd.DataFrame([['2014-09-27T18:33:00','2015-07-09T00:00:00'],['2015-07-09T04:16:00','2016-07-14T00:00:00'], ['2016-07-14T21:18:00','2017-03-21T00:00:00']])
 
 
+def request_qc_json(ref_des):
+    url = 'http://ooi.visualocean.net/instruments/view/'
+    ref_des_url = os.path.join(url, ref_des)
+    ref_des_url += '.json'
+    data = requests.get(ref_des_url).json()
+    return data
 
-# specify deployement time ranges
+def get_deployment_information(data):
+    d_info = [x for x in data['instrument']['deployments']]
+    if d_info:
+        return d_info
+    else:
+        return None
 
-deployments_df = pd.DataFrame([['2014-09-27T18:33:00','2015-07-09T00:00:00'],['2015-07-09T04:16:00','2016-07-14T00:00:00'], ['2016-07-14T21:18:00','2017-03-21T00:00:00']])
+
+dep_data = request_qc_json(reference_designator)
+deploy_info = get_deployment_information(dep_data)
+deployments_df = pd.DataFrame(deploy_info)
+deployments_df = deployments_df[['start_date', 'stop_date']]
+deployments_df.fillna(value=ongoing_dep_end, inplace=True)
+
 
 
 
@@ -43,8 +67,8 @@ df.to_csv(open('annotations_list.csv', 'w'))
 
 
 # convert time stamps to date time
-deployments_df[0] = deployments_df[0].apply(lambda x: pd.to_datetime(unicode(x)))
-deployments_df[1] = deployments_df[1].apply(lambda x: pd.to_datetime(unicode(x)))
+deployments_df['start_date'] = deployments_df['start_date'].apply(lambda x: pd.to_datetime(unicode(x)))
+deployments_df['stop_date'] = deployments_df['stop_date'].apply(lambda x: pd.to_datetime(unicode(x)))
 
 
 assets_df['StartTime'] = assets_df['StartTime'].apply(lambda x: pd.to_datetime(unicode(x)))

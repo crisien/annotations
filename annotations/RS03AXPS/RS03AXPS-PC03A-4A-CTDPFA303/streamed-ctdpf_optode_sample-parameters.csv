@@ -1,8 +1,10 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,reviewed_by
-seawater_temperature,,,,,,,,leila
-seawater_pressure,,,,,,,,leila
-seawater_conductivity,,,,,,,,leila
-practical_salinity,,,,,,,,leila
-seawater_density,,,,,,,,leila
-ctd_tc_oxygen,,,,,,,,leila
-ctd_abs_oxygen,,,,,,,,leila
+corrected_dissolved_oxygen,,,,,,,,friedrich
+seawater_conductivity,,,,,,,,friedrich
+conductivity,,,,,,,,friedrich
+practical_salinity,,,,,,,,friedrich
+seawater_density,,,,,,,,friedrich
+pressure,,,,,,,,friedrich
+seawater_pressure,,,,,,,,friedrich
+temperature,,,,,,,,friedrich
+seawater_temperature,,,,,,,,friedrich

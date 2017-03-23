@@ -5,3 +5,7 @@ CE04OSPS-PC01B-4A-CTDPFA109,1,2015-01-30T23:08:24,2015-02-05T21:13:35,,NOT_OPERA
 CE04OSPS-PC01B-4A-CTDPFA109,1,2015-03-07T23:06:04,2015-03-09T07:39:57,,NOT_OPERATIONAL,,find out if known issue and platform wide or only on profiler CTD. add annotation accordingly.,leila
 CE04OSPS-PC01B-4A-CTDPFA109,3,2017-01-09T18:30:53,2017-01-11T01:02:52,,NOT_OPERATIONAL,,find out if known issue and platform wide or only on profiler CTD. add annotation accordingly.,leila
 CE04OSPS,,2017-02-15T14:43:05,2017-02-16T23:12:03,"On Wednesday, February 15, power to the North and South cable lines of the Cabled Array was interrupted and all deployed infrastructure went offline.  Power was restored on February 16. No hardware issue subsea was identified.",NOT_OPERATIONAL,11998,add subsite deployment number,friedrich
+CE04OSPS-SF01B-2A-CTDPFA107,2,2016-04-14T19:55:47,2016-04-19T23:05:49,,NOT_OPERATIONAL,,find out if known issue and platform wide or only on profiler CTD. add annotation accordingly.,leila
+CE04OSPS-SF01B-2A-CTDPFA107,2,2016-04-23T15:10:16,2016-04-25T02:23:59,,NOT_OPERATIONAL,,find out if known issue and platform wide or only on profiler CTD. add annotation accordingly.,leila
+CE04OSPS-SF01B-2A-CTDPFA107,3,2017-01-09T18:30:53,2017-01-11T01:09:09,,NOT_OPERATIONAL,,find out if known issue and platform wide or only on profiler CTD. add annotation accordingly.,leila
+CE04OSPS-SF01B-2A-CTDPFA107,3,2017-02-15T14:43:05,2017-02-16T23:31:07,,NOT_OPERATIONAL,,find out if known issue and platform wide or only on profiler CTD. add annotation accordingly.,leila

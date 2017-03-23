@@ -1,0 +1,8 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,reviewed_by
+seawater_temperature,,,,,,,,leila
+seawater_pressure,,,,,,,,leila
+seawater_conductivity,,,,,,,,leila
+practical_salinity,,,,,,,,leila
+seawater_density,,,,,,,,leila
+ctd_tc_oxygen,,,,,,,,leila
+ctd_abs_oxygen,,,,,,,,leila

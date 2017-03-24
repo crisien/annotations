@@ -27,4 +27,3 @@ ctdpf_sbe43_sample,2,2016-04-25T02:24:00,2016-07-17T00:00:00,,AVAILABLE,,,leila
 ctdpf_sbe43_sample,,2016-07-17T00:00:00,2016-07-18T00:19:00,between deployments,NOT_AVAILABLE,,between deployments,leila
 ctdpf_sbe43_sample,3,2016-07-18T00:19:00,2017-01-09T18:30:53,,AVAILABLE,,,leila
 ctdpf_sbe43_sample,3,2017-01-09T18:30:53,2017-01-11T00:55:40,,NOT_AVAILABLE,,find out the reason gap exist,leila
-,,,,,,,,

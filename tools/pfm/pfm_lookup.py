@@ -8,17 +8,6 @@ pd_number = 'PD194'
 
 
 
-csv_file = open(f, 'r')
-data = pd.read_csv(csv_file, parse_dates=True)
-
-
-# reduce data frame to relevant columns
-columns = ['reference_designator','start_depth','end_depth','method','stream_name', 'parameter_id',
-							'name.1','parameter_function_map', 'data_product_identifier', 'data_level']
-data = data[columns]
-affected_PDs = []
-
-
 def pfm_check(possible_instruments, pd_number):
 	for index, row in possible_instruments.iterrows():
 		try:	
@@ -42,6 +31,16 @@ def node_check(data):
 	return instruments_on_node
 
 
+# read in data
+csv_file = open(f, 'r')
+data = pd.read_csv(csv_file, parse_dates=True)
+
+
+# reduce data frame to relevant columns
+columns = ['reference_designator','start_depth','end_depth','method','stream_name', 'parameter_id',
+							'name.1','parameter_function_map', 'data_product_identifier', 'data_level']
+data = data[columns]
+affected_PDs = []
 
 possible_instruments = node_check(data)
 pfm_check(possible_instruments, pd_number)

@@ -51,8 +51,6 @@ def main(rootdir):
                 check_time_interval(data, root, filename)
 
 
-
-
 if __name__ == '__main__':
 	rootdir = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/RS03AXPS'
 	main(rootdir)

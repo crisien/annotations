@@ -4,17 +4,45 @@ import re
 # define your inputs
 f = '/Users/knuth/Documents/ooi/repos/github/annotations/tools/pfm/all_params.csv'
 
-ref_des = 'RS03AXPS-PC03A-4A-CTDPFA303'
-stream = 'ctdpf_optode_sample'
-method = 'streamed' # 'recovered_host' 'telemetered' 'recovered_inst' 'recovered_cspp' 'streamed' 'recovered_wfp'
-pd_number = 'PD194'
+# ref_des = 'RS03AXPS-PC03A-4A-CTDPFA303'
+# stream = 'ctdpf_optode_sample'
+# method = 'streamed' # 'recovered_host' 'telemetered' 'recovered_inst' 'recovered_cspp' 'streamed' 'recovered_wfp'
+# pd_number = 'PD194'
 
 # ref_des = 'CE02SHSM-RID27-03-CTDBPC000'
-# stream = 'ctdbp_cdef_dcl_instrument'
-# method = 'telemetered' # 'recovered_host' 'telemetered' 'recovered_inst' 'recovered_cspp' 'streamed' 'recovered_wfp'
+# stream = 'ctdbp_cdef_instrument_recovered'
+# method = 'recovered_inst' # 'recovered_host' 'telemetered' 'recovered_inst' 'recovered_cspp' 'streamed' 'recovered_wfp'
+# pd_number = 'PD923'
+
+ref_des = 'CE02SHSM-RID27-03-CTDBPC000'
+stream = 'ctdbp_cdef_dcl_instrument'
+method = 'telemetered' # 'recovered_host' 'telemetered' 'recovered_inst' 'recovered_cspp' 'streamed' 'recovered_wfp'
+pd_number = 'PD923'
+
+# ref_des = 'CE02SHSM-RID27-03-CTDBPC000'
+# stream = 'ctdbp_cdef_dcl_instrument_recovered'
+# method = 'recovered_host' # 'recovered_host' 'telemetered' 'recovered_inst' 'recovered_cspp' 'streamed' 'recovered_wfp'
 # pd_number = 'PD923'
 
 
+def buoy_check(data):
+	instruments_on_node = []
+	for index, row in data.iterrows():
+		if ref_des[:8] in row['reference_designator'][:8] and row['method'] == method:
+			instruments_on_node.append(row)
+	instruments_on_node = pd.DataFrame(instruments_on_node)
+	return instruments_on_node
+
+
+
+def node_check(data):
+	# subset data to node level
+	instruments_on_node = []
+	for index, row in data.iterrows():
+		if ref_des[9:14] in row['reference_designator'][9:14] and row['method'] == method:
+			instruments_on_node.append(row)
+	instruments_on_node = pd.DataFrame(instruments_on_node)
+	return instruments_on_node
 
 
 
@@ -30,25 +58,6 @@ def pfm_check(possible_instruments, pd_number):
 		except TypeError:
 			continue
 
-
-def node_check(data):
-	# subset data to node level
-	instruments_on_node = []
-	for index, row in data.iterrows():
-		if ref_des[9:14] in row['reference_designator'][9:14] and row['method'] == method:
-			instruments_on_node.append(row)
-	instruments_on_node = pd.DataFrame(instruments_on_node)
-	return instruments_on_node
-
-
-
-def buoy_check(data):
-	instruments_on_node = []
-	for index, row in data.iterrows():
-		if ref_des[:8] in row['reference_designator'][:8] and row['method'] == method:
-			instruments_on_node.append(row)
-	instruments_on_node = pd.DataFrame(instruments_on_node)
-	return instruments_on_node
 
 
 # read in data

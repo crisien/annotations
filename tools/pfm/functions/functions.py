@@ -1,4 +1,5 @@
 import pandas as pd
+import os
 
 
 def buoy_check(data, ref_des, method):
@@ -19,6 +20,14 @@ def node_check(data, ref_des, method):
 			instruments_on_node.append(row)
 	instruments_on_node = pd.DataFrame(instruments_on_node)
 	return instruments_on_node
+
+
+
+def make_dir(save_dir):
+    try:  # Check if the save_dir exists already... if not, make it
+        os.mkdir(save_dir)
+    except OSError:
+        pass
 
 
 

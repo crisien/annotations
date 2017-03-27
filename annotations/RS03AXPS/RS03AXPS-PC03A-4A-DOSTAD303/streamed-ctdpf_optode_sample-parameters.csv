@@ -1,0 +1,9 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,reviewed_by
+practical_salinity,2,2016-03-17T03:52:05,2016-04-10T20:46:12,abruptly low L0 conductivity measurements make this parameter suspect.,SUSPECT,,,friedrich
+seawater_conductivity,2,2016-03-17T03:52:05,2016-04-10T20:46:12,abruptly low L0 conductivity measurements make this parameter suspect.,SUSPECT,,,friedrich
+seawater_density,2,2016-03-17T03:52:05,2016-04-10T20:46:12,abruptly low L0 conductivity measurements make this parameter suspect.,SUSPECT,,,friedrich
+ctd_abs_oxygen,2,2016-03-17T03:52:05,2016-04-10T20:46:12,abruptly low L0 conductivity measurements make this parameter suspect.,SUSPECT,,,friedrich
+practical_salinity,2,2016-06-05T16:46:02,2016-06-20T18:53:51,abruptly low L0 conductivity measurements make this parameter suspect.,SUSPECT,,,friedrich
+seawater_conductivity,2,2016-06-05T16:46:02,2016-06-20T18:53:51,abruptly low L0 conductivity measurements make this parameter suspect.,SUSPECT,,,friedrich
+seawater_density,2,2016-06-05T16:46:02,2016-06-20T18:53:51,abruptly low L0 conductivity measurements make this parameter suspect.,SUSPECT,,,friedrich
+ctd_abs_oxygen,2,2016-06-05T16:46:02,2016-06-20T18:53:51,abruptly low L0 conductivity measurements make this parameter suspect.,SUSPECT,,,friedrich

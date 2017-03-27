@@ -1,0 +1,5 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,reviewed_by
+flort_d_bback_total,2,2016-03-17T03:52:05,2016-04-10T20:46:12,abruptly low L0 conductivity measurements make this parameter suspect.,SUSPECT,,,friedrich
+flort_d_scat_seawater,2,2016-03-17T03:52:05,2016-04-10T20:46:12,abruptly low L0 conductivity measurements make this parameter suspect.,SUSPECT,,,friedrich
+flort_d_bback_total,2,2016-06-05T16:46:02,2016-06-20T18:53:51,abruptly low L0 conductivity measurements make this parameter suspect.,SUSPECT,,,friedrich
+flort_d_scat_seawater,2,2016-06-05T16:46:02,2016-06-20T18:53:51,abruptly low L0 conductivity measurements make this parameter suspect.,SUSPECT,,,friedrich

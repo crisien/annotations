@@ -7,6 +7,7 @@ import subprocess
 
 
 # TODO add check for duplicate records in annotations csv and purge
+# TODO need to identify and accomodate instances where a pfm uses the data product identifier in its paramter function map, instead of the PD#
 
 def main(	QC_database_export, annotations_dir, ref_des, stream, method, pd_number, 
 			write_annotation_csv, parameter_name, deployment, start_time,
@@ -51,7 +52,7 @@ def main(	QC_database_export, annotations_dir, ref_des, stream, method, pd_numbe
 		with open(params_file,'a') as params_a_csv:
 			writer = csv.writer(params_a_csv)
 			writer.writerow(source_annotation)
-			print 'appending annotation to '  + ref_des + '/' + method + '-'+ stream + '-parameters.csv'
+			print 'appending source annotation for ' + parameter_name + ' to ' + ref_des + '/' + method + '-'+ stream + '-parameters.csv'
 
 
 	# read in data
@@ -125,7 +126,7 @@ def main(	QC_database_export, annotations_dir, ref_des, stream, method, pd_numbe
 				writer_t = csv.writer(params_a_csv_t)
 				target_annotation = (i[2], deployment, start_time, end_time, annotation_affected, status, '', '', reviewed_by)
 				writer_t.writerow(target_annotation)
-				print 'appending annotation to ' + ref_des_t + '/' + method + '-'+ i[1] + '-parameters.csv'
+				print 'appending target annotation for ' + i[2] + ' to ' + ref_des_t + '/' + method + '-'+ i[1] + '-parameters.csv'
 
 
 
@@ -140,8 +141,8 @@ if __name__ == '__main__':
 	# define your inputs and run the test to check the outputs in terminal. Se write annotation csv to False
 	QC_database_export = '/Users/knuth/Documents/ooi/repos/github/annotations/tools/pfm/all_params.csv'
 	annotations_dir = '/Users/knuth/Documents/ooi/repos/github/annotations/test'
-	ref_des = 'RS03AXPS-SF03A-2A-CTDPFA302'
-	stream = 'ctdpf_sbe43_sample'
+	ref_des = 'RS03AXPS-PC03A-4A-CTDPFA303'
+	stream = 'ctdpf_optode_sample'
 	method = 'streamed' # 'recovered_host' 'telemetered' 'recovered_inst' 'recovered_cspp' 'streamed' 'recovered_wfp'
 	pd_number = 'PD194'
 
@@ -150,10 +151,10 @@ if __name__ == '__main__':
 	write_annotation_csv = True
 	parameter_name = 'conductivity'
 	deployment = '2'
-	start_time = '2016-02-18T09:20:00'
-	end_time = '2016-03-09T04:42:00'
-	annotation_pd = 'Data values are within plausible ranges, but lower than usual L0 conductivity values throughout the entire water column during this time period make the values suspect.'
-	annotation_affected = 'Data values are within plausible ranges, but lower than usual L0 conductivity values throughout the entire water column during this time period make the values suspect.'
+	start_time = '2016-06-05T16:46:02'
+	end_time = '2016-06-20T18:53:51'
+	annotation_pd = 'suspect low conductivity measurements'
+	annotation_affected = 'abruptly low L0 conductivity measurements make this parameter suspect.'
 	status = 'SUSPECT'
 	reviewed_by = 'friedrich'
 

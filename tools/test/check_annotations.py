@@ -35,16 +35,18 @@ def check_time_interval(data, root, filename):
 			print 'ERROR: start time after end time in', root, filename
 			print row
 
+
 			
 
 
 def main(rootdir):
 	# walk directory to find parse annotation csv files
-    for root, dirs, files in os.walk(rootdir):
+     print 'checking files....'
+     for root, dirs, files in os.walk(rootdir):
         for filename in files:
             if filename.endswith('.csv'):
-
                 f = os.path.join(root,filename)
+
                 csv_file = open(f, 'r')
                 data = pd.read_csv(csv_file, parse_dates=True)
                 check_valid_time(data, root, filename)

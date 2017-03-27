@@ -2,6 +2,7 @@ import pandas as pd
 import os
 
 
+
 def buoy_check(data, ref_des, method):
 	instruments_on_node = []
 	for index, row in data.iterrows():
@@ -10,6 +11,13 @@ def buoy_check(data, ref_des, method):
 	instruments_on_node = pd.DataFrame(instruments_on_node)
 	return instruments_on_node
 
+
+def fix_trailing_newline(fname):
+    with open(fname, "r+") as f:
+        f.seek(-1, 2)
+        if(f.read() != '\n'):
+            f.seek(0, 2)
+            f.write('\n')
 
 
 def node_check(data, ref_des, method):

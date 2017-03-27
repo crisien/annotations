@@ -5,6 +5,9 @@ import os
 import csv
 import subprocess
 
+
+# TODO add check for duplicate records in annotations csv and purge
+
 def main(	QC_database_export, annotations_dir, ref_des, stream, method, pd_number, 
 			write_annotation_csv, parameter_name, deployment, start_time,
 			end_time, annotation_pd, annotation_affected, status, reviewed_by):
@@ -28,18 +31,19 @@ def main(	QC_database_export, annotations_dir, ref_des, stream, method, pd_numbe
 	if write_annotation_csv == True:
 		# subsite_file = os.path.join(subsite_dir + '.csv')
 		# stream_file = os.path.join(refdes_dir + stream + '.csv')
-		params_file = os.path.join(refdes_dir + '/' + stream + '-parameters.csv')
+		params_file = os.path.join(refdes_dir + '/'  + method + '-'+ stream + '-parameters.csv')
 		source_annotation = (parameter_name, deployment, start_time, end_time, annotation_pd, status, '', '', reviewed_by)
 		
 		try:
 			os.stat(params_file).st_size==0
-			print params_file + ' already exists.'
 		except:
 			with open(params_file,'w') as params_a_csv:
 				writer = csv.writer(params_a_csv)
 				fieldnames = annotation_headers
 				writer = csv.DictWriter(params_a_csv, fieldnames=fieldnames)
 				writer.writeheader()
+				print 'creating ' + params_file
+
 
 		fix_trailing_newline(params_file)
 
@@ -47,8 +51,7 @@ def main(	QC_database_export, annotations_dir, ref_des, stream, method, pd_numbe
 		with open(params_file,'a') as params_a_csv:
 			writer = csv.writer(params_a_csv)
 			writer.writerow(source_annotation)
-			print 'appending annotation to ' + stream + '-parameters.csv'
-			print str(source_annotation) + '\n'
+			print 'appending annotation to '  + ref_des + '/' + method + '-'+ stream + '-parameters.csv'
 
 
 	# read in data
@@ -91,18 +94,18 @@ def main(	QC_database_export, annotations_dir, ref_des, stream, method, pd_numbe
 			ref_des_t = i[0][:27]
 			refdes_dir_t = os.path.join(subsite_dir_t, ref_des_t)
 			make_dir(refdes_dir_t)
-			params_file_t = os.path.join(refdes_dir_t + '/' + i[1] + '-parameters.csv')
+			params_file_t = os.path.join(refdes_dir_t + '/'  + method + '-'+ i[1] + '-parameters.csv')
 
 			# subprocess.call(["dos2unix", params_file_t])
 
 			try:
 				os.stat(params_file_t).st_size==0
-				print params_file_t + ' already exists.'
 			except:
 				with open(params_file_t,'w') as params_a_csv_t:
 					fieldnames = annotation_headers
 					writer_h = csv.DictWriter(params_a_csv_t, fieldnames=fieldnames)
 					writer_h.writeheader()
+					print 'creating ' + params_file_t
 				
 		print '\n'
 		# append info to parameter level csv files
@@ -113,7 +116,7 @@ def main(	QC_database_export, annotations_dir, ref_des, stream, method, pd_numbe
 			subsite_dir_t = os.path.join(annotations_dir, subsite_t)
 			ref_des_t = i[0][:27]
 			refdes_dir_t = os.path.join(subsite_dir_t, ref_des_t)
-			params_file_t = os.path.join(refdes_dir_t + '/' + i[1] + '-parameters.csv')
+			params_file_t = os.path.join(refdes_dir_t + '/'  + method + '-'+ i[1] + '-parameters.csv')
 
 			fix_trailing_newline(params_file_t)
 
@@ -122,12 +125,12 @@ def main(	QC_database_export, annotations_dir, ref_des, stream, method, pd_numbe
 				writer_t = csv.writer(params_a_csv_t)
 				target_annotation = (i[2], deployment, start_time, end_time, annotation_affected, status, '', '', reviewed_by)
 				writer_t.writerow(target_annotation)
-				print 'appending annotation to ' + ref_des_t + '/' + i[1] + '-parameters.csv'
-				print str(source_annotation) + '\n'
+				print 'appending annotation to ' + ref_des_t + '/' + method + '-'+ i[1] + '-parameters.csv'
+
 
 
 	else:
-		print '\n' + pd_number + ' from ' + ref_des + '-' + stream + ' is used to calculate:\n'
+		print '\n' + pd_number + ' from ' + ref_des + ' ' + method + '-' + stream + ' is used to calculate:\n'
 		for i in affected_PDs:
 			print i
 		print '\n'
@@ -137,22 +140,22 @@ if __name__ == '__main__':
 	# define your inputs and run the test to check the outputs in terminal. Se write annotation csv to False
 	QC_database_export = '/Users/knuth/Documents/ooi/repos/github/annotations/tools/pfm/all_params.csv'
 	annotations_dir = '/Users/knuth/Documents/ooi/repos/github/annotations/test'
-	ref_des = 'CE02SHSM-RID27-03-CTDBPC000'
-	stream = 'ctdbp_cdef_dcl_instrument'
-	method = 'telemetered' # 'recovered_host' 'telemetered' 'recovered_inst' 'recovered_cspp' 'streamed' 'recovered_wfp'
-	pd_number = 'PD923'
+	ref_des = 'RS03AXPS-SF03A-2A-CTDPFA302'
+	stream = 'ctdpf_sbe43_sample'
+	method = 'streamed' # 'recovered_host' 'telemetered' 'recovered_inst' 'recovered_cspp' 'streamed' 'recovered_wfp'
+	pd_number = 'PD194'
 
 
 	# if the identified pds check out as being affected, specify the following inputs to generate the annotations
 	write_annotation_csv = True
-	parameter_name = 'salinity'
-	deployment = '1'
-	start_time = 'test'
-	end_time = 'test'
-	annotation_pd = 'test'
-	annotation_affected = 'test'
-	status = 'test'
-	reviewed_by = 'test'
+	parameter_name = 'conductivity'
+	deployment = '2'
+	start_time = '2016-02-18T09:20:00'
+	end_time = '2016-03-09T04:42:00'
+	annotation_pd = 'Data values are within plausible ranges, but lower than usual L0 conductivity values throughout the entire water column during this time period make the values suspect.'
+	annotation_affected = 'Data values are within plausible ranges, but lower than usual L0 conductivity values throughout the entire water column during this time period make the values suspect.'
+	status = 'SUSPECT'
+	reviewed_by = 'friedrich'
 
 
 

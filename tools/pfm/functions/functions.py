@@ -47,6 +47,6 @@ def pfm_check(possible_instruments, pd_number, affected_PDs):
 				text = row['reference_designator'] + ' ' + row['stream_name'] + ' ' + row['name.1'] + ' ' +  'PD' + str(int(row['parameter_id']))
 				next_pd = 'PD' + str(int(row['parameter_id']))
 				affected_PDs.append(text)
-				pfm_check(possible_instruments, next_pd)
+				pfm_check(possible_instruments, next_pd, affected_PDs)
 		except TypeError:
 			continue

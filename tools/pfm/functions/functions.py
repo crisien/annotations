@@ -4,6 +4,7 @@ import os
 
 
 def buoy_check(data, ref_des, method):
+	print 'WARNING: buoy_check function is not ready yet'
 	instruments_on_node = []
 	for index, row in data.iterrows():
 		if ref_des[:8] in row['reference_designator'][:8] and row['method'] == method:
@@ -50,3 +51,31 @@ def pfm_check(possible_instruments, pd_number, affected_PDs):
 				pfm_check(possible_instruments, next_pd, affected_PDs)
 		except TypeError:
 			continue
+
+
+
+# TODO import buoy check. From Pete:
+
+'''
+https://uframe-cm.ooi.rutgers.edu/issues/12102#note-3
+DOSTA, NUTNR, OPTAA and FLORT on the surface buoy use the METBK data
+
+
+for every other instrument in the system the co-located CTD is either a) on the same node or b) on a different node but at the exact same depth
+
+for example:
+
+CE02SHSM-RID26-00-DCLENG000,7.0
+CE02SHSM-RID26-01-ADCPTA000,7.0
+CE02SHSM-RID26-04-VELPTA000,7.0
+CE02SHSM-RID26-06-PHSEND000,7.0
+CE02SHSM-RID26-07-NUTNRB000,7.0
+CE02SHSM-RID26-08-SPKIRB000,7.0
+CE02SHSM-RID27-00-DCLENG000,7.0
+CE02SHSM-RID27-01-OPTAAD000,7.0
+CE02SHSM-RID27-02-FLORTD000,7.0
+CE02SHSM-RID27-03-CTDBPC000,7.0
+CE02SHSM-RID27-04-DOSTAD000,7.0
+ 
+the CTD is on RID27 but serves instruments on RID26 and RID27
+'''

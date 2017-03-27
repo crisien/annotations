@@ -7,9 +7,8 @@ import subprocess
 
 
 # TODO add check for duplicate records in annotations csv and purge
-# TODO need to identify and accomodate instances where a pfm uses the data product identifier in its paramter function map, instead of the PD#
 
-def main(	QC_database_export, annotations_dir, ref_des, stream, method, pd_number, 
+def main(	QC_database_export, annotations_dir, ref_des, stream, method, pd_number, DPI,
 			write_annotation_csv, parameter_name, deployment, start_time,
 			end_time, annotation_pd, annotation_affected, status, reviewed_by):
 	
@@ -78,7 +77,7 @@ def main(	QC_database_export, annotations_dir, ref_des, stream, method, pd_numbe
 		possible_instruments = node_check(data, ref_des, method)
 
 	# begin recursive search on reduced data frame and append to affected_PDs list
-	pfm_check(possible_instruments, pd_number, affected_PDs)
+	pfm_check(possible_instruments, pd_number, DPI, affected_PDs)
 	affected_PDs = list(set(affected_PDs))
 
 	params_file_t = ''
@@ -141,20 +140,21 @@ if __name__ == '__main__':
 	# define your inputs and run the test to check the outputs in terminal. Se write annotation csv to False
 	QC_database_export = '/Users/knuth/Documents/ooi/repos/github/annotations/tools/pfm/all_params.csv'
 	annotations_dir = '/Users/knuth/Documents/ooi/repos/github/annotations/test'
-	ref_des = 'RS03AXPS-PC03A-4A-CTDPFA303'
-	stream = 'ctdpf_optode_sample'
+	ref_des = 'RS03AXPS-SF03A-2A-CTDPFA302'
+	stream = 'ctdpf_sbe43_sample'
 	method = 'streamed' # 'recovered_host' 'telemetered' 'recovered_inst' 'recovered_cspp' 'streamed' 'recovered_wfp'
 	pd_number = 'PD194'
+	DPI = 'CONDWAT_L0'
 
 
 	# if the identified pds check out as being affected, specify the following inputs to generate the annotations
-	write_annotation_csv = True
+	write_annotation_csv = False
 	parameter_name = 'conductivity'
 	deployment = '2'
-	start_time = '2016-06-05T16:46:02'
-	end_time = '2016-06-20T18:53:51'
-	annotation_pd = 'suspect low conductivity measurements'
-	annotation_affected = 'abruptly low L0 conductivity measurements make this parameter suspect.'
+	start_time = '2017-01-12T13:00:00'
+	end_time = '2017-01-12T17:00:00'
+	annotation_pd = 'Data values are within plausible ranges, but lower than usual L0 conductivity values throughout the entire water column during this time period make the values suspect.'
+	annotation_affected = 'Data values are within plausible ranges, but lower than usual L0 conductivity values throughout the entire water column during this time period make the values suspect.'
 	status = 'SUSPECT'
 	reviewed_by = 'friedrich'
 
@@ -166,7 +166,8 @@ if __name__ == '__main__':
 			ref_des, 
 			stream, 
 			method, 
-			pd_number, 
+			pd_number,
+			DPI, 
 			write_annotation_csv,
 			parameter_name,
 			deployment,

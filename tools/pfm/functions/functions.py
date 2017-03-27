@@ -40,21 +40,22 @@ def make_dir(save_dir):
 
 
 
-def pfm_check(possible_instruments, pd_number, affected_PDs):
+def pfm_check(possible_instruments, pd_number, DPI, affected_PDs):
 	for index, row in possible_instruments.iterrows():
 		try:	
-			if pd_number in row['parameter_function_map']:
+			if pd_number in row['parameter_function_map'] or DPI in row['parameter_function_map']:
 				# print pd_number, 'is contained within', row['reference_designator'], row['stream_name'], row['name.1'], 'with PD' + str(int(row['parameter_id']))
 				text = row['reference_designator'] + ' ' + row['stream_name'] + ' ' + row['name.1'] + ' ' +  'PD' + str(int(row['parameter_id']))
 				next_pd = 'PD' + str(int(row['parameter_id']))
+				next_DPI = str(row['data_product_identifier'])
 				affected_PDs.append(text)
-				pfm_check(possible_instruments, next_pd, affected_PDs)
+				pfm_check(possible_instruments, next_pd, next_DPI, affected_PDs)
 		except TypeError:
 			continue
 
 
 
-# TODO import buoy check. From Pete:
+# TODO improve buoy check. From Pete:
 
 '''
 https://uframe-cm.ooi.rutgers.edu/issues/12102#note-3

@@ -1,11 +1,12 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,reviewed_by
+streamed-ctdpf_sbe43_sample,1,2014-09-27T18:33:00,2014-10-07T21:32:53,,NOT_AVAILABLE,,find out if known issue,friedrich
 streamed-ctdpf_sbe43_sample,1,2014-10-07T21:32:53,2014-10-30T05:47:42,,AVAILABLE,,,friedrich
 streamed-ctdpf_sbe43_sample,1,2014-10-30T05:47:42,2014-12-03T22:52:26,,NOT_AVAILABLE,,find out if known issue,friedrich
 streamed-ctdpf_sbe43_sample,1,2014-12-03T22:52:26,2014-12-07T20:59:39,,AVAILABLE,,,friedrich
 streamed-ctdpf_sbe43_sample,1,2014-12-07T20:59:39,2014-12-16T18:07:01,,NOT_AVAILABLE,,find out if known issue,friedrich
 streamed-ctdpf_sbe43_sample,1,2014-12-16T18:07:01,2015-02-01T20:36:30,,AVAILABLE,,,friedrich
 streamed-ctdpf_sbe43_sample,1,2015-02-01T20:36:30,2015-02-03T09:56:33,,NOT_AVAILABLE,,find out if known issue,friedrich
-streamed-ctdpf_sbe43_sample,1,2015-02-03T09:56:33,2015-07-08T19:06:45,,AVAILABLE,,,friedrich
+streamed-ctdpf_sbe43_sample,1,2015-02-03T09:56:33,2015-02-26T17:01:52,,AVAILABLE,,,friedrich
 streamed-ctdpf_sbe43_sample,1,2015-02-26T17:01:52,2015-03-02T20:03:38,,NOT_AVAILABLE,,find out if known issue,friedrich
 streamed-ctdpf_sbe43_sample,1,2015-03-02T20:03:38,2015-03-07T23:10:59,,AVAILABLE,,,friedrich
 streamed-ctdpf_sbe43_sample,1,2015-03-07T23:10:59,2015-03-09T07:39:49,,NOT_AVAILABLE,,find out if known issue,friedrich
@@ -21,14 +22,11 @@ streamed-ctdpf_sbe43_sample,1,2015-07-03T21:12:49,2015-07-08T19:06:45,,AVAILABLE
 streamed-ctdpf_sbe43_sample,2,2015-07-10T22:47:00,2016-04-15T22:10:02,,AVAILABLE,,,friedrich
 streamed-ctdpf_sbe43_sample,2,2016-04-15T22:10:02,2016-04-20T15:15:49,,NOT_AVAILABLE,,find out if known issue,friedrich
 streamed-ctdpf_sbe43_sample,2,2016-04-20T15:15:49,2016-04-20T18:34:58,Data collected in between the gaps is suspect. ,AVAILABLE,,,friedrich
-streamed-ctdpf_sbe43_sample,2,2016-04-20T15:15:49,2016-04-20T18:34:58,,,,this is a note,friedrich
 streamed-ctdpf_sbe43_sample,2,2016-04-20T18:34:58,2016-04-22T14:44:53,,NOT_AVAILABLE,,find out if known issue,friedrich
 streamed-ctdpf_sbe43_sample,2,2016-04-22T14:44:53,2016-04-22T17:46:52,Data collected in between the gaps is suspect.,AVAILABLE,,,friedrich
-streamed-ctdpf_sbe43_sample,2,2016-04-22T14:44:53,2016-04-22T17:46:52,,,,this is a note,friedrich
 streamed-ctdpf_sbe43_sample,2,2016-04-22T17:46:52,2016-04-25T02:24:00,,NOT_AVAILABLE,,find out if known issue,friedrich
-streamed-ctdpf_sbe43_sample,2,2016-04-25T02:24:01,2016-05-06T21:26:00,,AVAILABLE,,,friedrich
+streamed-ctdpf_sbe43_sample,2,2016-04-25T02:24:01,2016-07-13T02:23:01,,AVAILABLE,,,friedrich
 streamed-ctdpf_sbe43_sample,2,2016-05-06T21:26:00,2016-05-07T14:48:00,Intermittent data gaps.,,12121,,friedrich
-streamed-ctdpf_sbe43_sample,2,2016-05-07T14:48:00,2016-07-13T02:23:01,,AVAILABLE,,,friedrich
-streamed-ctdpf_sbe43_sample,3,2016-07-14T21:18:00,2017-02-15T14:43:06,These data have been reviewed and are available. Issues with individual data products are remarked at the parameter level.,AVAILABLE,,,friedrich
-streamed-ctdpf_sbe43_sample,3,2017-02-15T14:43:06,2017-02-16T23:40:23,,NOT_AVAILABLE,,,friedrich
-streamed-ctdpf_sbe43_sample,3,2017-02-16T23:40:23,2017-02-24T00:00:00,These data have been reviewed and are available. Issues with individual data products are remarked at the parameter level.,AVAILABLE,,,friedrich
+streamed-ctdpf_sbe43_sample,3,2016-07-14T21:18:00,2017-02-15T14:43:05,,AVAILABLE,,,friedrich
+streamed-ctdpf_sbe43_sample,3,2017-02-15T14:43:05,2017-02-16T23:40:23,,NOT_AVAILABLE,,,friedrich
+streamed-ctdpf_sbe43_sample,3,2017-02-16T23:40:23,2017-02-27T19:59:57,,AVAILABLE,,,friedrich

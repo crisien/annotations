@@ -39,7 +39,6 @@ def check_annotation_interval(data, root, filename):
 			row['EndTime'] = pd.to_datetime(unicode(row['EndTime']))
 			last['StartTime'] = pd.to_datetime(unicode(last['StartTime']))
 			last['EndTime'] = pd.to_datetime(unicode(last['EndTime']))
-			# print index
 
 			diff = row['StartTime'] - last['EndTime']
 			# if row['Status'] == last['Status'] and row['Deployment'] == last['Deployment'] and diff < pd.Timedelta('1 second'):
@@ -50,7 +49,6 @@ def check_annotation_interval(data, root, filename):
 			if row['Status'] == last['Status'] and row['Deployment'] == last['Deployment'] and row['StartTime'] == last['EndTime']:
 				print 'WARNING: end time of row ' + str(index + 1) + ' is equal to the begin time of row ' + str(index + 2)
 				print 'these annotations have the same status and should be merged'
-
 
 			last = row
 

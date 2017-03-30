@@ -1,6 +1,7 @@
 import os
 import pandas as pd
 import re
+import numpy as np
 
 
 # specify regular expression to identify specific csv types for parsing
@@ -39,51 +40,56 @@ def check_time_interval(data, root, filename):
 
 
 def check_annotation_gap(data, root, filename):
-
 	if dm_reg_ex.search(filename) and not p_reg_ex.search(filename):
-		row_iterator = data.iterrows()
-		_, last = row_iterator.next()
-		for index, row in row_iterator:
-			try:
-				row['StartTime'] = pd.to_datetime(unicode(row['StartTime']))
-				row['EndTime'] = pd.to_datetime(unicode(row['EndTime']))
-				last['StartTime'] = pd.to_datetime(unicode(last['StartTime']))
-				last['EndTime'] = pd.to_datetime(unicode(last['EndTime']))
+		try:
+			row_iterator = data.iterrows()
+			_, last = row_iterator.next()
+			for index, row in row_iterator:
+				try:
+					row['StartTime'] = pd.to_datetime(unicode(row['StartTime']))
+					row['EndTime'] = pd.to_datetime(unicode(row['EndTime']))
+					last['StartTime'] = pd.to_datetime(unicode(last['StartTime']))
+					last['EndTime'] = pd.to_datetime(unicode(last['EndTime']))
 
-				diff = row['StartTime'] - last['EndTime']
-				# if row['Status'] == last['Status'] and row['Deployment'] == last['Deployment'] and diff < pd.Timedelta('1 second'):
-				if row['Deployment'] == last['Deployment'] and row['StartTime'] != last['EndTime']:
-					print '\n', root, filename
-					print 'WARNING: there is an unidentified gap of ' + str(diff) + ' between annotations in deployment' + str(row['Deployment']) + \
-					'. end time of row ' + str(index + 1) + ' should equal begin time of row ' + str(index + 2) 
+					diff = row['StartTime'] - last['EndTime']
+					# if row['Status'] == last['Status'] and row['Deployment'] == last['Deployment'] and diff < pd.Timedelta('1 second'):
+					if row['Deployment'] == last['Deployment'] and row['StartTime'] != last['EndTime'] and row['Status'] is not np.nan:
+						print '\n', root, filename
+						print 'WARNING: there is an unidentified annotation gap of ' + str(diff) + \
+						' between deployment ' + str(row['Deployment']) + ' annotations in row ' + \
+						str(index + 1) + ' and row ' + str(index + 2)
 
-				last = row
+					last = row
 
-			except ValueError:
-				continue
+				except ValueError:
+					continue
+		except StopIteration:
+			pass
 
 
 def check_annotation_interval(data, root, filename):
-
 	if dm_reg_ex.search(filename) and not p_reg_ex.search(filename):
-		row_iterator = data.iterrows()
-		_, last = row_iterator.next()
-		for index, row in row_iterator:
-			try:
-				row['StartTime'] = pd.to_datetime(unicode(row['StartTime']))
-				row['EndTime'] = pd.to_datetime(unicode(row['EndTime']))
-				last['StartTime'] = pd.to_datetime(unicode(last['StartTime']))
-				last['EndTime'] = pd.to_datetime(unicode(last['EndTime']))	
+		try:
+			row_iterator = data.iterrows()
+			_, last = row_iterator.next()
+			for index, row in row_iterator:
+				try:
+					row['StartTime'] = pd.to_datetime(unicode(row['StartTime']))
+					row['EndTime'] = pd.to_datetime(unicode(row['EndTime']))
+					last['StartTime'] = pd.to_datetime(unicode(last['StartTime']))
+					last['EndTime'] = pd.to_datetime(unicode(last['EndTime']))	
 
-				if row['Status'] == last['Status'] and row['Deployment'] == last['Deployment'] and row['StartTime'] == last['EndTime']:
-					print '\n', root, filename
-					print 'WARNING: end time of row ' + str(index + 1) + ' is equal to the begin time of row ' + str(index + 2) + \
-					'. these annotations have the same status and should be merged'
+					if row['Status'] == last['Status'] and row['Deployment'] == last['Deployment'] and row['StartTime'] == last['EndTime']:
+						print '\n', root, filename
+						print 'WARNING: end time of row ' + str(index + 1) + ' is equal to the begin time of row ' + str(index + 2) + \
+						'. these annotations are from the same deployment, have the same status and should be merged'
 
-				last = row
+					last = row
 
-			except ValueError:
-				continue
+				except ValueError:
+					continue
+		except StopIteration:
+			pass
 
 
 def check_valid_time(data, root, filename):
@@ -116,8 +122,8 @@ def main(rootdir):
                 data = pd.read_csv(csv_file, parse_dates=True)
                 check_valid_time(data, root, filename)
                 check_time_interval(data, root, filename)
+               	check_dups(data, root, filename)
                	check_annotation_gap(data, root, filename)
-                check_dups(data, root, filename)
                	check_annotation_interval(data, root, filename)
      print '\n'
 
@@ -125,5 +131,5 @@ def main(rootdir):
 
 
 if __name__ == '__main__':
-	rootdir = '/Users/knuth/Documents/ooi/repos/github/annotations/test/annotations/RS03AXPS/RS03AXPS-SF03A-2A-CTDPFA302'
+	rootdir = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/'
 	main(rootdir)

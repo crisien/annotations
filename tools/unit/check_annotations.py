@@ -37,7 +37,8 @@ def check_time_interval(data, root, filename):
 			return True
 
 
-def check_annotation_interval(data, root, filename):
+
+def check_annotation_gap(data, root, filename):
 
 	if dm_reg_ex.search(filename) and not p_reg_ex.search(filename):
 		row_iterator = data.iterrows()
@@ -55,7 +56,24 @@ def check_annotation_interval(data, root, filename):
 					print '\n', root, filename
 					print 'WARNING: there is an unidentified gap of ' + str(diff) + ' between annotations in deployment' + str(row['Deployment']) + \
 					'. end time of row ' + str(index + 1) + ' should equal begin time of row ' + str(index + 2) 
-					
+
+				last = row
+
+			except ValueError:
+				continue
+
+
+def check_annotation_interval(data, root, filename):
+
+	if dm_reg_ex.search(filename) and not p_reg_ex.search(filename):
+		row_iterator = data.iterrows()
+		_, last = row_iterator.next()
+		for index, row in row_iterator:
+			try:
+				row['StartTime'] = pd.to_datetime(unicode(row['StartTime']))
+				row['EndTime'] = pd.to_datetime(unicode(row['EndTime']))
+				last['StartTime'] = pd.to_datetime(unicode(last['StartTime']))
+				last['EndTime'] = pd.to_datetime(unicode(last['EndTime']))	
 
 				if row['Status'] == last['Status'] and row['Deployment'] == last['Deployment'] and row['StartTime'] == last['EndTime']:
 					print '\n', root, filename
@@ -98,8 +116,10 @@ def main(rootdir):
                 data = pd.read_csv(csv_file, parse_dates=True)
                 check_valid_time(data, root, filename)
                 check_time_interval(data, root, filename)
+               	check_annotation_gap(data, root, filename)
                 check_dups(data, root, filename)
                	check_annotation_interval(data, root, filename)
+     print '\n'
 
                 
 

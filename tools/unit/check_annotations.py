@@ -1,15 +1,21 @@
 import os
 import pandas as pd
+import re
 
 
-
+# specify regular expression to identify specific csv types for parsing
+delivery_methods = ['streamed', 'recovered_host', 'telemetered', 'recovered_inst', 'recovered_cspp', 'streamed', 'recovered_wfp']
+dm_reg_ex = re.compile('|'.join(delivery_methods))
+params_csv_name = ['parameters']
+p_reg_ex = re.compile('|'.join(params_csv_name))
 
 
 def check_dups(data, root, filename):
 	dups = data[data.duplicated(keep=False)]
 	if not dups.empty == True:
-		print 'WARNING: duplicate annotations in', root, filename
-		print dups
+		print '\n', root, filename
+		print 'WARNING: duplicate annotations in rows ' + str(dups.index.values[1]+1) + ' and ' + str(dups.index.values[1]+2)
+		return True
 
 
 
@@ -26,34 +32,40 @@ def check_time_interval(data, root, filename):
 			continue
 
 		if row['StartTime'] > row['EndTime']:
-			print 'WARNING: start time after end time in', root, filename
-			print row
+			print '\n', root, filename
+			print 'WARNING: start time after end time in row ' + str(index + 2)
+			return True
 
 
 def check_annotation_interval(data, root, filename):
-	row_iterator = data.iterrows()
-	_, last = row_iterator.next()
-	for index, row in row_iterator:
-		try:
-			row['StartTime'] = pd.to_datetime(unicode(row['StartTime']))
-			row['EndTime'] = pd.to_datetime(unicode(row['EndTime']))
-			last['StartTime'] = pd.to_datetime(unicode(last['StartTime']))
-			last['EndTime'] = pd.to_datetime(unicode(last['EndTime']))
 
-			diff = row['StartTime'] - last['EndTime']
-			# if row['Status'] == last['Status'] and row['Deployment'] == last['Deployment'] and diff < pd.Timedelta('1 second'):
-			if row['Status'] == last['Status'] and row['Deployment'] == last['Deployment'] and row['StartTime'] != last['EndTime']:
-				print 'WARNING: end time of row ' + str(index + 1) + ' is not equal to the begin time of row ' + str(index + 2)
-				print 'there is an unidentified gap of ' + str(diff) + ' between annotations with the same status'
+	if dm_reg_ex.search(filename) and not p_reg_ex.search(filename):
+		row_iterator = data.iterrows()
+		_, last = row_iterator.next()
+		for index, row in row_iterator:
+			try:
+				row['StartTime'] = pd.to_datetime(unicode(row['StartTime']))
+				row['EndTime'] = pd.to_datetime(unicode(row['EndTime']))
+				last['StartTime'] = pd.to_datetime(unicode(last['StartTime']))
+				last['EndTime'] = pd.to_datetime(unicode(last['EndTime']))
 
-			if row['Status'] == last['Status'] and row['Deployment'] == last['Deployment'] and row['StartTime'] == last['EndTime']:
-				print 'WARNING: end time of row ' + str(index + 1) + ' is equal to the begin time of row ' + str(index + 2)
-				print 'these annotations have the same status and should be merged'
+				diff = row['StartTime'] - last['EndTime']
+				# if row['Status'] == last['Status'] and row['Deployment'] == last['Deployment'] and diff < pd.Timedelta('1 second'):
+				if row['Deployment'] == last['Deployment'] and row['StartTime'] != last['EndTime']:
+					print '\n', root, filename
+					print 'WARNING: there is an unidentified gap of ' + str(diff) + ' between annotations in deployment' + str(row['Deployment']) + \
+					'. end time of row ' + str(index + 1) + ' should equal begin time of row ' + str(index + 2) 
+					
 
-			last = row
+				if row['Status'] == last['Status'] and row['Deployment'] == last['Deployment'] and row['StartTime'] == last['EndTime']:
+					print '\n', root, filename
+					print 'WARNING: end time of row ' + str(index + 1) + ' is equal to the begin time of row ' + str(index + 2) + \
+					'. these annotations have the same status and should be merged'
 
-		except ValueError:
-			continue
+				last = row
+
+			except ValueError:
+				continue
 
 
 def check_valid_time(data, root, filename):
@@ -62,14 +74,16 @@ def check_valid_time(data, root, filename):
 		try:
 			row['StartTime'] = pd.to_datetime(unicode(row['StartTime']))
 		except ValueError as ve:
-			print 'WARNING:', ve, 'in', root, filename
-			print row
+			print '\n', root, filename
+			print 'WARNING:', ve, 'in row ' + str(index + 2) + ". can't convert timestamp"
+			# print row
 
 		try:
 			row['EndTime'] = pd.to_datetime(unicode(row['EndTime']))
 		except ValueError as ve:
-			print 'WARNING:', ve, 'in', root, filename
-			print row
+			print '\n', root, filename
+			print 'WARNING:', ve, 'in row ' + str(index + 2) + ". can't convert timestamp"
+			# print row
 
 
 
@@ -85,7 +99,9 @@ def main(rootdir):
                 check_valid_time(data, root, filename)
                 check_time_interval(data, root, filename)
                 check_dups(data, root, filename)
-                check_annotation_interval(data, root, filename)
+               	check_annotation_interval(data, root, filename)
+
+                
 
 
 if __name__ == '__main__':

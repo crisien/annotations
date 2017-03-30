@@ -137,7 +137,7 @@ def main(	QC_database_export, annotations_dir, ref_des, stream, method, pd_numbe
 
 
 if __name__ == '__main__':
-	# define your inputs and run the test to check the outputs in terminal. Se write annotation csv to False
+	# define your inputs and run the test to check the outputs in terminal. Set write annotation csv to False
 	QC_database_export = '/Users/knuth/Documents/ooi/repos/github/annotations/tools/pfm/all_params.csv'
 	annotations_dir = '/Users/knuth/Documents/ooi/repos/github/annotations/test'
 	ref_des = 'RS03AXPS-SF03A-2A-CTDPFA302'

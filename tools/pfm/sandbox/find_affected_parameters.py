@@ -1,9 +1,11 @@
 #!/usr/bin/env python
 import os
-
+import sys
 import requests
 import time
 from ooi_data.postgres.model import *
+
+sys.path.append('/Users/knuth/Documents/ooi/repos/github/preload-database')
 
 from database import create_engine_from_url, create_scoped_session
 

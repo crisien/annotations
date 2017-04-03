@@ -16,9 +16,9 @@ RS03AXPS-SF03A-2A-CTDPFA302,1,2015-07-01T16:46:48,2015-07-03T21:12:49,,NOT_OPERA
 RS03AXPS-SF03A,1,,,Profiler sits at bottom during multiple time periods.,,,add node deployment number,friedrich
 RS03AXPS-SF03A,2,,,Profiler sits at bottom during multiple time periods.,,,add node deployment number,friedrich
 RS03AXPS-SF03A,3,,,"Profiler sits at bottom during multiple time periods. Since January 27th 2017, the profiler has been sitting at 50 meters because of an issue with the winch. ",,,add node deployment number,friedrich
-RS03AXPS-PC03A-4A-CTDPFA303,1,2014-11-04T16:05:51,2014-11-05T19:32:18,,NOT_OPERATIONAL,,find out if known issue and platform wide or only on profiler CTD. add annotation accordingly.,leila
-RS03AXPS-PC03A-4A-CTDPFA303,1,2014-11-14T18:36:30,2014-11-17T18:24:38,,NOT_OPERATIONAL,,find out if known issue and platform wide or only on profiler CTD. add annotation accordingly.,leila
-RS03AXPS-PC03A-4A-CTDPFA303,1,2014-12-07T20:59:39,2014-12-16T21:17:45,,NOT_OPERATIONAL,,find out if known issue and platform wide or only on profiler CTD. add annotation accordingly.,leila
-RS03AXPS-PC03A-4A-CTDPFA303,1,2015-02-01T20:36:30,2015-02-03T09:57:13,,NOT_OPERATIONAL,,find out if known issue and platform wide or only on profiler CTD. add annotation accordingly.,leila
-RS03AXPS-PC03A-4A-CTDPFA303,1,2015-03-07T23:06:52,2015-03-09T07:39:20,,NOT_OPERATIONAL,,find out if known issue and platform wide or only on profiler CTD. add annotation accordingly.,leila
-RS03AXPS-PC03A-4A-CTDPFA303,3,2017-02-15T14:43:05,2017-02-16T23:08:13,,NOT_OPERATIONAL,,find out if known issue and platform wide or only on profiler CTD. add annotation accordingly.,leila
+RS03AXPS-PC03A-4A-CTDPFA303,1,2014-11-04T16:05:51,2014-11-05T19:32:18,,NOT_OPERATIONAL,,,leila
+RS03AXPS-PC03A-4A-CTDPFA303,1,2014-11-14T18:36:30,2014-11-17T18:24:38,,NOT_OPERATIONAL,,,leila
+RS03AXPS-PC03A-4A-CTDPFA303,1,2014-12-07T20:59:39,2014-12-16T21:17:45,,NOT_OPERATIONAL,,,leila
+RS03AXPS-PC03A-4A-CTDPFA303,1,2015-02-01T20:36:30,2015-02-03T09:57:13,,NOT_OPERATIONAL,,,leila
+RS03AXPS-PC03A-4A-CTDPFA303,1,2015-03-07T23:06:52,2015-03-09T07:39:20,,NOT_OPERATIONAL,,,leila
+RS03AXPS-PC03A-4A-CTDPFA303,3,2017-02-15T14:43:05,2017-02-16T23:08:13,,NOT_OPERATIONAL,,,leila

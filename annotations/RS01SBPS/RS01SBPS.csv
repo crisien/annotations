@@ -13,5 +13,5 @@ RS01SBPS-SF01A-2A-CTDPFA102,2,2015-09-30T23:59:59Z,2015-10-02T22:15:31Z,,NOT_OPE
 RS01SBPS-SF01A-2A-CTDPFA102,2,2015-10-28T13:37:12Z,2015-11-05T18:44:35Z,,NOT_OPERATIONAL,,find out if known issue,friedrich
 RS01SBPS-SF01A-2A-CTDPFA102,2,2016-04-23T05:32:40Z,2016-04-25T02:24:00Z,,NOT_OPERATIONAL,,find out if known issue,friedrich
 RS01SBPS-SF01A-2A-CTDPFA102,3,2016-07-18T00:19:00Z,2016-07-18T17:42:52,,NOT_OPERATIONAL,,find out if known issue,friedrich
-RS01SBPS-SF01A-2A-CTDPFA102,3,2017-01-09T18:30:53Z,2017-01-11T00:55:40Z,,NOT_OPERATIONAL,,find out if known issue,friedrich
-RS01SBPS,,2017-02-15T14:43:06,2017-02-16T23:40:23,"On Wednesday, February 15, power to the North and South cable lines of the Cabled Array was interrupted and all deployed infrastructure went offline.  Power was restored on February 16. No hardware issue subsea was identified.",NOT_OPERATIONAL,11998,add subsite deployment number,friedrich
+RS01SBPS,,2017-02-15T14:43:06,2017-02-16T23:40:23,"On Wednesday, February 15, power to the North and South cable lines of the Cabled Array was interrupted and all deployed infrastructure went offline.  Power was restored on February 16. No hardware issue subsea was identified.",NOT_OPERATIONAL,11998,,friedrich
+RS01SBPS,,2017-01-09T18:30:53Z,2017-01-11T00:55:40Z,,NOT_OPERATIONAL,11776,add annotation text from ticket,friedrich

@@ -30,3 +30,6 @@ streamed-ctdpf_sbe43_sample,2,2016-05-06T21:26:00,2016-05-07T14:48:00,Intermitte
 streamed-ctdpf_sbe43_sample,3,2016-07-14T21:18:00,2017-02-15T14:43:05,,AVAILABLE,,,friedrich
 streamed-ctdpf_sbe43_sample,3,2017-02-15T14:43:05,2017-02-16T23:40:23,,NOT_AVAILABLE,,,friedrich
 streamed-ctdpf_sbe43_sample,3,2017-02-16T23:40:23,2017-02-27T19:59:57,,AVAILABLE,,,friedrich
+streamed-ctdpf_sbe43_sample,1,,,"isolated spikes for DO, conductivity, pressure and salinity in data record.",,,,friedrich
+streamed-ctdpf_sbe43_sample,2,,,"isolated spikes for DO, conductivity, pressure and salinity in data record.",,,,friedrich
+streamed-ctdpf_sbe43_sample,3,,,"isolated spikes for DO, conductivity, pressure and salinity in data record.",,,,friedrich

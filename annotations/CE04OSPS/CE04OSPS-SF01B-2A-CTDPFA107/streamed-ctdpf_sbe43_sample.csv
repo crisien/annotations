@@ -1,13 +1,14 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,reviewed_by
-ctdpf_sbe43_sample,1,2014-08-30T21:51:00,2015-08-02T00:00:00,,AVAILABLE,,,
-ctdpf_sbe43_sample,,2015-08-02T00:00:00,2015-08-03T02:21:00,in between deployments,NOT_AVAILABLE,,,
-ctdpf_sbe43_sample,2,2015-08-03T02:21:00,2016-04-14T19:55:47,,AVAILABLE,,,
-ctdpf_sbe43_sample,2,2016-04-14T19:55:47,2016-04-19T23:05:49,,NOT_AVAILABLE,,find out if known issue.,leila
-ctdpf_sbe43_sample,2,2016-04-19T23:05:49,2016-04-23T15:10:16,,AVAILABLE,,,
-ctdpf_sbe43_sample,2,2016-04-23T15:10:16,2016-04-25T02:23:59,,NOT_AVAILABLE,,find out if known issue.,leila
-ctdpf_sbe43_sample,2,2016-04-25T02:23:59,2016-07-18T00:00:00,,AVAILABLE,,,
-ctdpf_sbe43_sample,,2016-07-18T00:00:00,2016-07-19T08:00:00,in between deployments,NOT_AVAILABLE,,,
-ctdpf_sbe43_sample,3,2016-07-19T08:00:00,2017-01-09T18:30:53,,AVAILABLE,,,
-ctdpf_sbe43_sample,3,2017-01-09T18:30:53,2017-01-11T01:09:09,,NOT_AVAILABLE,,find out if known issue.,leila
-ctdpf_sbe43_sample,3,2017-01-11T01:09:09,2017-02-15T14:43:05,,AVAILABLE,,,
-ctdpf_sbe43_sample,3,2017-02-15T14:43:05,2017-02-16T23:31:07,,NOT_AVAILABLE,,find out if known issue.,leila
+ctdpf_sbe43_sample,D00001,2014-08-30T21:51:00Z,2014-11-05T21:30:49Z,Data gap under investigation,NOT_AVAILABLE,#12173Ê,check: difference between data begin and deployment begin date is: 66 days 23:39:49,leila
+ctdpf_sbe43_sample,D00001,2014-11-05T21:30:49Z,2015-08-01T14:13:32Z,,NOT_EVALUATED,,check: evaluate parameters,leila
+ctdpf_sbe43_sample,D00002,2015-08-03T04:05:43Z,2016-04-14T19:55:47Z,,NOT_EVALUATED,,check: evaluate parameters,leila
+ctdpf_sbe43_sample,D00002,2016-04-14T19:55:47Z,2016-04-19T23:05:49Z,Data gap under investigation,NOT_AVAILABLE,#12175Ê,check: data gap: 5 days 03:10:02,leila
+ctdpf_sbe43_sample,D00002,2016-04-19T23:05:49Z,2016-04-23T15:10:16Z,,NOT_EVALUATED,,check: evaluate parameters,leila
+ctdpf_sbe43_sample,D00002,2016-04-23T15:10:16Z,2016-04-25T02:23:59Z,Data gap under investigation,NOT_AVAILABLE,#12175Ê,check: data gap: 1 days 11:13:43,leila
+ctdpf_sbe43_sample,D00002,2016-04-25T02:23:59Z,2016-07-16T06:52:54Z,,NOT_EVALUATED,,check: evaluate parameters,leila
+ctdpf_sbe43_sample,D00002,2016-07-16T06:52:54Z,2016-07-18T00:00:00Z,Data gap under investigation,NOT_AVAILABLE,#12174Ê,check: difference between data end and deployment end date is: 1 days 17:07:06,leila
+ctdpf_sbe43_sample,D00003,2016-07-19T08:00:00Z,2017-01-09T18:30:53Z,,NOT_EVALUATED,,check: evaluate parameters,leila
+ctdpf_sbe43_sample,D00003,2017-01-09T18:30:53Z,2017-01-11T01:09:09Z,Data gap under investigation,NOT_AVAILABLE,#12175Ê,check: data gap: 1 days 06:38:16,leila
+ctdpf_sbe43_sample,D00003,2017-01-11T01:09:09Z,2017-02-15T14:43:05Z,,NOT_EVALUATED,,check: evaluate parameters,leila
+ctdpf_sbe43_sample,D00003,2017-02-15T14:43:05Z,2017-02-16T23:31:07Z,Data gap under investigation,NOT_AVAILABLE,#12175Ê,check: data gap: 1 days 08:48:02,leila
+ctdpf_sbe43_sample,D00003,2017-02-16T23:31:07Z,2017-03-22T22:19:10Z,,NOT_EVALUATED,,check: evaluate parameters,leila

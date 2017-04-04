@@ -4,5 +4,5 @@ seawater_pressure,,,,,,,,
 seawater_conductivity,,,,,,,,
 practical_salinity,,,,,,,,
 seawater_density,,,,,,,,
-ctd_tc_oxygen,,,,,,,,
-ctd_abs_oxygen,,,,,,,,
+ctd_tc_oxygen,,2014-10-08T19:51:58Z,2017-03-20T19:57:04Z,Incorrect vendor calibration: pending correction,Fail,11420,,leila
+ctd_abs_oxygen,,2014-10-08T19:51:58Z,2017-03-20T19:57:04Z,Incorrect vendor calibration: pending correction,Fail,11420,,leila

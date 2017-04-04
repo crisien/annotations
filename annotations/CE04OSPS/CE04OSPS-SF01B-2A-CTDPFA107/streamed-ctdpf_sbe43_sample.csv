@@ -8,7 +8,7 @@ ctdpf_sbe43_sample,D00002,2016-04-23T15:10:16Z,2016-04-25T02:23:59Z,Data gap und
 ctdpf_sbe43_sample,D00002,2016-04-25T02:23:59Z,2016-07-16T06:52:54Z,,NOT_EVALUATED,,check: evaluate parameters,leila
 ctdpf_sbe43_sample,D00002,2016-07-16T06:52:54Z,2016-07-18T00:00:00Z,Data gap under investigation,NOT_AVAILABLE,12174,check: difference between data end and deployment end date is: 1 days 17:07:06,leila
 ctdpf_sbe43_sample,D00003,2016-07-19T08:00:00Z,2017-01-09T18:30:53Z,,NOT_EVALUATED,,check: evaluate parameters,leila
-ctdpf_sbe43_sample,D00003,2017-01-09T18:30:53Z,2017-01-11T01:09:09Z,Data gap under investigation,NOT_AVAILABLE,12175,check: data gap: 1 days 06:38:16,leila
+ctdpf_sbe43_sample,D00003,2017-01-09T18:30:53Z,2017-01-11T01:09:09Z,CTD offline because of power interruption caused by lightning strike in Pacific City in close proximity to shore station.,NOT_AVAILABLE,11776,check: data gap: 1 days 06:38:16,leila
 ctdpf_sbe43_sample,D00003,2017-01-11T01:09:09Z,2017-02-15T14:43:05Z,,NOT_EVALUATED,,check: evaluate parameters,leila
-ctdpf_sbe43_sample,D00003,2017-02-15T14:43:05Z,2017-02-16T23:31:07Z,Data gap under investigation,NOT_AVAILABLE,12175,check: data gap: 1 days 08:48:02,leila
+ctdpf_sbe43_sample,D00003,2017-02-15T14:43:05Z,2017-02-16T23:31:07Z,CTD offline because of power interruption caused by lightning strike in Pacific City in close proximity to shore station.,NOT_AVAILABLE,11998,check: data gap: 1 days 08:48:02,leila
 ctdpf_sbe43_sample,D00003,2017-02-16T23:31:07Z,2017-03-22T22:19:10Z,,NOT_EVALUATED,,check: evaluate parameters,leila

@@ -1,6 +1,6 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,reviewed_by
 RS01SUM2,,2017-02-15T14:43:06,2017-02-15T17:16:00,"On Wednesday, February 15, power to the North and South cable lines of the Cabled Array was interrupted and all deployed infrastructure went offline.  Power was restored on February 16. No hardware issue subsea was identified.",NOT_OPERATIONAL,11998,,friedrich
-RS01SUM2,,2017-09-17T18:32:00,2017-09-17T21:30:00,Lightning strike in Pacific City led to data interruption through isolation of both cable lines from shore station equipment.,NOT_OPERATIONAL,11776,,friedrich
+RS01SUM2,,2017-01-09T18:32:00,2017-01-09T21:30:00,Lightning strike in Pacific City led to data interruption through isolation of both cable lines from shore station equipment.,NOT_OPERATIONAL,11776,,friedrich
 RS01SUM2,,2017-02-07T13:00:00,2017-02-07T15:00:00,Outage during PNWGP 1-hour router-maintenance,,,Verify against data,friedrich
 RS01SUM2,,2017-01-08T19:58:00,2017-01-08T21:41:00,Network outage during major Seattle utility power failure,,,Verify against data,friedrich
 RS01SUM2,,2016-12-22T01:50:00,2016-12-23T12:44:00,Fiber break in Portland due to train crash,,,Verify against data,friedrich

@@ -1,0 +1,2 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+GP03FLMB,4,2016-07-04T23:07:00,2017-04-05T00:00:00,"Consistent issues with data telemetry have persisted for this deployment. Due to glider failures on 1/27/2017, there will be no telemetered data from this platform.",,,Update end time as the deployment progresses,lori,2017-04-05T00:00:00

@@ -1,0 +1,3 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+GA02HYPM,2,2015-11-16T18:36:00,2016-11-05T00:00:00,"Due to glider failures, there is no telemetered data for this deployment. In addition, at the recovery attempt it was determined that the mooring had fallen and was not recovered. No data will be available from this deployment.",NOT_OPERATIONAL,,,lori,2017-04-05T00:00:00
+GA02HYPM,3,2016-10-29T22:10:00,2017-04-05T00:00:00,There are issues with telemetry that are under investigation. No telemetered data will be available until the issue is determined and resolved.,,,Update end time as the deployment progresses,lori,2017-04-05T00:00:00

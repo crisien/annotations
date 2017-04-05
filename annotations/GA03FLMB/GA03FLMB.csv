@@ -1,0 +1,3 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+GA03FLMB,2,2015-11-21T21:51:00,2016-11-01T10:10:00,"Due to glider failures, there is no telemetered data for this deployment.",,,,lori,2017-04-05T00:00:00
+GA03FLMB,3,2016-10-31T22:37:00,2017-04-05T00:00:00,There are issues with telemetry that are under investigation. No telemetered data will be available until the issue is determined and resolved.,,,Update end time as the deployment progresses,lori,2017-04-05T00:00:00

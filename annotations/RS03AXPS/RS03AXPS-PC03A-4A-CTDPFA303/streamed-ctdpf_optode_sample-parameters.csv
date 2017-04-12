@@ -3,12 +3,12 @@ corrected_dissolved_oxygen,2,2016-03-17T03:52:05,2016-04-10T20:46:12,abruptly lo
 seawater_conductivity,2,2016-03-17T03:52:05,2016-04-10T20:46:12,abruptly low L0 conductivity measurements make this parameter suspect.,SUSPECT,,,friedrich
 conductivity,2,2016-03-17T03:52:05,2016-04-10T20:46:12,suspect low conductivity measurements,SUSPECT,,,friedrich
 practical_salinity,2,2016-03-17T03:52:05,2016-04-10T20:46:12,abruptly low L0 conductivity measurements make this parameter suspect.,SUSPECT,,,friedrich
-seawater_density,2,2016-03-17T03:52:05,2016-04-10T20:46:12,abruptly low L0 conductivity measurements make this parameter suspect.,SUSPECT,,,friedrich
+density,2,2016-03-17T03:52:05,2016-04-10T20:46:12,abruptly low L0 conductivity measurements make this parameter suspect.,SUSPECT,,,friedrich
 conductivity,2,2016-06-05T16:46:02,2016-06-20T18:53:51,suspect low conductivity measurements,SUSPECT,,,friedrich
 corrected_dissolved_oxygen,2,2016-06-05T16:46:02,2016-06-20T18:53:51,abruptly low L0 conductivity measurements make this parameter suspect.,SUSPECT,,,friedrich
 seawater_conductivity,2,2016-06-05T16:46:02,2016-06-20T18:53:51,abruptly low L0 conductivity measurements make this parameter suspect.,SUSPECT,,,friedrich
 practical_salinity,2,2016-06-05T16:46:02,2016-06-20T18:53:51,abruptly low L0 conductivity measurements make this parameter suspect.,SUSPECT,,,friedrich
-seawater_density,2,2016-06-05T16:46:02,2016-06-20T18:53:51,abruptly low L0 conductivity measurements make this parameter suspect.,SUSPECT,,,friedrich
+density,2,2016-06-05T16:46:02,2016-06-20T18:53:51,abruptly low L0 conductivity measurements make this parameter suspect.,SUSPECT,,,friedrich
 pressure,,,,,,,,friedrich
 seawater_pressure,,,,,,,,friedrich
 temperature,,,,,,,,friedrich
@@ -17,14 +17,14 @@ corrected_dissolved_oxygen,1,,,few isolated spikes in data record originating fr
 seawater_conductivity,1,,,few isolated spikes in data record originating from conductivity values.,,,,friedrich
 conductivity,1,,,few isolated spikes in data record originating from conductivity values.,,,,friedrich
 practical_salinity,1,,,few isolated spikes in data record originating from conductivity values.,,,,friedrich
-seawater_density,1,,,few isolated spikes in data record originating from conductivity values.,,,,friedrich
+density,1,,,few isolated spikes in data record originating from conductivity values.,,,,friedrich
 corrected_dissolved_oxygen,2,,,few isolated spikes in data record originating from conductivity values.,,,,friedrich
 seawater_conductivity,2,,,few isolated spikes in data record originating from conductivity values.,,,,friedrich
 conductivity,2,,,few isolated spikes in data record originating from conductivity values.,,,,friedrich
 practical_salinity,2,,,few isolated spikes in data record originating from conductivity values.,,,,friedrich
-seawater_density,2,,,few isolated spikes in data record originating from conductivity values.,,,,friedrich
+density,2,,,few isolated spikes in data record originating from conductivity values.,,,,friedrich
 corrected_dissolved_oxygen,3,,,few isolated spikes in data record originating from conductivity values.,,,,friedrich
 seawater_conductivity,3,,,few isolated spikes in data record originating from conductivity values.,,,,friedrich
 conductivity,3,,,few isolated spikes in data record originating from conductivity values.,,,,friedrich
 practical_salinity,3,,,few isolated spikes in data record originating from conductivity values.,,,,friedrich
-seawater_density,3,,,few isolated spikes in data record originating from conductivity values.,,,,friedrich
+density,3,,,few isolated spikes in data record originating from conductivity values.,,,,friedrich

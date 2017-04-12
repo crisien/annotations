@@ -1,0 +1,134 @@
+Level,Deployment,StartTime,EndTime,Notes,Test,Redmine#,Todo,reviewed_by
+practical_salinity,D00001,2014-10-07T21:32:53Z,2015-07-08T19:06:45Z,extracted from 1st file of 3 files,Global Range Values,,global min = 0.0 global_max = 42.0,friedrich
+practical_salinity,D00001,2014-10-07T21:32:53Z,2015-02-22T11:59:59Z,applies to one file,Spike QC Test,,check: test triggered,friedrich
+practical_salinity,D00001,2014-10-07T21:32:53Z,2015-02-22T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+temperature,D00001,2014-10-07T21:32:53Z,2015-07-08T19:06:45Z,extracted from 1st file of 3 files,Global Range Values,,global min = None global_max = None,friedrich
+seawater_temperature,D00001,2014-10-07T21:32:53Z,2015-07-08T19:06:45Z,extracted from 1st file of 3 files,Global Range Values,,global min = -2.0 global_max = 40.0,friedrich
+seawater_temperature,D00001,2014-10-07T21:32:53Z,2015-02-22T11:59:59Z,applies to one file,Spike QC Test,,check: test triggered,friedrich
+seawater_temperature,D00001,2014-10-07T21:32:53Z,2015-02-22T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+seawater_pressure,D00001,2014-10-07T21:32:53Z,2015-07-08T19:06:45Z,extracted from 1st file of 3 files,Global Range Values,,global min = 0.0 global_max = 6000.0,friedrich
+seawater_pressure,D00001,2014-10-07T21:32:53Z,2015-02-22T11:59:59Z,applies to one file,Spike QC Test,,check: test triggered,friedrich
+seawater_pressure,D00001,2014-10-07T21:32:53Z,2015-02-22T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+seawater_conductivity,D00001,2014-10-07T21:32:53Z,2015-07-08T19:06:45Z,extracted from 1st file of 3 files,Global Range Values,,global min = 0.0 global_max = 6.0,friedrich
+seawater_conductivity,D00001,2014-10-07T21:32:53Z,2015-02-22T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+corrected_dissolved_oxygen,D00001,2014-10-07T21:32:53Z,2015-07-08T19:06:45Z,extracted from 1st file of 3 files,Global Range Values,,global min = 0.0 global_max = 400.0,friedrich
+corrected_dissolved_oxygen,D00001,2014-10-07T21:32:53Z,2015-02-22T11:59:59Z,applies to one file,Spike QC Test,,check: test triggered,friedrich
+corrected_dissolved_oxygen,D00001,2014-10-07T21:32:53Z,2015-02-22T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+pressure,D00001,2014-10-07T21:32:53Z,2015-07-08T19:06:45Z,extracted from 1st file of 3 files,Global Range Values,,global min = None global_max = None,friedrich
+pressure_temp,D00001,2014-10-07T21:32:53Z,2015-07-08T19:06:45Z,extracted from 1st file of 3 files,Global Range Values,,global min = None global_max = None,friedrich
+ext_volt0,D00001,2014-10-07T21:32:53Z,2015-07-08T19:06:45Z,extracted from 1st file of 3 files,Fill Value,,tested: -9999999.0 found: -999999999.0,friedrich
+ext_volt0,D00001,2014-10-07T21:32:53Z,2015-07-08T19:06:45Z,extracted from 1st file of 3 files,Global Range Values,,global min = None global_max = None,friedrich
+seawater_density,D00001,2014-10-07T21:32:53Z,2015-07-08T19:06:45Z,extracted from 1st file of 3 files,Global Range Values,,global min = 1000.0 global_max = 1100.0,friedrich
+seawater_density,D00001,2014-10-07T21:32:53Z,2015-02-22T11:59:59Z,applies to one file,Spike QC Test,,check: test triggered,friedrich
+seawater_density,D00001,2014-10-07T21:32:53Z,2015-02-22T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+conductivity,D00001,2014-10-07T21:32:53Z,2015-07-08T19:06:45Z,extracted from 1st file of 3 files,Global Range Values,,global min = None global_max = None,friedrich
+practical_salinity,D00001,2015-02-22T12:00:00Z,2015-06-04T12:00:00Z,applies to one file,Spike QC Test,,check: test triggered,friedrich
+practical_salinity,D00001,2015-02-22T12:00:00Z,2015-06-04T12:00:00Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+seawater_temperature,D00001,2015-02-22T12:00:00Z,2015-06-04T12:00:00Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+seawater_pressure,D00001,2015-02-22T12:00:00Z,2015-06-04T12:00:00Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+seawater_conductivity,D00001,2015-02-22T12:00:00Z,2015-06-04T12:00:00Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+corrected_dissolved_oxygen,D00001,2015-02-22T12:00:00Z,2015-06-04T12:00:00Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+seawater_density,D00001,2015-02-22T12:00:00Z,2015-06-04T12:00:00Z,applies to one file,Spike QC Test,,check: test triggered,friedrich
+seawater_density,D00001,2015-02-22T12:00:00Z,2015-06-04T12:00:00Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+practical_salinity,D00001,2015-06-04T12:00:00Z,2015-07-08T19:06:45Z,applies to one file,Spike QC Test,,check: test triggered,friedrich
+practical_salinity,D00001,2015-06-04T12:00:00Z,2015-07-08T19:06:45Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+seawater_temperature,D00001,2015-06-04T12:00:00Z,2015-07-08T19:06:45Z,applies to one file,Spike QC Test,,check: test triggered,friedrich
+seawater_temperature,D00001,2015-06-04T12:00:00Z,2015-07-08T19:06:45Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+seawater_pressure,D00001,2015-06-04T12:00:00Z,2015-07-08T19:06:45Z,applies to one file,Global Range QC Test,,check: test triggered,friedrich
+seawater_pressure,D00001,2015-06-04T12:00:00Z,2015-07-08T19:06:45Z,applies to one file,Spike QC Test,,check: test triggered,friedrich
+seawater_pressure,D00001,2015-06-04T12:00:00Z,2015-07-08T19:06:45Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+seawater_conductivity,D00001,2015-06-04T12:00:00Z,2015-07-08T19:06:45Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+corrected_dissolved_oxygen,D00001,2015-06-04T12:00:00Z,2015-07-08T19:06:45Z,applies to one file,Spike QC Test,,check: test triggered,friedrich
+corrected_dissolved_oxygen,D00001,2015-06-04T12:00:00Z,2015-07-08T19:06:45Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+seawater_density,D00001,2015-06-04T12:00:00Z,2015-07-08T19:06:45Z,applies to one file,Spike QC Test,,check: test triggered,friedrich
+seawater_density,D00001,2015-06-04T12:00:00Z,2015-07-08T19:06:45Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+practical_salinity,D00002,2015-07-10T22:47:41Z,2016-07-13T02:23:01Z,extracted from 1st file of 5 files,Global Range Values,,global min = 0.0 global_max = 42.0,friedrich
+practical_salinity,D00002,2015-07-10T22:47:41Z,2015-10-09T11:59:59Z,applies to one file,Spike QC Test,,check: test triggered,friedrich
+practical_salinity,D00002,2015-07-10T22:47:41Z,2015-10-09T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+temperature,D00002,2015-07-10T22:47:41Z,2016-07-13T02:23:01Z,extracted from 1st file of 5 files,Global Range Values,,global min = None global_max = None,friedrich
+seawater_temperature,D00002,2015-07-10T22:47:41Z,2016-07-13T02:23:01Z,extracted from 1st file of 5 files,Global Range Values,,global min = -2.0 global_max = 40.0,friedrich
+seawater_temperature,D00002,2015-07-10T22:47:41Z,2015-10-09T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+seawater_pressure,D00002,2015-07-10T22:47:41Z,2016-07-13T02:23:01Z,extracted from 1st file of 5 files,Global Range Values,,global min = 0.0 global_max = 6000.0,friedrich
+seawater_pressure,D00002,2015-07-10T22:47:41Z,2015-10-09T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+seawater_conductivity,D00002,2015-07-10T22:47:41Z,2016-07-13T02:23:01Z,extracted from 1st file of 5 files,Global Range Values,,global min = 0.0 global_max = 6.0,friedrich
+seawater_conductivity,D00002,2015-07-10T22:47:41Z,2015-10-09T11:59:59Z,applies to one file,Spike QC Test,,check: test triggered,friedrich
+seawater_conductivity,D00002,2015-07-10T22:47:41Z,2015-10-09T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+corrected_dissolved_oxygen,D00002,2015-07-10T22:47:41Z,2016-07-13T02:23:01Z,extracted from 1st file of 5 files,Global Range Values,,global min = 0.0 global_max = 400.0,friedrich
+corrected_dissolved_oxygen,D00002,2015-07-10T22:47:41Z,2015-10-09T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+pressure,D00002,2015-07-10T22:47:41Z,2016-07-13T02:23:01Z,extracted from 1st file of 5 files,Global Range Values,,global min = None global_max = None,friedrich
+pressure_temp,D00002,2015-07-10T22:47:41Z,2016-07-13T02:23:01Z,extracted from 1st file of 5 files,Global Range Values,,global min = None global_max = None,friedrich
+ext_volt0,D00002,2015-07-10T22:47:41Z,2016-07-13T02:23:01Z,extracted from 1st file of 5 files,Fill Value,,tested: -9999999.0 found: -999999999.0,friedrich
+ext_volt0,D00002,2015-07-10T22:47:41Z,2016-07-13T02:23:01Z,extracted from 1st file of 5 files,Global Range Values,,global min = None global_max = None,friedrich
+seawater_density,D00002,2015-07-10T22:47:41Z,2016-07-13T02:23:01Z,extracted from 1st file of 5 files,Global Range Values,,global min = 1000.0 global_max = 1100.0,friedrich
+seawater_density,D00002,2015-07-10T22:47:41Z,2015-10-09T11:59:59Z,applies to one file,Spike QC Test,,check: test triggered,friedrich
+seawater_density,D00002,2015-07-10T22:47:41Z,2015-10-09T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+conductivity,D00002,2015-07-10T22:47:41Z,2016-07-13T02:23:01Z,extracted from 1st file of 5 files,Global Range Values,,global min = None global_max = None,friedrich
+practical_salinity,D00002,2015-10-09T11:59:59Z,2016-01-03T11:59:59Z,applies to one file,Spike QC Test,,check: test triggered,friedrich
+practical_salinity,D00002,2015-10-09T11:59:59Z,2016-01-03T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+seawater_temperature,D00002,2015-10-09T11:59:59Z,2016-01-03T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+seawater_pressure,D00002,2015-10-09T11:59:59Z,2016-01-03T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+seawater_conductivity,D00002,2015-10-09T11:59:59Z,2016-01-03T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+corrected_dissolved_oxygen,D00002,2015-10-09T11:59:59Z,2016-01-03T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+seawater_density,D00002,2015-10-09T11:59:59Z,2016-01-03T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+practical_salinity,D00002,2016-01-03T12:00:00Z,2016-03-29T11:59:59Z,applies to one file,Spike QC Test,,check: test triggered,friedrich
+practical_salinity,D00002,2016-01-03T12:00:00Z,2016-03-29T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+seawater_temperature,D00002,2016-01-03T12:00:00Z,2016-03-29T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+seawater_pressure,D00002,2016-01-03T12:00:00Z,2016-03-29T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+seawater_conductivity,D00002,2016-01-03T12:00:00Z,2016-03-29T11:59:59Z,applies to one file,Spike QC Test,,check: test triggered,friedrich
+seawater_conductivity,D00002,2016-01-03T12:00:00Z,2016-03-29T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+corrected_dissolved_oxygen,D00002,2016-01-03T12:00:00Z,2016-03-29T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+seawater_density,D00002,2016-01-03T12:00:00Z,2016-03-29T11:59:59Z,applies to one file,Spike QC Test,,check: test triggered,friedrich
+seawater_density,D00002,2016-01-03T12:00:00Z,2016-03-29T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+practical_salinity,D00002,2016-03-29T12:00:00Z,2016-06-30T11:59:59Z,applies to one file,Spike QC Test,,check: test triggered,friedrich
+practical_salinity,D00002,2016-03-29T12:00:00Z,2016-06-30T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+seawater_temperature,D00002,2016-03-29T12:00:00Z,2016-06-30T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+seawater_pressure,D00002,2016-03-29T12:00:00Z,2016-06-30T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+seawater_conductivity,D00002,2016-03-29T12:00:00Z,2016-06-30T11:59:59Z,applies to one file,Spike QC Test,,check: test triggered,friedrich
+seawater_conductivity,D00002,2016-03-29T12:00:00Z,2016-06-30T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+corrected_dissolved_oxygen,D00002,2016-03-29T12:00:00Z,2016-06-30T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+seawater_density,D00002,2016-03-29T12:00:00Z,2016-06-30T11:59:59Z,applies to one file,Spike QC Test,,check: test triggered,friedrich
+seawater_density,D00002,2016-03-29T12:00:00Z,2016-06-30T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+practical_salinity,D00002,2016-06-30T12:00:00Z,2016-07-13T02:23:01Z,applies to one file,Spike QC Test,,check: test triggered,friedrich
+practical_salinity,D00002,2016-06-30T12:00:00Z,2016-07-13T02:23:01Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+seawater_temperature,D00002,2016-06-30T12:00:00Z,2016-07-13T02:23:01Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+seawater_pressure,D00002,2016-06-30T12:00:00Z,2016-07-13T02:23:01Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+seawater_conductivity,D00002,2016-06-30T12:00:00Z,2016-07-13T02:23:01Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+corrected_dissolved_oxygen,D00002,2016-06-30T12:00:00Z,2016-07-13T02:23:01Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+seawater_density,D00002,2016-06-30T12:00:00Z,2016-07-13T02:23:01Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+practical_salinity,D00003,2016-07-14T21:18:00Z,2017-02-27T19:59:57Z,extracted from 1st file of 3 files,Global Range Values,,global min = 0.0 global_max = 42.0,friedrich
+practical_salinity,D00003,2016-07-14T21:18:00Z,2016-10-08T11:59:59Z,applies to one file,Spike QC Test,,check: test triggered,friedrich
+practical_salinity,D00003,2016-07-14T21:18:00Z,2016-10-08T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+temperature,D00003,2016-07-14T21:18:00Z,2017-02-27T19:59:57Z,extracted from 1st file of 3 files,Global Range Values,,global min = None global_max = None,friedrich
+seawater_temperature,D00003,2016-07-14T21:18:00Z,2017-02-27T19:59:57Z,extracted from 1st file of 3 files,Global Range Values,,global min = -2.0 global_max = 40.0,friedrich
+seawater_temperature,D00003,2016-07-14T21:18:00Z,2016-10-08T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+seawater_pressure,D00003,2016-07-14T21:18:00Z,2017-02-27T19:59:57Z,extracted from 1st file of 3 files,Global Range Values,,global min = 0.0 global_max = 6000.0,friedrich
+seawater_pressure,D00003,2016-07-14T21:18:00Z,2016-10-08T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+seawater_conductivity,D00003,2016-07-14T21:18:00Z,2017-02-27T19:59:57Z,extracted from 1st file of 3 files,Global Range Values,,global min = 0.0 global_max = 6.0,friedrich
+seawater_conductivity,D00003,2016-07-14T21:18:00Z,2016-10-08T11:59:59Z,applies to one file,Spike QC Test,,check: test triggered,friedrich
+seawater_conductivity,D00003,2016-07-14T21:18:00Z,2016-10-08T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+corrected_dissolved_oxygen,D00003,2016-07-14T21:18:00Z,2017-02-27T19:59:57Z,extracted from 1st file of 3 files,Global Range Values,,global min = 0.0 global_max = 400.0,friedrich
+corrected_dissolved_oxygen,D00003,2016-07-14T21:18:00Z,2016-10-08T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+pressure,D00003,2016-07-14T21:18:00Z,2017-02-27T19:59:57Z,extracted from 1st file of 3 files,Global Range Values,,global min = None global_max = None,friedrich
+pressure_temp,D00003,2016-07-14T21:18:00Z,2017-02-27T19:59:57Z,extracted from 1st file of 3 files,Global Range Values,,global min = None global_max = None,friedrich
+ext_volt0,D00003,2016-07-14T21:18:00Z,2017-02-27T19:59:57Z,extracted from 1st file of 3 files,Fill Value,,tested: -9999999.0 found: -999999999.0,friedrich
+ext_volt0,D00003,2016-07-14T21:18:00Z,2017-02-27T19:59:57Z,extracted from 1st file of 3 files,Global Range Values,,global min = None global_max = None,friedrich
+seawater_density,D00003,2016-07-14T21:18:00Z,2017-02-27T19:59:57Z,extracted from 1st file of 3 files,Global Range Values,,global min = 1000.0 global_max = 1100.0,friedrich
+seawater_density,D00003,2016-07-14T21:18:00Z,2016-10-08T11:59:59Z,applies to one file,Spike QC Test,,check: test triggered,friedrich
+seawater_density,D00003,2016-07-14T21:18:00Z,2016-10-08T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+conductivity,D00003,2016-07-14T21:18:00Z,2017-02-27T19:59:57Z,extracted from 1st file of 3 files,Global Range Values,,global min = None global_max = None,friedrich
+practical_salinity,D00003,2016-10-08T12:00:00Z,2016-12-31T11:59:59Z,applies to one file,Spike QC Test,,check: test triggered,friedrich
+practical_salinity,D00003,2016-10-08T12:00:00Z,2016-12-31T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+seawater_temperature,D00003,2016-10-08T12:00:00Z,2016-12-31T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+seawater_pressure,D00003,2016-10-08T12:00:00Z,2016-12-31T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+seawater_conductivity,D00003,2016-10-08T12:00:00Z,2016-12-31T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+corrected_dissolved_oxygen,D00003,2016-10-08T12:00:00Z,2016-12-31T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+seawater_density,D00003,2016-10-08T12:00:00Z,2016-12-31T11:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+practical_salinity,D00003,2016-12-31T12:00:00Z,2017-02-27T19:59:57Z,applies to one file,Spike QC Test,,check: test triggered,friedrich
+practical_salinity,D00003,2016-12-31T12:00:00Z,2017-02-27T19:59:57Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+seawater_temperature,D00003,2016-12-31T12:00:00Z,2017-02-27T19:59:57Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+seawater_pressure,D00003,2016-12-31T12:00:00Z,2017-02-27T19:59:57Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+seawater_conductivity,D00003,2016-12-31T12:00:00Z,2017-02-27T19:59:57Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+corrected_dissolved_oxygen,D00003,2016-12-31T12:00:00Z,2017-02-27T19:59:57Z,applies to one file,Spike QC Test,,check: test triggered,friedrich
+corrected_dissolved_oxygen,D00003,2016-12-31T12:00:00Z,2017-02-27T19:59:57Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich
+seawater_density,D00003,2016-12-31T12:00:00Z,2017-02-27T19:59:57Z,applies to one file,Spike QC Test,,check: test triggered,friedrich
+seawater_density,D00003,2016-12-31T12:00:00Z,2017-02-27T19:59:57Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich

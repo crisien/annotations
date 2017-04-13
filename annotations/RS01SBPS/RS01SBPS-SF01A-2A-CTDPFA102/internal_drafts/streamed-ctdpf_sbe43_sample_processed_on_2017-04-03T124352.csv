@@ -1,0 +1,30 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,reviewed_by
+ctdpf_sbe43_sample,D00001,2014-09-29T04:43:00Z,2014-10-06T22:05:23Z,,NOT_AVAILABLE,,check: difference between data begin and deployment begin date is: 7 days 17:22:23,friedrich
+ctdpf_sbe43_sample,D00001,2014-10-06T22:05:23Z,2014-10-12T03:22:11Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich
+ctdpf_sbe43_sample,D00001,2014-10-12T03:22:11Z,2014-10-14T21:01:22Z,,NOT_AVAILABLE,,check: data gap,friedrich
+ctdpf_sbe43_sample,D00001,2014-10-14T21:01:22Z,2014-10-25T16:20:11Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich
+ctdpf_sbe43_sample,D00001,2014-10-25T16:20:11Z,2014-10-30T17:16:26Z,,NOT_AVAILABLE,,check: data gap,friedrich
+ctdpf_sbe43_sample,D00001,2014-10-30T17:16:26Z,2014-11-02T14:29:01Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich
+ctdpf_sbe43_sample,D00001,2014-11-02T14:29:01Z,2014-11-05T19:35:03Z,,NOT_AVAILABLE,,check: data gap,friedrich
+ctdpf_sbe43_sample,D00001,2014-11-05T19:35:03Z,2014-11-07T00:17:20Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich
+ctdpf_sbe43_sample,D00001,2014-11-07T00:17:20Z,2014-11-13T22:00:52Z,,NOT_AVAILABLE,,check: data gap,friedrich
+ctdpf_sbe43_sample,D00001,2014-11-13T22:00:52Z,2014-11-14T18:36:18Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich
+ctdpf_sbe43_sample,D00001,2014-11-14T18:36:18Z,2014-11-17T18:32:34Z,,NOT_AVAILABLE,,check: data gap,friedrich
+ctdpf_sbe43_sample,D00001,2014-11-17T18:32:34Z,2014-11-20T13:27:46Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich
+ctdpf_sbe43_sample,D00001,2014-11-20T13:27:46Z,2014-12-16T20:29:00Z,,NOT_AVAILABLE,,check: data gap,friedrich
+ctdpf_sbe43_sample,D00001,2014-12-16T20:29:00Z,2015-02-01T20:36:31Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich
+ctdpf_sbe43_sample,D00001,2015-02-01T20:36:31Z,2015-02-03T09:57:03Z,,NOT_AVAILABLE,,check: data gap,friedrich
+ctdpf_sbe43_sample,D00001,2015-02-03T09:57:03Z,2015-03-07T23:08:40Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich
+ctdpf_sbe43_sample,D00001,2015-03-07T23:08:40Z,2015-03-09T07:39:50Z,,NOT_AVAILABLE,,check: data gap,friedrich
+ctdpf_sbe43_sample,D00001,2015-02-03T09:57:03Z,2015-07-05T23:59:59Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich
+ctdpf_sbe43_sample,D00002,2015-07-07T20:47:00Z,2015-07-08T22:05:39Z,,NOT_AVAILABLE,,check: difference between data begin and deployment begin date is: 1 days 01:18:39,friedrich
+ctdpf_sbe43_sample,D00002,2015-07-08T22:05:39Z,2015-09-30T23:59:59Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich
+ctdpf_sbe43_sample,D00002,2015-09-30T23:59:59Z,2015-10-02T22:15:31Z,,NOT_AVAILABLE,,check: data gap,friedrich
+ctdpf_sbe43_sample,D00002,2015-10-02T22:15:31Z,2015-10-28T13:37:12Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich
+ctdpf_sbe43_sample,D00002,2015-10-28T13:37:12Z,2015-11-05T18:44:35Z,,NOT_AVAILABLE,,check: data gap,friedrich
+ctdpf_sbe43_sample,D00002,2015-11-05T18:44:35Z,2016-04-23T05:32:40Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich
+ctdpf_sbe43_sample,D00002,2016-04-23T05:32:40Z,2016-04-25T02:24:00Z,,NOT_AVAILABLE,,check: data gap,friedrich
+ctdpf_sbe43_sample,D00002,2015-11-05T18:44:35Z,2016-07-16T11:10:49Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich
+ctdpf_sbe43_sample,D00003,2016-07-18T17:42:52Z,2017-01-09T18:30:53Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich
+ctdpf_sbe43_sample,D00003,2017-01-09T18:30:53Z,2017-01-11T00:55:40Z,,NOT_AVAILABLE,,check: data gap,friedrich
+ctdpf_sbe43_sample,D00003,2017-01-11T00:55:40Z,2017-01-30T01:43:03Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich

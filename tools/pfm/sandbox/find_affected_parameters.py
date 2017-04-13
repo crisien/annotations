@@ -130,4 +130,4 @@ api_key = 'SJN6HXHH116OZ8'
 toc = cached_toc('https://ooinet.oceanobservatories.org/api/m2m/12576/sensor/inv/toc', api_user, api_key)
 affects_map = build_affects_map()
 affected_streams = parameter_affects(194, affects_map)
-find_affected(affected_streams, 'RS03AXPS', 'SF03A', toc)
+find_affected(affected_streams, 'RS01SBPS', 'PC01A', toc)

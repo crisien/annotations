@@ -1,0 +1,5 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdbp_cdef_dcl_instrument,D00001,2015-03-15T21:30:05Z,2015-11-25T03:00:09Z,,NOT_EVALUATED,,check: evaluate parameters,lori,
+ctdbp_cdef_dcl_instrument,D00001,2015-11-25T03:00:09Z,2015-11-26T10:08:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 1 days 07:07:51,lori,
+ctdbp_cdef_dcl_instrument,D00002,2015-11-14T21:06:08Z,2016-11-08T00:08:11Z,,NOT_EVALUATED,,check: evaluate parameters,lori,
+ctdbp_cdef_dcl_instrument,D00003,2016-10-27T02:00:09Z,2017-01-05T00:00:09Z,,NOT_EVALUATED,,check: evaluate parameters,lori,

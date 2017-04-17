@@ -1,8 +1,8 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
 practical_salinity,1,,,Multiple isolated spikes throughout the record,,,,friedrich,2017-04-17T00:00:00Z
-seawater_pressure,1,2015-06-28T00:00:00Z,2015-06-30T00:00:00Z,Large pressure spike around 2015-06-01,SUSPECT,,add exact time range,friedrich,2017-04-17T00:00:00Z
+seawater_pressure,1,2015-05-28T00:00:00Z,2015-05-30T00:00:00Z,Large pressure spike around 2015-06-01,SUSPECT,,,friedrich,2017-04-17T00:00:00Z
 seawater_conductivity,1,,,Multiple isolated spikes throughout the record,,,,friedrich,2017-04-17T00:00:00Z
-pressure,1,2015-06-28T00:00:00Z,2015-06-30T00:00:00Z,Large pressure spike around 2015-06-01,SUSPECT,,add exact time range,friedrich,2017-04-17T00:00:00Z
+pressure,1,2015-05-28T00:00:00Z,2015-05-30T00:00:00Z,Large pressure spike around 2015-06-01,SUSPECT,,,friedrich,2017-04-17T00:00:00Z
 conductivity,1,,,Multiple isolated spikes throughout the record,,,,friedrich,2017-04-17T00:00:00Z
 practical_salinity,2,,,Multiple isolated spikes throughout the record,,,,friedrich,2017-04-17T00:00:00Z
 temperature,2,,,Two data points outside global ranges which can affect plotting script color ranges,,,,,2017-04-17T00:00:00Z

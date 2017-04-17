@@ -1,7 +1,12 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
-seawater_temperature,,,,,,,,,
-seawater_pressure,,,,,,,,,
-seawater_conductivity,,,,,,,,,
 practical_salinity,,,,,,,,,
-density,,,,,,,,,
+temperature,,,,,,,,,
+seawater_temperature,,,,,,,,,
+seawater_pressure,1,2015-05-28T00:00:00Z,2015-05-30T00:00:00Z,Large pressure spike around 2015-06-01,SUSPECT,,,friedrich,2017-04-17T00:00:00Z
+seawater_conductivity,,,,,,,,,
 corrected_dissolved_oxygen,,,,,,,,,
+pressure,1,2015-05-28T00:00:00Z,2015-05-30T00:00:00Z,Large pressure spike around 2015-06-01,SUSPECT,,,friedrich,2017-04-17T00:00:00Z
+pressure_temp,,,,,,,,,
+ext_volt0,,,,,,,,,
+density,,,,,,,,,
+conductivity,,,,,,,,,

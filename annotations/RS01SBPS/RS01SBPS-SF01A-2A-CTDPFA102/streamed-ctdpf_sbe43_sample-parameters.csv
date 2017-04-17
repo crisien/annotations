@@ -1,7 +1,7 @@
-Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,reviewed_by
-seawater_temperature,,,,,,,,
-seawater_pressure,,,,,,,,
-seawater_conductivity,,,,,,,,
-practical_salinity,,,,,,,,
-density,,,,,,,,
-corrected_dissolved_oxygen,,,,,,,,
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+seawater_temperature,,,,,,,,,
+seawater_pressure,,,,,,,,,
+seawater_conductivity,,,,,,,,,
+practical_salinity,,,,,,,,,
+density,,,,,,,,,
+corrected_dissolved_oxygen,,,,,,,,,

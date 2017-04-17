@@ -1,21 +1,21 @@
-Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,reviewed_by
-ctdpf_optode_sample,1,2014-09-27T13:29:00,2014-10-02T20:42:53,,NOT_AVAILABLE,,find out if known issue,friedrich
-ctdpf_optode_sample,1,2014-10-02T20:42:53,2014-11-04T16:05:51,,AVAILABLE,,,friedrich
-ctdpf_optode_sample,1,2014-11-04T16:05:51,2014-11-05T19:32:18,,NOT_AVAILABLE,,find out if known issue,leila
-ctdpf_optode_sample,1,2014-11-05T19:32:18,2014-11-14T18:36:30,,AVAILABLE,,,leila
-ctdpf_optode_sample,1,2014-11-14T18:36:30,2014-11-17T18:24:38,,NOT_AVAILABLE,,find out if known issue,leila
-ctdpf_optode_sample,1,2014-11-17T18:24:38,2014-12-07T20:59:39,,AVAILABLE,,,leila
-ctdpf_optode_sample,1,2014-12-07T20:59:39,2014-12-16T21:17:45,,NOT_AVAILABLE,,find out if known issue,leila
-ctdpf_optode_sample,1,2014-12-16T21:17:45,2015-02-01T20:36:30,,AVAILABLE,,,leila
-ctdpf_optode_sample,1,2015-02-01T20:36:30,2015-02-03T09:57:13,,NOT_AVAILABLE,,find out if known issue,leila
-ctdpf_optode_sample,1,2015-02-03T09:57:13,2015-03-07T23:06:52,,AVAILABLE,,,leila
-ctdpf_optode_sample,1,2015-03-07T23:06:52,2015-03-09T07:39:20,,NOT_AVAILABLE,,find out if known issue,leila
-ctdpf_optode_sample,1,2015-03-09T07:39:20,2015-07-09T00:00:00,,AVAILABLE,,,leila
-ctdpf_optode_sample,2,2015-07-09T00:00:00,2015-07-10T01:06:29,,NOT_AVAILABLE,,,friedrich
-ctdpf_optode_sample,2,2015-07-10T01:06:29,2016-07-14T00:00:00,,AVAILABLE,,,leila
-ctdpf_optode_sample,3,2016-07-14T21:18:00,2017-02-15T14:43:05,,AVAILABLE,,,leila
-ctdpf_optode_sample,3,2017-02-15T14:43:05,2017-02-16T23:08:13,,NOT_AVAILABLE,,find out if known issue,leila
-ctdpf_optode_sample,3,2017-02-16T23:08:13,2017-03-22T19:00:00,,AVAILABLE,,,friedrich
-ctdpf_optode_sample,1,,,"isolated spikes for DO, conductivity, pressure and salinity in data record originating from L0 conductivity values.",,,,friedrich
-ctdpf_optode_sample,2,,,"isolated spikes for DO, conductivity, pressure and salinity in data record originating from L0 conductivity values.",,,,friedrich
-ctdpf_optode_sample,3,,,"isolated spikes for DO, conductivity, pressure and salinity in data record originating from L0 conductivity values.",,,,friedrich
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdpf_optode_sample,1,2014-09-27T13:29:00,2014-10-02T20:42:53,,NOT_AVAILABLE,,find out if known issue,friedrich,2017-04-17T00:00:00Z
+ctdpf_optode_sample,1,2014-10-02T20:42:53,2014-11-04T16:05:51,,AVAILABLE,,,friedrich,2017-04-17T00:00:00Z
+ctdpf_optode_sample,1,2014-11-04T16:05:51,2014-11-05T19:32:18,,NOT_AVAILABLE,,find out if known issue,leila,2017-04-17T00:00:00Z
+ctdpf_optode_sample,1,2014-11-05T19:32:18,2014-11-14T18:36:30,,AVAILABLE,,,leila,2017-04-17T00:00:00Z
+ctdpf_optode_sample,1,2014-11-14T18:36:30,2014-11-17T18:24:38,,NOT_AVAILABLE,,find out if known issue,leila,2017-04-17T00:00:00Z
+ctdpf_optode_sample,1,2014-11-17T18:24:38,2014-12-07T20:59:39,,AVAILABLE,,,leila,2017-04-17T00:00:00Z
+ctdpf_optode_sample,1,2014-12-07T20:59:39,2014-12-16T21:17:45,,NOT_AVAILABLE,,find out if known issue,leila,2017-04-17T00:00:00Z
+ctdpf_optode_sample,1,2014-12-16T21:17:45,2015-02-01T20:36:30,,AVAILABLE,,,leila,2017-04-17T00:00:00Z
+ctdpf_optode_sample,1,2015-02-01T20:36:30,2015-02-03T09:57:13,,NOT_AVAILABLE,,find out if known issue,leila,2017-04-17T00:00:00Z
+ctdpf_optode_sample,1,2015-02-03T09:57:13,2015-03-07T23:06:52,,AVAILABLE,,,leila,2017-04-17T00:00:00Z
+ctdpf_optode_sample,1,2015-03-07T23:06:52,2015-03-09T07:39:20,,NOT_AVAILABLE,,find out if known issue,leila,2017-04-17T00:00:00Z
+ctdpf_optode_sample,1,2015-03-09T07:39:20,2015-07-09T00:00:00,,AVAILABLE,,,leila,2017-04-17T00:00:00Z
+ctdpf_optode_sample,2,2015-07-09T00:00:00,2015-07-10T01:06:29,,NOT_AVAILABLE,,,friedrich,2017-04-17T00:00:00Z
+ctdpf_optode_sample,2,2015-07-10T01:06:29,2016-07-14T00:00:00,,AVAILABLE,,,leila,2017-04-17T00:00:00Z
+ctdpf_optode_sample,3,2016-07-14T21:18:00,2017-02-15T14:43:05,,AVAILABLE,,,leila,2017-04-17T00:00:00Z
+ctdpf_optode_sample,3,2017-02-15T14:43:05,2017-02-16T23:08:13,,NOT_AVAILABLE,,find out if known issue,leila,2017-04-17T00:00:00Z
+ctdpf_optode_sample,3,2017-02-16T23:08:13,2017-03-22T19:00:00,,AVAILABLE,,,friedrich,2017-04-17T00:00:00Z
+ctdpf_optode_sample,1,,,"isolated spikes for DO, conductivity, pressure and salinity in data record originating from L0 conductivity values.",,,,friedrich,2017-04-17T00:00:00Z
+ctdpf_optode_sample,2,,,"isolated spikes for DO, conductivity, pressure and salinity in data record originating from L0 conductivity values.",,,,friedrich,2017-04-17T00:00:00Z
+ctdpf_optode_sample,3,,,"isolated spikes for DO, conductivity, pressure and salinity in data record originating from L0 conductivity values.",,,,friedrich,2017-04-17T00:00:00Z

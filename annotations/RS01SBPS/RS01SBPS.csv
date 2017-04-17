@@ -1,40 +1,40 @@
-Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,reviewed_by
-RS01SBPS-SF01A-2A-CTDPFA102,1,2014-09-29T04:43:00Z,2014-10-06T22:05:23,,NOT_OPERATIONAL,,find out if known issue,friedrich
-RS01SBPS-SF01A-2A-CTDPFA102,1,2014-10-12T03:22:11Z,2014-10-14T21:01:22Z,,NOT_OPERATIONAL,,find out if known issue,friedrich
-RS01SBPS-SF01A-2A-CTDPFA102,1,2014-10-25T16:20:11Z,2014-10-30T17:16:26Z,,NOT_OPERATIONAL,,find out if known issue,friedrich
-RS01SBPS-SF01A-2A-CTDPFA102,1,2014-11-02T14:29:01Z,2014-11-05T19:35:03Z,,NOT_OPERATIONAL,,find out if known issue,friedrich
-RS01SBPS-SF01A-2A-CTDPFA102,1,2014-11-07T00:17:20Z,2014-11-13T22:00:52Z,,NOT_OPERATIONAL,,find out if known issue,friedrich
-RS01SBPS-SF01A-2A-CTDPFA102,1,2014-11-14T18:36:18Z,2014-11-17T18:32:34Z,,NOT_OPERATIONAL,,find out if known issue,friedrich
-RS01SBPS-SF01A-2A-CTDPFA102,1,2014-11-20T13:27:46Z,2014-12-16T20:29:00Z,,NOT_OPERATIONAL,,find out if known issue,friedrich
-RS01SBPS-SF01A-2A-CTDPFA102,1,2015-02-01T20:36:31Z,2015-02-03T09:57:03Z,,NOT_OPERATIONAL,,find out if known issue,friedrich
-RS01SBPS-SF01A-2A-CTDPFA102,1,2015-03-07T23:08:40Z,2015-03-09T07:39:50Z,,NOT_OPERATIONAL,,find out if known issue,friedrich
-RS01SBPS-SF01A-2A-CTDPFA102,2,2015-07-06T00:00:00Z,2015-07-08T22:05:39,,NOT_OPERATIONAL,,find out if known issue,friedrich
-RS01SBPS-SF01A-2A-CTDPFA102,2,2015-09-30T23:59:59Z,2015-10-02T22:15:31Z,,NOT_OPERATIONAL,,find out if known issue,friedrich
-RS01SBPS-SF01A-2A-CTDPFA102,2,2015-10-28T13:37:12Z,2015-11-05T18:44:35Z,,NOT_OPERATIONAL,,find out if known issue,friedrich
-RS01SBPS-SF01A-2A-CTDPFA102,2,2016-04-23T05:32:40Z,2016-04-25T02:24:00Z,,NOT_OPERATIONAL,,find out if known issue,friedrich
-RS01SBPS-SF01A-2A-CTDPFA102,3,2016-07-18T00:19:00Z,2016-07-18T17:42:52,,NOT_OPERATIONAL,,find out if known issue,friedrich
-RS01SBPS,,2017-02-15T14:43:06,2017-02-15T17:16:00,"On Wednesday, February 15, power to the North and South cable lines of the Cabled Array was interrupted and all deployed infrastructure went offline.  Power was restored on February 16. No hardware issue subsea was identified.",NOT_OPERATIONAL,11998,,friedrich
-RS01SBPS,,2017-01-09T18:32:00,2017-01-09T21:30:00,Lightning strike in Pacific City led to data interruption through isolation of both cable lines from shore station equipment.,NOT_OPERATIONAL,11776,,friedrich
-RS01SBPS,,2017-02-07T13:00:00,2017-02-07T15:00:00,Outage during PNWGP 1-hour router-maintenance,,,Verify against data,friedrich
-RS01SBPS,,2017-01-08T19:58:00,2017-01-08T21:41:00,Network outage during major Seattle utility power failure,,,Verify against data,friedrich
-RS01SBPS,,2016-12-22T01:50:00,2016-12-23T12:44:00,Fiber break in Portland due to train crash,,,Verify against data,friedrich
-RS01SBPS,,2016-12-17T18:00:00,2016-12-17T19:00:00,Corvalis data center lost power,,,Verify against data,friedrich
-RS01SBPS,,2016-07-12T02:53:00,2016-07-12T03:51:00,Unexplained loss of power at Pittock Building in Portland,,,Verify against data,friedrich
-RS01SBPS,,2016-05-20T16:33:00,2016-05-20T18:04:00,Fiber break between Portland and Pacific City,,,Verify against data,friedrich
-RS01SBPS,,2016-03-10T23:06:00,2016-03-11T09:30:00,Fiber break between Portland and Seattle,,,Verify against data,friedrich
-RS01SBPS,,2016-01-07T06:10:00,2016-01-07T06:52:00,Four 1-minute outages between Portland and Seattle due to maintenance,,,Verify against data,friedrich
-RS01SBPS,,2015-08-29T00:00:00,2015-08-29T00:30:00,Outage during major utility power failure in Seattle,,,Verify against data,friedrich
-RS01SBPS,,2015-06-13T00:00:00,2015-06-15T16:30:00,Network issues due to fire that damaged fibers between Portland and Seattle,,,Verify against data,friedrich
-RS01SBPS,,2015-03-21T14:10:00,2015-03-22T04:20:00,PNWGP outage due to City of Seattle fiber cable work,,,Verify against data,friedrich
-RS01SBPS,,2015-01-31T00:00:00,2015-02-04T00:00:00,Intermittent partial data loss due to storage drive problems at OTB,,,Verify against data,friedrich
-RS01SBPS,,2015-01-07T07:32:00,2015-01-07T08:06:00,PNWGP Portland <-> Seattle outage,,,Verify against data,friedrich
-RS01SBPS,,2014-12-07T19:45:00,2014-12-16T00:00:00,"PFE down. HVPS1 MOV explosion, 800A breaker tripped, investigation and restoration",,,Verify against data,friedrich
-RS01SBPS-SF01A,,,,,,,,
-RS01SBPS-PC01A-4A-CTDPFA103,1,2014-09-29T01:53:00Z,2014-10-02T22:20:26Z,,NOT_AVAILABLE,,check: difference between data begin and deployment begin date is: 3 days 20:27:26,friedrich
-RS01SBPS-PC01A-4A-CTDPFA103,1,2014-11-04T16:05:51Z,2014-11-05T19:23:27Z,,NOT_AVAILABLE,,check: data gap,friedrich
-RS01SBPS-PC01A-4A-CTDPFA103,1,2014-11-14T18:36:14Z,2014-11-17T18:22:23Z,,NOT_AVAILABLE,,check: data gap,friedrich
-RS01SBPS-PC01A-4A-CTDPFA103,1,2014-12-07T20:59:40Z,2014-12-16T20:51:19Z,,NOT_AVAILABLE,,check: data gap,friedrich
-RS01SBPS-PC01A-4A-CTDPFA103,1,2015-02-01T20:36:30Z,2015-02-03T09:56:43Z,,NOT_AVAILABLE,,check: data gap,friedrich
-RS01SBPS-PC01A-4A-CTDPFA103,1,2015-03-07T23:04:22Z,2015-03-09T07:39:39Z,,NOT_AVAILABLE,,check: data gap,friedrich
-RS01SBPS-PC01A-4A-CTDPFA103,2,2015-07-07T16:12:00Z,2015-07-08T20:37:13Z,,NOT_AVAILABLE,,check: difference between data begin and deployment begin date is: 1 days 04:25:13,friedrich
-RS01SBPS-PC01A-4A-CTDPFA103,3,2017-01-09T18:30:53Z,2017-02-16T23:02:04Z,,NOT_AVAILABLE,,check: data gap,friedrich
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+RS01SBPS-SF01A-2A-CTDPFA102,1,2014-09-29T04:43:00Z,2014-10-06T22:05:23,,NOT_OPERATIONAL,,find out if known issue,friedrich,2017-04-17T00:00:00Z
+RS01SBPS-SF01A-2A-CTDPFA102,1,2014-10-12T03:22:11Z,2014-10-14T21:01:22Z,,NOT_OPERATIONAL,,find out if known issue,friedrich,2017-04-17T00:00:00Z
+RS01SBPS-SF01A-2A-CTDPFA102,1,2014-10-25T16:20:11Z,2014-10-30T17:16:26Z,,NOT_OPERATIONAL,,find out if known issue,friedrich,2017-04-17T00:00:00Z
+RS01SBPS-SF01A-2A-CTDPFA102,1,2014-11-02T14:29:01Z,2014-11-05T19:35:03Z,,NOT_OPERATIONAL,,find out if known issue,friedrich,2017-04-17T00:00:00Z
+RS01SBPS-SF01A-2A-CTDPFA102,1,2014-11-07T00:17:20Z,2014-11-13T22:00:52Z,,NOT_OPERATIONAL,,find out if known issue,friedrich,2017-04-17T00:00:00Z
+RS01SBPS-SF01A-2A-CTDPFA102,1,2014-11-14T18:36:18Z,2014-11-17T18:32:34Z,,NOT_OPERATIONAL,,find out if known issue,friedrich,2017-04-17T00:00:00Z
+RS01SBPS-SF01A-2A-CTDPFA102,1,2014-11-20T13:27:46Z,2014-12-16T20:29:00Z,,NOT_OPERATIONAL,,find out if known issue,friedrich,2017-04-17T00:00:00Z
+RS01SBPS-SF01A-2A-CTDPFA102,1,2015-02-01T20:36:31Z,2015-02-03T09:57:03Z,,NOT_OPERATIONAL,,find out if known issue,friedrich,2017-04-17T00:00:00Z
+RS01SBPS-SF01A-2A-CTDPFA102,1,2015-03-07T23:08:40Z,2015-03-09T07:39:50Z,,NOT_OPERATIONAL,,find out if known issue,friedrich,2017-04-17T00:00:00Z
+RS01SBPS-SF01A-2A-CTDPFA102,2,2015-07-06T00:00:00Z,2015-07-08T22:05:39,,NOT_OPERATIONAL,,find out if known issue,friedrich,2017-04-17T00:00:00Z
+RS01SBPS-SF01A-2A-CTDPFA102,2,2015-09-30T23:59:59Z,2015-10-02T22:15:31Z,,NOT_OPERATIONAL,,find out if known issue,friedrich,2017-04-17T00:00:00Z
+RS01SBPS-SF01A-2A-CTDPFA102,2,2015-10-28T13:37:12Z,2015-11-05T18:44:35Z,,NOT_OPERATIONAL,,find out if known issue,friedrich,2017-04-17T00:00:00Z
+RS01SBPS-SF01A-2A-CTDPFA102,2,2016-04-23T05:32:40Z,2016-04-25T02:24:00Z,,NOT_OPERATIONAL,,find out if known issue,friedrich,2017-04-17T00:00:00Z
+RS01SBPS-SF01A-2A-CTDPFA102,3,2016-07-18T00:19:00Z,2016-07-18T17:42:52,,NOT_OPERATIONAL,,find out if known issue,friedrich,2017-04-17T00:00:00Z
+RS01SBPS,,2017-02-15T14:43:06,2017-02-15T17:16:00,"On Wednesday, February 15, power to the North and South cable lines of the Cabled Array was interrupted and all deployed infrastructure went offline.  Power was restored on February 16. No hardware issue subsea was identified.",NOT_OPERATIONAL,11998,,friedrich,2017-04-17T00:00:00Z
+RS01SBPS,,2017-01-09T18:32:00,2017-01-09T21:30:00,Lightning strike in Pacific City led to data interruption through isolation of both cable lines from shore station equipment.,NOT_OPERATIONAL,11776,,friedrich,2017-04-17T00:00:00Z
+RS01SBPS,,2017-02-07T13:00:00,2017-02-07T15:00:00,Outage during PNWGP 1-hour router-maintenance,,,Verify against data,friedrich,2017-04-17T00:00:00Z
+RS01SBPS,,2017-01-08T19:58:00,2017-01-08T21:41:00,Network outage during major Seattle utility power failure,,,Verify against data,friedrich,2017-04-17T00:00:00Z
+RS01SBPS,,2016-12-22T01:50:00,2016-12-23T12:44:00,Fiber break in Portland due to train crash,,,Verify against data,friedrich,2017-04-17T00:00:00Z
+RS01SBPS,,2016-12-17T18:00:00,2016-12-17T19:00:00,Corvalis data center lost power,,,Verify against data,friedrich,2017-04-17T00:00:00Z
+RS01SBPS,,2016-07-12T02:53:00,2016-07-12T03:51:00,Unexplained loss of power at Pittock Building in Portland,,,Verify against data,friedrich,2017-04-17T00:00:00Z
+RS01SBPS,,2016-05-20T16:33:00,2016-05-20T18:04:00,Fiber break between Portland and Pacific City,,,Verify against data,friedrich,2017-04-17T00:00:00Z
+RS01SBPS,,2016-03-10T23:06:00,2016-03-11T09:30:00,Fiber break between Portland and Seattle,,,Verify against data,friedrich,2017-04-17T00:00:00Z
+RS01SBPS,,2016-01-07T06:10:00,2016-01-07T06:52:00,Four 1-minute outages between Portland and Seattle due to maintenance,,,Verify against data,friedrich,2017-04-17T00:00:00Z
+RS01SBPS,,2015-08-29T00:00:00,2015-08-29T00:30:00,Outage during major utility power failure in Seattle,,,Verify against data,friedrich,2017-04-17T00:00:00Z
+RS01SBPS,,2015-06-13T00:00:00,2015-06-15T16:30:00,Network issues due to fire that damaged fibers between Portland and Seattle,,,Verify against data,friedrich,2017-04-17T00:00:00Z
+RS01SBPS,,2015-03-21T14:10:00,2015-03-22T04:20:00,PNWGP outage due to City of Seattle fiber cable work,,,Verify against data,friedrich,2017-04-17T00:00:00Z
+RS01SBPS,,2015-01-31T00:00:00,2015-02-04T00:00:00,Intermittent partial data loss due to storage drive problems at OTB,,,Verify against data,friedrich,2017-04-17T00:00:00Z
+RS01SBPS,,2015-01-07T07:32:00,2015-01-07T08:06:00,PNWGP Portland <-> Seattle outage,,,Verify against data,friedrich,2017-04-17T00:00:00Z
+RS01SBPS,,2014-12-07T19:45:00,2014-12-16T00:00:00,"PFE down. HVPS1 MOV explosion, 800A breaker tripped, investigation and restoration",,,Verify against data,friedrich,2017-04-17T00:00:00Z
+RS01SBPS-SF01A,,,,,,,,,2017-04-17T00:00:00Z
+RS01SBPS-PC01A-4A-CTDPFA103,1,2014-09-29T01:53:00Z,2014-10-02T22:20:26Z,,NOT_AVAILABLE,,check: difference between data begin and deployment begin date is: 3 days 20:27:26,friedrich,2017-04-17T00:00:00Z
+RS01SBPS-PC01A-4A-CTDPFA103,1,2014-11-04T16:05:51Z,2014-11-05T19:23:27Z,,NOT_AVAILABLE,,check: data gap,friedrich,2017-04-17T00:00:00Z
+RS01SBPS-PC01A-4A-CTDPFA103,1,2014-11-14T18:36:14Z,2014-11-17T18:22:23Z,,NOT_AVAILABLE,,check: data gap,friedrich,2017-04-17T00:00:00Z
+RS01SBPS-PC01A-4A-CTDPFA103,1,2014-12-07T20:59:40Z,2014-12-16T20:51:19Z,,NOT_AVAILABLE,,check: data gap,friedrich,2017-04-17T00:00:00Z
+RS01SBPS-PC01A-4A-CTDPFA103,1,2015-02-01T20:36:30Z,2015-02-03T09:56:43Z,,NOT_AVAILABLE,,check: data gap,friedrich,2017-04-17T00:00:00Z
+RS01SBPS-PC01A-4A-CTDPFA103,1,2015-03-07T23:04:22Z,2015-03-09T07:39:39Z,,NOT_AVAILABLE,,check: data gap,friedrich,2017-04-17T00:00:00Z
+RS01SBPS-PC01A-4A-CTDPFA103,2,2015-07-07T16:12:00Z,2015-07-08T20:37:13Z,,NOT_AVAILABLE,,check: difference between data begin and deployment begin date is: 1 days 04:25:13,friedrich,2017-04-17T00:00:00Z
+RS01SBPS-PC01A-4A-CTDPFA103,3,2017-01-09T18:30:53Z,2017-02-16T23:02:04Z,,NOT_AVAILABLE,,check: data gap,friedrich,2017-04-17T00:00:00Z

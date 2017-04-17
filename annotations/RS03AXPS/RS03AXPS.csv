@@ -1,38 +1,38 @@
-Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,reviewed_by
-RS03AXPS,,2017-02-15T14:43:06,2017-02-15T17:16:00,"On Wednesday, February 15, power to the North and South cable lines of the Cabled Array was interrupted and all deployed infrastructure went offline.  Power was restored on February 16. No hardware issue subsea was identified.",NOT_OPERATIONAL,11998,,friedrich
-RS03AXPS,,2017-01-09T18:32:00,2017-01-09T21:30:00,Lightning strike in Pacific City led to data interruption through isolation of both cable lines from shore station equipment.,NOT_OPERATIONAL,11776,,friedrich
-RS03AXPS-SF03A-2A-CTDPFA302,2,2016-04-15T22:10:02,2016-04-20T15:15:49,,NOT_OPERATIONAL,12133,,friedrich
-RS03AXPS-SF03A-2A-CTDPFA302,2,2016-04-20T18:34:58,2016-04-22T14:44:53,,NOT_OPERATIONAL,12133,,friedrich
-RS03AXPS-SF03A-2A-CTDPFA302,2,2016-04-22T17:46:52,2016-04-25T02:24:00,,NOT_OPERATIONAL,12133,,friedrich
-RS03AXPS-SF03A-2A-CTDPFA302,1,2014-10-30T05:47:42,2014-12-03T22:52:26,,NOT_OPERATIONAL,12133,,friedrich
-RS03AXPS-SF03A-2A-CTDPFA302,1,2014-12-07T20:59:39,2014-12-16T18:07:01,,NOT_OPERATIONAL,12133,,friedrich
-RS03AXPS-SF03A-2A-CTDPFA302,1,2015-02-01T20:36:30,2015-02-03T09:56:33,,NOT_OPERATIONAL,12133,,friedrich
-RS03AXPS-SF03A-2A-CTDPFA302,1,2015-02-26T17:01:52,2015-03-02T20:03:38,,NOT_OPERATIONAL,12133,,friedrich
-RS03AXPS-SF03A-2A-CTDPFA302,1,2015-03-07T23:10:59,2015-03-09T07:39:49,,NOT_OPERATIONAL,12133,,friedrich
-RS03AXPS-SF03A-2A-CTDPFA302,1,2015-03-30T17:11:48,2015-04-01T17:37:12,,NOT_OPERATIONAL,12133,,friedrich
-RS03AXPS-SF03A-2A-CTDPFA302,1,2015-04-09T18:26:38,2015-04-13T20:52:28,,NOT_OPERATIONAL,12133,,friedrich
-RS03AXPS-SF03A-2A-CTDPFA302,1,2015-06-19T22:02:17,2015-06-22T17:11:02,,NOT_OPERATIONAL,12133,,friedrich
-RS03AXPS-SF03A-2A-CTDPFA302,1,2015-07-01T16:46:48,2015-07-03T21:12:49,,NOT_OPERATIONAL,12133,,friedrich
-RS03AXPS-SF03A,1,,,Profiler sits at bottom during multiple time periods.,,,add node deployment number,friedrich
-RS03AXPS-SF03A,2,,,Profiler sits at bottom during multiple time periods.,,,add node deployment number,friedrich
-RS03AXPS-SF03A,3,,,"Profiler sits at bottom during multiple time periods. Since January 27th 2017, the profiler has been sitting at 50 meters because of an issue with the winch. ",,,add node deployment number,friedrich
-RS03AXPS-PC03A-4A-CTDPFA303,1,2014-11-04T16:05:51,2014-11-05T19:32:18,,NOT_OPERATIONAL,,,leila
-RS03AXPS-PC03A-4A-CTDPFA303,1,2014-11-14T18:36:30,2014-11-17T18:24:38,,NOT_OPERATIONAL,,,leila
-RS03AXPS-PC03A-4A-CTDPFA303,1,2014-12-07T20:59:39,2014-12-16T21:17:45,,NOT_OPERATIONAL,,,leila
-RS03AXPS-PC03A-4A-CTDPFA303,1,2015-02-01T20:36:30,2015-02-03T09:57:13,,NOT_OPERATIONAL,,,leila
-RS03AXPS-PC03A-4A-CTDPFA303,1,2015-03-07T23:06:52,2015-03-09T07:39:20,,NOT_OPERATIONAL,,,leila
-RS03AXPS-PC03A-4A-CTDPFA303,3,2017-02-15T14:43:05,2017-02-16T23:08:13,,NOT_OPERATIONAL,,,leila
-RS03AXPS,,2017-02-07T13:00:00,2017-02-07T15:00:00,Outage during PNWGP 1-hour router-maintenance,,,Verify against data,friedrich
-RS03AXPS,,2017-01-08T19:58:00,2017-01-08T21:41:00,Network outage during major Seattle utility power failure,,,Verify against data,friedrich
-RS03AXPS,,2016-12-22T01:50:00,2016-12-23T12:44:00,Fiber break in Portland due to train crash,,,Verify against data,friedrich
-RS03AXPS,,2016-12-17T18:00:00,2016-12-17T19:00:00,Corvalis data center lost power,,,Verify against data,friedrich
-RS03AXPS,,2016-07-12T02:53:00,2016-07-12T03:51:00,Unexplained loss of power at Pittock Building in Portland,,,Verify against data,friedrich
-RS03AXPS,,2016-05-20T16:33:00,2016-05-20T18:04:00,Fiber break between Portland and Pacific City,,,Verify against data,friedrich
-RS03AXPS,,2016-03-10T23:06:00,2016-03-11T09:30:00,Fiber break between Portland and Seattle,,,Verify against data,friedrich
-RS03AXPS,,2016-01-07T06:10:00,2016-01-07T06:52:00,Four 1-minute outages between Portland and Seattle due to maintenance,,,Verify against data,friedrich
-RS03AXPS,,2015-08-29T00:00:00,2015-08-29T00:30:00,Outage during major utility power failure in Seattle,,,Verify against data,friedrich
-RS03AXPS,,2015-06-13T00:00:00,2015-06-15T16:30:00,Network issues due to fire that damaged fibers between Portland and Seattle,,,Verify against data,friedrich
-RS03AXPS,,2015-03-21T14:10:00,2015-03-22T04:20:00,PNWGP outage due to City of Seattle fiber cable work,,,Verify against data,friedrich
-RS03AXPS,,2015-01-31T00:00:00,2015-02-04T00:00:00,Intermittent partial data loss due to storage drive problems at OTB,,,Verify against data,friedrich
-RS03AXPS,,2015-01-07T07:32:00,2015-01-07T08:06:00,PNWGP Portland <-> Seattle outage,,,Verify against data,friedrich
-RS03AXPS,,2014-12-07T19:45:00,2014-12-16T00:00:00,"PFE down. HVPS1 MOV explosion, 800A breaker tripped, investigation and restoration",,,Verify against data,friedrich
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+RS03AXPS,,2017-02-15T14:43:06,2017-02-15T17:16:00,"On Wednesday, February 15, power to the North and South cable lines of the Cabled Array was interrupted and all deployed infrastructure went offline.  Power was restored on February 16. No hardware issue subsea was identified.",NOT_OPERATIONAL,11998,,friedrich,2017-04-17T00:00:00Z
+RS03AXPS,,2017-01-09T18:32:00,2017-01-09T21:30:00,Lightning strike in Pacific City led to data interruption through isolation of both cable lines from shore station equipment.,NOT_OPERATIONAL,11776,,friedrich,2017-04-17T00:00:00Z
+RS03AXPS-SF03A-2A-CTDPFA302,2,2016-04-15T22:10:02,2016-04-20T15:15:49,,NOT_OPERATIONAL,12133,,friedrich,2017-04-17T00:00:00Z
+RS03AXPS-SF03A-2A-CTDPFA302,2,2016-04-20T18:34:58,2016-04-22T14:44:53,,NOT_OPERATIONAL,12133,,friedrich,2017-04-17T00:00:00Z
+RS03AXPS-SF03A-2A-CTDPFA302,2,2016-04-22T17:46:52,2016-04-25T02:24:00,,NOT_OPERATIONAL,12133,,friedrich,2017-04-17T00:00:00Z
+RS03AXPS-SF03A-2A-CTDPFA302,1,2014-10-30T05:47:42,2014-12-03T22:52:26,,NOT_OPERATIONAL,12133,,friedrich,2017-04-17T00:00:00Z
+RS03AXPS-SF03A-2A-CTDPFA302,1,2014-12-07T20:59:39,2014-12-16T18:07:01,,NOT_OPERATIONAL,12133,,friedrich,2017-04-17T00:00:00Z
+RS03AXPS-SF03A-2A-CTDPFA302,1,2015-02-01T20:36:30,2015-02-03T09:56:33,,NOT_OPERATIONAL,12133,,friedrich,2017-04-17T00:00:00Z
+RS03AXPS-SF03A-2A-CTDPFA302,1,2015-02-26T17:01:52,2015-03-02T20:03:38,,NOT_OPERATIONAL,12133,,friedrich,2017-04-17T00:00:00Z
+RS03AXPS-SF03A-2A-CTDPFA302,1,2015-03-07T23:10:59,2015-03-09T07:39:49,,NOT_OPERATIONAL,12133,,friedrich,2017-04-17T00:00:00Z
+RS03AXPS-SF03A-2A-CTDPFA302,1,2015-03-30T17:11:48,2015-04-01T17:37:12,,NOT_OPERATIONAL,12133,,friedrich,2017-04-17T00:00:00Z
+RS03AXPS-SF03A-2A-CTDPFA302,1,2015-04-09T18:26:38,2015-04-13T20:52:28,,NOT_OPERATIONAL,12133,,friedrich,2017-04-17T00:00:00Z
+RS03AXPS-SF03A-2A-CTDPFA302,1,2015-06-19T22:02:17,2015-06-22T17:11:02,,NOT_OPERATIONAL,12133,,friedrich,2017-04-17T00:00:00Z
+RS03AXPS-SF03A-2A-CTDPFA302,1,2015-07-01T16:46:48,2015-07-03T21:12:49,,NOT_OPERATIONAL,12133,,friedrich,2017-04-17T00:00:00Z
+RS03AXPS-SF03A,1,,,Profiler sits at bottom during multiple time periods.,,,add node deployment number,friedrich,2017-04-17T00:00:00Z
+RS03AXPS-SF03A,2,,,Profiler sits at bottom during multiple time periods.,,,add node deployment number,friedrich,2017-04-17T00:00:00Z
+RS03AXPS-SF03A,3,,,"Profiler sits at bottom during multiple time periods. Since January 27th 2017, the profiler has been sitting at 50 meters because of an issue with the winch. ",,,add node deployment number,friedrich,2017-04-17T00:00:00Z
+RS03AXPS-PC03A-4A-CTDPFA303,1,2014-11-04T16:05:51,2014-11-05T19:32:18,,NOT_OPERATIONAL,,,leila,2017-04-17T00:00:00Z
+RS03AXPS-PC03A-4A-CTDPFA303,1,2014-11-14T18:36:30,2014-11-17T18:24:38,,NOT_OPERATIONAL,,,leila,2017-04-17T00:00:00Z
+RS03AXPS-PC03A-4A-CTDPFA303,1,2014-12-07T20:59:39,2014-12-16T21:17:45,,NOT_OPERATIONAL,,,leila,2017-04-17T00:00:00Z
+RS03AXPS-PC03A-4A-CTDPFA303,1,2015-02-01T20:36:30,2015-02-03T09:57:13,,NOT_OPERATIONAL,,,leila,2017-04-17T00:00:00Z
+RS03AXPS-PC03A-4A-CTDPFA303,1,2015-03-07T23:06:52,2015-03-09T07:39:20,,NOT_OPERATIONAL,,,leila,2017-04-17T00:00:00Z
+RS03AXPS-PC03A-4A-CTDPFA303,3,2017-02-15T14:43:05,2017-02-16T23:08:13,,NOT_OPERATIONAL,,,leila,2017-04-17T00:00:00Z
+RS03AXPS,,2017-02-07T13:00:00,2017-02-07T15:00:00,Outage during PNWGP 1-hour router-maintenance,,,Verify against data,friedrich,2017-04-17T00:00:00Z
+RS03AXPS,,2017-01-08T19:58:00,2017-01-08T21:41:00,Network outage during major Seattle utility power failure,,,Verify against data,friedrich,2017-04-17T00:00:00Z
+RS03AXPS,,2016-12-22T01:50:00,2016-12-23T12:44:00,Fiber break in Portland due to train crash,,,Verify against data,friedrich,2017-04-17T00:00:00Z
+RS03AXPS,,2016-12-17T18:00:00,2016-12-17T19:00:00,Corvalis data center lost power,,,Verify against data,friedrich,2017-04-17T00:00:00Z
+RS03AXPS,,2016-07-12T02:53:00,2016-07-12T03:51:00,Unexplained loss of power at Pittock Building in Portland,,,Verify against data,friedrich,2017-04-17T00:00:00Z
+RS03AXPS,,2016-05-20T16:33:00,2016-05-20T18:04:00,Fiber break between Portland and Pacific City,,,Verify against data,friedrich,2017-04-17T00:00:00Z
+RS03AXPS,,2016-03-10T23:06:00,2016-03-11T09:30:00,Fiber break between Portland and Seattle,,,Verify against data,friedrich,2017-04-17T00:00:00Z
+RS03AXPS,,2016-01-07T06:10:00,2016-01-07T06:52:00,Four 1-minute outages between Portland and Seattle due to maintenance,,,Verify against data,friedrich,2017-04-17T00:00:00Z
+RS03AXPS,,2015-08-29T00:00:00,2015-08-29T00:30:00,Outage during major utility power failure in Seattle,,,Verify against data,friedrich,2017-04-17T00:00:00Z
+RS03AXPS,,2015-06-13T00:00:00,2015-06-15T16:30:00,Network issues due to fire that damaged fibers between Portland and Seattle,,,Verify against data,friedrich,2017-04-17T00:00:00Z
+RS03AXPS,,2015-03-21T14:10:00,2015-03-22T04:20:00,PNWGP outage due to City of Seattle fiber cable work,,,Verify against data,friedrich,2017-04-17T00:00:00Z
+RS03AXPS,,2015-01-31T00:00:00,2015-02-04T00:00:00,Intermittent partial data loss due to storage drive problems at OTB,,,Verify against data,friedrich,2017-04-17T00:00:00Z
+RS03AXPS,,2015-01-07T07:32:00,2015-01-07T08:06:00,PNWGP Portland <-> Seattle outage,,,Verify against data,friedrich,2017-04-17T00:00:00Z
+RS03AXPS,,2014-12-07T19:45:00,2014-12-16T00:00:00,"PFE down. HVPS1 MOV explosion, 800A breaker tripped, investigation and restoration",,,Verify against data,friedrich,2017-04-17T00:00:00Z

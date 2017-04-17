@@ -3,7 +3,7 @@ import os
 import sys
 import requests
 import time
-from ooi_data.postgres.model import * # be sure to pip install git+https://github.com/oceanobservatories/ooi-data@v0.0.5
+from ooi_data.postgres.model import * # be sure to pip install git+https://github.com/oceanobservatories/ooi-data@v0.0.5 and conda install -c conda-forge geoalchemy2
 
 # specify the path to the preload repo
 sys.path.append('/Users/knuth/Documents/ooi/repos/github/preload-database')

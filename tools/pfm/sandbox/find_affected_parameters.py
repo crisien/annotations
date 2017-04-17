@@ -3,8 +3,9 @@ import os
 import sys
 import requests
 import time
-from ooi_data.postgres.model import *
+from ooi_data.postgres.model import * # be sure to pip install git+https://github.com/oceanobservatories/ooi-data@v0.0.5
 
+# specify the path to the preload repo
 sys.path.append('/Users/knuth/Documents/ooi/repos/github/preload-database')
 
 from database import create_engine_from_url, create_scoped_session

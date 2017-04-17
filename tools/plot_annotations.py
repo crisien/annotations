@@ -14,10 +14,10 @@ import numpy as np
 
 # specify path to annotation csvs, reference designator and theoretical end date for ongoing deployment, specified as 'None' in asset management
 # (you can use the date on which you downloaded the data, for example.)
-assets = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/RS03AXPS/RS03AXPS.csv'
-stream = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/RS03AXPS/RS03AXPS-PC03A-4A-CTDPFA303/streamed-ctdpf_optode_sample.csv'
-parameters = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/RS03AXPS/RS03AXPS-PC03A-4A-CTDPFA303/streamed-ctdpf_optode_sample-parameters.csv'
-reference_designator = 'RS03AXPS-PC03A-4A-CTDPFA303'
+assets = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/RS01SBPS/RS01SBPS.csv'
+stream = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/RS01SBPS/RS01SBPS-PC01A-4A-CTDPFA103/streamed-ctdpf_optode_sample.csv'
+parameters = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/RS01SBPS/RS01SBPS-PC01A-4A-CTDPFA103/streamed-ctdpf_optode_sample-parameters.csv'
+reference_designator = 'RS01SBPS-PC01A-4A-CTDPFA103'
 # ongoing_dep_end = '2017-03-21T00:00:00'
 
 ## use this to manually specify deployment start and end times. comment block using ongoing_dep_end out accordingly.

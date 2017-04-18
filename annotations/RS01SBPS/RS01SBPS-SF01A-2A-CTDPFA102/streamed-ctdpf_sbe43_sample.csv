@@ -1,5 +1,5 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
-ctdpf_sbe43_sample,1,,,Platform sits at the bootom for the entire deployment,,,,friedrich,2017-04-17T00:00:00Z
+ctdpf_sbe43_sample,1,,,Platform sits at the bottom for the entire deployment.,,,,friedrich,2017-04-17T00:00:00Z
 ctdpf_sbe43_sample,1,2014-09-29T04:43:00Z,2014-10-06T22:05:23,,NOT_AVAILABLE,,,friedrich,2017-04-17T00:00:00Z
 ctdpf_sbe43_sample,1,2014-10-06T22:05:23,2014-10-12T03:22:11Z,,NOT_EVALUATED,,,friedrich,2017-04-17T00:00:00Z
 ctdpf_sbe43_sample,1,2014-10-12T03:22:11Z,2014-10-14T21:01:22Z,,NOT_AVAILABLE,,,friedrich,2017-04-17T00:00:00Z

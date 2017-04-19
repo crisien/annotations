@@ -1,0 +1,8 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdmo_ghqr_instrument_recovered,D00001,2015-03-15T21:30:01Z,2015-11-26T10:07:31Z,,NOT_EVALUATED,,check: evaluate parameters,lori,
+ctdmo_ghqr_instrument_recovered,D00002,2015-11-14T21:06:00Z,2015-11-23T21:15:03Z,,NOT_AVAILABLE,,check: difference between data begin and deployment begin date is: 9 days 00:09:03,lori,
+ctdmo_ghqr_instrument_recovered,D00002,2015-11-23T21:15:03Z,2015-11-23T21:15:03Z,,NOT_EVALUATED,,check: evaluate parameters,lori,
+ctdmo_ghqr_instrument_recovered,D00002,2015-11-23T21:15:03Z,2015-11-25T17:15:02Z,,NOT_AVAILABLE,,check: data gap: 1 days 19:59:59,lori,
+ctdmo_ghqr_instrument_recovered,D00002,2015-11-25T17:15:02Z,2015-11-25T18:15:02Z,,NOT_EVALUATED,,check: evaluate parameters,lori,
+ctdmo_ghqr_instrument_recovered,D00002,2015-11-25T18:15:02Z,2015-11-30T04:15:02Z,,NOT_AVAILABLE,,check: data gap: 4 days 10:00:00,lori,
+ctdmo_ghqr_instrument_recovered,D00002,2015-11-30T04:15:02Z,2016-11-08T10:07:31Z,,NOT_EVALUATED,,check: evaluate parameters,lori,

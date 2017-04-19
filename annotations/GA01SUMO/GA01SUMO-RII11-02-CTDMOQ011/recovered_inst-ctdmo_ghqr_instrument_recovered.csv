@@ -1,4 +1,4 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
 ctdmo_ghqr_instrument_recovered,D00001,2015-03-15T21:30:01Z,2015-11-26T10:07:31Z,,AVAILABLE,,,lori,2017-04-17T00:00:00Z
-ctdmo_ghqr_instrument_recovered,D00002,2015-11-14T21:06:00Z,2015-11-28T17:30:01Z,,NOT_AVAILABLE,,,lori,2017-04-17T00:00:00Z
+ctdmo_ghqr_instrument_recovered,D00002,2015-11-14T21:06:00Z,2015-11-28T17:30:01Z,,NOT_AVAILABLE,12238,Uframe is filtering out valid deployment data. Check when fix is implemented,lori,2017-04-17T00:00:00Z
 ctdmo_ghqr_instrument_recovered,D00002,2015-11-28T17:30:01Z,2016-11-08T10:07:31Z,,AVAILABLE,,,lori,2017-04-17T00:00:00Z

@@ -1,0 +1,5 @@
+Level,Deployment,StartTime,EndTime,Notes,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdmo_ghqr_imodem_instrument,D00001,2015-03-15T21:25:00Z,2015-03-15T21:30:01Z,0 days 00:05:01,,,check: difference between deploy start date and data file start date,lori,
+ctdmo_ghqr_imodem_instrument,D00002,2016-11-08T10:07:31Z,2016-11-08T10:10:00Z,0 days 00:02:29,,,check: difference between deploy end date and data file end date,lori,
+ctdmo_ghqr_imodem_instrument,D00003,2016-10-27T01:47:00Z,2016-10-27T12:07:32Z,0 days 10:20:32,,,check: difference between deploy start date and data file start date,lori,
+ctdmo_ghqr_imodem_instrument,D00003,2016-10-27T01:47:00Z,None,,,,check: no deployment end date in asset management,lori,

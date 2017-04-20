@@ -1,12 +1,49 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
-practical_salinity,,,,,,,,,
+practical_salinity,1,,,Multiple isolated spikes throughout the record,,,,friedrich,2017-04-17T00:00:00Z
+practical_salinity,3,2016-07-27T10,2016-07-30T17,"Data values are within plausible ranges, but lower than usual L0 conductivity values throughout the entire water column during this time period make the values suspect.",SUSPECT,,,friedrich,2017-04-17T00:00:00Z
+practical_salinity,2,2016-06-15T17,2016-06-19T17,"Data values are within plausible ranges, but lower than usual L0 conductivity values throughout the entire water column during this time period make the values suspect.",SUSPECT,,,friedrich,2017-04-17T00:00:00Z
+practical_salinity,2,2016-05-17T17,2016-05-25T08,"Data values are within plausible ranges, but lower than usual L0 conductivity values throughout the entire water column during this time period make the values suspect.",SUSPECT,,,friedrich,2017-04-17T00:00:00Z
+practical_salinity,2,2016-05-07T02,2016-05-10T06,"Data values are within plausible ranges, but lower than usual L0 conductivity values throughout the entire water column during this time period make the values suspect.",SUSPECT,,,friedrich,2017-04-17T00:00:00Z
+practical_salinity,2,2016-03-14T22,2016-03-20T10,"Data values are within plausible ranges, but lower than usual L0 conductivity values throughout the entire water column during this time period make the values suspect.",SUSPECT,,,friedrich,2017-04-17T00:00:00Z
+practical_salinity,2,2016-03-06T05,2016-03-09T07,"Data values are within plausible ranges, but lower than usual L0 conductivity values throughout the entire water column during this time period make the values suspect.",SUSPECT,,,friedrich,2017-04-17T00:00:00Z
+practical_salinity,2,2015-12-15T19,2016-01-07T09,"Data values are within plausible ranges, but lower than usual L0 conductivity values throughout the entire water column during this time period make the values suspect.",SUSPECT,,,friedrich,2017-04-17T00:00:00Z
 temperature,,,,,,,,,
 seawater_temperature,,,,,,,,,
-seawater_pressure,1,2015-05-28T00:00:00Z,2015-05-30T00:00:00Z,Large pressure spike around 2015-06-01,SUSPECT,,,friedrich,2017-04-17T00:00:00Z
-seawater_conductivity,,,,,,,,,
+seawater_pressure,1,2015-05-28T00:00:00Z,2015-05-30T00:00:00Z,Large pressure spike around 2015-06-01,,,,friedrich,2017-04-17T00:00:00Z
+seawater_conductivity,3,2016-07-27T10,2016-07-30T17,"Data values are within plausible ranges, but lower than usual L0 conductivity values throughout the entire water column during this time period make the values suspect.",SUSPECT,,,friedrich,2017-04-17T00:00:00Z
+seawater_conductivity,2,2016-06-15T17,2016-06-19T17,"Data values are within plausible ranges, but lower than usual L0 conductivity values throughout the entire water column during this time period make the values suspect.",SUSPECT,,,friedrich,2017-04-17T00:00:00Z
+seawater_conductivity,2,2016-05-17T17,2016-05-25T08,"Data values are within plausible ranges, but lower than usual L0 conductivity values throughout the entire water column during this time period make the values suspect.",SUSPECT,,,friedrich,2017-04-17T00:00:00Z
+seawater_conductivity,2,2016-05-07T02,2016-05-10T06,"Data values are within plausible ranges, but lower than usual L0 conductivity values throughout the entire water column during this time period make the values suspect.",SUSPECT,,,friedrich,2017-04-17T00:00:00Z
+seawater_conductivity,2,2016-03-14T22,2016-03-20T10,"Data values are within plausible ranges, but lower than usual L0 conductivity values throughout the entire water column during this time period make the values suspect.",SUSPECT,,,friedrich,2017-04-17T00:00:00Z
+seawater_conductivity,2,2016-03-06T05,2016-03-09T07,"Data values are within plausible ranges, but lower than usual L0 conductivity values throughout the entire water column during this time period make the values suspect.",SUSPECT,,,friedrich,2017-04-17T00:00:00Z
+seawater_conductivity,2,2015-12-15T19,2016-01-07T09,"Data values are within plausible ranges, but lower than usual L0 conductivity values throughout the entire water column during this time period make the values suspect.",SUSPECT,,,friedrich,2017-04-17T00:00:00Z
+seawater_conductivity,1,,,Multiple isolated spikes throughout the record,,,,friedrich,2017-04-17T00:00:00Z
+corrected_dissolved_oxygen,3,2016-09-19T21,2016-09-23T04,"Data values are within plausible ranges, but lower than usual values throughout the entire water column during this time period make the values suspect.",SUSPECT,,,friedrich,2017-04-17T00:00:00Z
+corrected_dissolved_oxygen,3,2016-07-27T10,2016-07-30T17,"Data values are within plausible ranges, but lower than usual L0 conductivity values throughout the entire water column during this time period make the values suspect.",SUSPECT,,,friedrich,2017-04-17T00:00:00Z
+corrected_dissolved_oxygen,2,2016-04-01T19,2016-04-14T08,"Data values are within plausible ranges, but lower than usual values throughout the entire water column during this time period make the values suspect.",SUSPECT,,,friedrich,2017-04-17T00:00:00Z
+corrected_dissolved_oxygen,2,2016-06-15T17,2016-06-19T17,"Data values are within plausible ranges, but lower than usual L0 conductivity values throughout the entire water column during this time period make the values suspect.",SUSPECT,,,friedrich,2017-04-17T00:00:00Z
+corrected_dissolved_oxygen,2,2016-05-17T17,2016-05-25T08,"Data values are within plausible ranges, but lower than usual L0 conductivity values throughout the entire water column during this time period make the values suspect.",SUSPECT,,,friedrich,2017-04-17T00:00:00Z
+corrected_dissolved_oxygen,2,2016-05-07T02,2016-05-10T06,"Data values are within plausible ranges, but lower than usual L0 conductivity values throughout the entire water column during this time period make the values suspect.",SUSPECT,,,friedrich,2017-04-17T00:00:00Z
+corrected_dissolved_oxygen,2,2016-03-14T22,2016-03-20T10,"Data values are within plausible ranges, but lower than usual L0 conductivity values throughout the entire water column during this time period make the values suspect.",SUSPECT,,,friedrich,2017-04-17T00:00:00Z
+corrected_dissolved_oxygen,2,2016-03-06T05,2016-03-09T07,"Data values are within plausible ranges, but lower than usual L0 conductivity values throughout the entire water column during this time period make the values suspect.",SUSPECT,,,friedrich,2017-04-17T00:00:00Z
+corrected_dissolved_oxygen,2,2015-12-15T19,2016-01-07T09,"Data values are within plausible ranges, but lower than usual L0 conductivity values throughout the entire water column during this time period make the values suspect.",SUSPECT,,,friedrich,2017-04-17T00:00:00Z
 corrected_dissolved_oxygen,,,,,,,,,
-pressure,1,2015-05-28T00:00:00Z,2015-05-30T00:00:00Z,Large pressure spike around 2015-06-01,SUSPECT,,,friedrich,2017-04-17T00:00:00Z
+pressure,1,2015-05-28T00:00:00Z,2015-05-30T00:00:00Z,Large pressure spike around 2015-06-01,,,,friedrich,2017-04-17T00:00:00Z
 pressure_temp,,,,,,,,,
 ext_volt0,,,,,,,,,
-density,,,,,,,,,
-conductivity,,,,,,,,,
+density,3,2016-07-27T10,2016-07-30T17,"Data values are within plausible ranges, but lower than usual L0 conductivity values throughout the entire water column during this time period make the values suspect.",SUSPECT,,,friedrich,2017-04-17T00:00:00Z
+density,2,2016-06-15T17,2016-06-19T17,"Data values are within plausible ranges, but lower than usual L0 conductivity values throughout the entire water column during this time period make the values suspect.",SUSPECT,,,friedrich,2017-04-17T00:00:00Z
+density,2,2016-05-17T17,2016-05-25T08,"Data values are within plausible ranges, but lower than usual L0 conductivity values throughout the entire water column during this time period make the values suspect.",SUSPECT,,,friedrich,2017-04-17T00:00:00Z
+density,2,2016-05-07T02,2016-05-10T06,"Data values are within plausible ranges, but lower than usual L0 conductivity values throughout the entire water column during this time period make the values suspect.",SUSPECT,,,friedrich,2017-04-17T00:00:00Z
+density,2,2016-03-14T22,2016-03-20T10,"Data values are within plausible ranges, but lower than usual L0 conductivity values throughout the entire water column during this time period make the values suspect.",SUSPECT,,,friedrich,2017-04-17T00:00:00Z
+density,2,2016-03-06T05,2016-03-09T07,"Data values are within plausible ranges, but lower than usual L0 conductivity values throughout the entire water column during this time period make the values suspect.",SUSPECT,,,friedrich,2017-04-17T00:00:00Z
+density,2,2015-12-15T19,2016-01-07T09,"Data values are within plausible ranges, but lower than usual L0 conductivity values throughout the entire water column during this time period make the values suspect.",SUSPECT,,,friedrich,2017-04-17T00:00:00Z
+density,1,,,Multiple isolated spikes throughout the record,,,,friedrich,2017-04-17T00:00:00Z
+conductivity,3,2016-07-27T10,2016-07-30T17,"Data values are within plausible ranges, but lower than usual values throughout the entire water column during this time period make the values suspect.",SUSPECT,,,friedrich,2017-04-17T00:00:00Z
+conductivity,2,2016-06-15T17,2016-06-19T17,"Data values are within plausible ranges, but lower than usual values throughout the entire water column during this time period make the values suspect.",SUSPECT,,,friedrich,2017-04-17T00:00:00Z
+conductivity,2,2016-05-17T17,2016-05-25T08,"Data values are within plausible ranges, but lower than usual values throughout the entire water column during this time period make the values suspect.",SUSPECT,,,friedrich,2017-04-17T00:00:00Z
+conductivity,2,2016-05-07T02,2016-05-10T06,"Data values are within plausible ranges, but lower than usual values throughout the entire water column during this time period make the values suspect.",SUSPECT,,,friedrich,2017-04-17T00:00:00Z
+conductivity,2,2016-03-14T22,2016-03-20T10,"Data values are within plausible ranges, but lower than usual values throughout the entire water column during this time period make the values suspect.",SUSPECT,,,friedrich,2017-04-17T00:00:00Z
+conductivity,2,2016-03-06T05,2016-03-09T07,"Data values are within plausible ranges, but lower than usual values throughout the entire water column during this time period make the values suspect.",SUSPECT,,,friedrich,2017-04-17T00:00:00Z
+conductivity,2,2015-12-15T19,2016-01-07T09,"Data values are within plausible ranges, but lower than usual values throughout the entire water column during this time period make the values suspect.",SUSPECT,,,friedrich,2017-04-17T00:00:00Z
+conductivity,1,,,Multiple isolated spikes throughout the record,,,,friedrich,2017-04-17T00:00:00Z

@@ -1,0 +1,10 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+practical_salinity,D00002,2016-02-01T00:00:00Z,2016-02-03T12:00:00Z,"Sharp drop in conductivity, with corresponding drops in salinity and density. Similar pattern not observed in data from CTDs deployed 20m above (GA01SUMO-RII11-02-CTDMOQ011: 20m) and 20m below (GA01SUMO-RII11-02-CTDMOQ012: 60m) this instrument.",SUSPECT,,,lori,2017-04-17T00:00:00Z
+temperature,,,,,,,,lori,2017-04-17T00:00:00Z
+density,D00002,2016-02-01T00:00:00Z,2016-02-03T12:00:00Z,"Sharp drop in conductivity, with corresponding drops in salinity and density. Similar pattern not observed in data from CTDs deployed 20m above (GA01SUMO-RII11-02-CTDMOQ011: 20m) and 20m below (GA01SUMO-RII11-02-CTDMOQ012: 60m) this instrument.",SUSPECT,,,lori,2017-04-17T00:00:00Z
+ctdbp_seawater_conductivity,D00002,2016-02-01T00:00:00Z,2016-02-03T12:00:00Z,"Sharp drop in conductivity, with corresponding drops in salinity and density. Similar pattern not observed in data from CTDs deployed 20m above (GA01SUMO-RII11-02-CTDMOQ011: 20m) and 20m below (GA01SUMO-RII11-02-CTDMOQ012: 60m) this instrument.",SUSPECT,,,lori,2017-04-17T00:00:00Z
+ctdbp_seawater_pressure,,,,,,,,lori,2017-04-17T00:00:00Z
+pressure,,,,,,,,lori,2017-04-17T00:00:00Z
+pressure_temp,,,,,,,,lori,2017-04-17T00:00:00Z
+ctdbp_seawater_temperature,,,,,,,,lori,2017-04-17T00:00:00Z
+conductivity,D00002,2016-02-01T00:00:00Z,2016-02-03T12:00:00Z,"Sharp drop in conductivity, with corresponding drops in salinity and density. Similar pattern not observed in data from CTDs deployed 20m above (GA01SUMO-RII11-02-CTDMOQ011: 20m) and 20m below (GA01SUMO-RII11-02-CTDMOQ012: 60m) this instrument.",SUSPECT,,,lori,2017-04-17T00:00:00Z

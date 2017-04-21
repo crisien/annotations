@@ -1,0 +1,16 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdmo_ghqr_imodem_instrument_recovered,D00001,2015-03-15T21:30:01Z,2015-10-08T23:07:31Z,,AVAILABLE,,,lori,2017-04-20T00:00:00Z
+ctdmo_ghqr_imodem_instrument_recovered,D00001,2015-10-08T23:07:31Z,2015-10-31T05:22:31Z,,NOT_AVAILABLE,,,lori,2017-04-20T00:00:00Z
+ctdmo_ghqr_imodem_instrument_recovered,D00001,2015-10-31T05:22:31Z,2015-11-26T10:07:31Z,,AVAILABLE,,,lori,2017-04-20T00:00:00Z
+ctdmo_ghqr_imodem_instrument_recovered,D00002,2015-11-15T15:15:04Z,2015-11-26T16:15:01Z,,NOT_AVAILABLE,12238,Uframe is filtering out valid deployment data. Check when fix is implemented,lori,2017-04-20T00:00:00Z
+ctdmo_ghqr_imodem_instrument_recovered,D00002,2015-11-26T16:15:01Z,2015-12-04T09:15:01Z,,AVAILABLE,,,lori,2017-04-20T00:00:00Z
+ctdmo_ghqr_imodem_instrument_recovered,D00002,2015-12-04T09:15:01Z,2015-12-12T18:00:01Z,,NOT_AVAILABLE,,,lori,2017-04-20T00:00:00Z
+ctdmo_ghqr_imodem_instrument_recovered,D00002,2015-12-12T18:00:01Z,2016-01-06T22:15:01Z,,AVAILABLE,,,lori,2017-04-20T00:00:00Z
+ctdmo_ghqr_imodem_instrument_recovered,D00002,2016-01-06T22:15:01Z,2016-01-10T09:07:31Z,,NOT_AVAILABLE,,,lori,2017-04-20T00:00:00Z
+ctdmo_ghqr_imodem_instrument_recovered,D00002,2016-01-10T09:07:31Z,2016-02-05T03:15:01Z,,AVAILABLE,,,lori,2017-04-20T00:00:00Z
+ctdmo_ghqr_imodem_instrument_recovered,D00002,2016-02-05T03:15:01Z,2016-02-09T15:15:01Z,,NOT_AVAILABLE,,,lori,2017-04-20T00:00:00Z
+ctdmo_ghqr_imodem_instrument_recovered,D00002,2016-02-09T15:15:01Z,2016-03-11T22:15:01Z,,AVAILABLE,,,lori,2017-04-20T00:00:00Z
+ctdmo_ghqr_imodem_instrument_recovered,D00002,2016-03-11T22:15:01Z,2016-03-13T09:07:31Z,,NOT_AVAILABLE,,,lori,2017-04-20T00:00:00Z
+ctdmo_ghqr_imodem_instrument_recovered,D00002,2016-03-13T09:07:31Z,2016-06-28T13:15:01Z,,AVAILABLE,,,lori,2017-04-20T00:00:00Z
+ctdmo_ghqr_imodem_instrument_recovered,D00002,2016-06-28T13:15:01Z,2016-07-04T07:07:31Z,,NOT_AVAILABLE,,,lori,2017-04-20T00:00:00Z
+ctdmo_ghqr_imodem_instrument_recovered,D00002,2016-07-04T07:07:31Z,2016-11-08T10:07:31Z,,AVAILABLE,,,lori,2017-04-20T00:00:00Z

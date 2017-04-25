@@ -13,3 +13,4 @@ GA01SUMO-RII11-02-CTDMOQ016,,,,,,12238,Uframe is filtering out valid deployment 
 GA01SUMO-RII11-02-CTDMOQ017,,,,,,12238,Uframe is filtering out valid deployment data. Check when fix is implemented,lori,2017-04-20T00:00:00Z
 GA01SUMO-RII11-02-CTDMOQ031,,,,,,,,lori,2017-04-21T00:00:00Z
 GA01SUMO-RII11-02-CTDMOQ033,,,,,,,,lori,2017-04-21T00:00:00Z
+GA01SUMO-RII11-02-CTDMOR018,,,,,,"12238, 12250",1) Uframe is filtering out valid deployment data. Check when fix is implemented. 2) Deploy 2 and 3 pressure values are incorrect. I suspect CC_p_range values are incorrect.,lori,2017-04-24T00:00:00Z

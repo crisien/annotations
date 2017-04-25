@@ -4,6 +4,8 @@ GA01SUMO-RID16,,,,,,,,lori,2017-04-13T00:00:00Z
 GA01SUMO-RID16-03-CTDBPF000,,,,,,,,lori,2017-04-13T00:00:00Z
 GA01SUMO-RII11,,,,,,,,lori,2017-04-17T00:00:00Z
 GA01SUMO-RII11-02-CTDBPP031,D00002,2016-04-28T17:23:21Z,2016-11-08T10:10:00Z,Instrument failed. No data available for the remainder of the deployment.,NOT_AVAILABLE,"11178, 12238",Uframe is filtering out valid deployment data. Check when fix is implemented,lori,2017-04-17T00:00:00Z
+GA01SUMO-RII11-02-CTDBPP032,D00002,2016-06-06T22:00:03Z,2016-11-08T10:10:00Z,Instrument failed. No data available for the remainder of the deployment.,NOT_AVAILABLE,11178,,lori,2017-04-25T00:00:00Z
+GA01SUMO-RII11-02-CTDBPP033,D00002,2016-05-23T02:00:03Z,2016-11-08T10:10:00Z,Instrument failed. No data available for the remainder of the deployment.,NOT_AVAILABLE,11178,,lori,2017-04-25T00:00:00Z
 GA01SUMO-RII11-02-CTDMOQ011,,,,,,12238,Uframe is filtering out valid deployment data. Check when fix is implemented,lori,2017-04-17T00:00:00Z
 GA01SUMO-RII11-02-CTDMOQ012,,,,,,12238,Uframe is filtering out valid deployment data. Check when fix is implemented,lori,2017-04-17T00:00:00Z
 GA01SUMO-RII11-02-CTDMOQ013,,,,,,12238,Uframe is filtering out valid deployment data. Check when fix is implemented,lori,2017-04-19T00:00:00Z
@@ -14,3 +16,5 @@ GA01SUMO-RII11-02-CTDMOQ017,,,,,,12238,Uframe is filtering out valid deployment 
 GA01SUMO-RII11-02-CTDMOQ031,,,,,,,,lori,2017-04-21T00:00:00Z
 GA01SUMO-RII11-02-CTDMOQ033,,,,,,,,lori,2017-04-21T00:00:00Z
 GA01SUMO-RII11-02-CTDMOR018,,,,,,"12238, 12250",1) Uframe is filtering out valid deployment data. Check when fix is implemented. 2) Deploy 2 and 3 pressure values are incorrect. I suspect CC_p_range values are incorrect.,lori,2017-04-24T00:00:00Z
+GA01SUMO-RII11-02-CTDMOR019,,,,,,"12238, 12250",1) Uframe is filtering out valid deployment data. Check when fix is implemented. 2) Deploy 2 and 3 pressure values are incorrect. I suspect CC_p_range values are incorrect.,lori,2017-04-25T00:00:00Z
+GA01SUMO-RII11-02-CTDMOR020,,,,,,,,lori,2017-04-25T00:00:00Z

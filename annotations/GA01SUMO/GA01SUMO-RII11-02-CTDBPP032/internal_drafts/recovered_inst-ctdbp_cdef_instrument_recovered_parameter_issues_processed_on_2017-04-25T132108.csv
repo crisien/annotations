@@ -1,0 +1,12 @@
+Level,Deployment,StartTime,EndTime,Notes,Test,Redmine#,Todo,ReviewedBy,ReviewedDate
+practical_salinity,D00002,2015-11-14T22:00:03Z,2016-06-06T22:00:03Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,lori,
+temperature,D00002,2015-11-14T22:00:03Z,2016-06-06T22:00:03Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,lori,
+density,D00002,2015-11-14T22:00:03Z,2016-06-06T22:00:03Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,lori,
+ctdbp_seawater_conductivity,D00002,2015-11-14T22:00:03Z,2016-06-06T22:00:03Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,lori,
+ctdbp_seawater_pressure,D00002,2015-11-14T22:00:03Z,2016-06-06T22:00:03Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,lori,
+pressure,D00002,2015-11-14T22:00:03Z,2016-06-06T22:00:03Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 6000.0,lori,
+pressure,D00002,2015-11-14T22:00:03Z,2016-06-06T22:00:03Z,applies to one file,Global Range QC Test,,check: test triggered,lori,
+pressure_temp,D00002,2015-11-14T22:00:03Z,2016-06-06T22:00:03Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,lori,
+ctdbp_seawater_temperature,D00002,2015-11-14T22:00:03Z,2016-06-06T22:00:03Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,lori,
+conductivity,D00002,2015-11-14T22:00:03Z,2016-06-06T22:00:03Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 6.0,lori,
+conductivity,D00002,2015-11-14T22:00:03Z,2016-06-06T22:00:03Z,applies to one file,Global Range QC Test,,check: test triggered,lori,

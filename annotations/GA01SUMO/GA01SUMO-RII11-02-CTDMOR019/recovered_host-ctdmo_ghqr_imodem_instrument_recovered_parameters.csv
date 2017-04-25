@@ -1,0 +1,9 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+practical_salinity,D00002,2015-11-14T21:07:31Z,2016-11-08T09:15:01Z,Pressure values are registering around 280 dbar when the instrument is deployed at 1000 m. Incorrect pressure values affect salinity. Investigation pending.,FAIL,12250,Waiting for response from MIO,lori,2017-04-25T00:00:00Z
+temperature,,,,,,,,lori,2017-04-25T00:00:00Z
+density,D00002,2015-11-14T21:07:31Z,2016-11-08T09:15:01Z,Pressure values are registering around 280 dbar when the instrument is deployed at 1000 m. Incorrect pressure values affect density. Investigation pending.,FAIL,12250,Waiting for response from MIO,lori,2017-04-25T00:00:00Z
+ctdmo_seawater_temperature,,,,,,,,lori,2017-04-25T00:00:00Z
+ctdmo_seawater_pressure,D00002,2015-11-14T21:07:31Z,2016-11-08T09:15:01Z,Pressure values are registering around 280 dbar when the instrument is deployed at 1000 m. Investigation pending.,FAIL,12250,Waiting for response from MIO,lori,2017-04-25T00:00:00Z
+pressure,,,,,,,,lori,2017-04-25T00:00:00Z
+ctdmo_seawater_conductivity,,,,,,,,lori,2017-04-25T00:00:00Z
+conductivity,,,,,,,,lori,2017-04-25T00:00:00Z

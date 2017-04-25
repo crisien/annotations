@@ -1,0 +1,11 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdbp_p_dcl_instrument_recovered,D00002,2015-11-14T22:00:03Z,2015-12-04T09:00:03Z,,AVAILABLE,,,lori,2017-04-25T00:00:00Z
+ctdbp_p_dcl_instrument_recovered,D00002,2015-12-04T09:00:03Z,2015-12-14T01:00:03Z,,NOT_AVAILABLE,,,lori,2017-04-25T00:00:00Z
+ctdbp_p_dcl_instrument_recovered,D00002,2015-12-14T01:00:03Z,2016-01-06T22:00:03Z,,AVAILABLE,,,lori,2017-04-25T00:00:00Z
+ctdbp_p_dcl_instrument_recovered,D00002,2016-01-06T22:00:03Z,2016-01-11T16:00:03Z,,NOT_AVAILABLE,,,lori,2017-04-25T00:00:00Z
+ctdbp_p_dcl_instrument_recovered,D00002,2016-01-11T16:00:03Z,2016-02-05T03:00:03Z,,AVAILABLE,,,lori,2017-04-25T00:00:00Z
+ctdbp_p_dcl_instrument_recovered,D00002,2016-02-05T03:00:03Z,2016-02-10T22:00:03Z,,NOT_AVAILABLE,,,lori,2017-04-25T00:00:00Z
+ctdbp_p_dcl_instrument_recovered,D00002,2016-02-10T22:00:03Z,2016-03-11T22:00:03Z,,AVAILABLE,,,lori,2017-04-25T00:00:00Z
+ctdbp_p_dcl_instrument_recovered,D00002,2016-03-11T22:00:03Z,2016-03-14T16:00:03Z,,NOT_AVAILABLE,,,lori,2017-04-25T00:00:00Z
+ctdbp_p_dcl_instrument_recovered,D00002,2016-03-14T16:00:03Z,2016-04-12T06:00:03Z,,AVAILABLE,,,lori,2017-04-25T00:00:00Z
+ctdbp_p_dcl_instrument_recovered,D00002,2016-04-12T06:00:03Z,2016-11-08T10:10:00Z,Instrument failed. No data available for the remainder of the deployment.,NOT_AVAILABLE,11178,,lori,2017-04-25T00:00:00Z

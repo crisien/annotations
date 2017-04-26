@@ -1,0 +1,14 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdpf_sbe43_sample,D00001,2014-08-30T21:51:00Z,2014-11-05T21:30:49Z,,NOT_AVAILABLE,,check: difference between data begin and deployment begin date is: 66 days 23:39:49,Leila,2017-04-10T00:00:00Z
+ctdpf_sbe43_sample,D00001,2014-11-05T21:30:49Z,2015-08-01T14:13:32Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-04-10T00:00:00Z
+ctdpf_sbe43_sample,D00002,2015-08-03T04:05:43Z,2016-04-14T19:55:47Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-04-10T00:00:00Z
+ctdpf_sbe43_sample,D00002,2016-04-14T19:55:47Z,2016-04-19T23:05:49Z,,NOT_AVAILABLE,,check: data gap: 5 days 03:10:02,Leila,2017-04-10T00:00:00Z
+ctdpf_sbe43_sample,D00002,2016-04-19T23:05:49Z,2016-04-23T15:10:16Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-04-10T00:00:00Z
+ctdpf_sbe43_sample,D00002,2016-04-23T15:10:16Z,2016-04-25T02:23:59Z,,NOT_AVAILABLE,,check: data gap: 1 days 11:13:43,Leila,2017-04-10T00:00:00Z
+ctdpf_sbe43_sample,D00002,2016-04-25T02:23:59Z,2016-07-16T06:52:54Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-04-10T00:00:00Z
+ctdpf_sbe43_sample,D00002,2016-07-16T06:52:54Z,2016-07-18T00:00:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 1 days 17:07:06,Leila,2017-04-10T00:00:00Z
+ctdpf_sbe43_sample,D00003,2016-07-19T08:00:00Z,2017-01-09T18:30:53Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-04-10T00:00:00Z
+ctdpf_sbe43_sample,D00003,2017-01-09T18:30:53Z,2017-01-11T01:09:09Z,,NOT_AVAILABLE,,check: data gap: 1 days 06:38:16,Leila,2017-04-10T00:00:00Z
+ctdpf_sbe43_sample,D00003,2017-01-11T01:09:09Z,2017-02-15T14:43:05Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-04-10T00:00:00Z
+ctdpf_sbe43_sample,D00003,2017-02-15T14:43:05Z,2017-02-16T23:31:07Z,,NOT_AVAILABLE,,check: data gap: 1 days 08:48:02,Leila,2017-04-10T00:00:00Z
+ctdpf_sbe43_sample,D00003,2017-02-16T23:31:07Z,2017-04-10T16:00:15Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-04-10T00:00:00Z

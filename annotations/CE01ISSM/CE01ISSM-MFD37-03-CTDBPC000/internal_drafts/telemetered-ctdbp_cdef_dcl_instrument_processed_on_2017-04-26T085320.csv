@@ -1,0 +1,29 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdbp_cdef_dcl_instrument,D00002,2014-10-11T00:30:19Z,2014-10-11T00:30:19Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00002,2014-10-11T00:30:19Z,2014-10-12T00:30:19Z,,NOT_AVAILABLE,,check: data gap,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00002,2014-10-12T00:30:19Z,2014-10-13T00:30:18Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00002,2014-10-13T00:30:18Z,2015-04-12T00:30:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 180 days 23:59:42,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00003,2015-06-03T18:29:19Z,2015-08-24T21:29:18Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00003,2015-08-24T21:29:18Z,2015-10-07T00:00:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 43 days 02:30:42,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00006,2016-09-30T16:45:00Z,2016-11-18T20:35:10Z,,NOT_AVAILABLE,,check: difference between data begin and deployment begin date is: 49 days 03:50:10,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00006,2016-11-18T20:35:10Z,2016-11-18T20:35:10Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00006,2016-11-18T20:35:10Z,2016-11-25T00:35:10Z,,NOT_AVAILABLE,,check: data gap: 6 days 04:00:00,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00006,2016-11-25T00:35:10Z,2016-11-25T04:35:10Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00006,2016-11-25T04:35:10Z,2016-11-27T16:35:10Z,,NOT_AVAILABLE,,check: data gap: 2 days 12:00:00,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00006,2016-11-27T16:35:10Z,2016-11-27T16:35:10Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00006,2016-11-27T16:35:10Z,2016-12-05T12:35:10Z,,NOT_AVAILABLE,,check: data gap: 7 days 20:00:00,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00006,2016-12-05T12:35:10Z,2016-12-07T12:35:10Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00006,2016-12-07T12:35:10Z,2016-12-09T00:35:10Z,,NOT_AVAILABLE,,check: data gap: 1 days 12:00:00,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00006,2016-12-09T00:35:10Z,2016-12-09T00:35:10Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00006,2016-12-09T00:35:10Z,2016-12-15T16:35:10Z,,NOT_AVAILABLE,,check: data gap: 6 days 16:00:00,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00006,2016-12-15T16:35:10Z,2016-12-15T16:35:10Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00006,2016-12-15T16:35:10Z,2016-12-18T04:35:10Z,,NOT_AVAILABLE,,check: data gap: 2 days 12:00:00,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00006,2016-12-18T04:35:10Z,2016-12-18T12:35:10Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00006,2016-12-18T12:35:10Z,2016-12-28T20:35:10Z,,NOT_AVAILABLE,,check: data gap: 10 days 08:00:00,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00006,2016-12-28T20:35:10Z,2016-12-29T16:35:10Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00006,2016-12-29T16:35:10Z,2016-12-31T12:35:10Z,,NOT_AVAILABLE,,check: data gap: 1 days 20:00:00,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00006,2016-12-31T12:35:10Z,2016-12-31T12:35:10Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00006,2016-12-31T12:35:10Z,2017-01-04T16:35:09Z,,NOT_AVAILABLE,,check: data gap: 4 days 03:59:59,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00006,2017-01-04T16:35:09Z,2017-01-04T20:35:09Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00006,2017-01-04T20:35:09Z,2017-01-20T00:35:20Z,,NOT_AVAILABLE,,check: data gap: 15 days 04:00:11,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00006,2017-01-20T00:35:20Z,2017-01-21T23:35:20Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-04-26T00:00:00Z

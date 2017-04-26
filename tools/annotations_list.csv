@@ -1,0 +1,65 @@
+,Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+0,CE02SHBP,,2017-02-15T14:43:06,2017-02-15T17:16:00,"On Wednesday, February 15, power to the North and South cable lines of the Cabled Array was interrupted and all deployed infrastructure went offline.  Power was restored on February 16. No hardware issue subsea was identified.",NOT_OPERATIONAL,11998.0,,friedrich,2017-03-29T00:00:00Z
+1,CE02SHBP,,2017-01-09T18:32:00,2017-01-09T21:30:00,Lightning strike in Pacific City led to data interruption through isolation of both cable lines from shore station equipment.,NOT_OPERATIONAL,11776.0,,friedrich,2017-03-29T00:00:00Z
+2,CE02SHBP,,2017-02-07T13:00:00,2017-02-07T15:00:00,Outage during PNWGP 1-hour router-maintenance,,12264.0,Verify against data,friedrich,2017-03-29T00:00:00Z
+3,CE02SHBP,,2017-01-08T19:58:00,2017-01-08T21:41:00,Network outage during major Seattle utility power failure,,12264.0,Verify against data,friedrich,2017-03-29T00:00:00Z
+4,CE02SHBP,,2016-12-22T01:50:00,2016-12-23T12:44:00,Fiber break in Portland due to train crash,,12264.0,Verify against data,friedrich,2017-03-29T00:00:00Z
+5,CE02SHBP,,2016-12-17T18:00:00,2016-12-17T19:00:00,Corvalis data center lost power,,12264.0,Verify against data,friedrich,2017-03-29T00:00:00Z
+6,CE02SHBP,,2016-07-12T02:53:00,2016-07-12T03:51:00,Unexplained loss of power at Pittock Building in Portland,,12264.0,Verify against data,friedrich,2017-03-29T00:00:00Z
+7,CE02SHBP,,2016-05-20T16:33:00,2016-05-20T18:04:00,Fiber break between Portland and Pacific City,,12264.0,Verify against data,friedrich,2017-03-29T00:00:00Z
+8,CE02SHBP,,2016-03-10T23:06:00,2016-03-11T09:30:00,Fiber break between Portland and Seattle,,12264.0,Verify against data,friedrich,2017-03-29T00:00:00Z
+9,CE02SHBP,,2016-01-07T06:10:00,2016-01-07T06:52:00,Four 1-minute outages between Portland and Seattle due to maintenance,,12264.0,Verify against data,friedrich,2017-03-29T00:00:00Z
+10,CE02SHBP,,2015-08-29T00:00:00,2015-08-29T00:30:00,Outage during major utility power failure in Seattle,,12264.0,Verify against data,friedrich,2017-03-29T00:00:00Z
+11,CE02SHBP,,2015-06-13T00:00:00,2015-06-15T16:30:00,Network issues due to fire that damaged fibers between Portland and Seattle,,12264.0,Verify against data,friedrich,2017-03-29T00:00:00Z
+12,CE02SHBP,,2015-03-21T14:10:00,2015-03-22T04:20:00,PNWGP outage due to City of Seattle fiber cable work,,12264.0,Verify against data,friedrich,2017-03-29T00:00:00Z
+13,CE02SHBP,,2015-01-31T00:00:00,2015-02-04T00:00:00,Intermittent partial data loss due to storage drive problems at OTB,,12264.0,Verify against data,friedrich,2017-03-29T00:00:00Z
+14,CE02SHBP,,2015-01-07T07:32:00,2015-01-07T08:06:00,PNWGP Portland <-> Seattle outage,,12264.0,Verify against data,friedrich,2017-03-29T00:00:00Z
+15,CE02SHBP,,2014-12-07T19:45:00,2014-12-16T00:00:00,"PFE down. HVPS1 MOV explosion, 800A breaker tripped, investigation and restoration",,12264.0,Verify against data,friedrich,2017-03-29T00:00:00Z
+0,ctdbp_no_sample,D00001,2014-09-10T15:43:00Z,2014-09-25T18:17:58Z,Exact cause of data gap at beginning of deployment currently unknown. Most likely due to testing as the instrument was coming online.,NOT_AVAILABLE,,check: difference between data begin and deployment begin date is: 15 days 02:34:58,friedrich,2017-03-29T00:00:00Z
+1,ctdbp_no_sample,D00001,2014-09-25T18:17:58Z,2014-11-04T16:05:52Z,,AVAILABLE,,check: evaluate parameters,friedrich,2017-03-29T00:00:00Z
+2,ctdbp_no_sample,D00001,2014-11-04T16:05:52Z,2014-11-05T19:04:12Z,,NOT_AVAILABLE,,check: data gap: 1 days 02:58:20,friedrich,2017-03-29T00:00:00Z
+3,ctdbp_no_sample,D00001,2014-11-05T19:04:12Z,2014-11-14T18:23:38Z,,AVAILABLE,,check: evaluate parameters,friedrich,2017-03-29T00:00:00Z
+4,ctdbp_no_sample,D00001,2014-11-14T18:23:38Z,2014-11-17T18:05:43Z,,NOT_AVAILABLE,,check: data gap: 2 days 23:42:05,friedrich,2017-03-29T00:00:00Z
+5,ctdbp_no_sample,D00001,2014-11-17T18:05:43Z,2014-12-07T20:59:40Z,,AVAILABLE,,check: evaluate parameters,friedrich,2017-03-29T00:00:00Z
+6,ctdbp_no_sample,D00001,2014-12-07T20:59:40Z,2014-12-16T22:38:15Z,"PFE down. HVPS1 MOV explosion, 800A breaker tripped, investigation and restoration",NOT_AVAILABLE,12264.0,check: data gap: 9 days 01:38:35,friedrich,2017-03-29T00:00:00Z
+7,ctdbp_no_sample,D00001,2014-12-16T22:38:15Z,2015-01-31T23:59:59Z,,AVAILABLE,,check: evaluate parameters,friedrich,2017-03-29T00:00:00Z
+8,ctdbp_no_sample,D00001,2015-01-31T23:59:59Z,2015-02-03T09:56:42Z,Intermittent partial data loss due to storage drive problems at OTB,NOT_AVAILABLE,12264.0,check: data gap: 2 days 09:56:43,friedrich,2017-03-29T00:00:00Z
+9,ctdbp_no_sample,D00001,2015-02-03T09:56:42Z,2015-02-26T16:51:09Z,,AVAILABLE,,check: evaluate parameters,friedrich,2017-03-29T00:00:00Z
+10,ctdbp_no_sample,D00001,2015-02-26T16:51:09Z,2015-03-02T20:23:28Z,,NOT_AVAILABLE,,check: data gap: 4 days 03:32:19,friedrich,2017-03-29T00:00:00Z
+11,ctdbp_no_sample,D00001,2015-03-02T20:23:28Z,2015-03-07T23:00:52Z,,AVAILABLE,,check: evaluate parameters,friedrich,2017-03-29T00:00:00Z
+12,ctdbp_no_sample,D00001,2015-03-07T23:00:52Z,2015-03-09T07:39:59Z,,NOT_AVAILABLE,,check: data gap: 1 days 08:39:07,friedrich,2017-03-29T00:00:00Z
+13,ctdbp_no_sample,D00001,2015-03-09T07:39:59Z,2015-06-22T23:53:29Z,,AVAILABLE,,check: evaluate parameters,friedrich,2017-03-29T00:00:00Z
+14,ctdbp_no_sample,D00001,2015-06-22T23:53:29Z,2015-06-25T21:03:40Z,,NOT_AVAILABLE,,check: data gap: 2 days 21:10:11,friedrich,2017-03-29T00:00:00Z
+15,ctdbp_no_sample,D00001,2015-06-25T21:03:40Z,2015-06-27T14:28:22Z,,AVAILABLE,,check: evaluate parameters,friedrich,2017-03-29T00:00:00Z
+16,ctdbp_no_sample,D00001,2015-06-27T14:28:22Z,2015-06-30T16:59:54Z,,NOT_AVAILABLE,,check: data gap: 3 days 02:31:32,friedrich,2017-03-29T00:00:00Z
+17,ctdbp_no_sample,D00001,2015-06-30T16:59:54Z,2015-07-09T00:37:35Z,,AVAILABLE,,check: evaluate parameters,friedrich,2017-03-29T00:00:00Z
+18,ctdbp_no_sample,D00001,2015-07-09T00:37:35Z,2015-07-10T17:00:31Z,,NOT_AVAILABLE,,check: data gap: 1 days 16:22:56,friedrich,2017-03-29T00:00:00Z
+19,ctdbp_no_sample,D00001,2015-07-10T17:00:31Z,2015-07-31T17:52:18Z,,AVAILABLE,,check: evaluate parameters,friedrich,2017-03-29T00:00:00Z
+20,ctdbp_no_sample,D00002,2015-08-02T19:53:33Z,2016-04-20T16:33:13Z,,AVAILABLE,,check: evaluate parameters,friedrich,2017-03-29T00:00:00Z
+21,ctdbp_no_sample,D00002,2016-04-20T16:33:13Z,2016-04-28T20:56:59Z,,NOT_AVAILABLE,,check: data gap,friedrich,2017-03-29T00:00:00Z
+22,ctdbp_no_sample,D00002,2016-04-28T20:56:59Z,2016-05-02T06:09:33Z,,AVAILABLE,,check: evaluate parameters,friedrich,2017-03-29T00:00:00Z
+23,ctdbp_no_sample,D00002,2016-05-02T06:09:33Z,2016-07-21T00:00:00Z,"GFD high topped out at ~800µA, and instrument appeared to stop/start outputting data when not commanded to do so. Current draw dropped to zero, but at one point still seeing data out. Due to large GFD and erratic behavior, port powered off.",NOT_AVAILABLE,,check: difference between data end and deployment end date is: 79 days 17:50:27,friedrich,2017-03-29T00:00:00Z
+24,ctdbp_no_sample,D00003,2016-07-22T22:50:00Z,2016-07-25T19:04:58Z,Exact cause of data gap at beginning of deployment currently unknown. Most likely due to testing as the instrument was coming online.,NOT_AVAILABLE,,check: difference between data begin and deployment begin date is: 2 days 20:14:58,friedrich,2017-03-29T00:00:00Z
+25,ctdbp_no_sample,D00003,2016-07-25T19:04:58Z,2017-01-09T18:30:52Z,,AVAILABLE,,check: evaluate parameters,friedrich,2017-03-29T00:00:00Z
+26,ctdbp_no_sample,D00003,2017-01-09T18:30:52Z,2017-01-11T01:21:16Z,Lightning strike in Pacific City led to data interruption through isolation of both cable lines from shore station equipment.,NOT_AVAILABLE,11776.0,check: data gap: 1 days 06:50:24,friedrich,2017-03-29T00:00:00Z
+27,ctdbp_no_sample,D00003,2017-01-11T01:21:16Z,2017-02-15T14:43:05Z,Lightning strike in Pacific City led to data interruption through isolation of both cable lines from shore station equipment.,AVAILABLE,11776.0,check: evaluate parameters,friedrich,2017-03-29T00:00:00Z
+28,ctdbp_no_sample,D00003,2017-02-15T14:43:05Z,2017-02-16T22:20:48Z,"On Wednesday, February 15, power to the North and South cable lines of the Cabled Array was interrupted and all deployed infrastructure went offline.  Power was restored on February 16. No hardware issue subsea was identified.",NOT_AVAILABLE,11998.0,check: data gap: 1 days 07:37:43,friedrich,2017-03-29T00:00:00Z
+29,ctdbp_no_sample,D00003,2017-02-16T22:20:48Z,2017-03-29T14:00:12Z,,AVAILABLE,,check: evaluate parameters,friedrich,2017-03-29T00:00:00Z
+0,density,D00001,,,Few isolated spikes in the data record,,,,friedrich,2017-03-29T00:00:00Z
+1,practical_salinity,D00001,,,Few isolated spikes in the data record,,,,friedrich,2017-03-29T00:00:00Z
+2,conductivity,D00001,,,Few isolated spikes in the data record,,,,friedrich,2017-03-29T00:00:00Z
+3,ctdbp_no_seawater_conductivity,D00001,,,Few isolated spikes in the data record,,,,friedrich,2017-03-29T00:00:00Z
+4,dissolved_oxygen,D00001,2015-06-17T00,2015-06-23T00,Stuck values make these data suspect during this time range,SUSPECT,,,,
+5,dissolved_oxygen,D00001,2015-03-02T20,2015-03-30T19,Stuck values make these data suspect during this time range,SUSPECT,,,friedrich,2017-03-29T00:00:00Z
+6,oxy_calphase,,,,,,,,friedrich,2017-03-29T00:00:00Z
+7,ctd_tc_oxygen,D00001,2015-06-17T00,2015-06-23T00,Stuck values make these data suspect during this time range,SUSPECT,,,,
+8,ctd_tc_oxygen,D00001,2015-03-02T20,2015-03-30T19,Stuck values make these data suspect during this time range,SUSPECT,,,friedrich,2017-03-29T00:00:00Z
+9,temperature,,,,,,,,friedrich,2017-03-29T00:00:00Z
+10,ctdbp_no_seawater_pressure,,,,,,,,friedrich,2017-03-29T00:00:00Z
+11,seawater_temperature,D00001,,,Few isolated spikes in the data record,,,,friedrich,2017-03-29T00:00:00Z
+12,oxygen,D00001,2015-06-17T00,2015-06-23T00,Stuck values make these data suspect during this time range,SUSPECT,,,,
+13,oxygen,D00001,2015-03-02T20,2015-03-30T19,Stuck values make these data suspect during this time range,SUSPECT,,,friedrich,2017-03-29T00:00:00Z
+14,pressure,,,,,,,,friedrich,2017-03-29T00:00:00Z
+15,pressure_temp,,,,,,,,friedrich,2017-03-29T00:00:00Z
+16,oxy_temp,D00001,2015-06-17T00,2015-06-23T00,Stuck values make these data suspect during this time range,SUSPECT,,,,
+17,oxy_temp,D00001,2015-03-02T20,2015-03-30T19,Stuck values make these data suspect during this time range,SUSPECT,,,friedrich,2017-03-29T00:00:00Z

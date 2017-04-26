@@ -1,0 +1,19 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+density,D00001,,,Few isolated spikes in the data record,,,,friedrich,2017-03-29T00:00:00Z
+practical_salinity,D00001,,,Few isolated spikes in the data record,,,,friedrich,2017-03-29T00:00:00Z
+conductivity,D00001,,,Few isolated spikes in the data record,,,,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_conductivity,D00001,,,Few isolated spikes in the data record,,,,friedrich,2017-03-29T00:00:00Z
+dissolved_oxygen,D00001,2015-06-17T00,2015-06-23T00,Stuck values make these data suspect during this time range,SUSPECT,,,,
+dissolved_oxygen,D00001,2015-03-02T20,2015-03-30T19,Stuck values make these data suspect during this time range,SUSPECT,,,friedrich,2017-03-29T00:00:00Z
+oxy_calphase,,,,,,,,friedrich,2017-03-29T00:00:00Z
+ctd_tc_oxygen,D00001,2015-06-17T00,2015-06-23T00,Stuck values make these data suspect during this time range,SUSPECT,,,,
+ctd_tc_oxygen,D00001,2015-03-02T20,2015-03-30T19,Stuck values make these data suspect during this time range,SUSPECT,,,friedrich,2017-03-29T00:00:00Z
+temperature,,,,,,,,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_pressure,,,,,,,,friedrich,2017-03-29T00:00:00Z
+seawater_temperature,D00001,,,Few isolated spikes in the data record,,,,friedrich,2017-03-29T00:00:00Z
+oxygen,D00001,2015-06-17T00,2015-06-23T00,Stuck values make these data suspect during this time range,SUSPECT,,,,
+oxygen,D00001,2015-03-02T20,2015-03-30T19,Stuck values make these data suspect during this time range,SUSPECT,,,friedrich,2017-03-29T00:00:00Z
+pressure,,,,,,,,friedrich,2017-03-29T00:00:00Z
+pressure_temp,,,,,,,,friedrich,2017-03-29T00:00:00Z
+oxy_temp,D00001,2015-06-17T00,2015-06-23T00,Stuck values make these data suspect during this time range,SUSPECT,,,,
+oxy_temp,D00001,2015-03-02T20,2015-03-30T19,Stuck values make these data suspect during this time range,SUSPECT,,,friedrich,2017-03-29T00:00:00Z

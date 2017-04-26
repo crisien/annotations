@@ -1,0 +1,127 @@
+Level,Deployment,StartTime,EndTime,Notes,Test,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdbp_no_practical_salinity,D00001,2014-09-25T18:17:58Z,2014-11-09T23:59:59Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_abs_oxygen,D00001,2014-09-25T18:17:58Z,2014-11-09T23:59:59Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_density,D00001,2014-09-25T18:17:58Z,2014-11-09T23:59:59Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+oxy_calphase,D00001,2014-09-25T18:17:58Z,2015-07-31T17:52:18Z,extracted from 1st file of 5 files,Global Range Values,,global min = None global_max = None,friedrich,2017-03-29T00:00:00Z
+ctd_tc_oxygen,D00001,2014-09-25T18:17:58Z,2015-07-31T17:52:18Z,extracted from 1st file of 5 files,Global Range Values,,global min = None global_max = None,friedrich,2017-03-29T00:00:00Z
+temperature,D00001,2014-09-25T18:17:58Z,2015-07-31T17:52:18Z,extracted from 1st file of 5 files,Global Range Values,,global min = None global_max = None,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_pressure,D00001,2014-09-25T18:17:58Z,2015-07-31T17:52:18Z,extracted from 1st file of 5 files,Global Range Values,,global min = 0.0 global_max = 6000.0,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_pressure,D00001,2014-09-25T18:17:58Z,2014-11-09T23:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+seawater_temperature,D00001,2014-09-25T18:17:58Z,2015-07-31T17:52:18Z,extracted from 1st file of 5 files,Global Range Values,,global min = -2.0 global_max = 40.0,friedrich,2017-03-29T00:00:00Z
+seawater_temperature,D00001,2014-09-25T18:17:58Z,2014-11-09T23:59:59Z,applies to one file,Global Range QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+seawater_temperature,D00001,2014-09-25T18:17:58Z,2014-11-09T23:59:59Z,applies to one file,Spike QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+seawater_temperature,D00001,2014-09-25T18:17:58Z,2014-11-09T23:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_conductivity,D00001,2014-09-25T18:17:58Z,2015-07-31T17:52:18Z,extracted from 1st file of 5 files,Global Range Values,,global min = 0.0 global_max = 6.0,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_conductivity,D00001,2014-09-25T18:17:58Z,2014-11-09T23:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+oxygen,D00001,2014-09-25T18:17:58Z,2015-07-31T17:52:18Z,extracted from 1st file of 5 files,Global Range Values,,global min = None global_max = None,friedrich,2017-03-29T00:00:00Z
+pressure,D00001,2014-09-25T18:17:58Z,2015-07-31T17:52:18Z,extracted from 1st file of 5 files,Global Range Values,,global min = None global_max = None,friedrich,2017-03-29T00:00:00Z
+pressure_temp,D00001,2014-09-25T18:17:58Z,2015-07-31T17:52:18Z,extracted from 1st file of 5 files,Global Range Values,,global min = None global_max = None,friedrich,2017-03-29T00:00:00Z
+oxy_temp,D00001,2014-09-25T18:17:58Z,2015-07-31T17:52:18Z,extracted from 1st file of 5 files,Global Range Values,,global min = None global_max = None,friedrich,2017-03-29T00:00:00Z
+conductivity,D00001,2014-09-25T18:17:58Z,2015-07-31T17:52:18Z,extracted from 1st file of 5 files,Global Range Values,,global min = None global_max = None,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_practical_salinity,D00001,2014-11-10T00:00:00Z,2015-01-02T23:59:59Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_abs_oxygen,D00001,2014-11-10T00:00:00Z,2015-01-02T23:59:59Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_density,D00001,2014-11-10T00:00:00Z,2015-01-02T23:59:59Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_pressure,D00001,2014-11-10T00:00:00Z,2015-01-02T23:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+seawater_temperature,D00001,2014-11-10T00:00:00Z,2015-01-02T23:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_conductivity,D00001,2014-11-10T00:00:00Z,2015-01-02T23:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_practical_salinity,D00001,2015-01-03T00:00:00Z,2015-02-17T23:59:59Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_abs_oxygen,D00001,2015-01-03T00:00:00Z,2015-02-17T23:59:59Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_density,D00001,2015-01-03T00:00:00Z,2015-02-17T23:59:59Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_pressure,D00001,2015-01-03T00:00:00Z,2015-02-17T23:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+seawater_temperature,D00001,2015-01-03T00:00:00Z,2015-02-17T23:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_conductivity,D00001,2015-01-03T00:00:00Z,2015-02-17T23:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_practical_salinity,D00001,2015-02-18T00:00:00Z,2015-05-14T23:59:59Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_abs_oxygen,D00001,2015-02-18T00:00:00Z,2015-05-14T23:59:59Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_density,D00001,2015-02-18T00:00:00Z,2015-05-14T23:59:59Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_pressure,D00001,2015-02-18T00:00:00Z,2015-05-14T23:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+seawater_temperature,D00001,2015-02-18T00:00:00Z,2015-05-14T23:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_conductivity,D00001,2015-02-18T00:00:00Z,2015-05-14T23:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_practical_salinity,D00001,2015-05-15T00:00:00Z,2015-07-31T17:52:18Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_abs_oxygen,D00001,2015-05-15T00:00:00Z,2015-07-31T17:52:18Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_density,D00001,2015-05-15T00:00:00Z,2015-07-31T17:52:18Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_pressure,D00001,2015-05-15T00:00:00Z,2015-07-31T17:52:18Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+seawater_temperature,D00001,2015-05-15T00:00:00Z,2015-07-31T17:52:18Z,applies to one file,Spike QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+seawater_temperature,D00001,2015-05-15T00:00:00Z,2015-07-31T17:52:18Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_conductivity,D00001,2015-05-15T00:00:00Z,2015-07-31T17:52:18Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_practical_salinity,D00002,2015-08-02T19:53:33Z,2015-09-13T23:59:59Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_abs_oxygen,D00002,2015-08-02T19:53:33Z,2015-09-13T23:59:59Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_density,D00002,2015-08-02T19:53:33Z,2015-09-13T23:59:59Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+oxy_calphase,D00002,2015-08-02T19:53:33Z,2016-05-02T06:09:33Z,extracted from 1st file of 7 files,Global Range Values,,global min = None global_max = None,friedrich,2017-03-29T00:00:00Z
+ctd_tc_oxygen,D00002,2015-08-02T19:53:33Z,2016-05-02T06:09:33Z,extracted from 1st file of 7 files,Global Range Values,,global min = None global_max = None,friedrich,2017-03-29T00:00:00Z
+temperature,D00002,2015-08-02T19:53:33Z,2016-05-02T06:09:33Z,extracted from 1st file of 7 files,Global Range Values,,global min = None global_max = None,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_pressure,D00002,2015-08-02T19:53:33Z,2016-05-02T06:09:33Z,extracted from 1st file of 7 files,Global Range Values,,global min = 0.0 global_max = 6000.0,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_pressure,D00002,2015-08-02T19:53:33Z,2015-09-13T23:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+seawater_temperature,D00002,2015-08-02T19:53:33Z,2016-05-02T06:09:33Z,extracted from 1st file of 7 files,Global Range Values,,global min = -2.0 global_max = 40.0,friedrich,2017-03-29T00:00:00Z
+seawater_temperature,D00002,2015-08-02T19:53:33Z,2015-09-13T23:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_conductivity,D00002,2015-08-02T19:53:33Z,2016-05-02T06:09:33Z,extracted from 1st file of 7 files,Global Range Values,,global min = 0.0 global_max = 6.0,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_conductivity,D00002,2015-08-02T19:53:33Z,2015-09-13T23:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+oxygen,D00002,2015-08-02T19:53:33Z,2016-05-02T06:09:33Z,extracted from 1st file of 7 files,Global Range Values,,global min = None global_max = None,friedrich,2017-03-29T00:00:00Z
+pressure,D00002,2015-08-02T19:53:33Z,2016-05-02T06:09:33Z,extracted from 1st file of 7 files,Global Range Values,,global min = None global_max = None,friedrich,2017-03-29T00:00:00Z
+pressure_temp,D00002,2015-08-02T19:53:33Z,2016-05-02T06:09:33Z,extracted from 1st file of 7 files,Global Range Values,,global min = None global_max = None,friedrich,2017-03-29T00:00:00Z
+oxy_temp,D00002,2015-08-02T19:53:33Z,2016-05-02T06:09:33Z,extracted from 1st file of 7 files,Global Range Values,,global min = None global_max = None,friedrich,2017-03-29T00:00:00Z
+conductivity,D00002,2015-08-02T19:53:33Z,2016-05-02T06:09:33Z,extracted from 1st file of 7 files,Global Range Values,,global min = None global_max = None,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_practical_salinity,D00002,2015-09-14T00:00:00Z,2015-10-25T23:59:59Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_abs_oxygen,D00002,2015-09-14T00:00:00Z,2015-10-25T23:59:59Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_density,D00002,2015-09-14T00:00:00Z,2015-10-25T23:59:59Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_pressure,D00002,2015-09-14T00:00:00Z,2015-10-25T23:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+seawater_temperature,D00002,2015-09-14T00:00:00Z,2015-10-25T23:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_conductivity,D00002,2015-09-14T00:00:00Z,2015-10-25T23:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_practical_salinity,D00002,2015-10-26T00:00:00Z,2015-12-06T23:59:59Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_abs_oxygen,D00002,2015-10-26T00:00:00Z,2015-12-06T23:59:59Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_density,D00002,2015-10-26T00:00:00Z,2015-12-06T23:59:59Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_pressure,D00002,2015-10-26T00:00:00Z,2015-12-06T23:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+seawater_temperature,D00002,2015-10-26T00:00:00Z,2015-12-06T23:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_conductivity,D00002,2015-10-26T00:00:00Z,2015-12-06T23:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_practical_salinity,D00002,2015-12-07T00:00:00Z,2016-01-17T23:59:59Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_abs_oxygen,D00002,2015-12-07T00:00:00Z,2016-01-17T23:59:59Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_density,D00002,2015-12-07T00:00:00Z,2016-01-17T23:59:59Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_pressure,D00002,2015-12-07T00:00:00Z,2016-01-17T23:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+seawater_temperature,D00002,2015-12-07T00:00:00Z,2016-01-17T23:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_conductivity,D00002,2015-12-07T00:00:00Z,2016-01-17T23:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_practical_salinity,D00002,2016-01-18T00:00:00Z,2016-02-28T23:59:59Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_abs_oxygen,D00002,2016-01-18T00:00:00Z,2016-02-28T23:59:59Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_density,D00002,2016-01-18T00:00:00Z,2016-02-28T23:59:59Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_pressure,D00002,2016-01-18T00:00:00Z,2016-02-28T23:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+seawater_temperature,D00002,2016-01-18T00:00:00Z,2016-02-28T23:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_conductivity,D00002,2016-01-18T00:00:00Z,2016-02-28T23:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_practical_salinity,D00002,2016-02-29T00:00:00Z,2016-04-10T23:59:59Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_abs_oxygen,D00002,2016-02-29T00:00:00Z,2016-04-10T23:59:59Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_density,D00002,2016-02-29T00:00:00Z,2016-04-10T23:59:59Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_pressure,D00002,2016-02-29T00:00:00Z,2016-04-10T23:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+seawater_temperature,D00002,2016-02-29T00:00:00Z,2016-04-10T23:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_conductivity,D00002,2016-02-29T00:00:00Z,2016-04-10T23:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_practical_salinity,D00002,2016-04-11T00:00:00Z,2016-05-02T06:09:33Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_abs_oxygen,D00002,2016-04-11T00:00:00Z,2016-05-02T06:09:33Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_density,D00002,2016-04-11T00:00:00Z,2016-05-02T06:09:33Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_pressure,D00002,2016-04-11T00:00:00Z,2016-05-02T06:09:33Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+seawater_temperature,D00002,2016-04-11T00:00:00Z,2016-05-02T06:09:33Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_conductivity,D00002,2016-04-11T00:00:00Z,2016-05-02T06:09:33Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_practical_salinity,D00003,2016-07-25T19:04:58Z,2016-10-19T23:59:59Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_abs_oxygen,D00003,2016-07-25T19:04:58Z,2016-10-19T23:59:59Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_density,D00003,2016-07-25T19:04:58Z,2016-10-19T23:59:59Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+oxy_calphase,D00003,2016-07-25T19:04:58Z,2017-03-29T14:00:12Z,extracted from 1st file of 3 files,Global Range Values,,global min = None global_max = None,friedrich,2017-03-29T00:00:00Z
+ctd_tc_oxygen,D00003,2016-07-25T19:04:58Z,2017-03-29T14:00:12Z,extracted from 1st file of 3 files,Global Range Values,,global min = None global_max = None,friedrich,2017-03-29T00:00:00Z
+temperature,D00003,2016-07-25T19:04:58Z,2017-03-29T14:00:12Z,extracted from 1st file of 3 files,Global Range Values,,global min = None global_max = None,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_pressure,D00003,2016-07-25T19:04:58Z,2017-03-29T14:00:12Z,extracted from 1st file of 3 files,Global Range Values,,global min = 0.0 global_max = 6000.0,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_pressure,D00003,2016-07-25T19:04:58Z,2016-10-19T23:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+seawater_temperature,D00003,2016-07-25T19:04:58Z,2017-03-29T14:00:12Z,extracted from 1st file of 3 files,Global Range Values,,global min = -2.0 global_max = 40.0,friedrich,2017-03-29T00:00:00Z
+seawater_temperature,D00003,2016-07-25T19:04:58Z,2016-10-19T23:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_conductivity,D00003,2016-07-25T19:04:58Z,2017-03-29T14:00:12Z,extracted from 1st file of 3 files,Global Range Values,,global min = 0.0 global_max = 6.0,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_conductivity,D00003,2016-07-25T19:04:58Z,2016-10-19T23:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+oxygen,D00003,2016-07-25T19:04:58Z,2017-03-29T14:00:12Z,extracted from 1st file of 3 files,Global Range Values,,global min = None global_max = None,friedrich,2017-03-29T00:00:00Z
+pressure,D00003,2016-07-25T19:04:58Z,2017-03-29T14:00:12Z,extracted from 1st file of 3 files,Global Range Values,,global min = None global_max = None,friedrich,2017-03-29T00:00:00Z
+pressure_temp,D00003,2016-07-25T19:04:58Z,2017-03-29T14:00:12Z,extracted from 1st file of 3 files,Global Range Values,,global min = None global_max = None,friedrich,2017-03-29T00:00:00Z
+oxy_temp,D00003,2016-07-25T19:04:58Z,2017-03-29T14:00:12Z,extracted from 1st file of 3 files,Global Range Values,,global min = None global_max = None,friedrich,2017-03-29T00:00:00Z
+conductivity,D00003,2016-07-25T19:04:58Z,2017-03-29T14:00:12Z,extracted from 1st file of 3 files,Global Range Values,,global min = None global_max = None,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_practical_salinity,D00003,2016-10-20T00:00:00Z,2017-01-11T23:59:59Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_abs_oxygen,D00003,2016-10-20T00:00:00Z,2017-01-11T23:59:59Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_density,D00003,2016-10-20T00:00:00Z,2017-01-11T23:59:59Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_pressure,D00003,2016-10-20T00:00:00Z,2017-01-11T23:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+seawater_temperature,D00003,2016-10-20T00:00:00Z,2017-01-11T23:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_conductivity,D00003,2016-10-20T00:00:00Z,2017-01-11T23:59:59Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_practical_salinity,D00003,2017-01-12T00:00:00Z,2017-03-29T14:00:12Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_abs_oxygen,D00003,2017-01-12T00:00:00Z,2017-03-29T14:00:12Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_density,D00003,2017-01-12T00:00:00Z,2017-03-29T14:00:12Z,,vars_not_in_db,,check: variable listed in file but not in database,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_pressure,D00003,2017-01-12T00:00:00Z,2017-03-29T14:00:12Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+seawater_temperature,D00003,2017-01-12T00:00:00Z,2017-03-29T14:00:12Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z
+ctdbp_no_seawater_conductivity,D00003,2017-01-12T00:00:00Z,2017-03-29T14:00:12Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-03-29T00:00:00Z

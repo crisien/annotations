@@ -1,0 +1,11 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+density,D00002,2015-07-24T21:40:33Z,2015-10-29T02:48:27Z,,NOT_AVAILABLE,,check: variable listed in database but not in file,friedrich,2017-03-29T00:00:00Z
+practical_salinity,D00002,2015-07-24T21:40:33Z,2015-10-29T02:48:27Z,,NOT_AVAILABLE,,check: variable listed in database but not in file,friedrich,2017-03-29T00:00:00Z
+density,D00002,2015-07-24T21:40:33Z,2015-10-29T02:48:27Z,,NOT_AVAILABLE,,check: variable listed in database but not in file,friedrich,2017-03-29T00:00:00Z
+practical_salinity,D00002,2015-07-24T21:40:33Z,2015-10-29T02:48:27Z,,NOT_AVAILABLE,,check: variable listed in database but not in file,friedrich,2017-03-29T00:00:00Z
+conductivity_millisiemens,,,,,,,,friedrich,2017-03-29T00:00:00Z
+temp,,,,,,,,friedrich,2017-03-29T00:00:00Z
+dpc_ctd_water_pracsal,,,,,,,,friedrich,2017-03-29T00:00:00Z
+dpc_ctd_seawater_conductivity,,,,,,,,friedrich,2017-03-29T00:00:00Z
+dpc_ctd_seawater_density,,,,,,,,friedrich,2017-03-29T00:00:00Z
+pressure,,,,,,,,friedrich,2017-03-29T00:00:00Z

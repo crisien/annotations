@@ -1,0 +1,5 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+dpc_ctd_instrument_recovered,D00002,2015-07-24T21:40:33Z,2015-07-25T21:40:03Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-03-29T00:00:00Z
+dpc_ctd_instrument_recovered,D00002,2015-07-25T21:40:03Z,2015-10-28T21:05:06Z,,NOT_AVAILABLE,,check: data gap,friedrich,2017-03-29T00:00:00Z
+dpc_ctd_instrument_recovered,D00002,2015-10-28T21:05:06Z,2015-10-29T02:48:27Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-03-29T00:00:00Z
+dpc_ctd_instrument_recovered,D00002,2015-10-29T02:48:27Z,2016-08-07T00:00:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 282 days 21:11:33,friedrich,2017-03-29T00:00:00Z

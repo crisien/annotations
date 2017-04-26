@@ -1,0 +1,15 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+oxy_calphase,,,,,,,,Leila,2017-04-10T00:00:00Z
+practical_salinity,,,,,,,,Leila,2017-04-10T00:00:00Z
+seawater_conductivity,,,,,,,,Leila,2017-04-10T00:00:00Z
+temperature,,,,,,,,Leila,2017-04-10T00:00:00Z
+oxygen,,,,,,,,Leila,2017-04-10T00:00:00Z
+ctd_tc_oxygen,,,,,,,,Leila,2017-04-10T00:00:00Z
+seawater_pressure,,,,,,,,Leila,2017-04-10T00:00:00Z
+density,,,,,,,,Leila,2017-04-10T00:00:00Z
+oxy_temp,,,,,,,,Leila,2017-04-10T00:00:00Z
+pressure,,,,,,,,Leila,2017-04-10T00:00:00Z
+pressure_temp,,,,,,,,Leila,2017-04-10T00:00:00Z
+seawater_temperature,,,,,,,,Leila,2017-04-10T00:00:00Z
+dissolved_oxygen,,,,,,,,Leila,2017-04-10T00:00:00Z
+conductivity,,,,,,,,Leila,2017-04-10T00:00:00Z

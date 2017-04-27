@@ -14,10 +14,10 @@ import numpy as np
 
 # specify path to annotation csvs, reference designator and theoretical end date for ongoing deployment, specified as 'None' in asset management
 # (you can use the date on which you downloaded the data, for example.)
-assets = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/CE02SHBP/CE02SHBP.csv'
-stream = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/CE02SHBP/CE02SHBP-LJ01D-06-CTDBPN106/streamed-ctdbp_no_sample.csv'
-parameters = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/CE02SHBP/CE02SHBP-LJ01D-06-CTDBPN106/streamed-ctdbp_no_sample_parameters.csv'
-reference_designator = 'CE02SHBP-LJ01D-06-CTDBPN106'
+assets = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/CE04OSPD/CE04OSPD.csv'
+stream = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/CE04OSPD/CE04OSPD-DP01B-01-CTDPFL105/recovered_inst-dpc_ctd_instrument_recovered.csv'
+parameters = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/CE04OSPD/CE04OSPD-DP01B-01-CTDPFL105/recovered_inst-dpc_ctd_instrument_recovered_parameters.csv'
+reference_designator = 'CE04OSPD-DP01B-01-CTDPFL105'
 # ongoing_dep_end = '2017-03-21T00:00:00'
 
 ## use this to manually specify deployment start and end times. comment block using ongoing_dep_end out accordingly.
@@ -173,7 +173,7 @@ for index, row in stream_df.iterrows():
 	elif row["Status"] == 'NOT_EVALUATED':
 		plt.plot(stream_time, stream_shape, linewidth=10, color='green')
 	elif row["Status"] == 'PENDING_INGEST':
-		plt.plot(stream_time, stream_shape, linewidth=10, color='lightgray',zorder = 3)
+		plt.plot(stream_time, stream_shape, linewidth=10, color='green',zorder = 3)
 
 for index, row in assets_df.iterrows():
 	subsite_time = np.array([row["StartTime"],row["EndTime"]])
@@ -204,7 +204,7 @@ for index, row in stream_df.iterrows():
 	elif row["Status"] == 'NOT_EVALUATED':
 		plt.plot(stream_time, stream_shape, linewidth=10, color='green')
 	elif row["Status"] == 'PENDING_INGEST':
-		plt.plot(stream_time, stream_shape, linewidth=10, color='lightgray',zorder = 3)
+		plt.plot(stream_time, stream_shape, linewidth=10, color='green',zorder = 3)
 
 for index, row in assets_df.iterrows():
 	subsite_time = np.array([row["StartTime"],row["EndTime"]])

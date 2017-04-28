@@ -1,0 +1,6 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdbp_cdef_instrument_recovered,D00001,2013-11-21T18:15:01Z,2014-02-17T13:06:01Z,,AVAILABLE,,,lori,2017-04-27T00:00:00Z
+ctdbp_cdef_instrument_recovered,D00001,2014-02-17T13:06:01Z,2014-04-18T00:00:00Z,Instrument failed.,NOT_AVAILABLE,,,lori,2017-04-27T00:00:00Z
+ctdbp_cdef_instrument_recovered,D00002,2014-12-13T18:47:00Z,2014-12-15T20:58:00Z,No data from short deployment. See platform level annotation.,NOT_AVAILABLE,,,lori,2017-04-27T00:00:00Z
+ctdbp_cdef_instrument_recovered,D00003,2015-05-07T17:35:01Z,2015-10-23T19:35:01Z,,AVAILABLE,12280,Looks like 2 different datasets are being ingested. Waiting for MIO response.,lori,2017-04-27T00:00:00Z
+ctdbp_cdef_instrument_recovered,D00005,2016-05-13T13:50:00Z,2016-10-13T19:34:00Z,,PENDING_INGEST,12279,check once data are ingested,lori,2017-04-27T00:00:00Z

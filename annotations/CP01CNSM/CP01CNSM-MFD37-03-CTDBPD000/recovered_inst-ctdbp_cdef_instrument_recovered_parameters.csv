@@ -1,0 +1,10 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+practical_salinity,D00003,2015-05-07T17:35:01Z,2015-10-23T19:35:01Z,Two different datasets are being ingested. Investigation pending,FAIL,12280,Waiting for MIO response,lori,2017-04-27T00:00:00Z
+temperature,D00003,2015-05-07T17:35:01Z,2015-10-23T19:35:01Z,Two different datasets are being ingested. Investigation pending,FAIL,12280,Waiting for MIO response,lori,2017-04-27T00:00:00Z
+density,D00003,2015-05-07T17:35:01Z,2015-10-23T19:35:01Z,Two different datasets are being ingested. Investigation pending,FAIL,12280,Waiting for MIO response,lori,2017-04-27T00:00:00Z
+ctdbp_seawater_conductivity,D00003,2015-05-07T17:35:01Z,2015-10-23T19:35:01Z,Two different datasets are being ingested. Investigation pending,FAIL,12280,Waiting for MIO response,lori,2017-04-27T00:00:00Z
+ctdbp_seawater_pressure,D00003,2015-05-07T17:35:01Z,2015-10-23T19:35:01Z,Two different datasets are being ingested. Investigation pending,FAIL,12280,Waiting for MIO response,lori,2017-04-27T00:00:00Z
+pressure,D00003,2015-05-07T17:35:01Z,2015-10-23T19:35:01Z,Two different datasets are being ingested. Investigation pending,FAIL,12280,Waiting for MIO response,lori,2017-04-27T00:00:00Z
+pressure_temp,D00003,2015-05-07T17:35:01Z,2015-10-23T19:35:01Z,Two different datasets are being ingested. Investigation pending,FAIL,12280,Waiting for MIO response,lori,2017-04-27T00:00:00Z
+ctdbp_seawater_temperature,D00003,2015-05-07T17:35:01Z,2015-10-23T19:35:01Z,Two different datasets are being ingested. Investigation pending,FAIL,12280,Waiting for MIO response,lori,2017-04-27T00:00:00Z
+conductivity,D00003,2015-05-07T17:35:01Z,2015-10-23T19:35:01Z,Two different datasets are being ingested. Investigation pending,FAIL,12280,Waiting for MIO response,lori,2017-04-27T00:00:00Z

@@ -1,0 +1,4 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+CP01CNSM,D00002,2014-12-13T18:47:00Z,2014-12-15T20:58:00Z,Short deployment due to the fuel cell not functioning correctly.,,,,lori,2017-04-27T00:00:00Z
+CP01CNSM,D00006,2016-12-13T00:00:12Z,2017-01-18T00:00:11Z,A race condition is causing partial ingestion of the data. Data need to be re-ingested.,PENDING_INGEST,12276,check when data are re-ingested,lori,2017-04-27T00:00:00Z
+CP01CNSM-MFD37-03-CTDBPD000,D00001,2014-02-17T13:05:54Z,2014-04-18T00:00:00Z,Instrument failed.,NOT_OPERATIONAL,,,lori,2017-04-27T00:00:00Z

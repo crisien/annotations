@@ -100,7 +100,7 @@ def check_valid_time(data, root, filename):
 		except ValueError as ve:
 			print '\n', root, filename
 			print 'WARNING:', ve, 'in row ' + str(index + 2) + ". can't convert timestamp"
-			# print row
+		    # print row
 
 		try:
 			row['EndTime'] = pd.to_datetime(unicode(row['EndTime']))
@@ -115,21 +115,22 @@ def main(rootdir):
 	# walk directory to find parse annotation csv files
      print 'checking files....'
      for root, dirs, files in os.walk(rootdir):
-        for filename in files:
-            if filename.endswith('.csv'):
-                f = os.path.join(root,filename)
-                csv_file = open(f, 'r')
-                data = pd.read_csv(csv_file, parse_dates=True)
-                check_valid_time(data, root, filename)
-                check_time_interval(data, root, filename)
-               	check_dups(data, root, filename)
-               	check_annotation_gap(data, root, filename)
-               	check_annotation_interval(data, root, filename)
-     print '\n'
+		 dirs[:] = [d for d in dirs if d not in "internal_drafts"]
+		 for filename in files:
+				if filename.endswith('.csv'):
+					f = os.path.join(root,filename)
+					csv_file = open(f, 'r')
+					data = pd.read_csv(csv_file, parse_dates=True)
+					check_valid_time(data, root, filename)
+					check_time_interval(data, root, filename)
+					check_dups(data, root, filename)
+					check_annotation_gap(data, root, filename)
+					check_annotation_interval(data, root, filename)
+		 print '\n'
 
                 
 
 
 if __name__ == '__main__':
-	rootdir = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/'
+	rootdir = '/Users/leila/Documents/OOI_GitHub_repo/repos/ooi-data-review/annotations/annotations/CE04OSPS/CE04OSPS-PC01B-4A-CTDPFA109/'
 	main(rootdir)

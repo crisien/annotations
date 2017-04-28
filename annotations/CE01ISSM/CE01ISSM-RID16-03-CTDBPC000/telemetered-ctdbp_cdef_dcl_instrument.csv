@@ -1,0 +1,10 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdbp_cdef_dcl_instrument,D00001,2014-04-17T20:45:00Z,2014-08-16T22:30:00Z,No telemetered data available due to a race condition in the CPM firmware. See platform level annotation for details.,NOT_AVAILABLE,,,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00002,2014-10-10T18:30:18Z,2015-04-11T23:30:23Z,,AVAILABLE,,,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00003,2015-06-03T18:29:18Z,2015-08-25T00:29:16Z,,AVAILABLE,,,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00003,2015-08-25T00:29:16Z,2015-10-07T00:00:00Z,No telemetered data available likely due to a race condition in the CPM firmware. See platform level annotation for details.,NOT_AVAILABLE,,,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00004,2015-10-08T18:29:16Z,2016-01-31T21:29:30Z,,AVAILABLE,,,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00004,2016-01-31T21:29:30Z,2016-05-10T15:22:00Z,,NOT_AVAILABLE,,,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00005,2016-05-18T16:29:24Z,2016-08-09T00:29:25Z,,AVAILABLE,,,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00005,2016-08-09T00:29:25Z,2016-10-02T20:15:00Z,,NOT_AVAILABLE,,,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00006,2016-09-30T16:45:00Z,2017-01-21T23:35:27Z,"Very sparse telemetered data available due to a race condition in the CPM firmware. See platform level annotation for details. In addition, instruments and nodes were shut down around 2/6/2017 to conserve power due to unanticipated battery drain on the mooring.",NOT_AVAILABLE,11967,update end date of deployment when asset management is updated,lori,2017-04-26T00:00:00Z

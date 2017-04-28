@@ -1,0 +1,7 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctd_tc_oxygen,,,,,,,,lori,2017-04-27T00:00:00Z
+oxygen,,,,,,,,lori,2017-04-27T00:00:00Z
+ctdbp_cdef_instrument_recovered-ctdbp_seawater_pressure,,,,,,,,lori,2017-04-27T00:00:00Z
+ctdbp_cdef_instrument_recovered-ctdbp_seawater_temperature,,,,,,,,lori,2017-04-27T00:00:00Z
+dissolved_oxygen,,,,,,,,lori,2017-04-27T00:00:00Z
+ctdbp_cdef_instrument_recovered-practical_salinity,,,,,,,,lori,2017-04-27T00:00:00Z

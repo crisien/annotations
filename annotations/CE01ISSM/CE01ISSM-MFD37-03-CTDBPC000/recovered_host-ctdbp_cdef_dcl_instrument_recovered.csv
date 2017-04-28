@@ -1,7 +1,7 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
-ctdbp_cdef_dcl_instrument_recovered,D00001,2014-04-17T20:45:00,2014-08-16T22:30:00,No recovered_host data available due to a race condition in the CPM firmware. See platform level annotation for details.,NOT_AVAILABLE,,,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument_recovered,D00001,2014-04-17T20:45:00Z,2014-08-16T22:30:00Z,No recovered_host data available due to a race condition in the CPM firmware. See platform level annotation for details.,NOT_AVAILABLE,,,lori,2017-04-26T00:00:00Z
 ctdbp_cdef_dcl_instrument_recovered,D00002,2014-10-10T18:30:22Z,2014-12-21T11:30:18Z,,AVAILABLE,,,lori,2017-04-26T00:00:00Z
 ctdbp_cdef_dcl_instrument_recovered,D00002,2014-12-21T11:30:18Z,2015-04-12T00:30:00Z,No recovered_host data available likely due to a race condition in the CPM firmware. See platform level annotation for details.,NOT_AVAILABLE,,,lori,2017-04-26T00:00:00Z
 ctdbp_cdef_dcl_instrument_recovered,D00003,2015-06-03T18:29:19Z,2015-10-06T23:29:19Z,,AVAILABLE,,,lori,2017-04-26T00:00:00Z
-ctdbp_cdef_dcl_instrument,D00004,2015-10-08T12:02:00,2016-05-10T15:22:00,No computer systems on this node for data telemetry (hence no recovered_host data).,NOT_AVAILABLE,,,lori,2017-04-26T00:00:00Z
-ctdbp_cdef_dcl_instrument,D00005,2016-05-18T15:44:00,2016-10-02T20:15:00,No recovered_host data received.,NOT_AVAILABLE,,,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00004,2015-10-08T12:02:00Z,2016-05-10T15:22:00Z,No computer systems on this node for data telemetry (hence no recovered_host data).,NOT_AVAILABLE,,,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00005,2016-05-18T15:44:00Z,2016-10-02T20:15:00Z,No recovered_host data received.,NOT_AVAILABLE,,,lori,2017-04-26T00:00:00Z

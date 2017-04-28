@@ -1,0 +1,8 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdbp_cdef_dcl_instrument_recovered,D00001,2014-04-17T20:45:00Z,2014-08-16T22:30:00Z,No recovered_host data available due to a race condition in the CPM firmware. See platform level annotation for details.,NOT_AVAILABLE,,,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument_recovered,D00002,2014-10-10T18:30:18Z,2015-04-11T23:30:23Z,,AVAILABLE,,,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument_recovered,D00003,2015-06-03T18:29:18Z,2015-10-06T23:29:17Z,,AVAILABLE,,,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument_recovered,D00004,2015-10-08T18:29:16Z,2016-01-31T23:29:28Z,,AVAILABLE,,,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument_recovered,D00004,2016-01-31T23:29:28Z,2016-05-10T15:22:00Z,,NOT_AVAILABLE,,,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument_recovered,D00005,2016-05-18T16:29:24Z,2016-08-08T21:29:24Z,,AVAILABLE,,,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument_recovered,D00005,2016-08-08T21:29:24Z,2016-10-02T20:15:00Z,,NOT_AVAILABLE,,,lori,2017-04-26T00:00:00Z

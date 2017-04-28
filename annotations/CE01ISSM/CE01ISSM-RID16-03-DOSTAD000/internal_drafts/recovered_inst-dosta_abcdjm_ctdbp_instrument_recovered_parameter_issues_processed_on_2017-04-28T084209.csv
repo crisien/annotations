@@ -1,0 +1,25 @@
+Level,Deployment,StartTime,EndTime,Notes,Test,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdbp_cdef_instrument_recovered-ctdbp_seawater_pressure,D00001,2014-04-17T22:00:01Z,2014-07-27T21:50:01Z,,vars_not_in_db,,check: variable listed in file but not in database,lori,2017-04-27T00:00:00Z
+ctdbp_cdef_instrument_recovered-ctdbp_seawater_temperature,D00001,2014-04-17T22:00:01Z,2014-07-27T21:50:01Z,,vars_not_in_db,,check: variable listed in file but not in database,lori,2017-04-27T00:00:00Z
+ctdbp_cdef_instrument_recovered-practical_salinity,D00001,2014-04-17T22:00:01Z,2014-07-27T21:50:01Z,,vars_not_in_db,,check: variable listed in file but not in database,lori,2017-04-27T00:00:00Z
+ctd_tc_oxygen,D00001,2014-04-17T22:00:01Z,2014-07-27T21:50:01Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,lori,2017-04-27T00:00:00Z
+oxygen,D00001,2014-04-17T22:00:01Z,2014-07-27T21:50:01Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,lori,2017-04-27T00:00:00Z
+dissolved_oxygen,D00001,2014-04-17T22:00:01Z,2014-07-27T21:50:01Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,lori,2017-04-27T00:00:00Z
+ctdbp_cdef_instrument_recovered-ctdbp_seawater_pressure,D00002,2014-10-10T17:51:45Z,2014-12-13T11:20:01Z,,vars_not_in_db,,check: variable listed in file but not in database,lori,2017-04-27T00:00:00Z
+ctdbp_cdef_instrument_recovered-ctdbp_seawater_temperature,D00002,2014-10-10T17:51:45Z,2014-12-13T11:20:01Z,,vars_not_in_db,,check: variable listed in file but not in database,lori,2017-04-27T00:00:00Z
+ctdbp_cdef_instrument_recovered-practical_salinity,D00002,2014-10-10T17:51:45Z,2014-12-13T11:20:01Z,,vars_not_in_db,,check: variable listed in file but not in database,lori,2017-04-27T00:00:00Z
+ctd_tc_oxygen,D00002,2014-10-10T17:51:45Z,2014-12-13T11:20:01Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,lori,2017-04-27T00:00:00Z
+oxygen,D00002,2014-10-10T17:51:45Z,2014-12-13T11:20:01Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,lori,2017-04-27T00:00:00Z
+dissolved_oxygen,D00002,2014-10-10T17:51:45Z,2014-12-13T11:20:01Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,lori,2017-04-27T00:00:00Z
+ctdbp_cdef_instrument_recovered-ctdbp_seawater_pressure,D00003,2015-06-03T19:00:01Z,2015-10-06T23:45:01Z,,vars_not_in_db,,check: variable listed in file but not in database,lori,2017-04-27T00:00:00Z
+ctdbp_cdef_instrument_recovered-ctdbp_seawater_temperature,D00003,2015-06-03T19:00:01Z,2015-10-06T23:45:01Z,,vars_not_in_db,,check: variable listed in file but not in database,lori,2017-04-27T00:00:00Z
+ctdbp_cdef_instrument_recovered-practical_salinity,D00003,2015-06-03T19:00:01Z,2015-10-06T23:45:01Z,,vars_not_in_db,,check: variable listed in file but not in database,lori,2017-04-27T00:00:00Z
+ctd_tc_oxygen,D00003,2015-06-03T19:00:01Z,2015-10-06T23:45:01Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,lori,2017-04-27T00:00:00Z
+oxygen,D00003,2015-06-03T19:00:01Z,2015-10-06T23:45:01Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,lori,2017-04-27T00:00:00Z
+dissolved_oxygen,D00003,2015-06-03T19:00:01Z,2015-10-06T23:45:01Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,lori,2017-04-27T00:00:00Z
+ctdbp_cdef_instrument_recovered-ctdbp_seawater_pressure,D00004,2015-10-08T18:31:34Z,2016-05-10T15:15:01Z,,vars_not_in_db,,check: variable listed in file but not in database,lori,2017-04-27T00:00:00Z
+ctdbp_cdef_instrument_recovered-ctdbp_seawater_temperature,D00004,2015-10-08T18:31:34Z,2016-05-10T15:15:01Z,,vars_not_in_db,,check: variable listed in file but not in database,lori,2017-04-27T00:00:00Z
+ctdbp_cdef_instrument_recovered-practical_salinity,D00004,2015-10-08T18:31:34Z,2016-05-10T15:15:01Z,,vars_not_in_db,,check: variable listed in file but not in database,lori,2017-04-27T00:00:00Z
+ctd_tc_oxygen,D00004,2015-10-08T18:31:34Z,2016-05-10T15:15:01Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,lori,2017-04-27T00:00:00Z
+oxygen,D00004,2015-10-08T18:31:34Z,2016-05-10T15:15:01Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,lori,2017-04-27T00:00:00Z
+dissolved_oxygen,D00004,2015-10-08T18:31:34Z,2016-05-10T15:15:01Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,lori,2017-04-27T00:00:00Z

@@ -1,0 +1,7 @@
+Level,Deployment,StartTime,EndTime,Notes,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdbp_cdef_instrument_recovered,D00001,2014-04-17T20:45:00Z,2014-04-17T22:00:01Z,0 days 01:15:01,,,check: difference between deploy start date and data file start date,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_instrument_recovered,D00002,2014-10-10T17:45:00Z,2014-10-10T17:51:45Z,0 days 00:06:45,,,check: difference between deploy start date and data file start date,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_instrument_recovered,D00003,2015-06-03T17:15:00Z,2015-06-03T19:00:01Z,0 days 01:45:01,,,check: difference between deploy start date and data file start date,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_instrument_recovered,D00003,2015-10-06T23:45:01Z,2015-10-07T00:00:00Z,0 days 00:14:59,,,check: difference between deploy end date and data file end date,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_instrument_recovered,D00004,2015-10-08T12:02:00Z,2015-10-08T18:31:34Z,0 days 06:29:34,,,check: difference between deploy start date and data file start date,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_instrument_recovered,D00004,2016-05-10T15:15:01Z,2016-05-10T15:22:00Z,0 days 00:06:59,,,check: difference between deploy end date and data file end date,lori,2017-04-26T00:00:00Z

@@ -1,0 +1,10 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdbp_cdef_dcl_instrument,D00002,2014-10-10T18:30:18Z,2015-04-11T23:30:23Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00003,2015-06-03T18:29:18Z,2015-08-25T00:29:16Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00003,2015-08-25T00:29:16Z,2015-10-07T00:00:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 42 days 23:30:44,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00004,2015-10-08T18:29:16Z,2016-01-31T21:29:30Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00004,2016-01-31T21:29:30Z,2016-05-10T15:22:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 99 days 17:52:30,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00005,2016-05-18T16:29:24Z,2016-08-09T00:29:25Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00005,2016-08-09T00:29:25Z,2016-10-02T20:15:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 54 days 19:45:35,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00006,2016-09-30T16:45:00Z,2017-01-20T00:35:26Z,,NOT_AVAILABLE,,check: difference between data begin and deployment begin date is: 111 days 07:50:26,lori,2017-04-26T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00006,2017-01-20T00:35:26Z,2017-01-21T23:35:27Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-04-26T00:00:00Z

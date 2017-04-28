@@ -1,0 +1,33 @@
+Level,Deployment,StartTime,EndTime,Notes,Test,Redmine#,Todo,ReviewedBy,ReviewedDate
+practical_salinity,D00002,2014-10-10T18:30:18Z,2015-04-11T23:30:23Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,lori,2017-04-26T00:00:00Z
+temp,D00002,2014-10-10T18:30:18Z,2015-04-11T23:30:23Z,extracted from 1st file of 1 files,Global Range Values,,global min = -2.0 global_max = 40.0,lori,2017-04-26T00:00:00Z
+temp,D00002,2014-10-10T18:30:18Z,2015-04-11T23:30:23Z,applies to one file,Stuck Value QC Test,,check: test triggered,lori,2017-04-26T00:00:00Z
+density,D00002,2014-10-10T18:30:18Z,2015-04-11T23:30:23Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,lori,2017-04-26T00:00:00Z
+pressure,D00002,2014-10-10T18:30:18Z,2015-04-11T23:30:23Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 6000.0,lori,2017-04-26T00:00:00Z
+pressure,D00002,2014-10-10T18:30:18Z,2015-04-11T23:30:23Z,applies to one file,Stuck Value QC Test,,check: test triggered,lori,2017-04-26T00:00:00Z
+conductivity,D00002,2014-10-10T18:30:18Z,2015-04-11T23:30:23Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 6.0,lori,2017-04-26T00:00:00Z
+conductivity,D00002,2014-10-10T18:30:18Z,2015-04-11T23:30:23Z,applies to one file,Stuck Value QC Test,,check: test triggered,lori,2017-04-26T00:00:00Z
+practical_salinity,D00003,2015-06-03T18:29:18Z,2015-10-06T23:29:17Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,lori,2017-04-26T00:00:00Z
+temp,D00003,2015-06-03T18:29:18Z,2015-10-06T23:29:17Z,extracted from 1st file of 1 files,Global Range Values,,global min = -2.0 global_max = 40.0,lori,2017-04-26T00:00:00Z
+temp,D00003,2015-06-03T18:29:18Z,2015-10-06T23:29:17Z,applies to one file,Stuck Value QC Test,,check: test triggered,lori,2017-04-26T00:00:00Z
+density,D00003,2015-06-03T18:29:18Z,2015-10-06T23:29:17Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,lori,2017-04-26T00:00:00Z
+pressure,D00003,2015-06-03T18:29:18Z,2015-10-06T23:29:17Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 6000.0,lori,2017-04-26T00:00:00Z
+pressure,D00003,2015-06-03T18:29:18Z,2015-10-06T23:29:17Z,applies to one file,Stuck Value QC Test,,check: test triggered,lori,2017-04-26T00:00:00Z
+conductivity,D00003,2015-06-03T18:29:18Z,2015-10-06T23:29:17Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 6.0,lori,2017-04-26T00:00:00Z
+conductivity,D00003,2015-06-03T18:29:18Z,2015-10-06T23:29:17Z,applies to one file,Stuck Value QC Test,,check: test triggered,lori,2017-04-26T00:00:00Z
+practical_salinity,D00004,2015-10-08T18:29:16Z,2016-01-31T23:29:28Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,lori,2017-04-26T00:00:00Z
+temp,D00004,2015-10-08T18:29:16Z,2016-01-31T23:29:28Z,extracted from 1st file of 1 files,Global Range Values,,global min = -2.0 global_max = 40.0,lori,2017-04-26T00:00:00Z
+density,D00004,2015-10-08T18:29:16Z,2016-01-31T23:29:28Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,lori,2017-04-26T00:00:00Z
+pressure,D00004,2015-10-08T18:29:16Z,2016-01-31T23:29:28Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 6000.0,lori,2017-04-26T00:00:00Z
+pressure,D00004,2015-10-08T18:29:16Z,2016-01-31T23:29:28Z,applies to one file,Global Range QC Test,,check: test triggered,lori,2017-04-26T00:00:00Z
+conductivity,D00004,2015-10-08T18:29:16Z,2016-01-31T23:29:28Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 6.0,lori,2017-04-26T00:00:00Z
+conductivity,D00004,2015-10-08T18:29:16Z,2016-01-31T23:29:28Z,applies to one file,Spike QC Test,,check: test triggered,lori,2017-04-26T00:00:00Z
+conductivity,D00004,2015-10-08T18:29:16Z,2016-01-31T23:29:28Z,applies to one file,Stuck Value QC Test,,check: test triggered,lori,2017-04-26T00:00:00Z
+practical_salinity,D00005,2016-05-18T16:29:24Z,2016-08-08T21:29:24Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,lori,2017-04-26T00:00:00Z
+temp,D00005,2016-05-18T16:29:24Z,2016-08-08T21:29:24Z,extracted from 1st file of 1 files,Global Range Values,,global min = -2.0 global_max = 40.0,lori,2017-04-26T00:00:00Z
+temp,D00005,2016-05-18T16:29:24Z,2016-08-08T21:29:24Z,applies to one file,Stuck Value QC Test,,check: test triggered,lori,2017-04-26T00:00:00Z
+density,D00005,2016-05-18T16:29:24Z,2016-08-08T21:29:24Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,lori,2017-04-26T00:00:00Z
+pressure,D00005,2016-05-18T16:29:24Z,2016-08-08T21:29:24Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 6000.0,lori,2017-04-26T00:00:00Z
+pressure,D00005,2016-05-18T16:29:24Z,2016-08-08T21:29:24Z,applies to one file,Stuck Value QC Test,,check: test triggered,lori,2017-04-26T00:00:00Z
+conductivity,D00005,2016-05-18T16:29:24Z,2016-08-08T21:29:24Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 6.0,lori,2017-04-26T00:00:00Z
+conductivity,D00005,2016-05-18T16:29:24Z,2016-08-08T21:29:24Z,applies to one file,Stuck Value QC Test,,check: test triggered,lori,2017-04-26T00:00:00Z

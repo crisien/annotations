@@ -1,6 +1,6 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
 ctdbp_cdef_dcl_instrument_recovered,D00001,2013-11-21T18:15:04Z,2014-02-17T13:05:54Z,,AVAILABLE,,,lori,2017-04-27T00:00:00Z
-ctdbp_cdef_dcl_instrument_recovered,D00001,2014-02-17T13:05:54Z,2014-04-18T00:00:00Z,Instrument failed.,NOT_AVAILABLE,,,lori,2017-04-27T00:00:00Z
+ctdbp_cdef_dcl_instrument_recovered,D00001,2014-02-17T13:05:54Z,2014-04-18T00:00:00Z,,NOT_AVAILABLE,,Ask MIO if the instrument failed.,lori,2017-04-27T00:00:00Z
 ctdbp_cdef_dcl_instrument_recovered,D00002,2014-12-13T18:47:00Z,2014-12-15T20:58:00Z,No data from short deployment. See platform level annotation.,NOT_AVAILABLE,,,lori,2017-04-27T00:00:00Z
 ctdbp_cdef_dcl_instrument_recovered,D00003,2015-05-07T18:05:09Z,2015-05-22T13:05:10Z,,AVAILABLE,,,lori,2017-04-27T00:00:00Z
 ctdbp_cdef_dcl_instrument_recovered,D00003,2015-05-22T13:05:10Z,2015-10-23T19:40:00Z,,NOT_AVAILABLE,,,lori,2017-04-27T00:00:00Z

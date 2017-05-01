@@ -1,0 +1,10 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+practical_salinity,D00001,2013-11-21T18:15:21Z,2014-02-17T13:27:11Z,Recovered data look slightly offset from telemetered data. Data need to be purged and re-ingested.,SUSPECT,11954,"Purge and re-ingest, then check again",lori,2017-04-28T00:00:00Z
+temperature,,,,,,,,lori,2017-04-28T00:00:00Z
+density,D00001,2013-11-21T18:15:21Z,2014-02-17T13:27:11Z,Recovered data look slightly offset from telemetered data. Data need to be purged and re-ingested.,SUSPECT,11954,"Purge and re-ingest, then check again",lori,2017-04-28T00:00:00Z
+ctdbp_seawater_conductivity,,,,,,,,lori,2017-04-28T00:00:00Z
+ctdbp_seawater_pressure,,,,,,,,lori,2017-04-28T00:00:00Z
+pressure,,,,,,,,lori,2017-04-28T00:00:00Z
+pressure_temp,,,,,,,,lori,2017-04-28T00:00:00Z
+ctdbp_seawater_temperature,,,,,,,,lori,2017-04-28T00:00:00Z
+conductivity,,,,,,,,lori,2017-04-28T00:00:00Z

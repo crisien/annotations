@@ -1,6 +1,6 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
 ctdbp_cdef_dcl_instrument,D00001,2013-11-21T18:15:04Z,2014-02-17T12:04:56Z,,AVAILABLE,,,lori,2017-04-27T00:00:00Z
-ctdbp_cdef_dcl_instrument,D00001,2014-02-17T12:04:56Z,2014-04-18T00:00:00Z,Instrument failed.,NOT_AVAILABLE,,,lori,2017-04-27T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00001,2014-02-17T12:04:56Z,2014-04-18T00:00:00Z,,NOT_AVAILABLE,,Ask MIO if the instrument failed.,lori,2017-04-27T00:00:00Z
 ctdbp_cdef_dcl_instrument,D00002,2014-12-13T19:05:05Z,2014-12-14T23:05:05Z,Short timeframe of sparse data. See platform level annotation.,AVAILABLE,,,lori,2017-04-27T00:00:00Z
 ctdbp_cdef_dcl_instrument,D00003,2015-05-07T18:05:09Z,2015-05-22T11:05:10Z,,AVAILABLE,,,lori,2017-04-27T00:00:00Z
 ctdbp_cdef_dcl_instrument,D00003,2015-05-22T11:05:10Z,2015-10-23T19:40:00Z,,NOT_AVAILABLE,,,lori,2017-04-27T00:00:00Z

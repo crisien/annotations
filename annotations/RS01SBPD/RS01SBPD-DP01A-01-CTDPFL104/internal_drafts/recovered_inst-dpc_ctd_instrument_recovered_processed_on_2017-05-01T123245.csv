@@ -1,0 +1,11 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+dpc_ctd_instrument_recovered,D00002,2015-07-22T22:17:00Z,2015-07-24T03:06:31Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-04-27T00:00:00Z
+dpc_ctd_instrument_recovered,D00002,2015-07-24T03:06:31Z,2015-08-04T22:48:34Z,,NOT_AVAILABLE,,check: data gap: 11 days 19:42:03,friedrich,2017-04-27T00:00:00Z
+dpc_ctd_instrument_recovered,D00002,2015-08-04T22:48:34Z,2015-08-05T22:12:40Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-04-27T00:00:00Z
+dpc_ctd_instrument_recovered,D00002,2015-08-05T22:12:40Z,2015-09-30T19:23:08Z,,NOT_AVAILABLE,,check: data gap: 55 days 21:10:28,friedrich,2017-04-27T00:00:00Z
+dpc_ctd_instrument_recovered,D00002,2015-09-30T19:23:08Z,2015-10-01T00:40:16Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-04-27T00:00:00Z
+dpc_ctd_instrument_recovered,D00002,2015-10-01T00:40:16Z,2015-10-06T00:00:58Z,,NOT_AVAILABLE,,check: data gap: 4 days 23:20:42,friedrich,2017-04-27T00:00:00Z
+dpc_ctd_instrument_recovered,D00002,2015-10-06T00:00:58Z,2015-10-14T17:12:09Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-04-27T00:00:00Z
+dpc_ctd_instrument_recovered,D00002,2015-10-14T17:12:09Z,2015-10-16T00:04:01Z,,NOT_AVAILABLE,,check: data gap: 1 days 06:51:52,friedrich,2017-04-27T00:00:00Z
+dpc_ctd_instrument_recovered,D00002,2015-10-16T00:04:01Z,2015-10-17T05:04:31Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-04-27T00:00:00Z
+dpc_ctd_instrument_recovered,D00002,2015-10-17T05:04:31Z,2016-08-09T00:00:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 296 days 18:55:29,friedrich,2017-04-27T00:00:00Z

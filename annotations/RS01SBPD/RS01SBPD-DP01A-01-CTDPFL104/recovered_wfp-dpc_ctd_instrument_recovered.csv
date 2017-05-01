@@ -1,0 +1,4 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+dpc_ctd_instrument_recovered,D00001,2014-08-23T05:55:50,2014-09-22T00:00:00,,NOT_AVAILABLE,9383,Pending purge and reingest of the limited data that is available. ,friedrich,2017-03-29T00:00:00Z
+dpc_ctd_instrument_recovered,D00002,2015-07-22T22:17:00,2016-08-09T00:00:00,,NOT_AVAILABLE,9383,Pending purge and reingest of the limited data that is available. ,friedrich,2017-03-29T00:00:00Z
+dpc_ctd_instrument_recovered,D00003,2016-08-09T03:16:00,2017-03-29T00:00:00Z,,NOT_AVAILABLE,9383,Pending purge and reingest of the limited data that is available. ,friedrich,2017-03-29T00:00:00Z

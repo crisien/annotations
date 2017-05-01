@@ -14,10 +14,10 @@ import numpy as np
 
 # specify path to annotation csvs, reference designator and theoretical end date for ongoing deployment, specified as 'None' in asset management
 # (you can use the date on which you downloaded the data, for example.)
-assets = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/CE04OSPD/CE04OSPD.csv'
-stream = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/CE04OSPD/CE04OSPD-DP01B-01-CTDPFL105/recovered_inst-dpc_ctd_instrument_recovered.csv'
-parameters = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/CE04OSPD/CE04OSPD-DP01B-01-CTDPFL105/recovered_inst-dpc_ctd_instrument_recovered_parameters.csv'
-reference_designator = 'CE04OSPD-DP01B-01-CTDPFL105'
+assets = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/RS01SBPD/RS01SBPD.csv'
+stream = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/RS01SBPD/RS01SBPD-DP01A-01-CTDPFL104/recovered_inst-dpc_ctd_instrument_recovered.csv'
+parameters = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/RS01SBPD/RS01SBPD-DP01A-01-CTDPFL104/recovered_inst-dpc_ctd_instrument_recovered_parameters.csv'
+reference_designator = 'RS01SBPD-DP01A-01-CTDPFL104'
 # ongoing_dep_end = '2017-03-21T00:00:00'
 
 ## use this to manually specify deployment start and end times. comment block using ongoing_dep_end out accordingly.
@@ -200,29 +200,29 @@ for index, row in stream_df.iterrows():
 	if row["Status"] == 'AVAILABLE':
 		plt.plot(stream_time, stream_shape, linewidth=10, color='green')
 	elif row["Status"] == 'NOT_AVAILABLE':
-		plt.plot(stream_time, stream_shape, linewidth=10, color='gray',zorder = 3)
+		plt.plot(stream_time, stream_shape, linewidth=10, color='green')
 	elif row["Status"] == 'NOT_EVALUATED':
 		plt.plot(stream_time, stream_shape, linewidth=10, color='green')
 	elif row["Status"] == 'PENDING_INGEST':
-		plt.plot(stream_time, stream_shape, linewidth=10, color='green',zorder = 3)
+		plt.plot(stream_time, stream_shape, linewidth=10, color='green')
 
 for index, row in assets_df.iterrows():
 	subsite_time = np.array([row["StartTime"],row["EndTime"]])
 	subsite_shape = np.full((subsite_time.shape), y[counter])
 	if len(row["Level"]) == 8 and type(row["Status"]) == str:
-		plt.plot(subsite_time, subsite_shape, linewidth=10, color='gray',zorder = 3)
+		plt.plot(subsite_time, subsite_shape, linewidth=10, color='gray',zorder = 4)
 
 for index, row in assets_df.iterrows():
 	node_time = np.array([row["StartTime"],row["EndTime"]])
 	node_shape = np.full((node_time.shape), y[counter])
 	if len(row["Level"]) == 14 and type(row["Status"]) == str:
-		plt.plot(node_time, node_shape, linewidth=10, color='gray',zorder = 3)
+		plt.plot(node_time, node_shape, linewidth=10, color='gray',zorder = 4)
 
 for index, row in assets_df.iterrows():
 	instrument_time = np.array([row["StartTime"],row["EndTime"]])
 	instrument_shape = np.full((instrument_time.shape), y[counter])
-	if len(row["Level"]) == 27 and type(row["Status"]) == str and row["Level"]=='reference_designator':
-		plt.plot(instrument_time, instrument_shape, linewidth=10, color='gray',zorder = 3)
+	if len(row["Level"]) == 27 and type(row["Status"]) == str and row["Level"]==reference_designator:
+		plt.plot(instrument_time, instrument_shape, linewidth=10, color='gray',zorder = 4)
 
 counter = counter -1
 

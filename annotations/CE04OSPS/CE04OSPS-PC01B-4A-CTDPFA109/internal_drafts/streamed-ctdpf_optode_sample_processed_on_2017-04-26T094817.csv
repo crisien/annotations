@@ -1,18 +1,18 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
 ctdpf_optode_sample,D00001,2014-08-30T09:16:00Z,2014-10-08T19:51:58Z,,NOT_AVAILABLE,,check: difference between data begin and deployment begin date is: 39 days 10:35:58,Leila,2017-04-10T00:00:00Z
-ctdpf_optode_sample,D00001,2014-10-08T19:51:58Z,2014-11-04T16:05:39Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-04-10T00:00:00Z
+ctdpf_optode_sample,D00001,2014-10-08T19:51:58Z,2014-11-04T16:05:39Z,,AVAILABLE,,check: evaluate parameters,Leila,2017-04-10T00:00:00Z
 ctdpf_optode_sample,D00001,2014-11-04T16:05:39Z,2014-11-05T19:25:40Z,,NOT_AVAILABLE,,check: data gap: 1 days 03:20:01,Leila,2017-04-10T00:00:00Z
-ctdpf_optode_sample,D00001,2014-11-05T19:25:40Z,2014-11-06T00:25:49Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-04-10T00:00:00Z
+ctdpf_optode_sample,D00001,2014-11-05T19:25:40Z,2014-11-06T00:25:49Z,,AVAILABLE,,check: evaluate parameters,Leila,2017-04-10T00:00:00Z
 ctdpf_optode_sample,D00001,2014-11-06T00:25:49Z,2015-01-08T18:28:52Z,,NOT_AVAILABLE,,check: data gap: 63 days 18:03:03,Leila,2017-04-10T00:00:00Z
-ctdpf_optode_sample,D00001,2015-01-08T18:28:52Z,2015-01-30T23:08:24Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-04-10T00:00:00Z
+ctdpf_optode_sample,D00001,2015-01-08T18:28:52Z,2015-01-30T23:08:24Z,,AVAILABLE,,check: evaluate parameters,Leila,2017-04-10T00:00:00Z
 ctdpf_optode_sample,D00001,2015-01-30T23:08:24Z,2015-02-05T21:13:35Z,,NOT_AVAILABLE,,check: data gap: 5 days 22:05:11,Leila,2017-04-10T00:00:00Z
-ctdpf_optode_sample,D00001,2015-02-05T21:13:35Z,2015-03-07T23:06:04Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-04-10T00:00:00Z
+ctdpf_optode_sample,D00001,2015-02-05T21:13:35Z,2015-03-07T23:06:04Z,,AVAILABLE,,check: evaluate parameters,Leila,2017-04-10T00:00:00Z
 ctdpf_optode_sample,D00001,2015-03-07T23:06:04Z,2015-03-09T07:39:57Z,,NOT_AVAILABLE,,check: data gap: 1 days 08:33:53,Leila,2017-04-10T00:00:00Z
-ctdpf_optode_sample,D00001,2015-03-09T07:39:57Z,2015-07-15T12:25:47Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-04-10T00:00:00Z
+ctdpf_optode_sample,D00001,2015-03-09T07:39:57Z,2015-07-15T12:25:47Z,,AVAILABLE,,check: evaluate parameters,Leila,2017-04-10T00:00:00Z
 ctdpf_optode_sample,D00001,2015-07-15T12:25:47Z,2015-08-02T00:00:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 17 days 11:34:13,Leila,2017-04-10T00:00:00Z
-ctdpf_optode_sample,D00002,2015-08-03T23:59:59Z,2016-07-17T23:59:59Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-04-10T00:00:00Z
+ctdpf_optode_sample,D00002,2015-08-03T23:59:59Z,2016-07-17T23:59:59Z,,AVAILABLE,,check: evaluate parameters,Leila,2017-04-10T00:00:00Z
 ctdpf_optode_sample,D00003,2016-07-19T08:00:00Z,2017-01-09T18:30:53Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-04-10T00:00:00Z
-ctdpf_optode_sample,D00003,2017-01-09T18:30:53Z,2017-01-11T01:02:52Z,,NOT_AVAILABLE,,check: data gap: 1 days 06:31:59,Leila,2017-04-10T00:00:00Z
+ctdpf_optode_sample,D00003,2017-01-09T18:30:53Z,2017-01-11T01:02:52Z,,AVAILABLE,,check: data gap: 1 days 06:31:59,Leila,2017-04-10T00:00:00Z
 ctdpf_optode_sample,D00003,2017-01-11T01:02:52Z,2017-02-15T14:43:05Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-04-10T00:00:00Z
-ctdpf_optode_sample,D00003,2017-02-15T14:43:05Z,2017-02-16T23:12:03Z,,NOT_AVAILABLE,,check: data gap: 1 days 08:28:58,Leila,2017-04-10T00:00:00Z
+ctdpf_optode_sample,D00003,2017-02-15T14:43:05Z,2017-02-16T23:12:03Z,,AVAILABLE,,check: data gap: 1 days 08:28:58,Leila,2017-04-10T00:00:00Z
 ctdpf_optode_sample,D00003,2017-02-16T23:12:03Z,2017-04-10T16:00:18Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-04-10T00:00:00Z

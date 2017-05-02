@@ -11,4 +11,4 @@ ctdpf_sbe43_sample,D00003,2016-07-19T08:00:00Z,2017-01-09T18:30:53Z,,NOT_EVALUAT
 ctdpf_sbe43_sample,D00003,2017-01-09T18:30:53Z,2017-01-11T01:09:09Z,CTD offline because of power interruption caused by lightning strike in Pacific City in close proximity to shore station.,NOT_AVAILABLE,11776,check: data gap: 1 days 06:38:16,Leila,2017-04-10T00:00:00Z
 ctdpf_sbe43_sample,D00003,2017-01-11T01:09:09Z,2017-02-15T14:43:05Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-04-10T00:00:00Z
 ctdpf_sbe43_sample,D00003,2017-02-15T14:43:05Z,2017-02-16T23:31:07Z,CTD offline because of power interruption caused by lightning strike in Pacific City in close proximity to shore station.,NOT_AVAILABLE,11998,check: data gap: 1 days 08:48:02,Leila,2017-04-10T00:00:00Z
-ctdpf_sbe43_sample,D00003,2017-02-16T23:31:07Z,2017-03-22T22:19:10Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-04-10T00:00:00Z
+ctdpf_sbe43_sample,D00003,2017-02-16T23:31:07Z,2017-04-10T16:00:15Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-04-10T00:00:00Z

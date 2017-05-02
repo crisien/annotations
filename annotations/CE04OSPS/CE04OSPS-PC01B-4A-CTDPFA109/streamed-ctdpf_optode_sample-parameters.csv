@@ -1,8 +1,17 @@
-Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,reviewed_by
-seawater_temperature,,,,,,,,
-seawater_pressure,,,,,,,,
-seawater_conductivity,,,,,,,,
-practical_salinity,,,,,,,,
-seawater_density,,,,,,,,
-ctd_tc_oxygen,,2014-10-08T19:51:58Z,2017-03-20T19:57:04Z,Incorrect vendor calibration: pending correction,Fail,11420,,leila
-ctd_abs_oxygen,,2014-10-08T19:51:58Z,2017-03-20T19:57:04Z,Incorrect vendor calibration: pending correction,Fail,11420,,leila
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+practical_salinity,D00001,2014-08-30T09:16:00Z,2015-08-02T00:00:00Z,,,,check: spike test triggered [Spikes in data],Leila,2017-04-10T00:00:00Z
+seawater_conductivity,D00001,2014-08-30T09:16:00Z,2015-08-02T00:00:00Z,,,,check: spike test triggered [Spikes in data],Leila,2017-04-10T00:00:00Z
+density,D00001,2014-08-30T09:16:00Z,2015-08-02T00:00:00Z,,,,check: spike test triggered [Spikes in data],Leila,2017-04-10T00:00:00Z
+conductivity,D00001,2014-08-30T09:16:00Z,2015-08-02T00:00:00Z,,,,check: spike test triggered [Spikes in data],Leila,2017-04-10T00:00:00Z
+oxygen,D00002,2015-08-03T23:59:59.220454Z,2015-08-03T23:01:29.900490Z,Values are too high exceeded 400 umol L-1 ,FAIL,12297,,Leila,2017-04-10T00:00:00Z
+ctd_tc_oxygen,D00002,2015-08-03T23:59:59.220454Z,2015-08-03T23:01:29.900490Z,Values are too high exceeded 400 umol L-1 ,FAIL,12297,,Leila,2017-04-10T00:00:00Z
+dissolved_oxygen,D00002,2015-08-03T23:59:59.220454Z,2015-08-03T23:01:29.900490Z,Values are too high exceeded 400 umol kg-1 ,FAIL,12297,,Leila,2017-04-10T00:00:00Z
+practical_salinity,D00002,2015-08-03T23:59:59Z,2016-07-17T23:59:59Z,,,,check: dropping in conductivity- spike test triggered,Leila,2017-04-10T00:00:00Z
+seawater_conductivity,D00002,2015-08-03T23:59:59Z,2016-07-17T23:59:59Z,,,,check: dropping in conductivity- spike test triggered,Leila,2017-04-10T00:00:00Z
+density,D00002,2015-08-03T23:59:59Z,2016-07-17T23:59:59Z,,,,check: dropping in conductivity- spike test triggered,Leila,2017-04-10T00:00:00Z
+conductivity,D00002,2015-08-03T23:59:59Z,2016-07-17T23:59:59Z,,,,check: dropping in conductivity- spike test triggered,Leila,2017-04-10T00:00:00Z
+ctd_tc_oxygen,D00003,2017-01-11T01:02:52Z,2017-03-01T00:00:00Z,,,,check: outliers captured by the spike and global range tests,Leila,2017-04-10T00:00:00Z
+dissolved_oxygen,D00003,2017-01-11T01:02:52Z,2017-03-01T00:00:00Z,,,,check: outliers captured by the spike and global range tests,Leila,2017-04-10T00:00:00Z
+practical_salinity,D00003,2016-07-19T08:00:00Z,2017-03-20T19:57:04Z,,,,check: dropping in conductivity- spike test triggered,Leila,2017-04-10T00:00:00Z
+seawater_conductivity,D00003,2016-07-19T08:00:00Z,2017-03-20T19:57:04Z,,,,check: dropping in conductivity- spike test triggered,Leila,2017-04-10T00:00:00Z
+density,D00003,2016-07-19T08:00:00Z,2017-03-20T19:57:04Z,,,,check: dropping in conductivity- spike test triggered,Leila,2017-04-10T00:00:00Z

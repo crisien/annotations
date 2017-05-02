@@ -1,0 +1,5 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdbp_p_dcl_instrument,D00002,2015-08-15T20:00:03Z,2015-11-13T17:00:03Z,Sparse data after 2015-11-07. Instrument failed in Nov-2015.,AVAILABLE,9424,,lori,2017-05-02T00:00:00Z
+ctdbp_p_dcl_instrument,D00002,2015-11-13T17:00:03Z,2016-07-19T00:00:00Z,Instrument failed. ,NOT_AVAILABLE,9424,,lori,2017-05-02T00:00:00Z
+ctdbp_p_dcl_instrument,D00003,2016-07-10T18:00:03Z,2017-01-10T22:00:03Z,,AVAILABLE,,,lori,2017-05-02T00:00:00Z
+ctdbp_p_dcl_instrument,D00003,2017-01-10T22:00:03Z,2017-05-02T00:00:00Z,Evidence of ice build-up on the buoy: no telemetered data. See platform-level annotation for details.,NOT_AVAILABLE,,Update as deployment progresses,lori,2017-05-02T00:00:00Z

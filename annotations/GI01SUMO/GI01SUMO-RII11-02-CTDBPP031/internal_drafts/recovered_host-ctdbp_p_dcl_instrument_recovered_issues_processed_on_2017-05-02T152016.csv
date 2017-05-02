@@ -1,0 +1,2 @@
+Level,Deployment,StartTime,EndTime,Notes,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdbp_p_dcl_instrument_recovered,D00002,2015-08-15T19:22:00Z,2015-08-15T20:00:03Z,0 days 00:38:03,,,check: difference between deploy start date and data file start date,lori,2017-05-02T00:00:00Z

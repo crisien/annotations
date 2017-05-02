@@ -1,0 +1,10 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+practical_salinity,D00002,2015-11-07T00:00:00Z,2015-11-13T17:00:03Z,Instrument failed.,FAIL,9424,,lori,2017-05-02T00:00:00Z
+temp,D00002,2015-11-07T00:00:00Z,2015-11-13T17:00:03Z,Instrument failed.,FAIL,9424,,lori,2017-05-02T00:00:00Z
+density,D00002,2015-11-07T00:00:00Z,2015-11-13T17:00:03Z,Instrument failed.,FAIL,9424,,lori,2017-05-02T00:00:00Z
+pressure,D00002,2015-11-07T00:00:00Z,2015-11-13T17:00:03Z,Instrument failed.,FAIL,9424,,lori,2017-05-02T00:00:00Z
+conductivity,D00002,2015-11-07T00:00:00Z,2015-11-13T17:00:03Z,Instrument failed.,FAIL,9424,,lori,2017-05-02T00:00:00Z
+practical_salinity,D00003,2016-10-19T00:00:00Z,2017-01-10T22:00:03Z,Data pattern changed. Operators noticed invalid data beginning in Dec-2016. Data are suspect.,SUSPECT,11632,,lori,2017-05-02T00:00:00Z
+temp,D00003,2016-10-19T00:00:00Z,2017-01-10T22:00:03Z,Data pattern changed. Operators noticed invalid data beginning in Dec-2016. Data are suspect.,SUSPECT,11632,,lori,2017-05-02T00:00:00Z
+density,D00003,2016-10-19T00:00:00Z,2017-01-10T22:00:03Z,Data pattern changed. Operators noticed invalid data beginning in Dec-2016. Data are suspect.,SUSPECT,11632,,lori,2017-05-02T00:00:00Z
+conductivity,D00003,2016-10-19T00:00:00Z,2017-01-10T22:00:03Z,Data pattern changed. Operators noticed invalid data beginning in Dec-2016. Data are suspect.,SUSPECT,11632,,lori,2017-05-02T00:00:00Z

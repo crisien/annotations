@@ -1,0 +1,15 @@
+Level,Deployment,StartTime,EndTime,Notes,Test,Redmine#,Todo,ReviewedBy,ReviewedDate
+practical_salinity,D00001,2014-09-10T19:00:30Z,2014-09-29T08:02:30Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,lori,2017-05-02T00:00:00Z
+temp,D00001,2014-09-10T19:00:30Z,2014-09-29T08:02:30Z,extracted from 1st file of 1 files,Global Range Values,,global min = -2.0 global_max = 40.0,lori,2017-05-02T00:00:00Z
+temp,D00001,2014-09-10T19:00:30Z,2014-09-29T08:02:30Z,applies to one file,Stuck Value QC Test,,check: test triggered,lori,2017-05-02T00:00:00Z
+density,D00001,2014-09-10T19:00:30Z,2014-09-29T08:02:30Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,lori,2017-05-02T00:00:00Z
+pressure,D00001,2014-09-10T19:00:30Z,2014-09-29T08:02:30Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 6000.0,lori,2017-05-02T00:00:00Z
+pressure,D00001,2014-09-10T19:00:30Z,2014-09-29T08:02:30Z,applies to one file,Stuck Value QC Test,,check: test triggered,lori,2017-05-02T00:00:00Z
+conductivity,D00001,2014-09-10T19:00:30Z,2014-09-29T08:02:30Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 6.0,lori,2017-05-02T00:00:00Z
+conductivity,D00001,2014-09-10T19:00:30Z,2014-09-29T08:02:30Z,applies to one file,Stuck Value QC Test,,check: test triggered,lori,2017-05-02T00:00:00Z
+practical_salinity,D00002,2015-09-11T16:00:52Z,2015-09-11T20:02:48Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,lori,2017-05-02T00:00:00Z
+temp,D00002,2015-09-11T16:00:52Z,2015-09-11T20:02:48Z,extracted from 1st file of 1 files,Global Range Values,,global min = -2.0 global_max = 40.0,lori,2017-05-02T00:00:00Z
+density,D00002,2015-09-11T16:00:52Z,2015-09-11T20:02:48Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,lori,2017-05-02T00:00:00Z
+pressure,D00002,2015-09-11T16:00:52Z,2015-09-11T20:02:48Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 6000.0,lori,2017-05-02T00:00:00Z
+conductivity,D00002,2015-09-11T16:00:52Z,2015-09-11T20:02:48Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 6.0,lori,2017-05-02T00:00:00Z
+conductivity,D00002,2015-09-11T16:00:52Z,2015-09-11T20:02:48Z,applies to one file,Stuck Value QC Test,,check: test triggered,lori,2017-05-02T00:00:00Z

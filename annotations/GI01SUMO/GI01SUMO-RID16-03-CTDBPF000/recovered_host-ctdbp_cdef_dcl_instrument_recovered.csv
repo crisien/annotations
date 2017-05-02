@@ -1,0 +1,6 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdbp_cdef_dcl_instrument_recovered,D00001,2014-09-10T19:00:30Z,2014-09-29T08:02:30Z,Sparse data after 2014-09-26,AVAILABLE,,,lori,2017-05-02T00:00:00Z
+ctdbp_cdef_dcl_instrument_recovered,D00001,2014-09-29T08:02:30Z,2015-08-22T11:00:00Z,Telemetry was lost in mid-Sept-2014 and the buoy is suspected to have iced-over in mid-Feb-2015. No data available.,NOT_AVAILABLE,,,lori,2017-05-02T00:00:00Z
+ctdbp_cdef_dcl_instrument_recovered,D00002,2015-08-15T19:22:00Z,2015-09-11T16:00:52Z,Instrument failed to send valid data.,NOT_AVAILABLE,,,lori,2017-05-02T00:00:00Z
+ctdbp_cdef_dcl_instrument_recovered,D00002,2015-09-11T16:00:52Z,2015-09-11T20:02:48Z,Sparse data available for a few hours.,AVAILABLE,,,lori,2017-05-02T00:00:00Z
+ctdbp_cdef_dcl_instrument_recovered,D00002,2015-09-11T20:02:48Z,2016-07-19T00:00:00Z,"Instrument failed to send valid data. In addition, violent weather in Jan-2016 resulted in damage to the buoy.",NOT_AVAILABLE,,,lori,2017-05-02T00:00:00Z

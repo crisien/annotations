@@ -1,0 +1,12 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdbp_cdef_dcl_instrument,D00001,2014-09-10T19:00:30Z,2014-09-18T15:02:56Z,,AVAILABLE,,,lori,2017-05-02T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00001,2014-09-18T15:02:56Z,2015-06-11T16:00:27Z,Telemetry was lost in mid-Sept-2014 and the buoy is suspected to have iced-over in mid-Feb-2015. No data available.,NOT_AVAILABLE,,,lori,2017-05-02T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00001,2015-06-11T16:00:27Z,2015-06-30T03:18:12Z,Telemetry was turned back on but data fail basic QC tests and should not be used (e.g. pressure values around 0 dbar).,AVAILABLE,,,lori,2017-05-02T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00001,2015-06-30T03:18:12Z,2015-08-22T11:00:00Z,,NOT_AVAILABLE,,,lori,2017-05-02T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00002,2015-08-15T19:22:00Z,2015-09-11T16:00:52Z,Instrument failed to send valid data.,NOT_AVAILABLE,,,lori,2017-05-02T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00002,2015-09-11T16:00:52Z,2015-09-11T20:03:00Z,Sparse data available for a few hours.,AVAILABLE,,,lori,2017-05-02T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00002,2015-09-11T20:03:00Z,2016-07-19T00:00:00Z,"Instrument failed to send valid data. In addition, violent weather in Jan-2016 resulted in damage to the buoy.",NOT_AVAILABLE,,,lori,2017-05-02T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00003,2016-07-10T17:47:16Z,2016-08-10T11:32:38Z,,AVAILABLE,,,lori,2017-05-02T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00003,2016-08-10T11:32:38Z,2016-09-11T15:47:36Z,,NOT_AVAILABLE,,,lori,2017-05-02T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00003,2016-09-11T15:47:36Z,2017-01-07T02:47:41Z,"Sparse data available. Around 2016-11-05, the DCL began reporting telemetry errors for the instrument.",AVAILABLE,,,lori,2017-05-02T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00003,2017-01-07T02:47:41Z,2017-05-02T00:00:00Z,Evidence of ice build-up on the buoy: no telemetered data. See platform-level annotation for details.,NOT_AVAILABLE,,Update as deployment progresses,lori,2017-05-02T00:00:00Z

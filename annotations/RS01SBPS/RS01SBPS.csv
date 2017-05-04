@@ -38,3 +38,5 @@ RS01SBPS-PC01A-4A-CTDPFA103,1,2015-02-01T20:36:30Z,2015-02-03T09:56:43Z,,NOT_AVA
 RS01SBPS-PC01A-4A-CTDPFA103,1,2015-03-07T23:04:22Z,2015-03-09T07:39:39Z,,NOT_AVAILABLE,,check: data gap,friedrich,2017-04-17T00:00:00Z
 RS01SBPS-PC01A-4A-CTDPFA103,2,2015-07-07T16:12:00Z,2015-07-08T20:37:13Z,,NOT_AVAILABLE,,check: difference between data begin and deployment begin date is: 1 days 04:25:13,friedrich,2017-04-17T00:00:00Z
 RS01SBPS-PC01A-4A-CTDPFA103,3,2017-01-09T18:30:53Z,2017-02-16T23:02:04Z,,NOT_AVAILABLE,,check: data gap,friedrich,2017-04-17T00:00:00Z
+RS01SBPS-MJ01A-12-VEL3DB101,,,,,,8648,Need to transpose information from Redmine ticket to parameter level annotaiton csv,,
+RS01SBPS-PC01A-06-VADCPA101,,,,,,12148,Need to transpose information from Redmine ticket,,

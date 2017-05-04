@@ -36,3 +36,5 @@ RS03AXPS,,2015-03-21T14:10:00,2015-03-22T04:20:00,PNWGP outage due to City of Se
 RS03AXPS,,2015-01-31T00:00:00,2015-02-04T00:00:00,Intermittent partial data loss due to storage drive problems at OTB,,,Verify against data,friedrich,2017-04-17T00:00:00Z
 RS03AXPS,,2015-01-07T07:32:00,2015-01-07T08:06:00,PNWGP Portland <-> Seattle outage,,,Verify against data,friedrich,2017-04-17T00:00:00Z
 RS03AXPS,,2014-12-07T19:45:00,2014-12-16T00:00:00,"PFE down. HVPS1 MOV explosion, 800A breaker tripped, investigation and restoration",,,Verify against data,friedrich,2017-04-17T00:00:00Z
+RS03AXPS-SF03A-4B-VELPTD302,,,,,,8648,Need to transpose information from Redmine ticket to parameter level annotation csv ,,
+RS03AXPS-SF03A-4B-VELPTD302,,,,,,8649,Need to transpose information from Redmine ticket to parameter level annotation csv ,,

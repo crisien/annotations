@@ -15,3 +15,4 @@ RS03ASHS,,2015-03-21T14:10:00,2015-03-22T04:20:00,PNWGP outage due to City of Se
 RS03ASHS,,2015-01-31T00:00:00,2015-02-04T00:00:00,Intermittent partial data loss due to storage drive problems at OTB,,,Verify against data,friedrich
 RS03ASHS,,2015-01-07T07:32:00,2015-01-07T08:06:00,PNWGP Portland <-> Seattle outage,,,Verify against data,friedrich
 RS03ASHS,,2014-12-07T19:45:00,2014-12-16T00:00:00,"PFE down. HVPS1 MOV explosion, 800A breaker tripped, investigation and restoration",,,Verify against data,friedrich
+RS03ASHS-PN03B-06-CAMHDA301,,,,,,10237,Check time offset and annotated drift ranges,

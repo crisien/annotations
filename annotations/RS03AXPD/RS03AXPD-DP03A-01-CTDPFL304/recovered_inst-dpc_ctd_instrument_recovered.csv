@@ -8,4 +8,4 @@ dpc_ctd_instrument_recovered,D00001,2014-09-21T16:24:12Z,2014-09-25T17:48:34Z,,P
 dpc_ctd_instrument_recovered,D00001,2014-09-25T17:48:34Z,2014-09-28T19:57:02Z,,AVAILABLE,,check: evaluate parameters,friedrich,2017-04-27T00:00:00Z
 dpc_ctd_instrument_recovered,D00001,2014-09-28T19:57:02Z,2014-10-01T00:00:02Z,Profiler not operating due to docking station overcurrent,NOT_AVAILABLE,,,friedrich,2017-04-27T00:00:00Z
 dpc_ctd_instrument_recovered,D00001,2014-10-01T00:00:02Z,2014-11-08T00:00:02Z,,PENDING_INGEST,9383,,friedrich,2017-04-27T00:00:00Z
-dpc_ctd_instrument_recovered,D00001,2014-09-28T19:57:02Z,2016-10-08T00:00:00Z,Profiler not operating due to docking station overcurrent,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 740 days 04:02:58,friedrich,2017-04-27T00:00:00Z
+dpc_ctd_instrument_recovered,D00001,2014-11-08T00:00:02Z,2016-10-08T00:00:00Z,Profiler not operating due to docking station overcurrent,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 740 days 04:02:58,friedrich,2017-04-27T00:00:00Z

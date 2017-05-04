@@ -54,7 +54,7 @@ def check_annotation_gap(data, root, filename):
 
 					diff = row['StartTime'] - last['EndTime']
 					# if row['Status'] == last['Status'] and row['Deployment'] == last['Deployment'] and diff < pd.Timedelta('1 second'):
-					if row['Deployment'] == last['Deployment'] and row['StartTime'] != last['EndTime'] and row['Status'] is not np.nan:
+					if row['Deployment'] == last['Deployment'] and row['StartTime'] != last['EndTime'] and row['Status'] is not np.nan and last['Status'] is not np.nan:
 						print '\n', root, filename
 						print 'WARNING: there is an unidentified annotation gap of ' + str(diff) + \
 						' between deployment ' + str(row['Deployment']) + ' annotations in row ' + \

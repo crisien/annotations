@@ -1,0 +1,24 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdpf_optode_sample,D00001,2014-08-07T17:45:00Z,2014-08-22T22:51:18Z,,NOT_AVAILABLE,,check: difference between data begin and deployment begin date is: 15 days 05:06:18,friedrich,2017-05-02T00:00:00Z
+ctdpf_optode_sample,D00001,2014-08-22T22:51:18Z,2014-08-24T00:34:03Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-02T00:00:00Z
+ctdpf_optode_sample,D00001,2014-08-24T00:34:03Z,2014-08-25T16:41:39Z,,NOT_AVAILABLE,,check: data gap: 1 days 16:07:36,friedrich,2017-05-02T00:00:00Z
+ctdpf_optode_sample,D00001,2014-08-25T16:41:39Z,2014-11-04T16:05:51Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-02T00:00:00Z
+ctdpf_optode_sample,D00001,2014-11-04T16:05:51Z,2014-11-05T19:08:56Z,,NOT_AVAILABLE,,check: data gap: 1 days 03:03:05,friedrich,2017-05-02T00:00:00Z
+ctdpf_optode_sample,D00001,2014-11-05T19:08:56Z,2014-11-14T18:36:31Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-02T00:00:00Z
+ctdpf_optode_sample,D00001,2014-11-14T18:36:31Z,2014-11-17T18:09:56Z,,NOT_AVAILABLE,,check: data gap: 2 days 23:33:25,friedrich,2017-05-02T00:00:00Z
+ctdpf_optode_sample,D00001,2014-11-17T18:09:56Z,2014-12-07T20:59:39Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-02T00:00:00Z
+ctdpf_optode_sample,D00001,2014-12-07T20:59:39Z,2014-12-11T23:20:26Z,,NOT_AVAILABLE,,check: data gap: 4 days 02:20:47,friedrich,2017-05-02T00:00:00Z
+ctdpf_optode_sample,D00001,2014-12-11T23:20:26Z,2015-02-01T20:36:30Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-02T00:00:00Z
+ctdpf_optode_sample,D00001,2015-02-01T20:36:30Z,2015-02-03T09:57:14Z,,NOT_AVAILABLE,,check: data gap: 1 days 13:20:44,friedrich,2017-05-02T00:00:00Z
+ctdpf_optode_sample,D00001,2015-02-03T09:57:14Z,2015-03-07T23:01:43Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-02T00:00:00Z
+ctdpf_optode_sample,D00001,2015-03-07T23:01:43Z,2015-03-09T07:39:59Z,,NOT_AVAILABLE,,check: data gap: 1 days 08:38:16,friedrich,2017-05-02T00:00:00Z
+ctdpf_optode_sample,D00001,2015-03-09T07:39:59Z,2015-03-30T17:49:58Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-02T00:00:00Z
+ctdpf_optode_sample,D00001,2015-03-30T17:49:58Z,2015-04-02T23:06:52Z,,NOT_AVAILABLE,,check: data gap: 3 days 05:16:54,friedrich,2017-05-02T00:00:00Z
+ctdpf_optode_sample,D00001,2015-04-02T23:06:52Z,2015-06-12T23:59:59Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-02T00:00:00Z
+ctdpf_optode_sample,D00002,2015-07-13T05:43:00Z,2015-07-14T23:18:29Z,,NOT_AVAILABLE,,check: difference between data begin and deployment begin date is: 1 days 17:35:29,friedrich,2017-05-02T00:00:00Z
+ctdpf_optode_sample,D00002,2015-07-14T23:18:29Z,2016-06-16T00:57:08Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-02T00:00:00Z
+ctdpf_optode_sample,D00002,2016-06-16T00:57:08Z,2016-06-19T18:14:50Z,,NOT_AVAILABLE,,check: data gap,friedrich,2017-05-02T00:00:00Z
+ctdpf_optode_sample,D00002,2016-06-19T18:14:50Z,2016-07-10T23:59:59Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-02T00:00:00Z
+ctdpf_optode_sample,D00003,2016-07-12T21:46:38Z,2017-02-15T14:43:05Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-02T00:00:00Z
+ctdpf_optode_sample,D00003,2017-02-15T14:43:05Z,2017-02-16T22:09:06Z,,NOT_AVAILABLE,,check: data gap,friedrich,2017-05-02T00:00:00Z
+ctdpf_optode_sample,D00003,2017-02-16T22:09:06Z,2017-05-02T13:00:31Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-02T00:00:00Z

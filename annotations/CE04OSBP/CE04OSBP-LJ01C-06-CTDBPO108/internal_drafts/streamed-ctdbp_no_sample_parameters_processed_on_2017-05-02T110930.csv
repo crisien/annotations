@@ -1,0 +1,15 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+oxy_calphase,,,,,,,,friedrich,2017-05-02T00:00:00Z
+practical_salinity,,,,,,,,friedrich,2017-05-02T00:00:00Z
+temperature,,,,,,,,friedrich,2017-05-02T00:00:00Z
+ctdbp_no_seawater_pressure,,,,,,,,friedrich,2017-05-02T00:00:00Z
+ctd_tc_oxygen,,,,,,,,friedrich,2017-05-02T00:00:00Z
+density,,,,,,,,friedrich,2017-05-02T00:00:00Z
+ctdbp_no_seawater_conductivity,,,,,,,,friedrich,2017-05-02T00:00:00Z
+oxygen,,,,,,,,friedrich,2017-05-02T00:00:00Z
+pressure,,,,,,,,friedrich,2017-05-02T00:00:00Z
+pressure_temp,,,,,,,,friedrich,2017-05-02T00:00:00Z
+seawater_temperature,,,,,,,,friedrich,2017-05-02T00:00:00Z
+oxy_temp,,,,,,,,friedrich,2017-05-02T00:00:00Z
+dissolved_oxygen,,,,,,,,friedrich,2017-05-02T00:00:00Z
+conductivity,,,,,,,,friedrich,2017-05-02T00:00:00Z

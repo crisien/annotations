@@ -11,6 +11,7 @@ params_csv_name = ['parameters']
 p_reg_ex = re.compile('|'.join(params_csv_name))
 
 
+
 def check_dups(data, root, filename):
 	dups = data[data.duplicated(keep=False)]
 	if not dups.empty == True:
@@ -115,10 +116,11 @@ def main(rootdir):
 	# walk directory to find parse annotation csv files
      print 'checking files....'
      for root, dirs, files in os.walk(rootdir):
-		 dirs[:] = [d for d in dirs if d not in "internal_drafts"]
+		 dirs[:] = [d for d in dirs if d not in "internal_drafts" and d not in "internal_notes"]
 		 for filename in files:
 				if filename.endswith('.csv'):
 					f = os.path.join(root,filename)
+					# print f
 					csv_file = open(f, 'r')
 					data = pd.read_csv(csv_file, parse_dates=True)
 					check_valid_time(data, root, filename)
@@ -126,11 +128,11 @@ def main(rootdir):
 					check_dups(data, root, filename)
 					check_annotation_gap(data, root, filename)
 					check_annotation_interval(data, root, filename)
-		 print '\n'
+		 # print '\n'
 
                 
 
 
 if __name__ == '__main__':
-	rootdir = '/Users/leila/Documents/OOI_GitHub_repo/repos/ooi-data-review/annotations/annotations/CE04OSPS/CE04OSPS-PC01B-4A-CTDPFA109/'
+	rootdir = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations'
 	main(rootdir)

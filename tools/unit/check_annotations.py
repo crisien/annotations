@@ -39,6 +39,18 @@ def check_time_interval(data, root, filename):
 			return True
 
 
+# def check_time_stamp(data, root, filename):
+# 	a = 1
+# 	z = ['Z']
+# 	z_reg_ex = re.compile('|'.join(z))
+
+# 	for index, row in data.iterrows():
+# 		time = str(row['StartTime'])
+# 		if not z_reg_ex.search(time) and len(time) > 5:
+# 			a = 2
+# 	if a == 2:
+# 		print root, filename
+
 
 def check_annotation_gap(data, root, filename):
 	if dm_reg_ex.search(filename) and not p_reg_ex.search(filename):
@@ -128,7 +140,7 @@ def main(rootdir):
 					check_dups(data, root, filename)
 					check_annotation_gap(data, root, filename)
 					check_annotation_interval(data, root, filename)
-		 # print '\n'
+					# check_time_stamp(data, root, filename)
 
                 
 

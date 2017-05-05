@@ -1,4 +1,4 @@
-Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,reviewed_by,ReviewedDate
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
 ctdpf_sbe43_sample,D00001,2014-08-30T21:51:00Z,2014-11-05T21:30:49Z,"Powered down, Offline due to groundfaults.",NOT_AVAILABLE,12173,"check: difference between data begin and deployment begin date is: 66 days 23:39:49.  Ann Source: RSN_deployment sheet, investigate further the dates in the time range.",Leila,2017-04-10T00:00:00Z
 ctdpf_sbe43_sample,D00001,2014-11-05T21:30:49Z,2015-08-01T14:13:32Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-04-10T00:00:00Z
 ctdpf_sbe43_sample,D00002,2015-08-03T04:05:43Z,2016-04-14T19:55:47Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-04-10T00:00:00Z

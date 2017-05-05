@@ -3,9 +3,9 @@ practical_salinity,D00001,2014-08-30T09:16:00Z,2015-08-02T00:00:00Z,,,,check: sp
 seawater_conductivity,D00001,2014-08-30T09:16:00Z,2015-08-02T00:00:00Z,,,,check: spike test triggered [Spikes in data],Leila,2017-04-10T00:00:00Z
 density,D00001,2014-08-30T09:16:00Z,2015-08-02T00:00:00Z,,,,check: spike test triggered [Spikes in data],Leila,2017-04-10T00:00:00Z
 conductivity,D00001,2014-08-30T09:16:00Z,2015-08-02T00:00:00Z,,,,check: spike test triggered [Spikes in data],Leila,2017-04-10T00:00:00Z
-oxygen,D00002,2015-08-03T23:59:59.220454Z,2015-08-03T23:01:29.900490Z,Values are too high exceeded 400 umol L-1 ,FAIL,12297,,Leila,2017-04-10T00:00:00Z
-ctd_tc_oxygen,D00002,2015-08-03T23:59:59.220454Z,2015-08-03T23:01:29.900490Z,Values are too high exceeded 400 umol L-1 ,FAIL,12297,,Leila,2017-04-10T00:00:00Z
-dissolved_oxygen,D00002,2015-08-03T23:59:59.220454Z,2015-08-03T23:01:29.900490Z,Values are too high exceeded 400 umol kg-1 ,FAIL,12297,,Leila,2017-04-10T00:00:00Z
+oxygen,D00002,2015-08-03T23:59:59Z,2015-08-05T06:47:21Z,Values are too high exceeded 400 umol L-1 ,FAIL,12297,,Leila,2017-04-10T00:00:00Z
+ctd_tc_oxygen,D00002,2015-08-03T23:59:59Z,2015-08-05T06:47:21Z,Values are too high exceeded 400 umol L-1 ,FAIL,12297,,Leila,2017-04-10T00:00:00Z
+dissolved_oxygen,D00002,2015-08-03T23:59:59Z,2015-08-05T06:47:21Z,Values are too high exceeded 400 umol kg-1 ,FAIL,12297,,Leila,2017-04-10T00:00:00Z
 practical_salinity,D00002,2015-08-03T23:59:59Z,2016-07-17T23:59:59Z,,,,check: dropping in conductivity- spike test triggered,Leila,2017-04-10T00:00:00Z
 seawater_conductivity,D00002,2015-08-03T23:59:59Z,2016-07-17T23:59:59Z,,,,check: dropping in conductivity- spike test triggered,Leila,2017-04-10T00:00:00Z
 density,D00002,2015-08-03T23:59:59Z,2016-07-17T23:59:59Z,,,,check: dropping in conductivity- spike test triggered,Leila,2017-04-10T00:00:00Z

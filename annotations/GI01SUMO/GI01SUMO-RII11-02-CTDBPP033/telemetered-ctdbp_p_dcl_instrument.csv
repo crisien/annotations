@@ -1,0 +1,15 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdbp_p_dcl_instrument,D00002,2015-08-15T20:00:03Z,2015-11-13T21:00:03Z,,AVAILABLE,,,lori,2017-05-04T00:00:00Z
+ctdbp_p_dcl_instrument,D00002,2015-11-13T21:00:03Z,2015-11-20T19:00:03Z,,NOT_AVAILABLE,,,lori,2017-05-04T00:00:00Z
+ctdbp_p_dcl_instrument,D00002,2015-11-20T19:00:03Z,2015-11-22T23:00:03Z,,AVAILABLE,,,lori,2017-05-04T00:00:00Z
+ctdbp_p_dcl_instrument,D00002,2015-11-22T23:00:03Z,2015-12-07T17:00:03Z,,NOT_AVAILABLE,,,lori,2017-05-04T00:00:00Z
+ctdbp_p_dcl_instrument,D00002,2015-12-07T17:00:03Z,2016-03-01T20:00:03Z,,AVAILABLE,,,lori,2017-05-04T00:00:00Z
+ctdbp_p_dcl_instrument,D00002,2016-03-01T20:00:03Z,2016-04-13T19:00:03Z,,NOT_AVAILABLE,,,lori,2017-05-04T00:00:00Z
+ctdbp_p_dcl_instrument,D00002,2016-04-13T19:00:03Z,2016-05-20T11:00:03Z,,AVAILABLE,,,lori,2017-05-04T00:00:00Z
+ctdbp_p_dcl_instrument,D00002,2016-05-20T11:00:03Z,2016-06-07T13:00:03Z,,NOT_AVAILABLE,,,lori,2017-05-04T00:00:00Z
+ctdbp_p_dcl_instrument,D00002,2016-06-07T13:00:03Z,2016-06-17T00:00:03Z,,AVAILABLE,,,lori,2017-05-04T00:00:00Z
+ctdbp_p_dcl_instrument,D00002,2016-06-17T00:00:03Z,2016-07-19T00:00:00Z,,NOT_AVAILABLE,,,lori,2017-05-04T00:00:00Z
+ctdbp_p_dcl_instrument,D00003,2016-07-10T18:00:03Z,2017-01-10T22:00:03Z,,AVAILABLE,,,lori,2017-05-04T00:00:00Z
+ctdbp_p_dcl_instrument,D00003,2017-01-10T22:00:03Z,2017-04-04T13:00:03Z,Evidence of ice build-up on the buoy: no telemetered data. See platform-level annotation for details. Data may backfill over time.,NOT_AVAILABLE,,Update as deployment progresses,lori,2017-05-04T00:00:00Z
+ctdbp_p_dcl_instrument,D00003,2017-04-04T13:00:03Z,2017-04-09T13:00:03Z,,AVAILABLE,,,lori,2017-05-04T00:00:00Z
+ctdbp_p_dcl_instrument,D00003,2017-04-09T13:00:03Z,2017-05-04T00:00:00Z,,PENDING_INGEST,12063,Review when data are ingested,lori,2017-05-04T00:00:00Z

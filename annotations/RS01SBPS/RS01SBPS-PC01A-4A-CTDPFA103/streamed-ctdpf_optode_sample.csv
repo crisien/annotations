@@ -1,18 +1,18 @@
-Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,reviewed_by
-ctdpf_optode_sample,D00001,2014-09-29T01:53:00Z,2014-10-02T22:20:26Z,,NOT_AVAILABLE,,check: difference between data begin and deployment begin date is: 3 days 20:27:26,friedrich
-ctdpf_optode_sample,D00001,2014-10-02T22:20:26Z,2014-11-04T16:05:51Z,,AVAILABLE,,check: evaluate parameters,friedrich
-ctdpf_optode_sample,D00001,2014-11-04T16:05:51Z,2014-11-05T19:23:27Z,,NOT_AVAILABLE,,check: data gap,friedrich
-ctdpf_optode_sample,D00001,2014-11-05T19:23:27Z,2014-11-14T18:36:14Z,,AVAILABLE,,check: evaluate parameters,friedrich
-ctdpf_optode_sample,D00001,2014-11-14T18:36:14Z,2014-11-17T18:22:23Z,,NOT_AVAILABLE,,check: data gap,friedrich
-ctdpf_optode_sample,D00001,2014-11-17T18:22:23Z,2014-12-07T20:59:40Z,,AVAILABLE,,check: evaluate parameters,friedrich
-ctdpf_optode_sample,D00001,2014-12-07T20:59:40Z,2014-12-16T20:51:19Z,,NOT_AVAILABLE,,check: data gap,friedrich
-ctdpf_optode_sample,D00001,2014-12-16T20:51:19Z,2015-02-01T20:36:30Z,,AVAILABLE,,check: evaluate parameters,friedrich
-ctdpf_optode_sample,D00001,2015-02-01T20:36:30Z,2015-02-03T09:56:43Z,,NOT_AVAILABLE,,check: data gap,friedrich
-ctdpf_optode_sample,D00001,2015-02-03T09:56:43Z,2015-03-07T23:04:22Z,,AVAILABLE,,check: evaluate parameters,friedrich
-ctdpf_optode_sample,D00001,2015-03-07T23:04:22Z,2015-03-09T07:39:39Z,,NOT_AVAILABLE,,check: data gap,friedrich
-ctdpf_optode_sample,D00001,2015-02-03T09:56:43Z,2015-07-05T23:59:59Z,,AVAILABLE,,check: evaluate parameters,friedrich
-ctdpf_optode_sample,D00002,2015-07-07T16:12:00Z,2015-07-08T20:37:13Z,,NOT_AVAILABLE,,check: difference between data begin and deployment begin date is: 1 days 04:25:13,friedrich
-ctdpf_optode_sample,D00002,2015-07-08T20:37:13Z,2016-07-16T20:18:09Z,,AVAILABLE,,check: evaluate parameters,friedrich
-ctdpf_optode_sample,D00003,2016-07-18T17:45:56Z,2017-01-09T18:30:53Z,,AVAILABLE,,check: evaluate parameters,friedrich
-ctdpf_optode_sample,D00003,2017-01-09T18:30:53Z,2017-02-16T23:02:04Z,,NOT_AVAILABLE,,check: data gap,friedrich
-ctdpf_optode_sample,D00003,2017-02-16T23:02:04Z,2017-03-28T13:00:11Z,,AVAILABLE,,check: evaluate parameters,friedrich
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdpf_optode_sample,D00001,2014-09-29T01:53:00Z,2014-10-02T22:20:26Z,,NOT_AVAILABLE,,check: difference between data begin and deployment begin date is: 3 days 20:27:26,friedrich,
+ctdpf_optode_sample,D00001,2014-10-02T22:20:26Z,2014-11-04T16:05:51Z,,AVAILABLE,,check: evaluate parameters,friedrich,
+ctdpf_optode_sample,D00001,2014-11-04T16:05:51Z,2014-11-05T19:23:27Z,,NOT_AVAILABLE,,check: data gap,friedrich,
+ctdpf_optode_sample,D00001,2014-11-05T19:23:27Z,2014-11-14T18:36:14Z,,AVAILABLE,,check: evaluate parameters,friedrich,
+ctdpf_optode_sample,D00001,2014-11-14T18:36:14Z,2014-11-17T18:22:23Z,,NOT_AVAILABLE,,check: data gap,friedrich,
+ctdpf_optode_sample,D00001,2014-11-17T18:22:23Z,2014-12-07T20:59:40Z,,AVAILABLE,,check: evaluate parameters,friedrich,
+ctdpf_optode_sample,D00001,2014-12-07T20:59:40Z,2014-12-16T20:51:19Z,,NOT_AVAILABLE,,check: data gap,friedrich,
+ctdpf_optode_sample,D00001,2014-12-16T20:51:19Z,2015-02-01T20:36:30Z,,AVAILABLE,,check: evaluate parameters,friedrich,
+ctdpf_optode_sample,D00001,2015-02-01T20:36:30Z,2015-02-03T09:56:43Z,,NOT_AVAILABLE,,check: data gap,friedrich,
+ctdpf_optode_sample,D00001,2015-02-03T09:56:43Z,2015-03-07T23:04:22Z,,AVAILABLE,,check: evaluate parameters,friedrich,
+ctdpf_optode_sample,D00001,2015-03-07T23:04:22Z,2015-03-09T07:39:39Z,,NOT_AVAILABLE,,check: data gap,friedrich,
+ctdpf_optode_sample,D00001,2015-03-09T07:39:39Z,2015-07-05T23:59:59Z,,AVAILABLE,,check: evaluate parameters,friedrich,
+ctdpf_optode_sample,D00002,2015-07-07T16:12:00Z,2015-07-08T20:37:13Z,,NOT_AVAILABLE,,check: difference between data begin and deployment begin date is: 1 days 04:25:13,friedrich,
+ctdpf_optode_sample,D00002,2015-07-08T20:37:13Z,2016-07-16T20:18:09Z,,AVAILABLE,,check: evaluate parameters,friedrich,
+ctdpf_optode_sample,D00003,2016-07-18T17:45:56Z,2017-01-09T18:30:53Z,,AVAILABLE,,check: evaluate parameters,friedrich,
+ctdpf_optode_sample,D00003,2017-01-09T18:30:53Z,2017-02-16T23:02:04Z,,NOT_AVAILABLE,,check: data gap,friedrich,
+ctdpf_optode_sample,D00003,2017-02-16T23:02:04Z,2017-03-28T13:00:11Z,,AVAILABLE,,check: evaluate parameters,friedrich,

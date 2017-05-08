@@ -1,5 +1,5 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
 ctdbp_cdef_instrument_recovered,D00001,2014-09-10T18:50:00Z,2015-08-22T11:00:00Z,No data available due to a damaged cable.,NOT_AVAILABLE,,,lori,2017-05-02T00:00:00Z
-ctdbp_cdef_instrument_recovered,D00002,2015-08-15T19:22:00Z,2015-09-11T16:00:42Z,,NOT_AVAILABLE,,parse raw data file,lori,2017-05-02T00:00:00Z
-ctdbp_cdef_instrument_recovered,D00002,2015-09-11T16:00:42Z,2015-09-11T20:08:06Z,,AVAILABLE,,parse raw data file,lori,2017-05-02T00:00:00Z
-ctdbp_cdef_instrument_recovered,D00002,2015-09-11T20:08:06Z,2016-07-19T00:00:00Z,,NOT_AVAILABLE,,parse raw data file,lori,2017-05-02T00:00:00Z
+ctdbp_cdef_instrument_recovered,D00002,2015-08-15T19:22:00Z,2015-09-11T16:00:42Z,,NOT_AVAILABLE,,,lori,2017-05-02T00:00:00Z
+ctdbp_cdef_instrument_recovered,D00002,2015-09-11T16:00:42Z,2015-09-11T20:08:06Z,,AVAILABLE,,,lori,2017-05-02T00:00:00Z
+ctdbp_cdef_instrument_recovered,D00002,2015-09-11T20:08:06Z,2016-07-19T00:00:00Z,,NOT_AVAILABLE,,,lori,2017-05-02T00:00:00Z

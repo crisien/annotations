@@ -1,0 +1,6 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+practical_salinity,D00002,2016-04-13T19:00:03Z,2016-04-13T23:00:03Z,Only a few data points available. Instrument likely failed.,SUSPECT,,,lori,2017-05-03T00:00:00Z
+temp,D00002,2016-04-13T19:00:03Z,2016-04-13T23:00:03Z,Only a few data points available. Instrument likely failed.,SUSPECT,,,lori,2017-05-03T00:00:00Z
+density,D00002,2016-04-13T19:00:03Z,2016-04-13T23:00:03Z,Only a few data points available. Instrument likely failed.,SUSPECT,,,lori,2017-05-03T00:00:00Z
+pressure,D00002,2016-04-13T19:00:03Z,2016-04-13T23:00:03Z,Only a few data points available. Instrument likely failed.,SUSPECT,,,lori,2017-05-03T00:00:00Z
+conductivity,D00002,2016-04-13T19:00:03Z,2016-04-13T23:00:03Z,Only a few data points available. Instrument likely failed.,SUSPECT,,,lori,2017-05-03T00:00:00Z

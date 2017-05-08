@@ -1,0 +1,10 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdbp_p_dcl_instrument,D00002,2015-08-15T20:00:03Z,2015-11-13T21:00:03Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-05-03T00:00:00Z
+ctdbp_p_dcl_instrument,D00002,2015-11-13T21:00:03Z,2015-11-20T19:00:03Z,,NOT_AVAILABLE,,check: data gap: 6 days 22:00:00,lori,2017-05-03T00:00:00Z
+ctdbp_p_dcl_instrument,D00002,2015-11-20T19:00:03Z,2015-11-22T23:00:03Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-05-03T00:00:00Z
+ctdbp_p_dcl_instrument,D00002,2015-11-22T23:00:03Z,2015-12-07T16:00:03Z,,NOT_AVAILABLE,,check: data gap: 14 days 17:00:00,lori,2017-05-03T00:00:00Z
+ctdbp_p_dcl_instrument,D00002,2015-12-07T16:00:03Z,2016-03-01T20:00:03Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-05-03T00:00:00Z
+ctdbp_p_dcl_instrument,D00002,2016-03-01T20:00:03Z,2016-04-13T19:00:03Z,,NOT_AVAILABLE,,check: data gap: 42 days 23:00:00,lori,2017-05-03T00:00:00Z
+ctdbp_p_dcl_instrument,D00002,2016-04-13T19:00:03Z,2016-04-13T23:00:03Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-05-03T00:00:00Z
+ctdbp_p_dcl_instrument,D00002,2016-04-13T23:00:03Z,2016-07-19T00:00:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 96 days 00:59:57,lori,2017-05-03T00:00:00Z
+ctdbp_p_dcl_instrument,D00003,2016-07-10T18:02:41Z,2016-11-27T16:02:41Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-05-03T00:00:00Z

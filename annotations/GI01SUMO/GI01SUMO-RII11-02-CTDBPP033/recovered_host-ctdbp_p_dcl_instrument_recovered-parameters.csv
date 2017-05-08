@@ -1,0 +1,6 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+practical_salinity,D00002,2016-06-08T00:00:00Z,2016-06-12T00:00:00Z,Spikes in pressure to >500 dbar (affects salinity and density). No drastic changes in conductivity or temperature.,SUSPECT,,,lori,2017-05-04T00:00:00Z
+temp,,,,,,,,lori,2017-05-04T00:00:00Z
+density,D00002,2016-06-08T00:00:00Z,2016-06-12T00:00:00Z,Spikes in pressure to >500 dbar (affects salinity and density). No drastic changes in conductivity or temperature.,SUSPECT,,,lori,2017-05-04T00:00:00Z
+pressure,D00002,2016-06-08T00:00:00Z,2016-06-12T00:00:00Z,Spikes in pressure to >500 dbar. No drastic changes in conductivity or temperature.,SUSPECT,,,lori,2017-05-04T00:00:00Z
+conductivity,,,,,,,,lori,2017-05-04T00:00:00Z

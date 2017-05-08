@@ -1,0 +1,2 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdbp_cdef_instrument_recovered,D00002,2015-08-15T19:22:00Z,2016-07-19T00:00:00Z,,PENDING_INGEST,12304,review when data are ingested,lori,2017-05-04T00:00:00Z

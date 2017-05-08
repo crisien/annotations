@@ -1,0 +1,17 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdmo_ghqr_imodem_instrument,D00001,2014-09-10T18:52:31Z,2014-09-18T14:15:01Z,,AVAILABLE,,,lori,2017-05-08T00:00:00Z
+ctdmo_ghqr_imodem_instrument,D00001,2014-09-18T14:15:01Z,2015-08-22T11:00:00Z,"Telemetry was lost in Sept-2014, and surface buoy suffered damage in Feb-2015. See platform-level annotation for details.",NOT_AVAILABLE,,,lori,2017-05-08T00:00:00Z
+ctdmo_ghqr_imodem_instrument,D00002,2015-08-15T19:22:31Z,2015-11-13T21:07:31Z,,AVAILABLE,,,lori,2017-05-08T00:00:00Z
+ctdmo_ghqr_imodem_instrument,D00002,2015-11-13T21:07:31Z,2015-11-19T12:00:01Z,,NOT_AVAILABLE,,,lori,2017-05-08T00:00:00Z
+ctdmo_ghqr_imodem_instrument,D00002,2015-11-19T12:00:01Z,2015-11-22T23:07:31Z,,AVAILABLE,,,lori,2017-05-08T00:00:00Z
+ctdmo_ghqr_imodem_instrument,D00002,2015-11-22T23:07:31Z,2015-12-06T09:07:31Z,,NOT_AVAILABLE,,,lori,2017-05-08T00:00:00Z
+ctdmo_ghqr_imodem_instrument,D00002,2015-12-06T09:07:31Z,2016-03-01T20:07:31Z,,AVAILABLE,,,lori,2017-05-08T00:00:00Z
+ctdmo_ghqr_imodem_instrument,D00002,2016-03-01T20:07:31Z,2016-04-12T12:07:31Z,,NOT_AVAILABLE,,,lori,2017-05-08T00:00:00Z
+ctdmo_ghqr_imodem_instrument,D00002,2016-04-12T12:07:31Z,2016-05-20T11:07:31Z,,AVAILABLE,,,lori,2017-05-08T00:00:00Z
+ctdmo_ghqr_imodem_instrument,D00002,2016-05-20T11:07:31Z,2016-06-06T06:07:31Z,,NOT_AVAILABLE,,,lori,2017-05-08T00:00:00Z
+ctdmo_ghqr_imodem_instrument,D00002,2016-06-06T06:07:31Z,2016-07-18T23:52:31Z,,AVAILABLE,,,lori,2017-05-08T00:00:00Z
+ctdmo_ghqr_imodem_instrument,D00003,2016-07-10T17:44:00Z,2016-07-19T08:15:01Z,,NOT_AVAILABLE,12238,Uframe is filtering out valid deployment data. Check when fix is implemented,lori,2017-05-08T00:00:00Z
+ctdmo_ghqr_imodem_instrument,D00003,2016-07-19T08:15:01Z,2017-01-10T22:07:31Z,,AVAILABLE,,,lori,2017-05-08T00:00:00Z
+ctdmo_ghqr_imodem_instrument,D00003,2017-01-10T22:07:31Z,2017-04-03T06:22:31Z,Evidence of ice build-up on the buoy: no telemetered data. See platform-level annotation for details.,NOT_AVAILABLE,,Update as deployment progresses - data could backfill over time,lori,2017-05-08T00:00:00Z
+ctdmo_ghqr_imodem_instrument,D00003,2017-04-03T06:22:31Z,2017-04-09T13:07:31Z,,AVAILABLE,,,lori,2017-05-08T00:00:00Z
+ctdmo_ghqr_imodem_instrument,D00003,2017-04-09T13:07:31Z,2017-05-08T00:00:00Z,,PENDING_INGEST,12063,Review when data are ingested.,lori,2017-05-08T00:00:00Z

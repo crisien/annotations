@@ -14,10 +14,11 @@ import numpy as np
 
 # specify path to annotation csvs, reference designator and theoretical end date for ongoing deployment, specified as 'None' in asset management
 # (you can use the date on which you downloaded the data, for example.)
-assets = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/RS01SBPD/RS01SBPD.csv'
-stream = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/RS01SBPD/RS01SBPD-DP01A-01-CTDPFL104/recovered_inst-dpc_ctd_instrument_recovered.csv'
-parameters = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/RS01SBPD/RS01SBPD-DP01A-01-CTDPFL104/recovered_inst-dpc_ctd_instrument_recovered_parameters.csv'
-reference_designator = 'RS01SBPD-DP01A-01-CTDPFL104'
+assets = '/Users/leila/Documents/OOI_GitHub_repo/repos/ooi-data-review/annotations/annotations/CE04OSPS/CE04OSPS.csv'
+stream = '/Users/leila/Documents/OOI_GitHub_repo/repos/ooi-data-review/annotations/annotations/CE04OSPS/CE04OSPS-PC01B-4A-CTDPFA109/streamed-ctdpf_optode_sample.csv'
+parameters = '/Users/leila/Documents/OOI_GitHub_repo/repos/ooi-data-review/annotations/annotations/CE04OSPS/CE04OSPS-PC01B-4A-CTDPFA109/streamed-ctdpf_optode_sample-parameters.csv'
+reference_designator = 'CE04OSPS-PC01B-4A-CTDPFA109'
+node_name = 'CE04OSPS-PC01B'
 # ongoing_dep_end = '2017-03-21T00:00:00'
 
 ## use this to manually specify deployment start and end times. comment block using ongoing_dep_end out accordingly.
@@ -92,7 +93,7 @@ for index, row in assets_df.iterrows():
 	if len(row["Level"]) == 8:
 		yticks.append(row["Level"])
 for index, row in assets_df.iterrows():
-	if len(row["Level"]) == 14:
+	if len(row["Level"]) == 14 and row["Level"] == node_name:
 		yticks.append(row["Level"])
 for index, row in assets_df.iterrows():
 	if len(row["Level"]) == 27 and row["Level"] == reference_designator:
@@ -184,8 +185,9 @@ for index, row in assets_df.iterrows():
 for index, row in assets_df.iterrows():
 	node_time = np.array([row["StartTime"],row["EndTime"]])
 	node_shape = np.full((node_time.shape), y[counter])
-	if len(row["Level"]) == 14 and type(row["Status"]) == str:
+	if len(row["Level"]) == 14 and type(row["Status"]) == str and row["Level"] == node_name:
 		plt.plot(node_time, node_shape, linewidth=10, color='gray',zorder = 3)
+
 
 counter = counter -1
 
@@ -215,7 +217,7 @@ for index, row in assets_df.iterrows():
 for index, row in assets_df.iterrows():
 	node_time = np.array([row["StartTime"],row["EndTime"]])
 	node_shape = np.full((node_time.shape), y[counter])
-	if len(row["Level"]) == 14 and type(row["Status"]) == str:
+	if len(row["Level"]) == 14 and type(row["Status"]) == str and row["Level"] == node_name:
 		plt.plot(node_time, node_shape, linewidth=10, color='gray',zorder = 4)
 
 for index, row in assets_df.iterrows():

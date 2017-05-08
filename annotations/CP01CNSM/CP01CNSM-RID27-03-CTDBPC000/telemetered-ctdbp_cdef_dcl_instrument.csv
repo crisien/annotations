@@ -1,8 +1,8 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
 ctdbp_cdef_dcl_instrument,D00001,2013-11-21T18:15:25Z,2014-02-17T12:02:15Z,,AVAILABLE,,,lori,2017-04-28T00:00:00Z
-ctdbp_cdef_dcl_instrument,D00001,2014-02-17T12:02:15Z,2014-04-18T00:00:00Z,,NOT_AVAILABLE,,Ask MIO if the instrument failed.,lori,2017-04-28T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00001,2014-02-17T12:02:15Z,2014-04-18T00:00:00Z,Surface buoy exploded - no data.,NOT_AVAILABLE,,,lori,2017-04-28T00:00:00Z
 ctdbp_cdef_dcl_instrument,D00002,2014-12-13T18:47:00Z,2014-12-15T20:58:00Z,,PENDING_INGEST,11954,,lori,2017-04-28T00:00:00Z
-ctdbp_cdef_dcl_instrument,D00003,2015-05-07T17:34:00Z,2015-10-23T19:40:00Z,,NOT_AVAILABLE,,no raw files from deployment timeframe - ask MIO,lori,2017-04-28T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00003,2015-05-07T17:34:00Z,2015-10-23T19:40:00Z,Instrument failed upon deployment.,NOT_AVAILABLE,,,lori,2017-04-28T00:00:00Z
 ctdbp_cdef_dcl_instrument,D00004,2015-10-23T18:49:00Z,2016-04-04T12:03:00Z,,NOT_AVAILABLE,,,lori,2017-04-28T00:00:00Z
 ctdbp_cdef_dcl_instrument,D00005,2016-05-13T13:50:00Z,2016-10-13T19:34:00Z,Instrument did not send data via telemetry.,NOT_AVAILABLE,10271,,lori,2017-04-28T00:00:00Z
 ctdbp_cdef_dcl_instrument,D00006,2016-10-13T18:36:00Z,2017-04-28T00:00:00Z,Instrument did not send data via telemetry.,NOT_AVAILABLE,11549,update end date when deployment completes,lori,2017-04-28T00:00:00Z

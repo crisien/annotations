@@ -1,0 +1,14 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+CE04OSPS-PC01B-4A-CTDPFA109,D00001,2014-08-30T09:16:00Z,2015-08-02T00:00:00Z,practical_salinity [Spikes in data],,,check: spike test triggered [Spikes in data],Leila,2017-04-10T00:00:00Z
+CE04OSPS-PC01B-4A-CTDPFA109,D00001,2014-08-30T09:16:00Z,2015-08-02T00:00:00Z,seawater_conductivity [Spikes in data],,,check: spike test triggered [Spikes in data],Leila,2017-04-10T00:00:00Z
+CE04OSPS-PC01B-4A-CTDPFA109,D00001,2014-08-30T09:16:00Z,2015-08-02T00:00:00Z,density [Spikes in data],,,check: spike test triggered [Spikes in data],Leila,2017-04-10T00:00:00Z
+CE04OSPS-PC01B-4A-CTDPFA109,D00001,2014-08-30T09:16:00Z,2015-08-02T00:00:00Z,conductivity [Spikes in data],,,check: spike test triggered [Spikes in data],Leila,2017-04-10T00:00:00Z
+CE04OSPS-PC01B-4A-CTDPFA109,D00002,2015-08-03T23:59:59Z,2016-07-17T23:59:59Z,practical_salinity [dropping in conductivity],,,check: dropping in conductivity- spike test triggered,Leila,2017-04-10T00:00:00Z
+CE04OSPS-PC01B-4A-CTDPFA109,D00002,2015-08-03T23:59:59Z,2016-07-17T23:59:59Z,seawater_conductivity [dropping in conductivity],,,check: dropping in conductivity- spike test triggered,Leila,2017-04-10T00:00:00Z
+CE04OSPS-PC01B-4A-CTDPFA109,D00002,2015-08-03T23:59:59Z,2016-07-17T23:59:59Z,density [dropping in conductivity],,,check: dropping in conductivity- spike test triggered,Leila,2017-04-10T00:00:00Z
+CE04OSPS-PC01B-4A-CTDPFA109,D00002,2015-08-03T23:59:59Z,2016-07-17T23:59:59Z,conductivity [dropping in conductivity],,,check: dropping in conductivity- spike test triggered,Leila,2017-04-10T00:00:00Z
+CE04OSPS-PC01B-4A-CTDPFA109,D00003,2016-07-19T08:00:00Z,2017-03-20T19:57:04Z,practical_salinity [dropping in conductivity],,,check: dropping in conductivity- spike test triggered,Leila,2017-04-10T00:00:00Z
+CE04OSPS-PC01B-4A-CTDPFA109,D00003,2016-07-19T08:00:00Z,2017-03-20T19:57:04Z,seawater_conductivity [dropping in conductivity],,,check: dropping in conductivity- spike test triggered,Leila,2017-04-10T00:00:00Z
+CE04OSPS-PC01B-4A-CTDPFA109,D00003,2016-07-19T08:00:00Z,2017-03-20T19:57:04Z,density [dropping in conductivity],,,check: dropping in conductivity- spike test triggered,Leila,2017-04-10T00:00:00Z
+CE04OSPS-PC01B-4A-CTDPFA109,D00003,2017-01-11T01:02:52Z,2017-03-01T00:00:00Z,ctd_tc_oxygen [spikes in data],,,check: outliers captured by the spike and global range tests,Leila,2017-04-10T00:00:00Z
+CE04OSPS-PC01B-4A-CTDPFA109,D00003,2017-01-11T01:02:52Z,2017-03-01T00:00:00Z,dissolved_oxygen [spikes in data],,,check: outliers captured by the spike and global range tests,Leila,2017-04-10T00:00:00Z

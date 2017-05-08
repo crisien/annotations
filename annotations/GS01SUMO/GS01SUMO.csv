@@ -1,0 +1,2 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+GS01SUMO-RID16-05-PCO2WB000,D00003,2017-04-30T00:00:00Z,2017-05-08T00:00:00Z,"Files that were telemetered during this deployment did not contain valid data with correct timestamps. Unit could have been configured to the incorrect time at deployment. In addition, the instrument stopped sending telemetered data files on 2017-04-30. Issue under investigation.",,"12210, 12312",update as deployment progresses,lori,2017-05-08T00:00:00Z

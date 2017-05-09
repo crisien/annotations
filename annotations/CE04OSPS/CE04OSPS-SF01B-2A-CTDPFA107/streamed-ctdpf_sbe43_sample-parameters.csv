@@ -9,6 +9,5 @@ pressure,,,,,,,,Leila,2017-04-10T00:00:00Z
 pressure_temp,,,,,,,,Leila,2017-04-10T00:00:00Z
 seawater_temperature,,,,,,,,Leila,2017-04-10T00:00:00Z
 conductivity,,,,,,,,Leila,2017-04-10T00:00:00Z
-corrected_dissolved_oxygen,D00001,2014-08-30T21:51:00,2015-08-02T00:00:00,,FAIL,8668,,Leila,2017-04-10T00:00:00Z
-corrected_dissolved_oxygen,D00002,2015-08-03T02:21:00,2016-07-18T00:00:00,,FAIL,8668,,Leila,2017-04-10T00:00:00Z
-corrected_dissolved_oxygen,D00003,2016-07-19T08:00:00,,,PASS,8668,,Leila,2017-04-10T00:00:00Z
+corrected_dissolved_oxygen,D00001,2014-08-30T21:51:00Z,2015-08-02T00:00:00Z,,FAIL,8668,,Leila,2017-04-10T00:00:00Z
+corrected_dissolved_oxygen,D00002,2015-08-03T02:21:00Z,2016-07-18T00:00:00Z,,FAIL,8668,,Leila,2017-04-10T00:00:00Z

@@ -10,15 +10,19 @@ import numpy as np
 # TODO auto source deployment time ranges
 # TODO create color legend
 # TODO calculate metrics
-# TODO write out only specified reference designator to csv
+# DONE !! write out only specified reference designator to csv
 
 # specify path to annotation csvs, reference designator and theoretical end date for ongoing deployment, specified as 'None' in asset management
 # (you can use the date on which you downloaded the data, for example.)
 assets = '/Users/leila/Documents/OOI_GitHub_repo/repos/ooi-data-review/annotations/annotations/CE04OSPS/CE04OSPS.csv'
 stream = '/Users/leila/Documents/OOI_GitHub_repo/repos/ooi-data-review/annotations/annotations/CE04OSPS/CE04OSPS-PC01B-4A-CTDPFA109/streamed-ctdpf_optode_sample.csv'
 parameters = '/Users/leila/Documents/OOI_GitHub_repo/repos/ooi-data-review/annotations/annotations/CE04OSPS/CE04OSPS-PC01B-4A-CTDPFA109/streamed-ctdpf_optode_sample-parameters.csv'
+
 reference_designator = 'CE04OSPS-PC01B-4A-CTDPFA109'
 node_name = 'CE04OSPS-PC01B'
+
+not_reference_designator = 'CE04OSPS-SF01B-2A-CTDPFA107'
+not_node_name = 'CE04OSPS-SF01B'
 # ongoing_dep_end = '2017-03-21T00:00:00'
 
 ## use this to manually specify deployment start and end times. comment block using ongoing_dep_end out accordingly.
@@ -61,10 +65,17 @@ parameters_df = pd.read_csv(parameters, parse_dates=True)
 
 # output all annotations to single csv for report
 df = assets_df
+df = df[df.Level != not_reference_designator]
+df = df[df.Level != not_node_name]
 df = df.append(stream_df)
 df = df.append(parameters_df)
-df.to_csv(open('annotations_list.csv', 'w'))
-
+df = df[df.Status != 'AVAILABLE']
+df = df[df.StartTime.notnull()]
+df = df.drop(df.columns[[7, 8, 9]], axis=1)
+columns = df.columns
+columns = [str(x) for x in columns.tolist()]
+df = df.sort([columns[2],columns[3]], ascending=[1,1])
+df.to_csv(open('annotations_list.csv', 'w'),columns=columns, index=False)
 
 
 

@@ -1,27 +1,27 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
 ctdbp_no_sample,D00001,2014-08-15T00:12:00Z,2014-08-25T18:50:41Z,,NOT_AVAILABLE,,check: difference between data begin and deployment begin date is: 10 days 18:38:41,friedrich,2017-05-02T00:00:00Z
-ctdbp_no_sample,D00001,2014-08-25T18:50:41Z,2014-08-31T19:13:27Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-02T00:00:00Z
+ctdbp_no_sample,D00001,2014-08-25T18:50:41Z,2014-08-31T19:13:27Z,,AVAILABLE,,check: evaluate parameters,friedrich,2017-05-02T00:00:00Z
 ctdbp_no_sample,D00001,2014-08-31T19:13:27Z,2014-09-22T22:42:44Z,,NOT_AVAILABLE,,check: data gap: 22 days 03:29:17,friedrich,2017-05-02T00:00:00Z
-ctdbp_no_sample,D00001,2014-09-22T22:42:44Z,2014-11-04T16:05:51Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-02T00:00:00Z
+ctdbp_no_sample,D00001,2014-09-22T22:42:44Z,2014-11-04T16:05:51Z,,AVAILABLE,,check: evaluate parameters,friedrich,2017-05-02T00:00:00Z
 ctdbp_no_sample,D00001,2014-11-04T16:05:51Z,2014-11-05T18:56:20Z,,NOT_AVAILABLE,,check: data gap: 1 days 02:50:29,friedrich,2017-05-02T00:00:00Z
-ctdbp_no_sample,D00001,2014-11-05T18:56:20Z,2014-11-14T18:36:38Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-02T00:00:00Z
+ctdbp_no_sample,D00001,2014-11-05T18:56:20Z,2014-11-14T18:36:38Z,,AVAILABLE,,check: evaluate parameters,friedrich,2017-05-02T00:00:00Z
 ctdbp_no_sample,D00001,2014-11-14T18:36:38Z,2014-11-17T18:03:22Z,,NOT_AVAILABLE,,check: data gap: 2 days 23:26:44,friedrich,2017-05-02T00:00:00Z
-ctdbp_no_sample,D00001,2014-11-17T18:03:22Z,2014-12-07T20:59:40Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-02T00:00:00Z
+ctdbp_no_sample,D00001,2014-11-17T18:03:22Z,2014-12-07T20:59:40Z,,AVAILABLE,,check: evaluate parameters,friedrich,2017-05-02T00:00:00Z
 ctdbp_no_sample,D00001,2014-12-07T20:59:40Z,2014-12-16T22:29:37Z,,NOT_AVAILABLE,,check: data gap: 9 days 01:29:57,friedrich,2017-05-02T00:00:00Z
-ctdbp_no_sample,D00001,2014-12-16T22:29:37Z,2014-12-16T23:44:08Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-02T00:00:00Z
+ctdbp_no_sample,D00001,2014-12-16T22:29:37Z,2014-12-16T23:44:08Z,,AVAILABLE,,check: evaluate parameters,friedrich,2017-05-02T00:00:00Z
 ctdbp_no_sample,D00001,2014-12-16T23:44:08Z,2014-12-29T20:30:01Z,,NOT_AVAILABLE,,check: data gap: 12 days 20:45:53,friedrich,2017-05-02T00:00:00Z
-ctdbp_no_sample,D00001,2014-12-29T20:30:01Z,2015-01-31T23:59:59Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-02T00:00:00Z
+ctdbp_no_sample,D00001,2014-12-29T20:30:01Z,2015-01-31T23:59:59Z,,AVAILABLE,,check: evaluate parameters,friedrich,2017-05-02T00:00:00Z
 ctdbp_no_sample,D00001,2015-01-31T23:59:59Z,2015-02-03T09:56:15Z,,NOT_AVAILABLE,,check: data gap: 2 days 09:56:16,friedrich,2017-05-02T00:00:00Z
-ctdbp_no_sample,D00001,2015-02-03T09:56:15Z,2015-03-03T02:16:22Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-02T00:00:00Z
+ctdbp_no_sample,D00001,2015-02-03T09:56:15Z,2015-03-03T02:16:22Z,,AVAILABLE,,check: evaluate parameters,friedrich,2017-05-02T00:00:00Z
 ctdbp_no_sample,D00001,2015-03-03T02:16:22Z,2015-03-06T19:57:13Z,,NOT_AVAILABLE,,check: data gap: 3 days 17:40:51,friedrich,2017-05-02T00:00:00Z
-ctdbp_no_sample,D00001,2015-03-06T19:57:13Z,2015-03-06T19:58:48Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-02T00:00:00Z
+ctdbp_no_sample,D00001,2015-03-06T19:57:13Z,2015-03-06T19:58:48Z,,AVAILABLE,,check: evaluate parameters,friedrich,2017-05-02T00:00:00Z
 ctdbp_no_sample,D00001,2015-03-06T19:58:48Z,2015-08-02T00:00:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 148 days 04:01:12,friedrich,2017-05-02T00:00:00Z
-ctdbp_no_sample,D00002,2015-08-03T23:19:18Z,2016-07-18T00:42:58Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-02T00:00:00Z
+ctdbp_no_sample,D00002,2015-08-03T23:19:18Z,2016-07-18T00:42:58Z,,AVAILABLE,,check: evaluate parameters,friedrich,2017-05-02T00:00:00Z
 ctdbp_no_sample,D00002,2016-07-18T00:42:58Z,2016-07-19T21:06:56Z,,NOT_AVAILABLE,,check: data gap,friedrich,2017-05-02T00:00:00Z
-ctdbp_no_sample,D00002,2016-07-19T21:06:56Z,2016-07-20T23:59:59Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-02T00:00:00Z
+ctdbp_no_sample,D00002,2016-07-19T21:06:56Z,2016-07-20T23:59:59Z,,AVAILABLE,,check: evaluate parameters,friedrich,2017-05-02T00:00:00Z
 ctdbp_no_sample,D00003,2016-07-22T22:50:00Z,2016-07-25T19:51:39Z,,NOT_AVAILABLE,,check: difference between data begin and deployment begin date is: 2 days 21:01:39,friedrich,2017-05-02T00:00:00Z
-ctdbp_no_sample,D00003,2016-07-25T19:51:39Z,2017-01-09T18:30:53Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-02T00:00:00Z
+ctdbp_no_sample,D00003,2016-07-25T19:51:39Z,2017-01-09T18:30:53Z,,AVAILABLE,,check: evaluate parameters,friedrich,2017-05-02T00:00:00Z
 ctdbp_no_sample,D00003,2017-01-09T18:30:53Z,2017-01-11T01:16:53Z,,NOT_AVAILABLE,,check: data gap: 1 days 06:46:00,friedrich,2017-05-02T00:00:00Z
-ctdbp_no_sample,D00003,2017-01-11T01:16:53Z,2017-02-15T14:43:05Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-02T00:00:00Z
+ctdbp_no_sample,D00003,2017-01-11T01:16:53Z,2017-02-15T14:43:05Z,,AVAILABLE,,check: evaluate parameters,friedrich,2017-05-02T00:00:00Z
 ctdbp_no_sample,D00003,2017-02-15T14:43:05Z,2017-02-16T22:27:12Z,,NOT_AVAILABLE,,check: data gap: 1 days 07:44:07,friedrich,2017-05-02T00:00:00Z
-ctdbp_no_sample,D00003,2017-02-16T22:27:12Z,2017-05-02T13:00:28Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-02T00:00:00Z
+ctdbp_no_sample,D00003,2017-02-16T22:27:12Z,2017-05-02T13:00:28Z,,AVAILABLE,,check: evaluate parameters,friedrich,2017-05-02T00:00:00Z

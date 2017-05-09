@@ -1,20 +1,38 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
 oxy_calphase,,,,,,,,friedrich,2017-05-02T00:00:00Z
+practical_salinity,D00003,,,Isolated spikes and outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
+practical_salinity,D00002,,,Isolated spikes and outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
 practical_salinity,D00001,,,Isolated spikes and outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
-practical_salinity,D00002,3015-08-12T01:00:00Z,3015-08-14T02:00:00Z,Unusual drop in conductivity values.,SUSPECT,,,friedrich,2017-05-02T00:00:00Z
+practical_salinity,D00002,2015-08-12T01:00:00Z,2015-08-14T02:00:00Z,Unusual drop in conductivity values.,SUSPECT,,,friedrich,2017-05-02T00:00:00Z
 temperature,,,,,,,,friedrich,2017-05-02T00:00:00Z
+ctdbp_no_seawater_pressure,D00003,,,Isolated outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
+ctdbp_no_seawater_pressure,D00002,,,Isolated outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
 ctdbp_no_seawater_pressure,D00001,,,Isolated outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
+ctd_tc_oxygen,D00003,,,Isolated spikes and outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
+ctd_tc_oxygen,D00002,,,Isolated spikes and outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
 ctd_tc_oxygen,D00001,,,Isolated spikes and outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
+density,D00003,,,Isolated spikes and outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
+density,D00002,,,Isolated spikes and outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
 density,D00001,,,Isolated spikes and outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
-density,D00002,3015-08-12T01:00:00Z,3015-08-14T02:00:00Z,Unusual drop in conductivity values.,SUSPECT,,,friedrich,2017-05-02T00:00:00Z
+density,D00002,2015-08-12T01:00:00Z,2015-08-14T02:00:00Z,Unusual drop in conductivity values.,SUSPECT,,,friedrich,2017-05-02T00:00:00Z
+ctdbp_no_seawater_conductivity,D00003,,,Isolated spikes and outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
+ctdbp_no_seawater_conductivity,D00002,,,Isolated spikes and outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
 ctdbp_no_seawater_conductivity,D00001,,,Isolated spikes and outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
-ctdbp_no_seawater_conductivity,D00002,3015-08-12T01:00:00Z,3015-08-14T02:00:00Z,Unusual drop in conductivity values.,SUSPECT,,,friedrich,2017-05-02T00:00:00Z
+ctdbp_no_seawater_conductivity,D00002,2015-08-12T01:00:00Z,2015-08-14T02:00:00Z,Unusual drop in conductivity values.,SUSPECT,,,friedrich,2017-05-02T00:00:00Z
+oxygen,D00003,,,Isolated spikes and outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
+oxygen,D00002,,,Isolated spikes and outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
 oxygen,D00001,,,Isolated spikes and outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
+pressure,D00003,,,Isolated outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
+pressure,D00002,,,Isolated outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
 pressure,D00001,,,Isolated outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
 pressure_temp,D00001,,,,,,,friedrich,2017-05-02T00:00:00Z
 seawater_temperature,,,,,,,,friedrich,2017-05-02T00:00:00Z
-oxy_temp,D00002,,,,,,,friedrich,2017-05-02T00:00:00Z
+oxy_temp,D00002,,,"""Isolated spikes and outliers in data record, especially from 2016-03-25 to 2016-07-10""",,12320,,friedrich,2017-05-02T00:00:00Z
+dissolved_oxygen,D00003,,,Isolated spikes and outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
+dissolved_oxygen,D00002,,,Isolated spikes and outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
 dissolved_oxygen,D00001,,,Isolated spikes and outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
-dissolved_oxygen,D00002,3015-08-12T01:00:00Z,3015-08-14T02:00:00Z,Unusual drop in conductivity values.,SUSPECT,,,friedrich,2017-05-02T00:00:00Z
+dissolved_oxygen,D00002,2015-08-12T01:00:00Z,2015-08-14T02:00:00Z,Unusual drop in conductivity values.,SUSPECT,,,friedrich,2017-05-02T00:00:00Z
+conductivity,D00003,,,Isolated spikes and outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
+conductivity,D00002,,,Isolated spikes and outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
 conductivity,D00001,,,Isolated spikes and outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
-conductivity,D00002,3015-08-12T01:00:00Z,3015-08-14T02:00:00Z,Unusual drop in conductivity values.,SUSPECT,,,friedrich,2017-05-02T00:00:00Z
+conductivity,D00002,2015-08-12T01:00:00Z,2015-08-14T02:00:00Z,Unusual drop in conductivity values.,SUSPECT,,,friedrich,2017-05-02T00:00:00Z

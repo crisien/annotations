@@ -1,0 +1,12 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdmo_ghqr_imodem_instrument_recovered,D00001,2014-09-10T18:52:31Z,2015-03-27T16:15:01Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-05-09T00:00:00Z
+ctdmo_ghqr_imodem_instrument_recovered,D00001,2015-03-27T16:15:01Z,2015-08-22T11:00:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 147 days 18:44:59,lori,2017-05-09T00:00:00Z
+ctdmo_ghqr_imodem_instrument_recovered,D00002,2015-08-15T19:22:31Z,2015-11-13T21:15:01Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-05-09T00:00:00Z
+ctdmo_ghqr_imodem_instrument_recovered,D00002,2015-11-13T21:15:01Z,2015-11-19T12:00:01Z,,NOT_AVAILABLE,,check: data gap: 5 days 14:45:00,lori,2017-05-09T00:00:00Z
+ctdmo_ghqr_imodem_instrument_recovered,D00002,2015-11-19T12:00:01Z,2015-11-22T23:15:01Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-05-09T00:00:00Z
+ctdmo_ghqr_imodem_instrument_recovered,D00002,2015-11-22T23:15:01Z,2015-12-06T09:15:01Z,,NOT_AVAILABLE,,check: data gap: 13 days 10:00:00,lori,2017-05-09T00:00:00Z
+ctdmo_ghqr_imodem_instrument_recovered,D00002,2015-12-06T09:15:01Z,2016-03-01T20:15:01Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-05-09T00:00:00Z
+ctdmo_ghqr_imodem_instrument_recovered,D00002,2016-03-01T20:15:01Z,2016-04-12T12:07:31Z,,NOT_AVAILABLE,,check: data gap: 41 days 15:52:30,lori,2017-05-09T00:00:00Z
+ctdmo_ghqr_imodem_instrument_recovered,D00002,2016-04-12T12:07:31Z,2016-05-20T11:15:01Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-05-09T00:00:00Z
+ctdmo_ghqr_imodem_instrument_recovered,D00002,2016-05-20T11:15:01Z,2016-06-06T06:07:31Z,,NOT_AVAILABLE,,check: data gap: 16 days 18:52:30,lori,2017-05-09T00:00:00Z
+ctdmo_ghqr_imodem_instrument_recovered,D00002,2016-06-06T06:07:31Z,2016-07-18T23:52:31Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-05-09T00:00:00Z

@@ -2,8 +2,8 @@ Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,Re
 GI01SUMO,D00001,2015-02-15T00:00:00Z,2015-08-22T11:00:00Z,"Status data sent from the buoy included leak detects in the buoy well, drop in battery voltage, and loss of wind turbine input. Upon recovery, the buoy was primarily intact but several instruments were damaged and/or missing. Ice build-up on the tower is speculated to be the cause for much of the damage. No telemetered or recovered_host data expected from this platform . Functional instruments could continue to collect data using internal battery power and storage cards.",,,,lori,2017-04-05T00:00:00Z
 GI01SUMO,D00002,2016-01-27T00:00:00Z,2016-07-19T00:00:00Z,"A period of violent weather caused power outages on multiple instruments. No telemetered or recovered_host data expected from this platform. Functional instruments could continue to collect data using internal battery power and storage cards. Upon recovery, the buoy well was flooded.",,9583,,lori,2017-04-05T00:00:00Z
 GI01SUMO,D00003,2016-12-27T00:00:00Z,2017-04-07T00:00:00Z,"There is evidence of ice build-up on the surface buoy tower. Wind turbines are disabled and the battery charge state has been declining steadily. As of 2017-01-15, all DCLs have been shut down and the telemetry schedule has been reduced to conserve power. Battery-powered instruments will continue to collect data. UPDATE 2017-04-07: With increasing daylight at this location, there is now sufficient power available from PV panels to re-establish limited high-bandwidth telemetry and data transmission. Instruments on DCL11 are sending data to shore. The backlog of data stored on instruments with batteries may slowly backfill over time.",,11758,Update end time as the deployment progresses,lori,2017-04-07T00:00:00Z
-GI01SUMO-RID16-03-CTDBPF000,D00002,2015-08-15T19:22:00Z,2016-07-19T00:00:00Z,Instrument did not record valid data for the majority of the deployment.,NOT_AVAILABLE,,,lori,2017-05-02T00:00:00Z
-GI01SUMO-RII11-02-CTDBPP031,D00002,2015-11-13T17:00:03Z,2016-07-19T00:00:00Z,Instrument failed.,NOT_AVAILABLE,9424,,lori,2017-05-02T00:00:00Z
+GI01SUMO-RID16-03-CTDBPF000,D00002,2015-08-15T19:22:00Z,2016-07-19T00:00:00Z,Instrument did not record valid data for the majority of the deployment.,NOT_OPERATIONAL,,,lori,2017-05-02T00:00:00Z
+GI01SUMO-RII11-02-CTDBPP031,D00002,2015-11-13T17:00:03Z,2016-07-19T00:00:00Z,Instrument failed.,NOT_OPERATIONAL,9424,,lori,2017-05-02T00:00:00Z
 GI01SUMO-RII11-02-CTDBPP032,,,,,,,,lori,2017-05-03T00:00:00Z
 GI01SUMO-RII11-02-CTDBPP033,,,,,,,,lori,2017-05-04T00:00:00Z
 GI01SUMO-RII11-02-CTDMOQ011,,,,,,12238,Uframe is filtering out valid deployment data. Check when fix is implemented,lori,2017-05-05T00:00:00Z
@@ -11,3 +11,8 @@ GI01SUMO-RII11-02-CTDMOQ012,,,,,,12238,Uframe is filtering out valid deployment 
 GI01SUMO-RII11-02-CTDMOQ013,,,,,,12238,Uframe is filtering out valid deployment data. Check when fix is implemented,lori,2017-05-05T00:00:00Z
 GI01SUMO-RII11-02-CTDMOQ014,,,,,,12238,Uframe is filtering out valid deployment data. Check when fix is implemented,lori,2017-05-08T00:00:00Z
 GI01SUMO-RII11-02-CTDMOQ015,,,,,,12238,Uframe is filtering out valid deployment data. Check when fix is implemented,lori,2017-05-08T00:00:00Z
+GI01SUMO-RII11-02-CTDMOQ016,,,,,,12238,Uframe is filtering out valid deployment data. Check when fix is implemented,lori,2017-05-09T00:00:00Z
+GI01SUMO-RII11-02-CTDMOQ017,,,,,,12238,Uframe is filtering out valid deployment data. Check when fix is implemented,lori,2017-05-09T00:00:00Z
+GI01SUMO-RII11-02-CTDMOQ017,D00001,2015-05-05T01:00:01Z,2015-08-22T11:00:00Z,Batteries were dead upon recovery.,NOT_OPERATIONAL,,,lori,2017-05-09T00:00:00Z
+GI01SUMO-RII11-02-CTDMOQ031,,,,,,,,lori,2017-05-09T00:00:00Z
+GI01SUMO-RII11-02-CTDMOQ033,,,,,,,,lori,2017-05-09T00:00:00Z

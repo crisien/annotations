@@ -16,3 +16,5 @@ GI01SUMO-RII11-02-CTDMOQ017,,,,,,12238,Uframe is filtering out valid deployment 
 GI01SUMO-RII11-02-CTDMOQ017,D00001,2015-05-05T01:00:01Z,2015-08-22T11:00:00Z,Batteries were dead upon recovery.,NOT_OPERATIONAL,,,lori,2017-05-09T00:00:00Z
 GI01SUMO-RII11-02-CTDMOQ031,,,,,,,,lori,2017-05-09T00:00:00Z
 GI01SUMO-RII11-02-CTDMOQ033,,,,,,,,lori,2017-05-09T00:00:00Z
+GI01SUMO-RII11-02-CTDMOR018,,,,,,12238,Uframe is filtering out valid deployment data. Check when fix is implemented,lori,2017-05-10T00:00:00Z
+GI01SUMO-RII11-02-CTDMOR019,,,,,,12238,Uframe is filtering out valid deployment data. Check when fix is implemented,lori,2017-05-10T00:00:00Z

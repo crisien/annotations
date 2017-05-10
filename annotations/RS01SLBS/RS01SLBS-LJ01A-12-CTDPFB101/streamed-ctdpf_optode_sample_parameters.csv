@@ -1,0 +1,31 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+oxy_calphase,,,,,,,,friedrich,2017-05-02T00:00:00Z
+practical_salinity,D00003,2016-10-21T12:00:00Z,2016-10-21T18:00:00Z,unusual drop in conductivity counts,,,,friedrich,2017-05-02T00:00:00Z
+practical_salinity,D00001,,,Isolated spikes and outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
+practical_salinity,D00002,,,Isolated spikes and outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
+practical_salinity,D00003,,,Isolated spikes and outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
+seawater_conductivity,D00003,2016-10-21T12:00:00Z,2016-10-21T18:00:00Z,unusual drop in conductivity counts,,,,friedrich,2017-05-02T00:00:00Z
+seawater_conductivity,D00001,,,Isolated spikes and outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
+seawater_conductivity,D00002,,,Isolated spikes and outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
+seawater_conductivity,D00003,,,Isolated spikes and outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
+temperature,,,,,,,,friedrich,2017-05-02T00:00:00Z
+oxygen,,2015-06-30T16:00:00Z,2015-06-30T19:00:00Z,unusual drop in oxygen counts,,,,friedrich,2017-05-02T00:00:00Z
+ctd_tc_oxygen,,2015-06-30T16:00:00Z,2015-06-30T19:00:00Z,unusual drop in oxygen counts,,,,friedrich,2017-05-02T00:00:00Z
+seawater_pressure,,,,,,,,friedrich,2017-05-02T00:00:00Z
+density,D00003,2016-10-21T12:00:00Z,2016-10-21T18:00:00Z,unusual drop in conductivity counts,,,,friedrich,2017-05-02T00:00:00Z
+density,D00001,,,Isolated spikes and outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
+density,D00002,,,Isolated spikes and outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
+density,D00003,,,Isolated spikes and outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
+oxy_temp,,,,,,,,friedrich,2017-05-02T00:00:00Z
+pressure,,,,,,,,friedrich,2017-05-02T00:00:00Z
+pressure_temp,,,,,,,,friedrich,2017-05-02T00:00:00Z
+seawater_temperature,,,,,,,,friedrich,2017-05-02T00:00:00Z
+dissolved_oxygen,D00003,2016-10-21T12:00:00Z,2016-10-21T18:00:00Z,unusual drop in conductivity counts,,,,friedrich,2017-05-02T00:00:00Z
+dissolved_oxygen,D00001,2015-06-30T16:00:00Z,2015-06-30T19:00:00Z,unusual drop in oxygen counts,,,,friedrich,2017-05-02T00:00:00Z
+dissolved_oxygen,D00001,,,Isolated spikes and outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
+dissolved_oxygen,D00002,,,Isolated spikes and outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
+dissolved_oxygen,D00003,,,Isolated spikes and outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
+conductivity,D00003,2016-10-21T12:00:00Z,2016-10-21T18:00:00Z,unusual drop in conductivity counts,,,,friedrich,2017-05-02T00:00:00Z
+conductivity,D00001,,,Isolated spikes and outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
+conductivity,D00002,,,Isolated spikes and outliers in data record,,,,friedrich,2017-05-02T00:00:00Z
+conductivity,D00003,,,Isolated spikes and outliers in data record,,,,friedrich,2017-05-02T00:00:00Z

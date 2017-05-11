@@ -1,0 +1,4 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+,D00001,2013-07-24T06:32:00Z,2014-06-18T00:00:00Z,,PENDING_INGEST,12191,Data currently not being parsed. Check when parser is pushed to production and data are ingested.,lori,2017-05-11T00:00:00Z
+,D00002,2014-06-20T02:00:00Z,2015-06-07T00:00:00Z,,PENDING_INGEST,12191,Data currently not being parsed. Check when parser is pushed to production and data are ingested.,lori,2017-05-11T00:00:00Z
+,D00003,2015-06-08T21:25:00Z,2016-07-03T18:35:00Z,,PENDING_INGEST,12191,Data currently not being parsed. Check when parser is pushed to production and data are ingested.,lori,2017-05-11T00:00:00Z

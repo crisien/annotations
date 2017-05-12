@@ -1,0 +1,9 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdbp_cdef_instrument_recovered,D00001,2014-12-14T19:00:23Z,2014-12-28T16:18:09Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-10T00:00:00Z
+ctdbp_cdef_instrument_recovered,D00001,2014-12-28T16:18:09Z,2014-12-30T00:00:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 1 days 07:41:51,Leila,2017-05-10T00:00:00Z
+ctdbp_cdef_instrument_recovered,D00002,2015-05-09T01:00:20Z,2015-06-25T03:48:15Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-10T00:00:00Z
+ctdbp_cdef_instrument_recovered,D00002,2015-06-25T03:48:15Z,2015-08-13T18:15:18Z,,NOT_AVAILABLE,,check: data gap: 49 days 14:27:03,Leila,2017-05-10T00:00:00Z
+ctdbp_cdef_instrument_recovered,D00002,2015-08-13T18:15:18Z,2015-09-15T18:03:07Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-10T00:00:00Z
+ctdbp_cdef_instrument_recovered,D00002,2015-09-15T18:03:07Z,2015-09-24T00:15:16Z,,NOT_AVAILABLE,,check: data gap: 8 days 06:12:09,Leila,2017-05-10T00:00:00Z
+ctdbp_cdef_instrument_recovered,D00002,2015-09-24T00:15:16Z,2015-10-21T18:48:07Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-10T00:00:00Z
+ctdbp_cdef_instrument_recovered,D00003,2015-10-21T17:44:29Z,2016-05-14T11:17:19Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-10T00:00:00Z

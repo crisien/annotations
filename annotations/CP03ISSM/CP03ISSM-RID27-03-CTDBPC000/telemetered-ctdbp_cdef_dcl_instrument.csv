@@ -1,0 +1,14 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdbp_cdef_dcl_instrument,D00001,2014-12-14T18:52:00Z,2014-12-16T00:00:25Z,,NOT_AVAILABLE,,check: difference between data begin and deployment begin date is: 1 days 05:08:25,Leila,2017-05-10T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00001,2014-12-16T00:00:25Z,2014-12-28T15:03:13Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-10T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00001,2014-12-28T15:03:13Z,2014-12-30T00:00:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 1 days 08:56:47,Leila,2017-05-10T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00002,2015-05-09T01:00:24Z,2015-06-25T03:48:10Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-10T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00002,2015-06-25T03:48:10Z,2015-08-13T18:15:23Z,,NOT_AVAILABLE,,check: data gap: 49 days 14:27:13,Leila,2017-05-10T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00002,2015-08-13T18:15:23Z,2015-09-15T18:03:13Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-10T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00002,2015-09-15T18:03:13Z,2015-09-24T00:15:23Z,,NOT_AVAILABLE,,check: data gap: 8 days 06:12:10,Leila,2017-05-10T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00002,2015-09-24T00:15:23Z,2015-10-21T18:03:12Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-10T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00003,2015-10-21T17:45:22Z,2016-05-14T06:03:15Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-10T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00004,2016-05-28T14:45:21Z,2016-10-04T12:03:13Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-10T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00004,2016-10-04T12:03:13Z,2016-10-06T00:00:24Z,,NOT_AVAILABLE,,check: data gap,Leila,2017-05-10T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00004,2016-10-06T00:00:24Z,2016-10-09T00:03:15Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-10T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00004,2016-10-09T00:03:15Z,2016-10-15T12:14:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 6 days 12:10:45,Leila,2017-05-10T00:00:00Z

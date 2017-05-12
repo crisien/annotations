@@ -1,0 +1,4 @@
+Level,Deployment,StartTime,EndTime,Notes,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdmo_ghqr_instrument_recovered,D00002,2015-06-06T03:45:01Z,2015-06-07T00:00:00Z,0 days 20:14:59,,,check: difference between deploy end date and data file end date,lori,2017-05-12T00:00:00Z
+ctdmo_ghqr_instrument_recovered,D00003,2015-06-08T21:25:00Z,2015-06-08T21:30:01Z,0 days 00:05:01,,,check: difference between deploy start date and data file start date,lori,2017-05-12T00:00:00Z
+ctdmo_ghqr_instrument_recovered,D00003,2016-07-03T17:15:01Z,2016-07-03T18:35:00Z,0 days 01:19:59,,,check: difference between deploy end date and data file end date,lori,2017-05-12T00:00:00Z

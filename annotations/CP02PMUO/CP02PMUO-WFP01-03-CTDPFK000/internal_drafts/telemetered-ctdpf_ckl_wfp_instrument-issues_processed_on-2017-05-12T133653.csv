@@ -1,0 +1,10 @@
+Level,Deployment,StartTime,EndTime,Notes,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdpf_ckl_wfp_instrument,D00001,2013-11-23T15:50:00Z,2013-11-23T16:00:03Z,0 days 00:10:03,,,check: difference between deploy start date and data file start date,Leila,2017-05-09T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00001,2013-11-24T20:28:32Z,2013-11-25T00:00:00Z,0 days 03:31:28,,,check: difference between deploy end date and data file end date,Leila,2017-05-09T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00002,2014-04-14T20:30:01Z,2014-04-14T21:31:00Z,0 days 01:00:59,,,check: difference between deploy end date and data file end date,Leila,2017-05-09T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00005,2015-04-30T16:56:00Z,2015-04-30T19:00:03Z,0 days 02:04:03,,,check: difference between deploy start date and data file start date,Leila,2017-05-09T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00006,2015-10-13T19:12:00Z,2015-10-13T22:00:03Z,0 days 02:48:03,,,check: difference between deploy start date and data file start date,Leila,2017-05-09T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00007,2016-05-18T21:17:00Z,2016-05-19T00:00:03Z,0 days 02:43:03,,,check: difference between deploy start date and data file start date,Leila,2017-05-09T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00007,2016-10-01T09:05:46Z,2016-10-01T16:16:00Z,0 days 07:10:14,,,check: difference between deploy end date and data file end date,Leila,2017-05-09T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00008,2016-10-02T00:26:00Z,2016-10-02T06:00:03Z,0 days 05:34:03,,,check: difference between deploy start date and data file start date,Leila,2017-05-09T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00008,2016-10-02T00:26:00Z,None,,,,check: no deployment end date in asset management,Leila,2017-05-09T00:00:00Z

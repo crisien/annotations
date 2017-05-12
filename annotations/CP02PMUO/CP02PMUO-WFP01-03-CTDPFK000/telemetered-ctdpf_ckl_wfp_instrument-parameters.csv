@@ -1,0 +1,9 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+practical_salinity,,,,,,,,Leila,2017-05-09T00:00:00Z
+temperature,,,,,,,,Leila,2017-05-09T00:00:00Z
+density,,,,,,,,Leila,2017-05-09T00:00:00Z
+ctdpf_ckl_seawater_pressure,,,,,,,,Leila,2017-05-09T00:00:00Z
+ctdpf_ckl_seawater_temperature,,,,,,,,Leila,2017-05-09T00:00:00Z
+ctdpf_ckl_seawater_conductivity,,,,,,,,Leila,2017-05-09T00:00:00Z
+pressure,,,,,,,,Leila,2017-05-09T00:00:00Z
+conductivity,,,,,,,,Leila,2017-05-09T00:00:00Z

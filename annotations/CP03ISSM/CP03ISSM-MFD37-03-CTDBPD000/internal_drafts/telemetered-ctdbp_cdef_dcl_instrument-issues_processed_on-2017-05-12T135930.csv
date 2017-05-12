@@ -1,0 +1,7 @@
+Level,Deployment,StartTime,EndTime,Notes,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdbp_cdef_dcl_instrument,D00001,2014-12-14T18:52:00Z,2014-12-14T19:05:05Z,0 days 00:13:05,,,check: difference between deploy start date and data file start date,Leila,2017-05-10T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00002,2015-05-09T00:57:00Z,2015-05-09T01:05:02Z,0 days 00:08:02,,,check: difference between deploy start date and data file start date,Leila,2017-05-10T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00003,2015-10-21T17:44:00Z,2015-10-21T18:02:10Z,0 days 00:18:10,,,check: difference between deploy start date and data file start date,Leila,2017-05-10T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00004,2016-05-28T14:43:00Z,2016-05-28T15:00:09Z,0 days 00:17:09,,,check: difference between deploy start date and data file start date,Leila,2017-05-10T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00005,2016-10-11T13:39:00Z,2016-10-11T14:00:09Z,0 days 00:21:09,,,check: difference between deploy start date and data file start date,Leila,2017-05-10T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00005,2016-10-11T13:39:00Z,None,,,,check: no deployment end date in asset management,Leila,2017-05-10T00:00:00Z

@@ -1,0 +1,7 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdgv_m_glider_instrument,D00001,2014-10-06T20:21:55Z,2014-12-12T23:59:03Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-10T00:00:00Z
+ctdgv_m_glider_instrument,D00003,2015-10-22T12:33:12Z,2016-01-13T17:51:09Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-10T00:00:00Z
+ctdgv_m_glider_instrument,D00003,2016-01-13T17:51:09Z,2016-01-21T00:00:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 7 days 06:08:51,Leila,2017-05-10T00:00:00Z
+ctdgv_m_glider_instrument,D00004,2016-08-09T14:06:54Z,2016-09-27T17:04:39Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-10T00:00:00Z
+ctdgv_m_glider_instrument,D00004,2016-09-27T17:04:39Z,2016-09-28T21:47:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 1 days 04:42:21,Leila,2017-05-10T00:00:00Z
+ctdgv_m_glider_instrument,D00005,2017-01-16T13:28:49Z,2017-04-19T01:49:14Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-10T00:00:00Z

@@ -1,0 +1,121 @@
+Level,Deployment,StartTime,EndTime,Notes,Test,Redmine#,Todo,ReviewedBy,ReviewedDate
+practical_salinity,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999999.0,Leila,2017-05-10T00:00:00Z
+practical_salinity,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-10T00:00:00Z
+practical_salinity,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+practical_salinity,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+practical_salinity,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_water_pressure_dbar,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999999.0,Leila,2017-05-10T00:00:00Z
+sci_water_pressure_dbar,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-10T00:00:00Z
+sci_water_pressure_dbar,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_water_pressure_dbar,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_water_pressure_dbar,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_water_cond,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999999.0,Leila,2017-05-10T00:00:00Z
+sci_water_cond,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-10T00:00:00Z
+sci_water_cond,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_water_cond,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_water_cond,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_m_present_secs_into_mission,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999999.0,Leila,2017-05-10T00:00:00Z
+sci_m_present_secs_into_mission,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-10T00:00:00Z
+sci_m_present_secs_into_mission,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_m_present_secs_into_mission,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_m_present_secs_into_mission,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_water_pressure,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999999.0,Leila,2017-05-10T00:00:00Z
+sci_water_pressure,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-10T00:00:00Z
+sci_water_pressure,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_water_pressure,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_water_pressure,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_seawater_density,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999999.0,Leila,2017-05-10T00:00:00Z
+sci_seawater_density,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-10T00:00:00Z
+sci_seawater_density,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_seawater_density,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_seawater_density,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+m_present_secs_into_mission,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999999.0,Leila,2017-05-10T00:00:00Z
+m_present_secs_into_mission,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-10T00:00:00Z
+m_present_secs_into_mission,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+m_present_secs_into_mission,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+m_present_secs_into_mission,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_water_temp,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999999.0,Leila,2017-05-10T00:00:00Z
+sci_water_temp,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-10T00:00:00Z
+sci_water_temp,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_water_temp,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_water_temp,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+practical_salinity,D00003,2015-10-13T00:33:16Z,2015-11-30T11:19:51Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999999.0,Leila,2017-05-10T00:00:00Z
+practical_salinity,D00003,2015-10-13T00:33:16Z,2015-11-30T11:19:51Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-10T00:00:00Z
+practical_salinity,D00003,2015-10-13T00:33:16Z,2015-11-30T11:19:51Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+practical_salinity,D00003,2015-10-13T00:33:16Z,2015-11-30T11:19:51Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+practical_salinity,D00003,2015-10-13T00:33:16Z,2015-11-30T11:19:51Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_water_pressure_dbar,D00003,2015-10-13T00:33:16Z,2015-11-30T11:19:51Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999999.0,Leila,2017-05-10T00:00:00Z
+sci_water_pressure_dbar,D00003,2015-10-13T00:33:16Z,2015-11-30T11:19:51Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-10T00:00:00Z
+sci_water_pressure_dbar,D00003,2015-10-13T00:33:16Z,2015-11-30T11:19:51Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_water_pressure_dbar,D00003,2015-10-13T00:33:16Z,2015-11-30T11:19:51Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_water_pressure_dbar,D00003,2015-10-13T00:33:16Z,2015-11-30T11:19:51Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_water_cond,D00003,2015-10-13T00:33:16Z,2015-11-30T11:19:51Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999999.0,Leila,2017-05-10T00:00:00Z
+sci_water_cond,D00003,2015-10-13T00:33:16Z,2015-11-30T11:19:51Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-10T00:00:00Z
+sci_water_cond,D00003,2015-10-13T00:33:16Z,2015-11-30T11:19:51Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_water_cond,D00003,2015-10-13T00:33:16Z,2015-11-30T11:19:51Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_water_cond,D00003,2015-10-13T00:33:16Z,2015-11-30T11:19:51Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_m_present_secs_into_mission,D00003,2015-10-13T00:33:16Z,2015-11-30T11:19:51Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999999.0,Leila,2017-05-10T00:00:00Z
+sci_m_present_secs_into_mission,D00003,2015-10-13T00:33:16Z,2015-11-30T11:19:51Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-10T00:00:00Z
+sci_m_present_secs_into_mission,D00003,2015-10-13T00:33:16Z,2015-11-30T11:19:51Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_m_present_secs_into_mission,D00003,2015-10-13T00:33:16Z,2015-11-30T11:19:51Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_m_present_secs_into_mission,D00003,2015-10-13T00:33:16Z,2015-11-30T11:19:51Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_water_pressure,D00003,2015-10-13T00:33:16Z,2015-11-30T11:19:51Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999999.0,Leila,2017-05-10T00:00:00Z
+sci_water_pressure,D00003,2015-10-13T00:33:16Z,2015-11-30T11:19:51Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-10T00:00:00Z
+sci_water_pressure,D00003,2015-10-13T00:33:16Z,2015-11-30T11:19:51Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_water_pressure,D00003,2015-10-13T00:33:16Z,2015-11-30T11:19:51Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_water_pressure,D00003,2015-10-13T00:33:16Z,2015-11-30T11:19:51Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_seawater_density,D00003,2015-10-13T00:33:16Z,2015-11-30T11:19:51Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999999.0,Leila,2017-05-10T00:00:00Z
+sci_seawater_density,D00003,2015-10-13T00:33:16Z,2015-11-30T11:19:51Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-10T00:00:00Z
+sci_seawater_density,D00003,2015-10-13T00:33:16Z,2015-11-30T11:19:51Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_seawater_density,D00003,2015-10-13T00:33:16Z,2015-11-30T11:19:51Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_seawater_density,D00003,2015-10-13T00:33:16Z,2015-11-30T11:19:51Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+m_present_secs_into_mission,D00003,2015-10-13T00:33:16Z,2015-11-30T11:19:51Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999999.0,Leila,2017-05-10T00:00:00Z
+m_present_secs_into_mission,D00003,2015-10-13T00:33:16Z,2015-11-30T11:19:51Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-10T00:00:00Z
+m_present_secs_into_mission,D00003,2015-10-13T00:33:16Z,2015-11-30T11:19:51Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+m_present_secs_into_mission,D00003,2015-10-13T00:33:16Z,2015-11-30T11:19:51Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+m_present_secs_into_mission,D00003,2015-10-13T00:33:16Z,2015-11-30T11:19:51Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_water_temp,D00003,2015-10-13T00:33:16Z,2015-11-30T11:19:51Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999999.0,Leila,2017-05-10T00:00:00Z
+sci_water_temp,D00003,2015-10-13T00:33:16Z,2015-11-30T11:19:51Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-10T00:00:00Z
+sci_water_temp,D00003,2015-10-13T00:33:16Z,2015-11-30T11:19:51Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_water_temp,D00003,2015-10-13T00:33:16Z,2015-11-30T11:19:51Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_water_temp,D00003,2015-10-13T00:33:16Z,2015-11-30T11:19:51Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+practical_salinity,D00005,2016-05-27T20:55:32Z,2016-08-08T23:59:15Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999999.0,Leila,2017-05-10T00:00:00Z
+practical_salinity,D00005,2016-05-27T20:55:32Z,2016-08-08T23:59:15Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-10T00:00:00Z
+practical_salinity,D00005,2016-05-27T20:55:32Z,2016-08-08T23:59:15Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+practical_salinity,D00005,2016-05-27T20:55:32Z,2016-08-08T23:59:15Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+practical_salinity,D00005,2016-05-27T20:55:32Z,2016-08-08T23:59:15Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_water_pressure_dbar,D00005,2016-05-27T20:55:32Z,2016-08-08T23:59:15Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999999.0,Leila,2017-05-10T00:00:00Z
+sci_water_pressure_dbar,D00005,2016-05-27T20:55:32Z,2016-08-08T23:59:15Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-10T00:00:00Z
+sci_water_pressure_dbar,D00005,2016-05-27T20:55:32Z,2016-08-08T23:59:15Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_water_pressure_dbar,D00005,2016-05-27T20:55:32Z,2016-08-08T23:59:15Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_water_pressure_dbar,D00005,2016-05-27T20:55:32Z,2016-08-08T23:59:15Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_water_cond,D00005,2016-05-27T20:55:32Z,2016-08-08T23:59:15Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999999.0,Leila,2017-05-10T00:00:00Z
+sci_water_cond,D00005,2016-05-27T20:55:32Z,2016-08-08T23:59:15Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-10T00:00:00Z
+sci_water_cond,D00005,2016-05-27T20:55:32Z,2016-08-08T23:59:15Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_water_cond,D00005,2016-05-27T20:55:32Z,2016-08-08T23:59:15Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_water_cond,D00005,2016-05-27T20:55:32Z,2016-08-08T23:59:15Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_m_present_secs_into_mission,D00005,2016-05-27T20:55:32Z,2016-08-08T23:59:15Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999999.0,Leila,2017-05-10T00:00:00Z
+sci_m_present_secs_into_mission,D00005,2016-05-27T20:55:32Z,2016-08-08T23:59:15Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-10T00:00:00Z
+sci_m_present_secs_into_mission,D00005,2016-05-27T20:55:32Z,2016-08-08T23:59:15Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_m_present_secs_into_mission,D00005,2016-05-27T20:55:32Z,2016-08-08T23:59:15Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_m_present_secs_into_mission,D00005,2016-05-27T20:55:32Z,2016-08-08T23:59:15Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_water_pressure,D00005,2016-05-27T20:55:32Z,2016-08-08T23:59:15Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999999.0,Leila,2017-05-10T00:00:00Z
+sci_water_pressure,D00005,2016-05-27T20:55:32Z,2016-08-08T23:59:15Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-10T00:00:00Z
+sci_water_pressure,D00005,2016-05-27T20:55:32Z,2016-08-08T23:59:15Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_water_pressure,D00005,2016-05-27T20:55:32Z,2016-08-08T23:59:15Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_water_pressure,D00005,2016-05-27T20:55:32Z,2016-08-08T23:59:15Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_seawater_density,D00005,2016-05-27T20:55:32Z,2016-08-08T23:59:15Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999999.0,Leila,2017-05-10T00:00:00Z
+sci_seawater_density,D00005,2016-05-27T20:55:32Z,2016-08-08T23:59:15Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-10T00:00:00Z
+sci_seawater_density,D00005,2016-05-27T20:55:32Z,2016-08-08T23:59:15Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_seawater_density,D00005,2016-05-27T20:55:32Z,2016-08-08T23:59:15Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_seawater_density,D00005,2016-05-27T20:55:32Z,2016-08-08T23:59:15Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+m_present_secs_into_mission,D00005,2016-05-27T20:55:32Z,2016-08-08T23:59:15Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999999.0,Leila,2017-05-10T00:00:00Z
+m_present_secs_into_mission,D00005,2016-05-27T20:55:32Z,2016-08-08T23:59:15Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-10T00:00:00Z
+m_present_secs_into_mission,D00005,2016-05-27T20:55:32Z,2016-08-08T23:59:15Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+m_present_secs_into_mission,D00005,2016-05-27T20:55:32Z,2016-08-08T23:59:15Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+m_present_secs_into_mission,D00005,2016-05-27T20:55:32Z,2016-08-08T23:59:15Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_water_temp,D00005,2016-05-27T20:55:32Z,2016-08-08T23:59:15Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999999.0,Leila,2017-05-10T00:00:00Z
+sci_water_temp,D00005,2016-05-27T20:55:32Z,2016-08-08T23:59:15Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-10T00:00:00Z
+sci_water_temp,D00005,2016-05-27T20:55:32Z,2016-08-08T23:59:15Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_water_temp,D00005,2016-05-27T20:55:32Z,2016-08-08T23:59:15Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z
+sci_water_temp,D00005,2016-05-27T20:55:32Z,2016-08-08T23:59:15Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-10T00:00:00Z

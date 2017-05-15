@@ -20,3 +20,6 @@ ctdpf_j_cspp_instrument_recovered,D00002,2015-04-13T17:59:26Z,2015-04-13T18:04:0
 ctdpf_j_cspp_instrument_recovered,D00002,2015-04-13T18:04:06Z,2015-04-14T18:05:32Z,,NOT_AVAILABLE,,check: data gap: 1 days 00:01:26,friedrich,2017-05-11T00:00:00Z
 ctdpf_j_cspp_instrument_recovered,D00002,2015-04-14T18:05:32Z,2015-04-16T18:05:34Z,,AVAILABLE,,,friedrich,2017-05-11T00:00:00Z
 ctdpf_j_cspp_instrument_recovered,D00002,2015-04-16T18:05:34Z,2015-04-30T00:00:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 13 days 05:54:26,friedrich,2017-05-11T00:00:00Z
+ctdpf_j_cspp_instrument_recovered,D00003,2016-08-23T18:00:00,2016-10-02T16:52:00 ,Data review pending ingest,PENDING_INGEST,12114,,friedrich,2017-05-11T00:00:00Z
+ctdpf_j_cspp_instrument_recovered,D00004,2016-10-11T19:03:00 ,2017-01-06T00:00:00,Data review pending ingest,PENDING_INGEST,12114,,friedrich,2017-05-11T00:00:00Z
+ctdpf_j_cspp_instrument_recovered,D00005,2017-02-13T19:05:00,2017-03-16T20:45:00,Data review pending ingest,PENDING_INGEST,12114,,friedrich,2017-05-11T00:00:00Z

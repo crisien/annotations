@@ -1,0 +1,22 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdpf_j_cspp_instrument_recovered,D00001,2015-03-18T19:36:56Z,2015-03-29T18:32:07Z,,AVAILABLE,,,friedrich,2017-05-11T00:00:00Z
+ctdpf_j_cspp_instrument_recovered,D00001,2015-03-29T18:32:07Z,2015-03-30T18:33:17Z,,NOT_AVAILABLE,,check: data gap: 1 days 00:01:10,friedrich,2017-05-11T00:00:00Z
+ctdpf_j_cspp_instrument_recovered,D00001,2015-03-30T18:33:17Z,2015-03-30T18:37:24Z,,AVAILABLE,,,friedrich,2017-05-11T00:00:00Z
+ctdpf_j_cspp_instrument_recovered,D00001,2015-03-30T18:37:24Z,2015-03-31T18:38:36Z,,NOT_AVAILABLE,,check: data gap: 1 days 00:01:12,friedrich,2017-05-11T00:00:00Z
+ctdpf_j_cspp_instrument_recovered,D00001,2015-03-31T18:38:36Z,2015-03-31T18:43:05Z,,AVAILABLE,,,friedrich,2017-05-11T00:00:00Z
+ctdpf_j_cspp_instrument_recovered,D00001,2015-03-31T18:43:05Z,2015-04-01T18:44:21Z,,NOT_AVAILABLE,,check: data gap: 1 days 00:01:16,friedrich,2017-05-11T00:00:00Z
+ctdpf_j_cspp_instrument_recovered,D00001,2015-04-01T18:44:21Z,2015-04-01T18:48:56Z,,AVAILABLE,,,friedrich,2017-05-11T00:00:00Z
+ctdpf_j_cspp_instrument_recovered,D00002,2015-03-18T20:28:16Z,2015-03-29T18:13:38Z,,AVAILABLE,,,friedrich,2017-05-11T00:00:00Z
+ctdpf_j_cspp_instrument_recovered,D00002,2015-03-29T18:13:38Z,2015-03-30T18:14:45Z,,NOT_AVAILABLE,,check: data gap: 1 days 00:01:07,friedrich,2017-05-11T00:00:00Z
+ctdpf_j_cspp_instrument_recovered,D00002,2015-03-30T18:14:45Z,2015-03-30T18:18:34Z,,AVAILABLE,,,friedrich,2017-05-11T00:00:00Z
+ctdpf_j_cspp_instrument_recovered,D00002,2015-03-30T18:18:34Z,2015-03-31T18:19:43Z,,NOT_AVAILABLE,,check: data gap: 1 days 00:01:09,friedrich,2017-05-11T00:00:00Z
+ctdpf_j_cspp_instrument_recovered,D00002,2015-03-31T18:19:43Z,2015-03-31T18:24:03Z,,AVAILABLE,,,friedrich,2017-05-11T00:00:00Z
+ctdpf_j_cspp_instrument_recovered,D00002,2015-03-31T18:24:03Z,2015-04-01T18:25:19Z,,NOT_AVAILABLE,,check: data gap: 1 days 00:01:16,friedrich,2017-05-11T00:00:00Z
+ctdpf_j_cspp_instrument_recovered,D00002,2015-04-01T18:25:19Z,2015-04-11T17:51:59Z,,AVAILABLE,,,friedrich,2017-05-11T00:00:00Z
+ctdpf_j_cspp_instrument_recovered,D00002,2015-04-11T17:51:59Z,2015-04-12T17:53:20Z,,NOT_AVAILABLE,,check: data gap: 1 days 00:01:21,friedrich,2017-05-11T00:00:00Z
+ctdpf_j_cspp_instrument_recovered,D00002,2015-04-12T17:53:20Z,2015-04-12T17:58:04Z,,AVAILABLE,,,friedrich,2017-05-11T00:00:00Z
+ctdpf_j_cspp_instrument_recovered,D00002,2015-04-12T17:58:04Z,2015-04-13T17:59:26Z,,NOT_AVAILABLE,,check: data gap: 1 days 00:01:22,friedrich,2017-05-11T00:00:00Z
+ctdpf_j_cspp_instrument_recovered,D00002,2015-04-13T17:59:26Z,2015-04-13T18:04:06Z,,AVAILABLE,,,friedrich,2017-05-11T00:00:00Z
+ctdpf_j_cspp_instrument_recovered,D00002,2015-04-13T18:04:06Z,2015-04-14T18:05:32Z,,NOT_AVAILABLE,,check: data gap: 1 days 00:01:26,friedrich,2017-05-11T00:00:00Z
+ctdpf_j_cspp_instrument_recovered,D00002,2015-04-14T18:05:32Z,2015-04-16T18:05:34Z,,AVAILABLE,,,friedrich,2017-05-11T00:00:00Z
+ctdpf_j_cspp_instrument_recovered,D00002,2015-04-16T18:05:34Z,2015-04-30T00:00:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 13 days 05:54:26,friedrich,2017-05-11T00:00:00Z

@@ -1,0 +1,3 @@
+Level,Deployment,StartTime,EndTime,Notes,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdbp_cdef_dcl_instrument,D00003,2016-05-05T19:08:00Z,2016-05-05T19:29:22Z,0 days 00:21:22,,,check: difference between deploy start date and data file start date,friedrich,2017-05-11T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00005,2017-04-01T00:00:00Z,None,,,,check: no deployment end date in asset management,friedrich,2017-05-11T00:00:00Z

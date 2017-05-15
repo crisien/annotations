@@ -1,0 +1,7 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+CE02SHSP,,2015-03-21T14:10:00Z,2015-03-22T04:20:00Z,PNWGP outage due to City of Seattle fiber cable work,,12264,Verify against data,friedrich,
+CE02SHSP,,2015-01-31T00:00:00Z,2015-02-04T00:00:00Z,Intermittent partial data loss due to storage drive problems at OTB,,12264,Verify against data,friedrich,
+CE02SHSP,,2015-01-07T07:32:00Z,2015-01-07T08:06:00Z,PNWGP Portland <-> Seattle outage,,12264,Verify against data,friedrich,
+CE02SHSP,,2014-12-07T19:45:00Z,2014-12-16T00:00:00Z,"PFE down. HVPS1 MOV explosion, 800A breaker tripped, investigation and restoration",,12264,Verify against data,friedrich,
+CE02SHSP-SP001-08-CTDPFJ000,,2015-04-03T00:00:00Z,2015-04-03T00:00:00Z,"cCSPP ""stuck"" - cable is no longer paying out. Troubleshooting instrument.",,,Info gathered from RSN DEL. Needs Redmine ticket in hardware project.,friedrich,
+CE02SHSP-SP001,,,,,,,,,

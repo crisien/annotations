@@ -1,3 +1,6 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
-ctdbp_cdef_dcl_instrument_recovered,D00001,2015-04-15T17:15:23Z,2015-09-23T15:03:12Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-11T00:00:00Z
-ctdbp_cdef_dcl_instrument_recovered,D00002,2015-10-13T17:02:00Z,2016-05-13T22:03:12Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-11T00:00:00Z
+ctdbp_cdef_dcl_instrument_recovered,D00001,2015-04-15T17:15:23Z,2015-09-23T15:03:12Z,,AVAILABLE,,check: evaluate parameters,friedrich,2017-05-11T00:00:00Z
+ctdbp_cdef_dcl_instrument_recovered,D00002,2015-10-13T17:02:00Z,2016-05-13T22:03:12Z,,AVAILABLE,,check: evaluate parameters,friedrich,2017-05-11T00:00:00Z
+ctdbp_cdef_dcl_instrument_recovered,D00003,2016-05-05T19:08:00Z,2016-09-27T19:47:00Z,,PENDING_INGEST,11805,,friedrich,2017-05-11T00:00:00Z
+ctdbp_cdef_dcl_instrument_recovered,D00004,2016-09-20T22:27:00Z,2016-12-26T00:33:13Z,,PENDING_INGEST,11805,,friedrich,2017-05-11T00:00:00Z
+ctdbp_cdef_dcl_instrument_recovered,D00005,2017-04-01T00:00:00Z,2017-05-11T00:00:00Z,,PENDING_INGEST,11805,,friedrich,2017-05-11T00:00:00Z

@@ -8,5 +8,8 @@ ctdbp_cdef_instrument_recovered,D00001,2016-03-11T19:48:12Z,2016-04-02T19:15:13Z
 ctdbp_cdef_instrument_recovered,D00001,2016-04-02T19:15:13Z,2016-04-02T19:18:13Z,,AVAILABLE,,check: evaluate parameters,friedrich,2017-05-11T00:00:00Z
 ctdbp_cdef_instrument_recovered,D00001,2016-04-02T19:18:13Z,2016-05-09T14:53:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 36 days 19:34:47,friedrich,2017-05-11T00:00:00Z
 ctdbp_cdef_instrument_recovered,D00002,2016-05-16T04:48:00Z,2016-10-01T15:21:00Z,,PENDING_INGEST,11868,,friedrich,2017-05-11T00:00:00Z
-ctdbp_cdef_instrument_recovered,D00003,2016-10-01T00:44:00Z,2017-03-19T00:33:14Z,,PENDING_INGEST,11868,,friedrich,2017-05-11T00:00:00Z
+ctdbp_cdef_instrument_recovered,D00003,2016-10-01T00:44:00Z,2017-04-01T00:00:00Z,,PENDING_INGEST,11868,,friedrich,2017-05-11T00:00:00Z
 ctdbp_cdef_instrument_recovered,D00004,2017-04-01T00:00:00Z,2017-05-11T00:00:00Z,,PENDING_INGEST,11868,,friedrich,2017-05-11T00:00:00Z
+,,,,,,,,,
+,,,,,,,,,
+,,, ,,,,,,

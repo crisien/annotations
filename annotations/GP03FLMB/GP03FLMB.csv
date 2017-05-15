@@ -6,7 +6,12 @@ GP03FLMB,D00004,2016-07-04T23:07:00Z,2017-05-12T00:00:00Z,Platform was deployed 
 GP03FLMB,D00004,2016-07-04T23:07:00Z,2017-05-11T00:00:00Z,"Consistent issues with data telemetry have persisted for this deployment. Due to glider failures on 1/27/2017, there will be no telemetered data from this platform for the remainder of the deployment.",,,Update end time as the deployment progresses,lori,2017-05-11T00:00:00Z
 GP03FLMB-RIM01,,,,,,,,lori,2017-05-11T00:00:00Z
 GP03FLMB-RIM01-02-CTDMOG060,,,,,,,,lori,2017-05-11T00:00:00Z
+<<<<<<< Updated upstream
 GP03FLMB-RIM01-02-CTDMOG061,,,,,,,,lori,2017-05-11T00:00:00Z
 GP03FLMB-RIM01-02-CTDMOG062,D00004,2016-10-08T08:00:01Z,2016-12-05T20:00:01Z,Instrument should have been deployed around 60m but pressure values recorded around 100 dbar. Investigation pending.,,,MIO investigating. Could be a bad pressure sensor.,lori,2017-05-12T00:00:00Z
 GP03FLMB-RIM01-02-CTDMOG063,,,,,,,,lori,2017-05-12T00:00:00Z
 GP03FLMB-RIM01-02-CTDMOG064,,,,,,,,lori,2017-05-12T00:00:00Z
+=======
+GP03FLMB-RIM01-02-CTDMOG061,D00003,2015-06-08T21:25:00Z,2016-07-03T18:35:00Z,Instrument deployed around 50m rather than the intended 40m.,,,,lori,2017-05-11T00:00:00Z
+GP03FLMB-RIM01,,,,,,,,,
+>>>>>>> Stashed changes

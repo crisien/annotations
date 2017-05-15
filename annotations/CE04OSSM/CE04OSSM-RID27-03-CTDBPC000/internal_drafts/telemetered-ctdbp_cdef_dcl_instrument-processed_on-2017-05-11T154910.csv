@@ -1,0 +1,13 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdbp_cdef_dcl_instrument,D00001,2015-04-07T23:00:23Z,2016-01-23T14:03:12Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-11T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00001,2016-01-23T14:03:12Z,2016-03-01T00:03:04Z,,NOT_AVAILABLE,,check: data gap: 37 days 09:59:52,friedrich,2017-05-11T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00001,2016-03-01T00:03:04Z,2016-03-01T00:03:15Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-11T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00001,2016-03-01T00:03:15Z,2016-03-11T19:45:19Z,,NOT_AVAILABLE,,check: data gap: 10 days 19:42:04,friedrich,2017-05-11T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00001,2016-03-11T19:45:19Z,2016-03-11T19:48:09Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-11T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00001,2016-03-11T19:48:09Z,2016-04-02T19:15:20Z,,NOT_AVAILABLE,,check: data gap: 21 days 23:27:11,friedrich,2017-05-11T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00001,2016-04-02T19:15:20Z,2016-04-02T19:18:10Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-11T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00001,2016-04-02T19:18:10Z,2016-05-09T14:53:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 36 days 19:34:50,friedrich,2017-05-11T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00002,2016-05-16T05:15:22Z,2016-10-01T15:18:11Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-11T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00003,2016-10-01T01:30:28Z,2017-01-19T00:33:15Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-11T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00003,2017-01-19T00:33:15Z,2017-01-22T00:00:21Z,,NOT_AVAILABLE,,check: data gap,friedrich,2017-05-11T00:00:00Z
+ctdbp_cdef_dcl_instrument,D00003,2017-01-22T00:00:21Z,2017-03-19T00:33:14Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-11T00:00:00Z

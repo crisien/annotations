@@ -1,0 +1,4 @@
+Level,Deployment,StartTime,EndTime,Notes,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdpf_j_cspp_instrument_recovered,D00001,2015-03-18T19:20:00Z,2015-03-18T19:36:56Z,0 days 00:16:56,,,check: difference between deploy start date and data file start date,friedrich,2017-05-11T00:00:00Z
+ctdpf_j_cspp_instrument_recovered,D00001,2015-04-01T18:48:56Z,2015-04-02T00:00:00Z,0 days 05:11:04,,,check: difference between deploy end date and data file end date,friedrich,2017-05-11T00:00:00Z
+ctdpf_j_cspp_instrument_recovered,D00002,2015-03-18T20:15:00Z,2015-03-18T20:28:16Z,0 days 00:13:16,,,check: difference between deploy start date and data file start date,friedrich,2017-05-11T00:00:00Z

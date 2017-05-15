@@ -1,0 +1,11 @@
+Level,Deployment,StartTime,EndTime,Notes,Test,Redmine#,Todo,ReviewedBy,ReviewedDate
+temperature,D00001,2015-03-18T19:36:56Z,2015-04-01T18:48:56Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,friedrich,2017-05-11T00:00:00Z
+density,D00001,2015-03-18T19:36:56Z,2015-04-01T18:48:56Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,friedrich,2017-05-11T00:00:00Z
+salinity,D00001,2015-03-18T19:36:56Z,2015-04-01T18:48:56Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,friedrich,2017-05-11T00:00:00Z
+pressure,D00001,2015-03-18T19:36:56Z,2015-04-01T18:48:56Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,friedrich,2017-05-11T00:00:00Z
+conductivity,D00001,2015-03-18T19:36:56Z,2015-04-01T18:48:56Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,friedrich,2017-05-11T00:00:00Z
+temperature,D00002,2015-03-18T20:28:16Z,2015-04-16T18:05:34Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,friedrich,2017-05-11T00:00:00Z
+density,D00002,2015-03-18T20:28:16Z,2015-04-16T18:05:34Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,friedrich,2017-05-11T00:00:00Z
+salinity,D00002,2015-03-18T20:28:16Z,2015-04-16T18:05:34Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,friedrich,2017-05-11T00:00:00Z
+pressure,D00002,2015-03-18T20:28:16Z,2015-04-16T18:05:34Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,friedrich,2017-05-11T00:00:00Z
+conductivity,D00002,2015-03-18T20:28:16Z,2015-04-16T18:05:34Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,friedrich,2017-05-11T00:00:00Z

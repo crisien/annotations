@@ -1,0 +1,23 @@
+Level,Deployment,StartTime,EndTime,Notes,Test,Redmine#,Todo,ReviewedBy,ReviewedDate
+practical_salinity,D00001,2015-04-07T23:00:23Z,2016-04-02T19:18:10Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,friedrich,2017-05-11T00:00:00Z
+temp,D00001,2015-04-07T23:00:23Z,2016-04-02T19:18:10Z,extracted from 1st file of 1 files,Global Range Values,,global min = -2.0 global_max = 40.0,friedrich,2017-05-11T00:00:00Z
+temp,D00001,2015-04-07T23:00:23Z,2016-04-02T19:18:10Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-05-11T00:00:00Z
+density,D00001,2015-04-07T23:00:23Z,2016-04-02T19:18:10Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,friedrich,2017-05-11T00:00:00Z
+pressure,D00001,2015-04-07T23:00:23Z,2016-04-02T19:18:10Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 6000.0,friedrich,2017-05-11T00:00:00Z
+pressure,D00001,2015-04-07T23:00:23Z,2016-04-02T19:18:10Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-05-11T00:00:00Z
+conductivity,D00001,2015-04-07T23:00:23Z,2016-04-02T19:18:10Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 6.0,friedrich,2017-05-11T00:00:00Z
+conductivity,D00001,2015-04-07T23:00:23Z,2016-04-02T19:18:10Z,applies to one file,Spike QC Test,,check: test triggered,friedrich,2017-05-11T00:00:00Z
+conductivity,D00001,2015-04-07T23:00:23Z,2016-04-02T19:18:10Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-05-11T00:00:00Z
+practical_salinity,D00002,2016-05-16T05:15:22Z,2016-10-01T15:18:11Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,friedrich,2017-05-11T00:00:00Z
+temp,D00002,2016-05-16T05:15:22Z,2016-10-01T15:18:11Z,extracted from 1st file of 1 files,Global Range Values,,global min = -2.0 global_max = 40.0,friedrich,2017-05-11T00:00:00Z
+density,D00002,2016-05-16T05:15:22Z,2016-10-01T15:18:11Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,friedrich,2017-05-11T00:00:00Z
+pressure,D00002,2016-05-16T05:15:22Z,2016-10-01T15:18:11Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 6000.0,friedrich,2017-05-11T00:00:00Z
+conductivity,D00002,2016-05-16T05:15:22Z,2016-10-01T15:18:11Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 6.0,friedrich,2017-05-11T00:00:00Z
+conductivity,D00002,2016-05-16T05:15:22Z,2016-10-01T15:18:11Z,applies to one file,Spike QC Test,,check: test triggered,friedrich,2017-05-11T00:00:00Z
+conductivity,D00002,2016-05-16T05:15:22Z,2016-10-01T15:18:11Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-05-11T00:00:00Z
+practical_salinity,D00003,2016-10-01T01:30:28Z,2017-03-19T00:33:14Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,friedrich,2017-05-11T00:00:00Z
+temp,D00003,2016-10-01T01:30:28Z,2017-03-19T00:33:14Z,extracted from 1st file of 1 files,Global Range Values,,global min = -2.0 global_max = 40.0,friedrich,2017-05-11T00:00:00Z
+density,D00003,2016-10-01T01:30:28Z,2017-03-19T00:33:14Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,friedrich,2017-05-11T00:00:00Z
+pressure,D00003,2016-10-01T01:30:28Z,2017-03-19T00:33:14Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 6000.0,friedrich,2017-05-11T00:00:00Z
+conductivity,D00003,2016-10-01T01:30:28Z,2017-03-19T00:33:14Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 6.0,friedrich,2017-05-11T00:00:00Z
+conductivity,D00003,2016-10-01T01:30:28Z,2017-03-19T00:33:14Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-05-11T00:00:00Z

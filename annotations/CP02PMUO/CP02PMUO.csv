@@ -1,0 +1,14 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+CP02PMUO,,,,,,,,,
+CP02PMUO-WFP01,,,,,,,,,
+CP02PMUO-WFP01-03-CTDPFK000,,,,,,,,,
+CP02PMUO,D00001,,,Failed after two days,,,,,
+CP02PMUO-WFP01,D00002,2015-04-30T00:00:00Z,2015-10-13T00:00:00Z,WFP failed,,,,,
+CP02PMUO-WFP01-03-CTDPFK000,D00002,2013-11-25T20:58:00Z,2014-04-14T20:00:03Z,,NOT_OPERATIONAL,,check: difference between data begin and deployment begin date is: 139 days 23:02:03,Leila,2017-05-09T00:00:00Z
+CP02PMUO-WFP01-03-CTDPFK000,D00005,2015-10-02T06:13:16Z,2015-10-13T13:04:00Z,,NOT_OPERATIONAL,,check: difference between data end and deployment end date is: 11 days 06:50:44,Leila,2017-05-09T00:00:00Z
+CP02PMUO-WFP01,D00006,2015-10-15T00:00:00Z,2015-05-16T00:00:00Z,WFP failed,NOT_OPERATIONAL,,,,
+CP02PMUO-WFP01,D00006,2015-10-15T15:15:27Z,2016-05-18T12:20:00Z,WFP failed on 10/15/2016,NOT_OPERATIONAL,10303,check: difference between data end and deployment end date is: 215 days 21:04:33,Leila,2017-05-09T00:00:00Z
+CP02PMUO-WFP01,D00007,2016-08-18T00:00:00Z,2016-0823T00:00:00Z,Profiler stuck at the top of its range probably related to fouling of the line,,11226,check data,,
+CP02PMUO-WFP01,D00007,2016-09-06T00:00:00Z,2016-09-30T00:00:00Z,Profiler stuck at the top of its range probably related to fouling of the line,,11226,check data,,
+CP02PMUO-WFP01,D00008,2016-10-22T00:00:00Z,,Profiler stuck at the top of its range.,,,verify data,,
+CP02PMUO-WFP01-03-CTDPFK000,D00008,2017-01-19T09:05:45Z,2017-01-24T18:00:02Z,,NOT_OPERATIONAL,,check: data gap,Leila,2017-05-09T00:00:00Z

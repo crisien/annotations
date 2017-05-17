@@ -1,4 +1,4 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
-ctdgv_m_glider_instrument_recovered,D00001,2015-01-21T22:04:12Z,2015-04-28T23:59:59Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-11T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2015-01-21T22:04:12Z,2015-04-28T23:59:59Z,,AVAILABLE,,,friedrich,2017-05-11T00:00:00Z
 ctdgv_m_glider_instrument_recovered,D00002,2016-09-28T21:02:00Z,2017-01-06T00:00:00Z,,PENDING_INGEST,,add redmine ticket,friedrich,2017-05-11T00:00:00Z
 ctdgv_m_glider_instrument_recovered,D00003,2017-04-10T22:30:00Z,2017-05-11T00:00:00Z,,PENDING_INGEST,,add redmine ticket,friedrich,2017-05-11T00:00:00Z

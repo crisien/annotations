@@ -3,3 +3,4 @@ ctdgv_m_glider_instrument,D00001,2014-10-07T01:20:29Z,2014-12-23T22:55:16Z,,NOT_
 ctdgv_m_glider_instrument,D00001,2014-12-23T22:55:16Z,2014-12-29T00:00:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 5 days 01:04:44,friedrich,2017-05-11T00:00:00Z
 ctdgv_m_glider_instrument,D00002,2016-06-16T20:05:02Z,2016-08-22T01:30:39Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-11T00:00:00Z
 ctdgv_m_glider_instrument,D00002,2016-08-22T01:30:39Z,2016-09-27T00:00:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 35 days 22:29:21,friedrich,2017-05-11T00:00:00Z
+ctdgv_m_glider_instrument,D00003, 2017-04-10T17:45:00Z,2017-05-11T00:00:00Z,,PENDING_INGEST,,add redmine ticket,friedrich,2017-05-11T00:00:00Z

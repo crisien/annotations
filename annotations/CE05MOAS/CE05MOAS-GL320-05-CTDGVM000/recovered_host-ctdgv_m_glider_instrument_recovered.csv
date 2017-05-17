@@ -1,3 +1,5 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
 ctdgv_m_glider_instrument_recovered,D00001,2014-10-07T01:15:34Z,2014-12-24T05:25:53Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-11T00:00:00Z
 ctdgv_m_glider_instrument_recovered,D00001,2014-12-24T05:25:53Z,2014-12-29T00:00:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 4 days 18:34:07,friedrich,2017-05-11T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00002,2016-06-16T20:04:00Z,2016-09-27T00:00:00Z,,PENDING_INGEST,,add redmine ticket,friedrich,2017-05-11T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00003, 2017-04-10T17:45:00Z,2017-05-11T00:00:00Z,,PENDING_INGEST,,add redmine ticket,friedrich,2017-05-11T00:00:00Z

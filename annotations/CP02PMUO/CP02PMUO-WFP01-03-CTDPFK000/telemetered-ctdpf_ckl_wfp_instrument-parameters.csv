@@ -7,3 +7,6 @@ ctdpf_ckl_seawater_temperature,,,,,,,,Leila,2017-05-09T00:00:00Z
 ctdpf_ckl_seawater_conductivity,,,,,,,,Leila,2017-05-09T00:00:00Z
 pressure,,,,,,,,Leila,2017-05-09T00:00:00Z
 conductivity,,,,,,,,Leila,2017-05-09T00:00:00Z
+density,D00007,2016-07-24T12:00:00Z,2016-07-24T12:30:00Z,,Suspect,,,Leila,2017-05-09T00:00:00Z
+practical_salinity,D00007,2016-07-24T12:00:00Z,2016-07-24T12:30:00Z,,Suspect,,,Leila,2017-05-09T00:00:00Z
+ctdpf_ckl_seawater_conductivity,D00007,2016-07-24T12:00:00Z,2016-07-24T12:30:00Z,,Suspect,,,Leila,2017-05-09T00:00:00Z

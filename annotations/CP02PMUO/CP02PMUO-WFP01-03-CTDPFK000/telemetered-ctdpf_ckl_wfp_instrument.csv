@@ -1,14 +1,15 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
-ctdpf_ckl_wfp_instrument,D00001,2013-11-23T16:00:03Z,2013-11-24T20:28:32Z,Only few MMP records avialable. The WFP failed after few days and had to be recovered.,AVAILABLE,11504,check: evaluate parameters,Leila,2017-05-09T00:00:00Z
-ctdpf_ckl_wfp_instrument,D00002,2013-11-25T20:58:00Z,2014-04-14T20:00:03Z,The cg_data host records were not offloaded and stored.,NOT_AVAILABLE,11504,check: difference between data begin and deployment begin date is: 139 days 23:02:03,Leila,2017-05-09T00:00:00Z
-ctdpf_ckl_wfp_instrument,D00002,2014-04-14T20:00:03Z,2014-04-14T20:30:01Z,Only few MMP records available.  The raw data repository was cleaned up recently and data need to be reingested to check availability.,PENDING_INGEST,11504/11960,check: Pending data ingest to confirm,Leila,2017-05-09T00:00:00Z
-ctdpf_ckl_wfp_instrument,D00003,2014-04-14T20:00:03Z,2014-10-04T21:46:45Z,,PENDING_INGEST,11960,check: evaluate parameters,Leila,2017-05-09T00:00:00Z
-ctdpf_ckl_wfp_instrument,D00004,2014-10-05T22:00:03Z,2015-04-30T00:00:00Z,,PENDING_INGEST,11960,check: evaluate parameters,Leila,2017-05-09T00:00:00Z
-ctdpf_ckl_wfp_instrument,D00005,2015-04-30T19:00:03Z,2015-10-02T06:13:16Z,,AVAILABLE,,check: evaluate parameters,Leila,2017-05-09T00:00:00Z
-ctdpf_ckl_wfp_instrument,D00005,2015-10-02T06:13:16Z,2015-10-13T13:04:00Z,telemetered data was interrupeted ?,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 11 days 06:50:44,Leila,2017-05-09T00:00:00Z
-ctdpf_ckl_wfp_instrument,D00006,2015-10-13T22:00:03Z,2015-10-15T15:15:27Z,,AVAILABLE,,check: evaluate parameters,Leila,2017-05-09T00:00:00Z
-ctdpf_ckl_wfp_instrument,D00006,2015-10-15T15:15:27Z,2016-05-18T12:20:00Z,WFP failed.,NOT_AVAILABLE,10303,check: difference between data end and deployment end date is: 215 days 21:04:33,Leila,2017-05-09T00:00:00Z
-ctdpf_ckl_wfp_instrument,D00007,2016-05-19T00:00:03Z,2016-10-01T09:05:46Z,,AVAILABLE,,check: evaluate parameters,Leila,2017-05-09T00:00:00Z
-ctdpf_ckl_wfp_instrument,D00008,2016-10-02T06:00:03Z,2017-01-19T09:05:45Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-09T00:00:00Z
-ctdpf_ckl_wfp_instrument,D00008,2017-01-19T09:05:45Z,2017-01-24T18:00:02Z,,NOT_AVAILABLE,,check: data gap,Leila,2017-05-09T00:00:00Z
-ctdpf_ckl_wfp_instrument,D00008,2017-01-24T18:00:02Z,2017-03-19T15:29:05Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-09T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00001,2013-11-23T16:00:03Z,2013-11-24T20:28:32Z,Only few MMP records avialable. The WFP failed after few days and had to be recovered.,AVAILABLE,11504,,Leila,2017-05-09T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00002,2013-11-25T20:58:00Z,2014-04-14T20:00:03Z,The cg_data host records were not offloaded and stored.,NOT_AVAILABLE,11504,,Leila,2017-05-09T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00002,2014-04-14T20:00:03Z,2014-04-14T20:30:01Z,Only few MMP records available.  The raw data repository was cleaned up recently and data need to be reingested to check availability.,AVAILABLE,11504/11960,check data when ingested to uframe,,
+ctdpf_ckl_wfp_instrument,D00003,2014-04-14T20:30:01Z,2014-10-05T00:00:00Z,,PENDING_INGEST,11504/11960,check data when ingested to uframe,Leila,2017-05-09T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00004,2014-10-05T00:00:00Z,2015-04-30T00:00:00Z,Telemetered data end on Jan 27 2015.,PENDING_INGEST,11960,check data when ingested to uframe,Leila,2017-05-09T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00005,2015-04-30T19:00:03Z,2015-10-02T06:13:16Z,,AVAILABLE,,,Leila,2017-05-09T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00005,2015-10-02T06:13:16Z,2015-10-13T13:04:00Z,"Mooring pulled out on the 13th. The Profiler may have stopped transmitting data on the 2nd. However, the profiler seem to have continued working and  so the data was recovered.",NOT_AVAILABLE,,,Leila,2017-05-09T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00006,2015-10-13T22:00:03Z,2015-10-15T15:15:27Z,Only few MMP records available.,AVAILABLE,,,Leila,2017-05-09T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00006,2015-10-15T15:15:27Z,2016-05-18T12:20:00Z,WFP failed.,NOT_AVAILABLE,10303,,Leila,2017-05-09T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00007,2016-05-19T00:00:03Z,2016-10-01T09:05:46Z,,AVAILABLE,,,Leila,2017-05-09T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00008,2016-10-02T06:00:03Z,2017-01-19T09:05:45Z,,AVAILABLE,,,Leila,2017-05-09T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00008,2017-01-19T09:05:45Z,2017-01-24T18:00:02Z,Under investigation,NOT_AVAILABLE,,Check if it is an ingestion problem! The raw data seem to be complete on WHOI side.,Leila,2017-05-09T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00008,2017-01-24T18:00:02Z,2017-03-19T15:29:05Z,,AVAILABLE,,,Leila,2017-05-09T00:00:00Z
+,,,,,,,,,

@@ -1,0 +1,101 @@
+Level,Deployment,StartTime,EndTime,Notes,Test,Redmine#,Todo,ReviewedBy,ReviewedDate
+practical_salinity,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999999.0,friedrich,2017-05-17T00:00:00Z
+practical_salinity,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,friedrich,2017-05-17T00:00:00Z
+practical_salinity,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,applies to one file,Global Range QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+practical_salinity,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,applies to one file,Spike QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+practical_salinity,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+temperature,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999999.0,friedrich,2017-05-17T00:00:00Z
+temperature,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,friedrich,2017-05-17T00:00:00Z
+temperature,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,applies to one file,Global Range QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+temperature,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,applies to one file,Spike QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+temperature,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+density,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999999.0,friedrich,2017-05-17T00:00:00Z
+density,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,friedrich,2017-05-17T00:00:00Z
+density,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,applies to one file,Global Range QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+density,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,applies to one file,Spike QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+density,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+ctdmo_seawater_temperature,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999999.0,friedrich,2017-05-17T00:00:00Z
+ctdmo_seawater_temperature,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,friedrich,2017-05-17T00:00:00Z
+ctdmo_seawater_temperature,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,applies to one file,Global Range QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+ctdmo_seawater_temperature,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,applies to one file,Spike QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+ctdmo_seawater_temperature,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+pressure_temp,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999999.0,friedrich,2017-05-17T00:00:00Z
+pressure_temp,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,friedrich,2017-05-17T00:00:00Z
+pressure_temp,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,applies to one file,Global Range QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+pressure_temp,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,applies to one file,Spike QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+pressure_temp,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+inductive_id,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,friedrich,2017-05-17T00:00:00Z
+inductive_id,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,friedrich,2017-05-17T00:00:00Z
+inductive_id,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,applies to one file,Global Range QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+inductive_id,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,applies to one file,Spike QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+inductive_id,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+ctdmo_seawater_pressure,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999.0,friedrich,2017-05-17T00:00:00Z
+ctdmo_seawater_pressure,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,friedrich,2017-05-17T00:00:00Z
+ctdmo_seawater_pressure,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,applies to one file,Global Range QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+ctdmo_seawater_pressure,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,applies to one file,Spike QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+ctdmo_seawater_pressure,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+pressure,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999999.0,friedrich,2017-05-17T00:00:00Z
+pressure,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,friedrich,2017-05-17T00:00:00Z
+pressure,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,applies to one file,Global Range QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+pressure,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,applies to one file,Spike QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+pressure,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+ctdmo_seawater_conductivity,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999999.0,friedrich,2017-05-17T00:00:00Z
+ctdmo_seawater_conductivity,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,friedrich,2017-05-17T00:00:00Z
+ctdmo_seawater_conductivity,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,applies to one file,Global Range QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+ctdmo_seawater_conductivity,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,applies to one file,Spike QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+ctdmo_seawater_conductivity,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+conductivity,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999999.0,friedrich,2017-05-17T00:00:00Z
+conductivity,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,friedrich,2017-05-17T00:00:00Z
+conductivity,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,applies to one file,Global Range QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+conductivity,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,applies to one file,Spike QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+conductivity,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+practical_salinity,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999999.0,friedrich,2017-05-17T00:00:00Z
+practical_salinity,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,friedrich,2017-05-17T00:00:00Z
+practical_salinity,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,applies to one file,Global Range QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+practical_salinity,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,applies to one file,Spike QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+practical_salinity,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+temperature,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999999.0,friedrich,2017-05-17T00:00:00Z
+temperature,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,friedrich,2017-05-17T00:00:00Z
+temperature,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,applies to one file,Global Range QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+temperature,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,applies to one file,Spike QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+temperature,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+density,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999999.0,friedrich,2017-05-17T00:00:00Z
+density,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,friedrich,2017-05-17T00:00:00Z
+density,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,applies to one file,Global Range QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+density,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,applies to one file,Spike QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+density,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+ctdmo_seawater_temperature,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999999.0,friedrich,2017-05-17T00:00:00Z
+ctdmo_seawater_temperature,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,friedrich,2017-05-17T00:00:00Z
+ctdmo_seawater_temperature,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,applies to one file,Global Range QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+ctdmo_seawater_temperature,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,applies to one file,Spike QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+ctdmo_seawater_temperature,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+pressure_temp,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999999.0,friedrich,2017-05-17T00:00:00Z
+pressure_temp,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,friedrich,2017-05-17T00:00:00Z
+pressure_temp,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,applies to one file,Global Range QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+pressure_temp,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,applies to one file,Spike QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+pressure_temp,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+inductive_id,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,friedrich,2017-05-17T00:00:00Z
+inductive_id,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,friedrich,2017-05-17T00:00:00Z
+inductive_id,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,applies to one file,Global Range QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+inductive_id,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,applies to one file,Spike QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+inductive_id,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+ctdmo_seawater_pressure,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999.0,friedrich,2017-05-17T00:00:00Z
+ctdmo_seawater_pressure,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,friedrich,2017-05-17T00:00:00Z
+ctdmo_seawater_pressure,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,applies to one file,Global Range QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+ctdmo_seawater_pressure,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,applies to one file,Spike QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+ctdmo_seawater_pressure,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+pressure,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999999.0,friedrich,2017-05-17T00:00:00Z
+pressure,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,friedrich,2017-05-17T00:00:00Z
+pressure,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,applies to one file,Global Range QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+pressure,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,applies to one file,Spike QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+pressure,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+ctdmo_seawater_conductivity,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999999.0,friedrich,2017-05-17T00:00:00Z
+ctdmo_seawater_conductivity,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,friedrich,2017-05-17T00:00:00Z
+ctdmo_seawater_conductivity,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,applies to one file,Global Range QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+ctdmo_seawater_conductivity,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,applies to one file,Spike QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+ctdmo_seawater_conductivity,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+conductivity,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999999.0,friedrich,2017-05-17T00:00:00Z
+conductivity,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,friedrich,2017-05-17T00:00:00Z
+conductivity,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,applies to one file,Global Range QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+conductivity,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,applies to one file,Spike QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z
+conductivity,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-05-17T00:00:00Z

@@ -1,0 +1,3 @@
+Level,Deployment,StartTime,EndTime,Notes,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdmo_ghqr_sio_mule_instrument,D00001,2015-03-17T19:45:00Z,2015-03-17T20:00:01Z,0 days 00:15:01,,,check: difference between deploy start date and data file start date,friedrich,2017-05-17T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00002,2015-11-25T19:21:00Z,2015-11-25T20:00:01Z,0 days 00:39:01,,,check: difference between deploy start date and data file start date,friedrich,2017-05-17T00:00:00Z

@@ -1,0 +1,10 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+practical_salinity,,,,,,,,friedrich,2017-05-17T00:00:00Z
+temperature,,,,,,,,friedrich,2017-05-17T00:00:00Z
+density,,,,,,,,friedrich,2017-05-17T00:00:00Z
+ctdmo_seawater_temperature,,,,,,,,friedrich,2017-05-17T00:00:00Z
+inductive_id,,,,,,,,friedrich,2017-05-17T00:00:00Z
+ctdmo_seawater_pressure,,,,,,,,friedrich,2017-05-17T00:00:00Z
+pressure,,,,,,,,friedrich,2017-05-17T00:00:00Z
+ctdmo_seawater_conductivity,,,,,,,,friedrich,2017-05-17T00:00:00Z
+conductivity,,,,,,,,friedrich,2017-05-17T00:00:00Z

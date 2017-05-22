@@ -1,4 +1,5 @@
-Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
-ctdmo_ghqr_instrument_recovered,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-17T00:00:00Z
-ctdmo_ghqr_instrument_recovered,D00002,2015-11-25T19:21:00Z,2015-11-29T12:00:01Z,,NOT_AVAILABLE,,check: difference between data begin and deployment begin date is: 3 days 16:39:01,friedrich,2017-05-17T00:00:00Z
-ctdmo_ghqr_instrument_recovered,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-17T00:00:00Z
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate,
+ctdmo_ghqr_instrument_recovered,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-17T00:00:00Z,
+ctdmo_ghqr_instrument_recovered,D00002,2015-11-25T19:21:00Z,2015-11-29T12:00:01Z,,NOT_AVAILABLE,,check: difference between data begin and deployment begin date is: 3 days 16:39:01,friedrich,2017-05-17T00:00:00Z,
+ctdmo_ghqr_instrument_recovered,D00002,2015-11-29T12:00:01Z,2016-11-05T18:45:01Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-17T00:00:00Z,
+ctdmo_ghqr_instrument_recovered,D00003,2016-10-30T23:17:00Z,2017-04-05T00:00:00Z,There are issues with telemetry that are under investigation. No telemetered data will be available until the issue is determined and resolved.,,,add redmine ticket,friedrich,2017-05-17T00:00:00Z,

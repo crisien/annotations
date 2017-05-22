@@ -21,3 +21,4 @@ ctdmo_ghqr_sio_mule_instrument,D00002,2015-11-25T20:00:01Z,2015-11-25T20:00:01Z,
 ctdmo_ghqr_sio_mule_instrument,D00002,2015-11-25T20:00:01Z,2015-11-27T00:00:01Z,,NOT_AVAILABLE,,check: data gap,friedrich,2017-05-17T00:00:00Z
 ctdmo_ghqr_sio_mule_instrument,D00002,2015-11-27T00:00:01Z,2015-11-27T00:00:01Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-17T00:00:00Z
 ctdmo_ghqr_sio_mule_instrument,D00002,2015-11-27T00:00:01Z,2016-11-05T18:58:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 344 days 18:57:59,friedrich,2017-05-17T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00003,2016-10-30T23:17:00Z,2017-04-05T00:00:00Z,There are issues with telemetry that are under investigation. No telemetered data will be available until the issue is determined and resolved.,,,add redmine ticket,friedrich,2017-05-17T00:00:00Z

@@ -8,10 +8,10 @@ import numpy as np
 
 
 # specify path to annotation csvs and reference designator reviewed
-assets = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/CE05MOAS/CE05MOAS.csv'
-stream = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/CE05MOAS/CE05MOAS-GL382-05-CTDGVM000/telemetered-ctdgv_m_glider_instrument.csv'
-parameters = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/CE05MOAS/CE05MOAS-GL382-05-CTDGVM000/telemetered-ctdgv_m_glider_instrument-parameters.csv'
-reference_designator = 'CE05MOAS-GL382-05-CTDGVM000'
+assets = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/GA03FLMA/GA03FLMA.csv'
+stream = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/GA03FLMA/GA03FLMA-RIM01-02-CTDMOH051/telemetered-ctdmo_ghqr_sio_mule_instrument.csv'
+parameters = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/GA03FLMA/GA03FLMA-RIM01-02-CTDMOH051/telemetered-ctdmo_ghqr_sio_mule_instrument-parameters.csv'
+reference_designator = 'GA03FLMA-RIM01-02-CTDMOG051'
 
 
 # read in csv files

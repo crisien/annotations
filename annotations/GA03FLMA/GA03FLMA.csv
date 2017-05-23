@@ -1,17 +1,41 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
 GA03FLMA,D00002,2015-11-25T19:21:00Z,2016-11-05T18:58:00Z,"Due to glider failures, there is no telemetered data for this deployment.",,,add redmine ticket,lori,2017-05-17T00:00:00Z
 GA03FLMA,D00003,2016-10-30T23:17:00Z,2017-04-05T00:00:00Z,There are issues with telemetry that are under investigation. No telemetered data will be available until the issue is determined and resolved.,,,add redmine ticket,lori,2017-05-17T00:00:00Z
-GA03FLMA-RIM01-02-CTDMOG040,,,,,,,,,
-GA03FLMA-RIM01-02-CTDMOG041,,,,,,,,,
-GA03FLMA-RIM01-02-CTDMOG042,,,,,,,,,
-GA03FLMA-RIM01-02-CTDMOG043,,,,,,,,,
-GA03FLMA-RIM01-02-CTDMOG044,,,,,,,,,
-GA03FLMA-RIM01-02-CTDMOG045,,,,,,,,,
-GA03FLMA-RIM01-02-CTDMOG046,,,,,,,,,
-GA03FLMA-RIM01-02-CTDMOG047,,,,,,,,,
-GA03FLMA-RIM01-02-CTDMOG048,,,,,,,,,
-GA03FLMA-RIM01-02-CTDMOG049,,,,,,,,,
-GA03FLMA-RIM01-02-CTDMOG050,,,,,,,,,
-GA03FLMA-RIM01-02-CTDMOG051,,,,,,,,,
-GA03FLMA-RIM01,,,,,,,,,
+GA03FLMA-RIM01-02-CTDMOG040,D00001,,,,,12368,Need to purge and reingest all data from this subsite due to multiple changes. Last ingest happened in May 2016.,friedrich,2017-05-17T00:00:00Z
+GA03FLMA-RIM01-02-CTDMOG040,D00002,,,,,12368,Need to purge and reingest all data from this subsite due to multiple changes. Last ingest happened in May 2016.,friedrich,2017-05-17T00:00:00Z
+GA03FLMA-RIM01-02-CTDMOG040,D00003,,,,,12368,Need to purge and reingest all data from this subsite due to multiple changes. Last ingest happened in May 2016.,friedrich,2017-05-17T00:00:00Z
+GA03FLMA-RIM01-02-CTDMOG041,D00001,,,,,12368,Need to purge and reingest all data from this subsite due to multiple changes. Last ingest happened in May 2016.,friedrich,2017-05-17T00:00:00Z
+GA03FLMA-RIM01-02-CTDMOG041,D00002,,,,,12368,Need to purge and reingest all data from this subsite due to multiple changes. Last ingest happened in May 2016.,friedrich,2017-05-17T00:00:00Z
+GA03FLMA-RIM01-02-CTDMOG041,D00003,,,,,12368,Need to purge and reingest all data from this subsite due to multiple changes. Last ingest happened in May 2016.,friedrich,2017-05-17T00:00:00Z
+GA03FLMA-RIM01-02-CTDMOG042,D00001,,,,,12368,Need to purge and reingest all data from this subsite due to multiple changes. Last ingest happened in May 2016.,friedrich,2017-05-17T00:00:00Z
+GA03FLMA-RIM01-02-CTDMOG042,D00002,,,,,12368,Need to purge and reingest all data from this subsite due to multiple changes. Last ingest happened in May 2016.,friedrich,2017-05-17T00:00:00Z
+GA03FLMA-RIM01-02-CTDMOG042,D00003,,,,,12368,Need to purge and reingest all data from this subsite due to multiple changes. Last ingest happened in May 2016.,friedrich,2017-05-17T00:00:00Z
+GA03FLMA-RIM01-02-CTDMOG043,D00001,,,,,12368,Need to purge and reingest all data from this subsite due to multiple changes. Last ingest happened in May 2016.,friedrich,2017-05-17T00:00:00Z
+GA03FLMA-RIM01-02-CTDMOG042,D00002,,,,,12368,Need to purge and reingest all data from this subsite due to multiple changes. Last ingest happened in May 2016.,friedrich,2017-05-17T00:00:00Z
+GA03FLMA-RIM01-02-CTDMOG042,D00003,,,,,12368,Need to purge and reingest all data from this subsite due to multiple changes. Last ingest happened in May 2016.,friedrich,2017-05-17T00:00:00Z
+GA03FLMA-RIM01-02-CTDMOG044,D00001,,,,,12368,Need to purge and reingest all data from this subsite due to multiple changes. Last ingest happened in May 2016.,friedrich,2017-05-17T00:00:00Z
+GA03FLMA-RIM01-02-CTDMOG044,D00002,,,,,12368,Need to purge and reingest all data from this subsite due to multiple changes. Last ingest happened in May 2016.,friedrich,2017-05-17T00:00:00Z
+GA03FLMA-RIM01-02-CTDMOG044,D00003,,,,,12368,Need to purge and reingest all data from this subsite due to multiple changes. Last ingest happened in May 2016.,friedrich,2017-05-17T00:00:00Z
+GA03FLMA-RIM01-02-CTDMOG045,D00001,,,,,12368,Need to purge and reingest all data from this subsite due to multiple changes. Last ingest happened in May 2016.,friedrich,2017-05-17T00:00:00Z
+GA03FLMA-RIM01-02-CTDMOG045,D00002,,,,,12368,Need to purge and reingest all data from this subsite due to multiple changes. Last ingest happened in May 2016.,friedrich,2017-05-17T00:00:00Z
+GA03FLMA-RIM01-02-CTDMOG045,D00003,,,,,12368,Need to purge and reingest all data from this subsite due to multiple changes. Last ingest happened in May 2016.,friedrich,2017-05-17T00:00:00Z
+GA03FLMA-RIM01-02-CTDMOG046,D00001,,,,,12368,Need to purge and reingest all data from this subsite due to multiple changes. Last ingest happened in May 2016.,friedrich,2017-05-17T00:00:00Z
+GA03FLMA-RIM01-02-CTDMOG046,D00002,,,,,12368,Need to purge and reingest all data from this subsite due to multiple changes. Last ingest happened in May 2016.,friedrich,2017-05-17T00:00:00Z
+GA03FLMA-RIM01-02-CTDMOG046,D00003,,,,,12368,Need to purge and reingest all data from this subsite due to multiple changes. Last ingest happened in May 2016.,friedrich,2017-05-17T00:00:00Z
+GA03FLMA-RIM01-02-CTDMOG047,D00001,,,,,12368,Need to purge and reingest all data from this subsite due to multiple changes. Last ingest happened in May 2016.,friedrich,2017-05-17T00:00:00Z
+GA03FLMA-RIM01-02-CTDMOG047,D00002,,,,,12368,Need to purge and reingest all data from this subsite due to multiple changes. Last ingest happened in May 2016.,friedrich,2017-05-17T00:00:00Z
+GA03FLMA-RIM01-02-CTDMOG047,D00003,,,,,12368,Need to purge and reingest all data from this subsite due to multiple changes. Last ingest happened in May 2016.,friedrich,2017-05-17T00:00:00Z
+GA03FLMA-RIM01-02-CTDMOG048,D00001,,,,,12368,Need to purge and reingest all data from this subsite due to multiple changes. Last ingest happened in May 2016.,friedrich,2017-05-17T00:00:00Z
+GA03FLMA-RIM01-02-CTDMOG048,D00002,,,,,12368,Need to purge and reingest all data from this subsite due to multiple changes. Last ingest happened in May 2016.,friedrich,2017-05-17T00:00:00Z
+GA03FLMA-RIM01-02-CTDMOG048,D00003,,,,,12368,Need to purge and reingest all data from this subsite due to multiple changes. Last ingest happened in May 2016.,friedrich,2017-05-17T00:00:00Z
+GA03FLMA-RIM01-02-CTDMOG049,D00001,,,,,12368,Need to purge and reingest all data from this subsite due to multiple changes. Last ingest happened in May 2016.,friedrich,2017-05-17T00:00:00Z
+GA03FLMA-RIM01-02-CTDMOG049,D00002,,,,,12368,Need to purge and reingest all data from this subsite due to multiple changes. Last ingest happened in May 2016.,friedrich,2017-05-17T00:00:00Z
+GA03FLMA-RIM01-02-CTDMOG049,D00003,,,,,12368,Need to purge and reingest all data from this subsite due to multiple changes. Last ingest happened in May 2016.,friedrich,2017-05-17T00:00:00Z
+GA03FLMA-RIM01-02-CTDMOG050,D00001,,,,,12368,Need to purge and reingest all data from this subsite due to multiple changes. Last ingest happened in May 2016.,friedrich,2017-05-17T00:00:00Z
+GA03FLMA-RIM01-02-CTDMOG050,D00002,,,,,12368,Need to purge and reingest all data from this subsite due to multiple changes. Last ingest happened in May 2016.,friedrich,2017-05-17T00:00:00Z
+GA03FLMA-RIM01-02-CTDMOG050,D00003,,,,,12368,Need to purge and reingest all data from this subsite due to multiple changes. Last ingest happened in May 2016.,friedrich,2017-05-17T00:00:00Z
+GA03FLMA-RIM01-02-CTDMOG051,D00001,,,,,12368,Need to purge and reingest all data from this subsite due to multiple changes. Last ingest happened in May 2016.,friedrich,2017-05-17T00:00:00Z
+GA03FLMA-RIM01-02-CTDMOG051,D00002,,,,,12368,Need to purge and reingest all data from this subsite due to multiple changes. Last ingest happened in May 2016.,friedrich,2017-05-17T00:00:00Z
+GA03FLMA-RIM01-02-CTDMOG051,D00003,,,,,12368,Need to purge and reingest all data from this subsite due to multiple changes. Last ingest happened in May 2016.,friedrich,2017-05-17T00:00:00Z
+GA03FLMA-RIM01,,,,,,12368,Need to purge and reingest all data from this subsite due to multiple changes. Last ingest happened in May 2016.,friedrich,2017-05-17T00:00:00Z
 GA03FLMA,,,,,,12368,Need to purge and reingest all data from this subsite due to multiple changes. Last ingest happened in May 2016.,friedrich,2017-05-17T00:00:00Z

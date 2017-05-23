@@ -1,0 +1,4 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdmo_ghqr_sio_mule_instrument,D00001,2015-03-17T19:45:01Z,2015-11-22T12:00:01Z,Data unavailable in system. Need to check if issue with telemetry as recovered data is available.,NOT_AVAILABLE,12368,Need to check if issue with telemetry as recovered data is available,friedrich,2017-05-17T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00002,2015-11-25T19:30:01Z,2016-11-05T18:45:01Z,Data unavailable in system. Need to check if issue with telemetry as recovered data is available.,NOT_AVAILABLE,12368,Need to check if issue with telemetry as recovered data is available,friedrich,2017-05-17T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00003,2016-10-30T23:17:00Z,2017-04-05T00:00:00Z,Data unavailable in system. Need to check if issue with telemetry.,NOT_AVAILABLE,12368,,friedrich,2017-05-17T00:00:00Z

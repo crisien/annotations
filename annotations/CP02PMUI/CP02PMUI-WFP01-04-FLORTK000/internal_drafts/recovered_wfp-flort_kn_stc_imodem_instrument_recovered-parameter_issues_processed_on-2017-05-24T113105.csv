@@ -1,0 +1,83 @@
+Level,Deployment,StartTime,EndTime,Notes,Test,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdpf_ckl_wfp_instrument_recovered-ctdpf_ckl_seawater_temperature,D00001,2013-11-24T01:32:04Z,2014-04-11T22:35:49Z,,vars_not_in_db,,check: variable listed in file but not in database,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument_recovered-practical_salinity,D00001,2013-11-24T01:32:04Z,2014-04-11T22:35:49Z,,vars_not_in_db,,check: variable listed in file but not in database,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument_recovered-ctdpf_ckl_seawater_pressure,D00001,2013-11-24T01:32:04Z,2014-04-11T22:35:49Z,,vars_not_in_db,,check: variable listed in file but not in database,Leila,2017-05-17T00:00:00Z
+seawater_scattering_coefficient,D00001,2013-11-24T01:32:04Z,2014-04-11T22:35:49Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+raw_signal_beta,D00001,2013-11-24T01:32:04Z,2014-04-11T22:35:49Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+raw_signal_beta,D00001,2013-11-24T01:32:04Z,2014-04-11T22:35:49Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+fluorometric_cdom,D00001,2013-11-24T01:32:04Z,2014-04-11T22:35:49Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 375.0,Leila,2017-05-17T00:00:00Z
+fluorometric_cdom,D00001,2013-11-24T01:32:04Z,2014-04-11T22:35:49Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+total_volume_scattering_coefficient,D00001,2013-11-24T01:32:04Z,2014-04-11T22:35:49Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+total_volume_scattering_coefficient,D00001,2013-11-24T01:32:04Z,2014-04-11T22:35:49Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+total_volume_scattering_coefficient,D00001,2013-11-24T01:32:04Z,2014-04-11T22:35:49Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+fluorometric_chlorophyll_a,D00001,2013-11-24T01:32:04Z,2014-04-11T22:35:49Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 50.0,Leila,2017-05-17T00:00:00Z
+fluorometric_chlorophyll_a,D00001,2013-11-24T01:32:04Z,2014-04-11T22:35:49Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+fluorometric_chlorophyll_a,D00001,2013-11-24T01:32:04Z,2014-04-11T22:35:49Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+fluorometric_chlorophyll_a,D00001,2013-11-24T01:32:04Z,2014-04-11T22:35:49Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+raw_signal_chl,D00001,2013-11-24T01:32:04Z,2014-04-11T22:35:49Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+raw_signal_chl,D00001,2013-11-24T01:32:04Z,2014-04-11T22:35:49Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+optical_backscatter,D00001,2013-11-24T01:32:04Z,2014-04-11T22:35:49Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0003 global_max = 1.0,Leila,2017-05-17T00:00:00Z
+optical_backscatter,D00001,2013-11-24T01:32:04Z,2014-04-11T22:35:49Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+raw_signal_cdom,D00001,2013-11-24T01:32:04Z,2014-04-11T22:35:49Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+raw_signal_cdom,D00001,2013-11-24T01:32:04Z,2014-04-11T22:35:49Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument_recovered-ctdpf_ckl_seawater_temperature,D00002,2014-04-12T18:02:04Z,2014-10-08T22:34:56Z,,vars_not_in_db,,check: variable listed in file but not in database,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument_recovered-practical_salinity,D00002,2014-04-12T18:02:04Z,2014-10-08T22:34:56Z,,vars_not_in_db,,check: variable listed in file but not in database,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument_recovered-ctdpf_ckl_seawater_pressure,D00002,2014-04-12T18:02:04Z,2014-10-08T22:34:56Z,,vars_not_in_db,,check: variable listed in file but not in database,Leila,2017-05-17T00:00:00Z
+seawater_scattering_coefficient,D00002,2014-04-12T18:02:04Z,2014-10-08T22:34:56Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+raw_signal_beta,D00002,2014-04-12T18:02:04Z,2014-10-08T22:34:56Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+raw_signal_beta,D00002,2014-04-12T18:02:04Z,2014-10-08T22:34:56Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+fluorometric_cdom,D00002,2014-04-12T18:02:04Z,2014-10-08T22:34:56Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 375.0,Leila,2017-05-17T00:00:00Z
+fluorometric_cdom,D00002,2014-04-12T18:02:04Z,2014-10-08T22:34:56Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+total_volume_scattering_coefficient,D00002,2014-04-12T18:02:04Z,2014-10-08T22:34:56Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+total_volume_scattering_coefficient,D00002,2014-04-12T18:02:04Z,2014-10-08T22:34:56Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+total_volume_scattering_coefficient,D00002,2014-04-12T18:02:04Z,2014-10-08T22:34:56Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+fluorometric_chlorophyll_a,D00002,2014-04-12T18:02:04Z,2014-10-08T22:34:56Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 50.0,Leila,2017-05-17T00:00:00Z
+fluorometric_chlorophyll_a,D00002,2014-04-12T18:02:04Z,2014-10-08T22:34:56Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+fluorometric_chlorophyll_a,D00002,2014-04-12T18:02:04Z,2014-10-08T22:34:56Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+raw_signal_chl,D00002,2014-04-12T18:02:04Z,2014-10-08T22:34:56Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+raw_signal_chl,D00002,2014-04-12T18:02:04Z,2014-10-08T22:34:56Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+optical_backscatter,D00002,2014-04-12T18:02:04Z,2014-10-08T22:34:56Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0003 global_max = 1.0,Leila,2017-05-17T00:00:00Z
+optical_backscatter,D00002,2014-04-12T18:02:04Z,2014-10-08T22:34:56Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+raw_signal_cdom,D00002,2014-04-12T18:02:04Z,2014-10-08T22:34:56Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+raw_signal_cdom,D00002,2014-04-12T18:02:04Z,2014-10-08T22:34:56Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument_recovered-ctdpf_ckl_seawater_temperature,D00003,2014-10-09T22:02:03Z,2014-10-20T10:34:12Z,,vars_not_in_db,,check: variable listed in file but not in database,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument_recovered-practical_salinity,D00003,2014-10-09T22:02:03Z,2014-10-20T10:34:12Z,,vars_not_in_db,,check: variable listed in file but not in database,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument_recovered-ctdpf_ckl_seawater_pressure,D00003,2014-10-09T22:02:03Z,2014-10-20T10:34:12Z,,vars_not_in_db,,check: variable listed in file but not in database,Leila,2017-05-17T00:00:00Z
+seawater_scattering_coefficient,D00003,2014-10-09T22:02:03Z,2014-10-20T10:34:12Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+raw_signal_beta,D00003,2014-10-09T22:02:03Z,2014-10-20T10:34:12Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+raw_signal_beta,D00003,2014-10-09T22:02:03Z,2014-10-20T10:34:12Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+fluorometric_cdom,D00003,2014-10-09T22:02:03Z,2014-10-20T10:34:12Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 375.0,Leila,2017-05-17T00:00:00Z
+fluorometric_cdom,D00003,2014-10-09T22:02:03Z,2014-10-20T10:34:12Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+total_volume_scattering_coefficient,D00003,2014-10-09T22:02:03Z,2014-10-20T10:34:12Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+total_volume_scattering_coefficient,D00003,2014-10-09T22:02:03Z,2014-10-20T10:34:12Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+total_volume_scattering_coefficient,D00003,2014-10-09T22:02:03Z,2014-10-20T10:34:12Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+fluorometric_chlorophyll_a,D00003,2014-10-09T22:02:03Z,2014-10-20T10:34:12Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 50.0,Leila,2017-05-17T00:00:00Z
+fluorometric_chlorophyll_a,D00003,2014-10-09T22:02:03Z,2014-10-20T10:34:12Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+raw_signal_chl,D00003,2014-10-09T22:02:03Z,2014-10-20T10:34:12Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+raw_signal_chl,D00003,2014-10-09T22:02:03Z,2014-10-20T10:34:12Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+optical_backscatter,D00003,2014-10-09T22:02:03Z,2014-10-20T10:34:12Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0003 global_max = 1.0,Leila,2017-05-17T00:00:00Z
+optical_backscatter,D00003,2014-10-09T22:02:03Z,2014-10-20T10:34:12Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+raw_signal_cdom,D00003,2014-10-09T22:02:03Z,2014-10-20T10:34:12Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+raw_signal_cdom,D00003,2014-10-09T22:02:03Z,2014-10-20T10:34:12Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument_recovered-ctdpf_ckl_seawater_temperature,D00005,2015-05-03T15:02:04Z,2015-10-16T12:05:50Z,,vars_not_in_db,,check: variable listed in file but not in database,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument_recovered-practical_salinity,D00005,2015-05-03T15:02:04Z,2015-10-16T12:05:50Z,,vars_not_in_db,,check: variable listed in file but not in database,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument_recovered-ctdpf_ckl_seawater_pressure,D00005,2015-05-03T15:02:04Z,2015-10-16T12:05:50Z,,vars_not_in_db,,check: variable listed in file but not in database,Leila,2017-05-17T00:00:00Z
+seawater_scattering_coefficient,D00005,2015-05-03T15:02:04Z,2015-10-16T12:05:50Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+raw_signal_beta,D00005,2015-05-03T15:02:04Z,2015-10-16T12:05:50Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+raw_signal_beta,D00005,2015-05-03T15:02:04Z,2015-10-16T12:05:50Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+fluorometric_cdom,D00005,2015-05-03T15:02:04Z,2015-10-16T12:05:50Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 375.0,Leila,2017-05-17T00:00:00Z
+fluorometric_cdom,D00005,2015-05-03T15:02:04Z,2015-10-16T12:05:50Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+fluorometric_cdom,D00005,2015-05-03T15:02:04Z,2015-10-16T12:05:50Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+total_volume_scattering_coefficient,D00005,2015-05-03T15:02:04Z,2015-10-16T12:05:50Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+total_volume_scattering_coefficient,D00005,2015-05-03T15:02:04Z,2015-10-16T12:05:50Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+total_volume_scattering_coefficient,D00005,2015-05-03T15:02:04Z,2015-10-16T12:05:50Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+fluorometric_chlorophyll_a,D00005,2015-05-03T15:02:04Z,2015-10-16T12:05:50Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 50.0,Leila,2017-05-17T00:00:00Z
+fluorometric_chlorophyll_a,D00005,2015-05-03T15:02:04Z,2015-10-16T12:05:50Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+fluorometric_chlorophyll_a,D00005,2015-05-03T15:02:04Z,2015-10-16T12:05:50Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+raw_signal_chl,D00005,2015-05-03T15:02:04Z,2015-10-16T12:05:50Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+raw_signal_chl,D00005,2015-05-03T15:02:04Z,2015-10-16T12:05:50Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+optical_backscatter,D00005,2015-05-03T15:02:04Z,2015-10-16T12:05:50Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0003 global_max = 1.0,Leila,2017-05-17T00:00:00Z
+optical_backscatter,D00005,2015-05-03T15:02:04Z,2015-10-16T12:05:50Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+optical_backscatter,D00005,2015-05-03T15:02:04Z,2015-10-16T12:05:50Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+raw_signal_cdom,D00005,2015-05-03T15:02:04Z,2015-10-16T12:05:50Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+raw_signal_cdom,D00005,2015-05-03T15:02:04Z,2015-10-16T12:05:50Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z

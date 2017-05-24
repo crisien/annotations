@@ -1,0 +1,7 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdpf_ckl_wfp_instrument_recovered-ctdpf_ckl_seawater_temperature,,,,,,,,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument_recovered-ctdpf_ckl_seawater_pressure,,,,,,,,Leila,2017-05-17T00:00:00Z
+dofst_k_oxygen_l2,,,,,,,,Leila,2017-05-17T00:00:00Z
+dofst_k_oxygen,,,,,,,,Leila,2017-05-17T00:00:00Z
+dofst_k_oxygen,D00001,2013-11-24T01:30:03Z,2014-04-11T22:37:56Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument_recovered-practical_salinity,,,,,,,,Leila,2017-05-17T00:00:00Z

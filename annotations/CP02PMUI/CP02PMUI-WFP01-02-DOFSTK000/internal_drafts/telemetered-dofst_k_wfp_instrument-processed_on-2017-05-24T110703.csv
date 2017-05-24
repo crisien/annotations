@@ -1,0 +1,13 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+dofst_k_wfp_instrument,D00002,2014-04-12T18:00:03Z,2014-07-21T06:07:01Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-17T00:00:00Z
+dofst_k_wfp_instrument,D00002,2014-07-21T06:07:01Z,2014-10-09T00:00:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 79 days 17:52:59,Leila,2017-05-17T00:00:00Z
+dofst_k_wfp_instrument,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:32Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-17T00:00:00Z
+dofst_k_wfp_instrument,D00003,2014-10-20T10:36:32Z,2014-12-14T00:00:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 54 days 13:23:28,Leila,2017-05-17T00:00:00Z
+dofst_k_wfp_instrument,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:37Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-17T00:00:00Z
+dofst_k_wfp_instrument,D00006,2015-10-16T22:00:03Z,2016-04-03T13:35:29Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-17T00:00:00Z
+dofst_k_wfp_instrument,D00006,2016-04-03T13:35:29Z,2016-05-21T12:00:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 47 days 22:24:31,Leila,2017-05-17T00:00:00Z
+dofst_k_wfp_instrument,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:28Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-17T00:00:00Z
+dofst_k_wfp_instrument,D00008,2016-10-04T18:00:03Z,2017-01-19T12:07:53Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-17T00:00:00Z
+dofst_k_wfp_instrument,D00008,2017-01-19T12:07:53Z,2017-01-24T22:30:02Z,,NOT_AVAILABLE,,check: data gap: 5 days 10:22:09,Leila,2017-05-17T00:00:00Z
+dofst_k_wfp_instrument,D00008,2017-01-24T22:30:02Z,2017-02-13T18:08:15Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-17T00:00:00Z
+dofst_k_wfp_instrument,D00008,2017-02-13T18:08:15Z,2017-02-19T00:00:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 5 days 05:51:45,Leila,2017-05-17T00:00:00Z

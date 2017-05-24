@@ -1,0 +1,30 @@
+Level,Deployment,StartTime,EndTime,Notes,Test,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdpf_ckl_wfp_instrument_recovered-ctdpf_ckl_seawater_temperature,D00001,2013-11-24T01:30:03Z,2014-04-11T22:37:56Z,,vars_not_in_db,,check: variable listed in file but not in database,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument_recovered-practical_salinity,D00001,2013-11-24T01:30:03Z,2014-04-11T22:37:56Z,,vars_not_in_db,,check: variable listed in file but not in database,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument_recovered-ctdpf_ckl_seawater_pressure,D00001,2013-11-24T01:30:03Z,2014-04-11T22:37:56Z,,vars_not_in_db,,check: variable listed in file but not in database,Leila,2017-05-17T00:00:00Z
+dofst_k_oxygen_l2,D00001,2013-11-24T01:30:03Z,2014-04-11T22:37:56Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 400.0,Leila,2017-05-17T00:00:00Z
+dofst_k_oxygen_l2,D00001,2013-11-24T01:30:03Z,2014-04-11T22:37:56Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+dofst_k_oxygen_l2,D00001,2013-11-24T01:30:03Z,2014-04-11T22:37:56Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+dofst_k_oxygen_l2,D00001,2013-11-24T01:30:03Z,2014-04-11T22:37:56Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+dofst_k_oxygen,D00001,2013-11-24T01:30:03Z,2014-04-11T22:37:56Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+dofst_k_oxygen,D00001,2013-11-24T01:30:03Z,2014-04-11T22:37:56Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument_recovered-ctdpf_ckl_seawater_temperature,D00002,2014-04-12T18:00:03Z,2014-10-08T22:37:02Z,,vars_not_in_db,,check: variable listed in file but not in database,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument_recovered-practical_salinity,D00002,2014-04-12T18:00:03Z,2014-10-08T22:37:02Z,,vars_not_in_db,,check: variable listed in file but not in database,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument_recovered-ctdpf_ckl_seawater_pressure,D00002,2014-04-12T18:00:03Z,2014-10-08T22:37:02Z,,vars_not_in_db,,check: variable listed in file but not in database,Leila,2017-05-17T00:00:00Z
+dofst_k_oxygen_l2,D00002,2014-04-12T18:00:03Z,2014-10-08T22:37:02Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 400.0,Leila,2017-05-17T00:00:00Z
+dofst_k_oxygen_l2,D00002,2014-04-12T18:00:03Z,2014-10-08T22:37:02Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+dofst_k_oxygen,D00002,2014-04-12T18:00:03Z,2014-10-08T22:37:02Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+dofst_k_oxygen,D00002,2014-04-12T18:00:03Z,2014-10-08T22:37:02Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument_recovered-ctdpf_ckl_seawater_temperature,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:32Z,,vars_not_in_db,,check: variable listed in file but not in database,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument_recovered-practical_salinity,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:32Z,,vars_not_in_db,,check: variable listed in file but not in database,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument_recovered-ctdpf_ckl_seawater_pressure,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:32Z,,vars_not_in_db,,check: variable listed in file but not in database,Leila,2017-05-17T00:00:00Z
+dofst_k_oxygen_l2,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:32Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 400.0,Leila,2017-05-17T00:00:00Z
+dofst_k_oxygen,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:32Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+dofst_k_oxygen,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:32Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument_recovered-ctdpf_ckl_seawater_temperature,D00005,2015-05-03T15:00:03Z,2015-10-16T12:07:58Z,,vars_not_in_db,,check: variable listed in file but not in database,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument_recovered-practical_salinity,D00005,2015-05-03T15:00:03Z,2015-10-16T12:07:58Z,,vars_not_in_db,,check: variable listed in file but not in database,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument_recovered-ctdpf_ckl_seawater_pressure,D00005,2015-05-03T15:00:03Z,2015-10-16T12:07:58Z,,vars_not_in_db,,check: variable listed in file but not in database,Leila,2017-05-17T00:00:00Z
+dofst_k_oxygen_l2,D00005,2015-05-03T15:00:03Z,2015-10-16T12:07:58Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 400.0,Leila,2017-05-17T00:00:00Z
+dofst_k_oxygen_l2,D00005,2015-05-03T15:00:03Z,2015-10-16T12:07:58Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+dofst_k_oxygen,D00005,2015-05-03T15:00:03Z,2015-10-16T12:07:58Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+dofst_k_oxygen,D00005,2015-05-03T15:00:03Z,2015-10-16T12:07:58Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z

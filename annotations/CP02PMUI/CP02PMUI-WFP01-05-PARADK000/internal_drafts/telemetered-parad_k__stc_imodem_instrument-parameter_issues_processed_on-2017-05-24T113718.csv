@@ -1,0 +1,34 @@
+Level,Deployment,StartTime,EndTime,Notes,Test,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdpf_ckl_wfp_instrument-ctdpf_ckl_seawater_pressure,D00002,2014-04-12T18:02:04Z,2014-07-21T06:04:54Z,,vars_not_in_db,,check: variable listed in file but not in database,Leila,2017-05-17T00:00:00Z
+par_val_v,D00002,2014-04-12T18:02:04Z,2014-07-21T06:04:54Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+parad_k_par,D00002,2014-04-12T18:02:04Z,2014-07-21T06:04:54Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 2500.0,Leila,2017-05-17T00:00:00Z
+parad_k_par,D00002,2014-04-12T18:02:04Z,2014-07-21T06:04:54Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+parad_k_par,D00002,2014-04-12T18:02:04Z,2014-07-21T06:04:54Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+parad_k_par,D00002,2014-04-12T18:02:04Z,2014-07-21T06:04:54Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument-ctdpf_ckl_seawater_pressure,D00003,2014-10-09T22:02:03Z,2014-10-20T10:34:27Z,,vars_not_in_db,,check: variable listed in file but not in database,Leila,2017-05-17T00:00:00Z
+par_val_v,D00003,2014-10-09T22:02:03Z,2014-10-20T10:34:27Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+parad_k_par,D00003,2014-10-09T22:02:03Z,2014-10-20T10:34:27Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 2500.0,Leila,2017-05-17T00:00:00Z
+parad_k_par,D00003,2014-10-09T22:02:03Z,2014-10-20T10:34:27Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+parad_k_par,D00003,2014-10-09T22:02:03Z,2014-10-20T10:34:27Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+parad_k_par,D00003,2014-10-09T22:02:03Z,2014-10-20T10:34:27Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument-ctdpf_ckl_seawater_pressure,D00005,2015-05-03T15:02:04Z,2015-10-16T10:34:29Z,,vars_not_in_db,,check: variable listed in file but not in database,Leila,2017-05-17T00:00:00Z
+par_val_v,D00005,2015-05-03T15:02:04Z,2015-10-16T10:34:29Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+parad_k_par,D00005,2015-05-03T15:02:04Z,2015-10-16T10:34:29Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 2500.0,Leila,2017-05-17T00:00:00Z
+parad_k_par,D00005,2015-05-03T15:02:04Z,2015-10-16T10:34:29Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+parad_k_par,D00005,2015-05-03T15:02:04Z,2015-10-16T10:34:29Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+parad_k_par,D00005,2015-05-03T15:02:04Z,2015-10-16T10:34:29Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument-ctdpf_ckl_seawater_pressure,D00006,2015-10-16T22:02:04Z,2016-04-03T13:33:23Z,,vars_not_in_db,,check: variable listed in file but not in database,Leila,2017-05-17T00:00:00Z
+par_val_v,D00006,2015-10-16T22:02:04Z,2016-04-03T13:33:23Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+parad_k_par,D00006,2015-10-16T22:02:04Z,2016-04-03T13:33:23Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 2500.0,Leila,2017-05-17T00:00:00Z
+parad_k_par,D00006,2015-10-16T22:02:04Z,2016-04-03T13:33:23Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+parad_k_par,D00006,2015-10-16T22:02:04Z,2016-04-03T13:33:23Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+parad_k_par,D00006,2015-10-16T22:02:04Z,2016-04-03T13:33:23Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument-ctdpf_ckl_seawater_pressure,D00007,2016-05-22T00:02:03Z,2016-10-04T13:35:22Z,,vars_not_in_db,,check: variable listed in file but not in database,Leila,2017-05-17T00:00:00Z
+par_val_v,D00007,2016-05-22T00:02:03Z,2016-10-04T13:35:22Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+parad_k_par,D00007,2016-05-22T00:02:03Z,2016-10-04T13:35:22Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 2500.0,Leila,2017-05-17T00:00:00Z
+parad_k_par,D00007,2016-05-22T00:02:03Z,2016-10-04T13:35:22Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+parad_k_par,D00007,2016-05-22T00:02:03Z,2016-10-04T13:35:22Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument-ctdpf_ckl_seawater_pressure,D00008,2016-10-04T18:02:04Z,2017-02-13T18:06:09Z,,vars_not_in_db,,check: variable listed in file but not in database,Leila,2017-05-17T00:00:00Z
+par_val_v,D00008,2016-10-04T18:02:04Z,2017-02-13T18:06:09Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+parad_k_par,D00008,2016-10-04T18:02:04Z,2017-02-13T18:06:09Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 2500.0,Leila,2017-05-17T00:00:00Z
+parad_k_par,D00008,2016-10-04T18:02:04Z,2017-02-13T18:06:09Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z

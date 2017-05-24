@@ -1,0 +1,13 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+flort_kn_stc_imodem_instrument,D00002,2014-04-12T18:02:04Z,2014-07-21T06:04:54Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-17T00:00:00Z
+flort_kn_stc_imodem_instrument,D00002,2014-07-21T06:04:54Z,2014-10-09T00:00:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 79 days 17:55:06,Leila,2017-05-17T00:00:00Z
+flort_kn_stc_imodem_instrument,D00003,2014-10-09T22:02:03Z,2014-10-20T10:34:27Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-17T00:00:00Z
+flort_kn_stc_imodem_instrument,D00003,2014-10-20T10:34:27Z,2014-12-14T00:00:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 54 days 13:25:33,Leila,2017-05-17T00:00:00Z
+flort_kn_stc_imodem_instrument,D00005,2015-05-03T15:02:04Z,2015-10-16T10:34:29Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-17T00:00:00Z
+flort_kn_stc_imodem_instrument,D00006,2015-10-16T22:02:04Z,2016-04-03T13:33:23Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-17T00:00:00Z
+flort_kn_stc_imodem_instrument,D00006,2016-04-03T13:33:23Z,2016-05-21T12:00:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 47 days 22:26:37,Leila,2017-05-17T00:00:00Z
+flort_kn_stc_imodem_instrument,D00007,2016-05-22T00:02:03Z,2016-10-04T13:35:22Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-17T00:00:00Z
+flort_kn_stc_imodem_instrument,D00008,2016-10-04T18:02:04Z,2017-01-19T13:33:49Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-17T00:00:00Z
+flort_kn_stc_imodem_instrument,D00008,2017-01-19T13:33:49Z,2017-01-24T22:32:19Z,,NOT_AVAILABLE,,check: data gap: 5 days 08:58:30,Leila,2017-05-17T00:00:00Z
+flort_kn_stc_imodem_instrument,D00008,2017-01-24T22:32:19Z,2017-02-13T18:06:09Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-17T00:00:00Z
+flort_kn_stc_imodem_instrument,D00008,2017-02-13T18:06:09Z,2017-02-19T00:00:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 5 days 05:53:51,Leila,2017-05-17T00:00:00Z

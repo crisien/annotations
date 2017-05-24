@@ -1,0 +1,6 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+flort_kn_stc_imodem_instrument_recovered,D00001,2013-11-24T01:32:04Z,2014-04-11T22:35:49Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-17T00:00:00Z
+flort_kn_stc_imodem_instrument_recovered,D00002,2014-04-12T18:02:04Z,2014-10-08T22:34:56Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-17T00:00:00Z
+flort_kn_stc_imodem_instrument_recovered,D00003,2014-10-09T22:02:03Z,2014-10-20T10:34:12Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-17T00:00:00Z
+flort_kn_stc_imodem_instrument_recovered,D00003,2014-10-20T10:34:12Z,2014-12-14T00:00:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 54 days 13:25:48,Leila,2017-05-17T00:00:00Z
+flort_kn_stc_imodem_instrument_recovered,D00005,2015-05-03T15:02:04Z,2015-10-16T12:05:50Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-17T00:00:00Z

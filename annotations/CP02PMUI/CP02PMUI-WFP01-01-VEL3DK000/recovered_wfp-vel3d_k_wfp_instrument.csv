@@ -1,0 +1,5 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+vel3d_k_wfp_instrument,D00001,2013-11-24T01:30:03Z,2014-04-11T22:37:38Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-17T00:00:00Z
+vel3d_k_wfp_instrument,D00002,2014-04-12T21:00:02Z,2014-09-29T18:06:45Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-17T00:00:00Z
+vel3d_k_wfp_instrument,D00002,2014-09-29T18:06:45Z,2014-10-09T00:00:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 9 days 05:53:15,Leila,2017-05-17T00:00:00Z
+vel3d_k_wfp_instrument,D00005,2015-05-03T15:00:03Z,2015-10-16T12:07:39Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-17T00:00:00Z

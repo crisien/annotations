@@ -1,0 +1,12 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdpf_ckl_wfp_instrument_recovered-ctdpf_ckl_seawater_temperature,,,,,,,,Leila,2017-05-17T00:00:00Z
+seawater_scattering_coefficient,,,,,,,,Leila,2017-05-17T00:00:00Z
+raw_signal_beta,,,,,,,,Leila,2017-05-17T00:00:00Z
+fluorometric_cdom,,,,,,,,Leila,2017-05-17T00:00:00Z
+total_volume_scattering_coefficient,,,,,,,,Leila,2017-05-17T00:00:00Z
+fluorometric_chlorophyll_a,,,,,,,,Leila,2017-05-17T00:00:00Z
+raw_signal_chl,,,,,,,,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument_recovered-ctdpf_ckl_seawater_pressure,,,,,,,,Leila,2017-05-17T00:00:00Z
+optical_backscatter,,,,,,,,Leila,2017-05-17T00:00:00Z
+raw_signal_cdom,,,,,,,,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument_recovered-practical_salinity,,,,,,,,Leila,2017-05-17T00:00:00Z

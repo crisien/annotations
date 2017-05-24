@@ -1,0 +1,11 @@
+Level,Deployment,StartTime,EndTime,Notes,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+vel3d_k_wfp_instrument,D00001,2013-11-23T23:16:00Z,2013-11-24T01:30:03Z,0 days 02:14:03,,,check: difference between deploy start date and data file start date,Leila,2017-05-17T00:00:00Z
+vel3d_k_wfp_instrument,D00001,2014-04-11T22:37:38Z,2014-04-12T00:00:00Z,0 days 01:22:22,,,check: difference between deploy end date and data file end date,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument_recovered,D00001,2013-11-23T23:16:00Z,2013-11-24T01:30:03Z,0 days 02:14:03,,,check: difference between deploy start date and data file start date,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument_recovered,D00001,2014-04-11T22:37:38Z,2014-04-12T00:00:00Z,0 days 01:22:22,,,check: difference between deploy end date and data file end date,Leila,2017-05-17T00:00:00Z
+vel3d_k_wfp_instrument,D00002,2014-04-12T16:42:00Z,2014-04-12T21:00:02Z,0 days 04:18:02,,,check: difference between deploy start date and data file start date,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument_recovered,D00002,2014-04-12T16:42:00Z,2014-04-12T21:00:02Z,0 days 04:18:02,,,check: difference between deploy start date and data file start date,Leila,2017-05-17T00:00:00Z
+vel3d_k_wfp_instrument,D00005,2015-05-03T13:45:00Z,2015-05-03T15:00:03Z,0 days 01:15:03,,,check: difference between deploy start date and data file start date,Leila,2017-05-17T00:00:00Z
+vel3d_k_wfp_instrument,D00005,2015-10-16T12:07:39Z,2015-10-16T12:36:00Z,0 days 00:28:21,,,check: difference between deploy end date and data file end date,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument_recovered,D00005,2015-05-03T13:45:00Z,2015-05-03T15:00:03Z,0 days 01:15:03,,,check: difference between deploy start date and data file start date,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument_recovered,D00005,2015-10-16T12:07:39Z,2015-10-16T12:36:00Z,0 days 00:28:21,,,check: difference between deploy end date and data file end date,Leila,2017-05-17T00:00:00Z

@@ -31,7 +31,7 @@ df = df[(df.Level == subsite_name) | (df.Level == node_name) | (df.Level == refe
 df = df.append(stream_df)
 df = df.append(parameters_df)
 df = df[df.Status != 'AVAILABLE']
-df = df[df.StartTime.notnull()]
+df = df[df.Annotation.notnull()]
 df = df.drop(df.columns[[7, 8, 9]], axis=1)
 columns = df.columns
 columns = [str(x) for x in columns.tolist()]

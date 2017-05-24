@@ -9,9 +9,11 @@ import numpy as np
 
 # specify path to annotation csvs and reference designator reviewed
 assets = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/GA03FLMA/GA03FLMA.csv'
+# stream = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/GA03FLMA/GA03FLMA-RIM01-02-CTDMOH051/recovered_inst-ctdmo_ghqr_instrument_recovered.csv'
+# parameters = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/GA03FLMA/GA03FLMA-RIM01-02-CTDMOH051/recovered_inst-ctdmo_ghqr_instrument_recovered-parameters.csv'
 stream = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/GA03FLMA/GA03FLMA-RIM01-02-CTDMOH051/telemetered-ctdmo_ghqr_sio_mule_instrument.csv'
 parameters = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/GA03FLMA/GA03FLMA-RIM01-02-CTDMOH051/telemetered-ctdmo_ghqr_sio_mule_instrument-parameters.csv'
-reference_designator = 'GA03FLMA-RIM01-02-CTDMOG051'
+reference_designator = 'GA03FLMA-RIM01-02-CTDMOH051'
 
 
 # read in csv files

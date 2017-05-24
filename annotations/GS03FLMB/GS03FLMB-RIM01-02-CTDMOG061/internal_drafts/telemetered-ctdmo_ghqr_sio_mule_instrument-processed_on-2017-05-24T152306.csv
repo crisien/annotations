@@ -1,0 +1,11 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdmo_ghqr_sio_mule_instrument,D00001,2015-02-24T00:00:01Z,2015-05-27T04:00:01Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-24T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00001,2015-05-27T04:00:01Z,2015-05-30T12:00:01Z,,NOT_AVAILABLE,,check: data gap: 3 days 08:00:00,friedrich,2017-05-24T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00001,2015-05-30T12:00:01Z,2015-05-31T00:00:01Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-24T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00001,2015-05-31T00:00:01Z,2015-06-04T16:00:01Z,,NOT_AVAILABLE,,check: data gap: 4 days 16:00:00,friedrich,2017-05-24T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00001,2015-06-04T16:00:01Z,2015-06-04T16:00:01Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-24T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00001,2015-06-04T16:00:01Z,2015-12-19T18:40:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 198 days 02:39:59,friedrich,2017-05-24T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00002,2015-12-16T20:00:01Z,2016-02-04T00:00:01Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-24T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00002,2016-02-04T00:00:01Z,2016-02-05T20:00:01Z,,NOT_AVAILABLE,,check: data gap,friedrich,2017-05-24T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00002,2016-02-05T20:00:01Z,2016-02-07T20:00:01Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-24T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00002,2016-02-07T20:00:01Z,2016-12-05T00:00:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 301 days 03:59:59,friedrich,2017-05-24T00:00:00Z

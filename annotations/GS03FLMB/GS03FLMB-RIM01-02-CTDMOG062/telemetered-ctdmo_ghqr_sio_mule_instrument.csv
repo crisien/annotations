@@ -9,3 +9,4 @@ ctdmo_ghqr_sio_mule_instrument,D00002,2015-12-16T20:00:01Z,2016-02-04T00:00:01Z,
 ctdmo_ghqr_sio_mule_instrument,D00002,2016-02-04T00:00:01Z,2016-02-05T20:00:01Z,Need to ingest data if available.,NOT_AVAILABLE,11936,check: data gap,friedrich,2017-05-24T00:00:00Z
 ctdmo_ghqr_sio_mule_instrument,D00002,2016-02-05T20:00:01Z,2016-02-07T20:00:01Z,,AVAILABLE,,,friedrich,2017-05-24T00:00:00Z
 ctdmo_ghqr_sio_mule_instrument,D00002,2016-02-07T20:00:01Z,2016-12-05T00:00:00Z,Need to ingest data if available.,NOT_AVAILABLE,11936,check: difference between data end and deployment end date is: 301 days 03:59:59,friedrich,2017-05-24T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00003,2016-12-03T19:08:00Z,2017-05-24T00:00:00Z,"Gliders were not deployed, so telemetered data from this platform will not be available for this deployment.",NOT_AVAILABLE,,Need to add Redmine ticket. Update end time as the deployment progresses. ,friedrich,2017-05-24T00:00:00Z

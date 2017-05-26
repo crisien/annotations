@@ -2,3 +2,4 @@ Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,Re
 ctdmo_ghqr_instrument_recovered,D00001,2015-02-23T20:30:01Z,2015-12-19T18:30:01Z,,AVAILABLE,,,friedrich,2017-05-24T00:00:00Z
 ctdmo_ghqr_instrument_recovered,D00002,2015-12-16T19:33:00Z,2015-12-22T14:30:01Z,Need to ingest data if available.,NOT_AVAILABLE,11936,check: difference between data begin and deployment begin date is: 5 days 18:57:01,friedrich,2017-05-24T00:00:00Z
 ctdmo_ghqr_instrument_recovered,D00002,2015-12-22T14:30:01Z,2016-12-04T23:45:01Z,,AVAILABLE,,,friedrich,2017-05-24T00:00:00Z
+ctdmo_ghqr_instrument_recovered,D00003,2016-12-03T19:08:00Z,2017-05-24T00:00:00Z,Data will be ingested once recovered.,PENDING_INGEST,,,friedrich,2017-05-24T00:00:00Z

@@ -1,28 +1,28 @@
-Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate,,,,,,,
-GS03FLMB,D00002,2015-12-16T19:33:00Z,2016-12-05T00:00:00Z,"Due to glider failures, telemetered data is limited.",,,Need to add Redmine ticket.,lori,2017-04-05T00:00:00Z,,,,,,,
-GS03FLMB,D00003,2016-12-03T19:08:00Z,2017-04-05T00:00:00Z,"Gliders were not deployed, so telemetered data from this platform will not be available for this deployment.",,,Need to add Redmine ticket. Update end time as the deployment progresses. ,lori,2017-04-05T00:00:00Z,,,,,,,
-GS03FLMB-RIM01,,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z,,,,,,,
-GS03FLMB-RIM01-02-CTDMOG060,D00001,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z,,,,,,,
-GS03FLMB-RIM01-02-CTDMOG061,D00001,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z,,,,,,,
-GS03FLMB-RIM01-02-CTDMOG062,D00001,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z,,,,,,,
-GS03FLMB-RIM01-02-CTDMOG063,D00001,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z,,,,,,,
-GS03FLMB-RIM01-02-CTDMOG064,D00001,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z,,,,,,,
-GS03FLMB-RIM01-02-CTDMOG065,D00001,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z,,,,,,,
-GS03FLMB-RIM01-02-CTDMOG066,D00001,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z,,,,,,,
-GS03FLMB-RIM01-02-CTDMOG067,D00001,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z,,,,,,,
-GS03FLMB-RIM01-02-CTDMOG068,D00001,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z,,,,,,,
-GS03FLMB-RIM01-02-CTDMOH069,D00001,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z,,,,,,,
-GS03FLMB-RIM01-02-CTDMOH070,D00001,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z,,,,,,,
-GS03FLMB-RIM01-02-CTDMOH071,D00001,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z,,,,,,,
-GS03FLMB-RIM01-02-CTDMOG060,D00002,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z,,,,,,,
-GS03FLMB-RIM01-02-CTDMOG061,D00002,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z,,,,,,,
-GS03FLMB-RIM01-02-CTDMOG062,D00002,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z,,,,,,,
-GS03FLMB-RIM01-02-CTDMOG063,D00002,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z,,,,,,,
-GS03FLMB-RIM01-02-CTDMOG064,D00002,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z,,,,,,,
-GS03FLMB-RIM01-02-CTDMOG065,D00002,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z,,,,,,,
-GS03FLMB-RIM01-02-CTDMOG066,D00002,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z,,,,,,,
-GS03FLMB-RIM01-02-CTDMOG067,D00002,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z,,,,,,,
-GS03FLMB-RIM01-02-CTDMOG068,D00002,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z,,,,,,,
-GS03FLMB-RIM01-02-CTDMOH069,D00002,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z,,,,,,,
-GS03FLMB-RIM01-02-CTDMOH070,D00002,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z,,,,,,,
-GS03FLMB-RIM01-02-CTDMOH071,D00002,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z,,,,,,,
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+GS03FLMB,D00002,2015-12-16T19:33:00Z,2016-12-05T00:00:00Z,"Due to glider failures, telemetered data is limited.",,,Need to add Redmine ticket.,lori,2017-04-05T00:00:00Z
+GS03FLMB,D00003,2016-12-03T19:08:00Z,2017-04-05T00:00:00Z,"Gliders were not deployed, so telemetered data from this platform will not be available for this deployment.",,,Need to add Redmine ticket. Update end time as the deployment progresses. ,lori,2017-04-05T00:00:00Z
+GS03FLMB-RIM01,,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z
+GS03FLMB-RIM01-02-CTDMOG060,D00001,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z
+GS03FLMB-RIM01-02-CTDMOG061,D00001,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z
+GS03FLMB-RIM01-02-CTDMOG062,D00001,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z
+GS03FLMB-RIM01-02-CTDMOG063,D00001,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z
+GS03FLMB-RIM01-02-CTDMOG064,D00001,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z
+GS03FLMB-RIM01-02-CTDMOG065,D00001,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z
+GS03FLMB-RIM01-02-CTDMOG066,D00001,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z
+GS03FLMB-RIM01-02-CTDMOG067,D00001,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z
+GS03FLMB-RIM01-02-CTDMOG068,D00001,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z
+GS03FLMB-RIM01-02-CTDMOH069,D00001,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z
+GS03FLMB-RIM01-02-CTDMOH070,D00001,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z
+GS03FLMB-RIM01-02-CTDMOH071,D00001,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z
+GS03FLMB-RIM01-02-CTDMOG060,D00002,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z
+GS03FLMB-RIM01-02-CTDMOG061,D00002,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z
+GS03FLMB-RIM01-02-CTDMOG062,D00002,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z
+GS03FLMB-RIM01-02-CTDMOG063,D00002,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z
+GS03FLMB-RIM01-02-CTDMOG064,D00002,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z
+GS03FLMB-RIM01-02-CTDMOG065,D00002,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z
+GS03FLMB-RIM01-02-CTDMOG066,D00002,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z
+GS03FLMB-RIM01-02-CTDMOG067,D00002,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z
+GS03FLMB-RIM01-02-CTDMOG068,D00002,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z
+GS03FLMB-RIM01-02-CTDMOH069,D00002,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z
+GS03FLMB-RIM01-02-CTDMOH070,D00002,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z
+GS03FLMB-RIM01-02-CTDMOH071,D00002,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936,Need to purge and reingest all data,friedrich,2017-05-25T00:00:00Z

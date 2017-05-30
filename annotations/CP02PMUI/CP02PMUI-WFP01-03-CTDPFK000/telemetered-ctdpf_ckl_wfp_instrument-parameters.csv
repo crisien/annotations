@@ -7,3 +7,8 @@ ctdpf_ckl_seawater_temperature,,,,,,,,Leila,2017-05-17T00:00:00Z
 ctdpf_ckl_seawater_conductivity,,,,,,,,Leila,2017-05-17T00:00:00Z
 pressure,,,,,,,,Leila,2017-05-17T00:00:00Z
 conductivity,,,,,,,,Leila,2017-05-17T00:00:00Z
+practical_salinity,D00002,2014-05-03T07:33:24Z,2014-05-03T07:33:47Z,"spike in data, global range and spike tests triggered",FAILED,,,Leila,2017-05-17T00:00:00Z
+density,D00002,2014-05-03T07:33:24Z,2014-05-03T07:33:47Z,"spike in data, spike test triggered",FAILED,,,Leila,2017-05-17T00:00:00Z
+practical_salinity,D00006,2016-01-02T01:35:47Z,2016-04-01T06:09:14Z,"spike in data,  spike test triggered",,,,Leila,2017-05-17T00:00:00Z
+density,D00006,2016-01-02T01:35:47Z,2016-04-01T06:09:14Z,"spike in data,  spike test triggered",,,,Leila,
+ctdpf_ckl_seawater_conductivity,D00006,2016-01-02T01:35:47Z,2016-04-01T06:09:14Z,"spike in data,  spike test triggered",,,,,

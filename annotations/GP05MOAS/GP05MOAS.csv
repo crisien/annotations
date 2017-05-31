@@ -1,0 +1,27 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+GP05MOAS,,,,,,,,friedrich,2017-05-31T00:00:00Z
+GP05MOAS-GL276-04-CTDGVM000,,,,Need to purge and reingest data.,,11933,,friedrich,2017-05-31T00:00:00Z
+GP05MOAS-GL361-04-CTDGVM000,,,,Need to purge and reingest data.,,11933,,friedrich,2017-05-31T00:00:00Z
+GP05MOAS-GL362-04-CTDGVM000,,,,Need to purge and reingest data.,,11933,,friedrich,2017-05-31T00:00:00Z
+GP05MOAS-GL363-04-CTDGVM000,,,,Need to purge and reingest data.,,11933,,friedrich,2017-05-31T00:00:00Z
+GP05MOAS-GL363-04-CTDGVM000,,,,,,10846,Check if data affected by issue described in Redmine ticket.,friedrich,2017-05-31T00:00:00Z
+GP05MOAS-GL364-04-CTDGVM000,,,,Need to purge and reingest data.,,11933,,friedrich,2017-05-31T00:00:00Z
+GP05MOAS-GL365-04-CTDGVM000,,,,Need to purge and reingest data.,,11933,,friedrich,2017-05-31T00:00:00Z
+GP05MOAS-GL453-04-CTDGVM000,,,,Need to purge and reingest data.,,11933,,friedrich,2017-05-31T00:00:00Z
+GP05MOAS-GL523-04-CTDGVM000,,,,Need to purge and reingest data.,,11933,,friedrich,2017-05-31T00:00:00Z
+GP05MOAS-GL525-04-CTDGVM000,,,,Need to purge and reingest data.,,11933,,friedrich,2017-05-31T00:00:00Z
+GP05MOAS-GL537-04-CTDGVM000,,,,Need to purge and reingest data.,,11933,,friedrich,2017-05-31T00:00:00Z
+GP05MOAS-GL276,,,,Need to purge and reingest data.,,11933,,friedrich,2017-05-31T00:00:00Z
+GP05MOAS-GL361,,,,Need to purge and reingest data.,,11933,,friedrich,2017-05-31T00:00:00Z
+GP05MOAS-GL362,,,,Need to purge and reingest data.,,11933,,friedrich,2017-05-31T00:00:00Z
+GP05MOAS-GL363,,,,Need to purge and reingest data.,,11933,,friedrich,2017-05-31T00:00:00Z
+GP05MOAS-GL364,,,,Need to purge and reingest data.,,11933,,friedrich,2017-05-31T00:00:00Z
+GP05MOAS-GL365,,,,Need to purge and reingest data.,,11933,,friedrich,2017-05-31T00:00:00Z
+GP05MOAS-GL453,,,,Need to purge and reingest data.,,11933,,friedrich,2017-05-31T00:00:00Z
+GP05MOAS-GL523,,,,Need to purge and reingest data.,,11933,,friedrich,2017-05-31T00:00:00Z
+GP05MOAS-GL525,,,,Need to purge and reingest data.,,11933,,friedrich,2017-05-31T00:00:00Z
+GP05MOAS-GL537,,,,Need to purge and reingest data.,,11933,,friedrich,2017-05-31T00:00:00Z
+GP05MOAS-PG514-01-CTDGVM000,,,,Need to purge and reingest data.,,11934,,friedrich,2017-05-31T00:00:00Z
+GP05MOAS-PG515-01-CTDGVM000,,,,Need to purge and reingest data.,,11934,,friedrich,2017-05-31T00:00:00Z
+GP05MOAS-PG514,,,,Need to purge and reingest data.,,11934,,friedrich,2017-05-31T00:00:00Z
+GP05MOAS-PG515,,,,Need to purge and reingest data.,,11934,,friedrich,2017-05-31T00:00:00Z

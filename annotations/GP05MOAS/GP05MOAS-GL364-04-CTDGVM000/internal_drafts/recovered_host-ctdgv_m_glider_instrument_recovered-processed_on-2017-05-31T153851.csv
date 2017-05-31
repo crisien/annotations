@@ -1,0 +1,58 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdgv_m_glider_instrument_recovered,D00001,2013-07-20T05:41:29Z,2013-12-10T06:57:30Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2013-12-10T06:57:30Z,2013-12-13T12:26:44Z,,NOT_AVAILABLE,,check: data gap: 3 days 05:29:14,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2013-12-13T12:26:44Z,2013-12-14T00:32:32Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2013-12-14T00:32:32Z,2013-12-16T17:12:48Z,,NOT_AVAILABLE,,check: data gap: 2 days 16:40:16,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2013-12-16T17:12:48Z,2013-12-16T21:53:39Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2013-12-16T21:53:39Z,2013-12-20T15:18:31Z,,NOT_AVAILABLE,,check: data gap: 3 days 17:24:52,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2013-12-20T15:18:31Z,2013-12-20T23:03:39Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2013-12-20T23:03:39Z,2013-12-22T21:40:53Z,,NOT_AVAILABLE,,check: data gap: 1 days 22:37:14,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2013-12-22T21:40:53Z,2013-12-27T13:37:30Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2013-12-27T13:37:30Z,2013-12-29T21:42:28Z,,NOT_AVAILABLE,,check: data gap: 2 days 08:04:58,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2013-12-29T21:42:28Z,2013-12-31T10:25:30Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2013-12-31T10:25:30Z,2014-01-03T03:49:30Z,,NOT_AVAILABLE,,check: data gap: 2 days 17:24:00,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-01-03T03:49:30Z,2014-01-04T15:26:22Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-01-04T15:26:22Z,2014-01-05T20:02:29Z,,NOT_AVAILABLE,,check: data gap: 1 days 04:36:07,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-01-05T20:02:29Z,2014-01-06T23:53:14Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-01-06T23:53:14Z,2014-01-09T15:51:15Z,,NOT_AVAILABLE,,check: data gap: 2 days 15:58:01,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-01-09T15:51:15Z,2014-01-10T22:48:04Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-01-10T22:48:04Z,2014-01-12T16:17:37Z,,NOT_AVAILABLE,,check: data gap: 1 days 17:29:33,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-01-12T16:17:37Z,2014-01-15T21:11:21Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-01-15T21:11:21Z,2014-01-19T18:18:34Z,,NOT_AVAILABLE,,check: data gap: 3 days 21:07:13,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-01-19T18:18:34Z,2014-01-21T19:14:41Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-01-21T19:14:41Z,2014-01-24T13:50:46Z,,NOT_AVAILABLE,,check: data gap: 2 days 18:36:05,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-01-24T13:50:46Z,2014-01-29T03:33:08Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-01-29T03:33:08Z,2014-02-02T18:38:50Z,,NOT_AVAILABLE,,check: data gap: 4 days 15:05:42,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-02-02T18:38:50Z,2014-02-02T21:12:13Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-02-02T21:12:13Z,2014-02-05T21:08:08Z,,NOT_AVAILABLE,,check: data gap: 2 days 23:55:55,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-02-05T21:08:08Z,2014-02-06T18:11:58Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-02-06T18:11:58Z,2014-02-08T22:29:57Z,,NOT_AVAILABLE,,check: data gap: 2 days 04:17:59,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-02-08T22:29:57Z,2014-02-10T14:53:20Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-02-10T14:53:20Z,2014-02-13T13:56:55Z,,NOT_AVAILABLE,,check: data gap: 2 days 23:03:35,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-02-13T13:56:55Z,2014-02-13T16:12:34Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-02-13T16:12:34Z,2014-02-17T13:20:17Z,,NOT_AVAILABLE,,check: data gap: 3 days 21:07:43,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-02-17T13:20:17Z,2014-02-17T21:41:44Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-02-17T21:41:44Z,2014-02-23T17:48:12Z,,NOT_AVAILABLE,,check: data gap: 5 days 20:06:28,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-02-23T17:48:12Z,2014-02-23T19:15:38Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-02-23T19:15:38Z,2014-02-28T19:09:15Z,,NOT_AVAILABLE,,check: data gap: 4 days 23:53:37,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-02-28T19:09:15Z,2014-03-03T18:06:26Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-03-03T18:06:26Z,2014-03-07T14:02:55Z,,NOT_AVAILABLE,,check: data gap: 3 days 19:56:29,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-03-07T14:02:55Z,2014-03-07T14:03:08Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-03-07T14:03:08Z,2014-03-29T22:59:11Z,,NOT_AVAILABLE,,check: data gap: 22 days 08:56:03,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-03-29T22:59:11Z,2014-03-29T23:40:37Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-03-29T23:40:37Z,2014-04-02T01:00:19Z,,NOT_AVAILABLE,,check: data gap: 3 days 01:19:42,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-04-02T01:00:19Z,2014-04-02T01:33:12Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-04-02T01:33:12Z,2014-04-05T17:41:46Z,,NOT_AVAILABLE,,check: data gap: 3 days 16:08:34,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-04-05T17:41:46Z,2014-04-05T18:33:44Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-04-05T18:33:44Z,2014-04-09T17:14:26Z,,NOT_AVAILABLE,,check: data gap: 3 days 22:40:42,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-04-09T17:14:26Z,2014-04-09T17:14:38Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-04-09T17:14:38Z,2014-04-21T19:01:06Z,,NOT_AVAILABLE,,check: data gap: 12 days 01:46:28,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-04-21T19:01:06Z,2014-04-21T19:01:19Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-04-21T19:01:19Z,2014-04-25T01:56:52Z,,NOT_AVAILABLE,,check: data gap: 3 days 06:55:33,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-04-25T01:56:52Z,2014-04-27T18:55:30Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-04-27T18:55:30Z,2014-05-05T21:18:00Z,,NOT_AVAILABLE,,check: data gap: 8 days 02:22:30,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-05-05T21:18:00Z,2014-05-05T22:33:04Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-05-05T22:33:04Z,2014-05-08T13:30:35Z,,NOT_AVAILABLE,,check: data gap: 2 days 14:57:31,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-05-08T13:30:35Z,2014-06-02T18:24:39Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-06-02T18:24:39Z,2014-06-13T17:10:41Z,,NOT_AVAILABLE,,check: data gap: 10 days 22:46:02,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-06-13T17:10:41Z,2014-06-14T23:59:59Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-26T00:00:00Z

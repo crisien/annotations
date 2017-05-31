@@ -1,0 +1,2 @@
+Level,Deployment,StartTime,EndTime,Notes,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdgv_m_glider_instrument,D00001,2014-09-03T19:01:12Z,2014-09-04T00:00:00Z,0 days 04:58:48,,,check: difference between deploy end date and data file end date,friedrich,2017-05-26T00:00:00Z

@@ -1,0 +1,7 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdgv_m_glider_instrument,D00001,2015-06-02T04:45:48Z,2015-06-07T08:52:29Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument,D00001,2015-06-07T08:52:29Z,2015-06-14T03:50:32Z,,NOT_AVAILABLE,,check: data gap: 6 days 18:58:03,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument,D00001,2015-06-14T03:50:32Z,2016-03-19T00:40:15Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument,D00001,2016-03-19T00:40:15Z,2016-03-25T18:16:09Z,,NOT_AVAILABLE,,check: data gap: 6 days 17:35:54,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument,D00001,2016-03-25T18:16:09Z,2016-04-01T21:20:26Z,,NOT_EVALUATED,,check: evaluate parameters,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument,D00001,2016-04-01T21:20:26Z,2016-08-28T00:00:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 148 days 02:39:34,friedrich,2017-05-26T00:00:00Z

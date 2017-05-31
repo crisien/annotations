@@ -1,0 +1,29 @@
+Level,Deployment,StartTime,EndTime,Notes,Test,Redmine#,Todo,ReviewedBy,ReviewedDate
+sci_water_pressure_dbar,D00001,2015-06-02T11:20:04Z,2016-04-08T01:47:51Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: nan,friedrich,2017-05-26T00:00:00Z
+sci_water_pressure_dbar,D00001,2015-06-02T11:20:04Z,2016-04-08T01:47:51Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 6000.0,friedrich,2017-05-26T00:00:00Z
+sci_water_pressure_dbar,D00001,2015-06-02T11:20:04Z,2016-04-08T01:47:51Z,applies to one file,Global Range QC Test,,check: test triggered,friedrich,2017-05-26T00:00:00Z
+sci_water_cond,D00001,2015-06-02T11:20:04Z,2016-04-08T01:47:51Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: nan,friedrich,2017-05-26T00:00:00Z
+sci_water_cond,D00001,2015-06-02T11:20:04Z,2016-04-08T01:47:51Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 6.0,friedrich,2017-05-26T00:00:00Z
+sci_water_cond,D00001,2015-06-02T11:20:04Z,2016-04-08T01:47:51Z,applies to one file,Spike QC Test,,check: test triggered,friedrich,2017-05-26T00:00:00Z
+sci_water_cond,D00001,2015-06-02T11:20:04Z,2016-04-08T01:47:51Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-05-26T00:00:00Z
+sci_m_present_secs_into_mission,D00001,2015-06-02T11:20:04Z,2016-04-08T01:47:51Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: nan,friedrich,2017-05-26T00:00:00Z
+sci_m_present_secs_into_mission,D00001,2015-06-02T11:20:04Z,2016-04-08T01:47:51Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,friedrich,2017-05-26T00:00:00Z
+sci_water_temp,D00001,2015-06-02T11:20:04Z,2016-04-08T01:47:51Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: nan,friedrich,2017-05-26T00:00:00Z
+sci_water_temp,D00001,2015-06-02T11:20:04Z,2016-04-08T01:47:51Z,extracted from 1st file of 1 files,Global Range Values,,global min = -2.0 global_max = 40.0,friedrich,2017-05-26T00:00:00Z
+sci_water_temp,D00001,2015-06-02T11:20:04Z,2016-04-08T01:47:51Z,applies to one file,Spike QC Test,,check: test triggered,friedrich,2017-05-26T00:00:00Z
+sci_water_temp,D00001,2015-06-02T11:20:04Z,2016-04-08T01:47:51Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-05-26T00:00:00Z
+sci_water_pressure,D00001,2015-06-02T11:20:04Z,2016-04-08T01:47:51Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: nan,friedrich,2017-05-26T00:00:00Z
+sci_water_pressure,D00001,2015-06-02T11:20:04Z,2016-04-08T01:47:51Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 6000.0,friedrich,2017-05-26T00:00:00Z
+sci_water_pressure,D00001,2015-06-02T11:20:04Z,2016-04-08T01:47:51Z,applies to one file,Global Range QC Test,,check: test triggered,friedrich,2017-05-26T00:00:00Z
+sci_water_pressure,D00001,2015-06-02T11:20:04Z,2016-04-08T01:47:51Z,applies to one file,Spike QC Test,,check: test triggered,friedrich,2017-05-26T00:00:00Z
+sci_water_pressure,D00001,2015-06-02T11:20:04Z,2016-04-08T01:47:51Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-05-26T00:00:00Z
+practical_salinity,D00001,2015-06-02T11:20:04Z,2016-04-08T01:47:51Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 42.0,friedrich,2017-05-26T00:00:00Z
+practical_salinity,D00001,2015-06-02T11:20:04Z,2016-04-08T01:47:51Z,applies to one file,Spike QC Test,,check: test triggered,friedrich,2017-05-26T00:00:00Z
+practical_salinity,D00001,2015-06-02T11:20:04Z,2016-04-08T01:47:51Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-05-26T00:00:00Z
+sci_seawater_density,D00001,2015-06-02T11:20:04Z,2016-04-08T01:47:51Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: nan,friedrich,2017-05-26T00:00:00Z
+sci_seawater_density,D00001,2015-06-02T11:20:04Z,2016-04-08T01:47:51Z,extracted from 1st file of 1 files,Global Range Values,,global min = 1000.0 global_max = 1100.0,friedrich,2017-05-26T00:00:00Z
+sci_seawater_density,D00001,2015-06-02T11:20:04Z,2016-04-08T01:47:51Z,applies to one file,Global Range QC Test,,check: test triggered,friedrich,2017-05-26T00:00:00Z
+sci_seawater_density,D00001,2015-06-02T11:20:04Z,2016-04-08T01:47:51Z,applies to one file,Spike QC Test,,check: test triggered,friedrich,2017-05-26T00:00:00Z
+sci_seawater_density,D00001,2015-06-02T11:20:04Z,2016-04-08T01:47:51Z,applies to one file,Stuck Value QC Test,,check: test triggered,friedrich,2017-05-26T00:00:00Z
+m_present_secs_into_mission,D00001,2015-06-02T11:20:04Z,2016-04-08T01:47:51Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: nan,friedrich,2017-05-26T00:00:00Z
+m_present_secs_into_mission,D00001,2015-06-02T11:20:04Z,2016-04-08T01:47:51Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,friedrich,2017-05-26T00:00:00Z

@@ -1,0 +1,9 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+sci_water_pressure_dbar,,,,,,,,friedrich,2017-05-26T00:00:00Z
+sci_water_cond,,,,,,,,friedrich,2017-05-26T00:00:00Z
+sci_m_present_secs_into_mission,,,,,,,,friedrich,2017-05-26T00:00:00Z
+sci_water_temp,,,,,,,,friedrich,2017-05-26T00:00:00Z
+sci_water_pressure,,,,,,,,friedrich,2017-05-26T00:00:00Z
+practical_salinity,,,,,,,,friedrich,2017-05-26T00:00:00Z
+sci_seawater_density,,,,,,,,friedrich,2017-05-26T00:00:00Z
+m_present_secs_into_mission,,,,,,,,friedrich,2017-05-26T00:00:00Z

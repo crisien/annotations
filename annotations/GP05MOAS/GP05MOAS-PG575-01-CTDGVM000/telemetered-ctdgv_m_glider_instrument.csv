@@ -1,0 +1,2 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdgv_m_glider_instrument,D00001,2016-06-27T18:58:00,2016-07-05T00:00:00,Deployed and immidaitely recovered due to a leak. No data available.,NOT_AVAILABLE,10848,,friedrich,2017-05-26T00:00:00Z

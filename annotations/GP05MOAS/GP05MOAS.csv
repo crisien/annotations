@@ -27,3 +27,7 @@ GP05MOAS-PG514,,,,Need to purge and reingest data.,,11934,,friedrich,2017-05-31T
 GP05MOAS-PG515,,,,Need to purge and reingest data.,,11934,,friedrich,2017-05-31T00:00:00Z
 GP05MOAS-PG514,,,,,,12386,incorrect AM info,friedrich,2017-05-31T00:00:00Z
 GP05MOAS-PG515,,,,,,12386,incorrect AM info,friedrich,2017-05-31T00:00:00Z
+GP05MOAS-PG576-01-CTDGVM000,,,,Deployed and immidaitely recovered due to a leak. No data available.,,10848,,friedrich,2017-05-31T00:00:00Z
+GP05MOAS-PG576,,,,Deployed and immidaitely recovered due to a leak. No data available.,,10848,,friedrich,2017-05-31T00:00:00Z
+GP05MOAS-PG575-01-CTDGVM000,,,,Deployed and immidaitely recovered due to problems with the deep pump. No data available.,,10847,,friedrich,2017-05-31T00:00:00Z
+GP05MOAS-PG575,,,,Deployed and immidaitely recovered due to problems with the deep pump. No data available.,,10847,,friedrich,2017-05-31T00:00:00Z

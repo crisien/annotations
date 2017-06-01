@@ -1,0 +1,2 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdgv_m_glider_instrument,D00001,2016-06-27T18:47:00,2016-07-05T00:00:00,Deployed and immidaitely recovered due to problems with the deep pump. No data available.,NOT_AVAILABLE,10847,,friedrich,2017-05-26T00:00:00Z

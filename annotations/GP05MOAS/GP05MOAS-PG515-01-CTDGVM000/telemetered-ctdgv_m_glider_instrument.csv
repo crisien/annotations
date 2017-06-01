@@ -1,2 +1,2 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
-ctdgv_m_glider_instrument,D00002,2015-06-02T09:55:00,2016-02-18T00:00:00,,,,,friedrich,2017-05-26T00:00:00Z
+ctdgv_m_glider_instrument,D00002,2015-06-02T09:55:00,2016-02-18T00:00:00,,NOT_EVALUATED,12386,incorrect AM info,friedrich,2017-05-26T00:00:00Z

@@ -1,0 +1,13 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdpf_ckl_wfp_instrument,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00002,2014-08-08T00:06:38Z,2014-10-09T00:00:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 61 days 23:53:22,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00003,2014-10-20T10:36:16Z,2014-12-14T00:00:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 54 days 13:23:44,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00006,2016-04-03T13:40:21Z,2016-05-21T12:00:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 47 days 22:19:39,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00008,2016-10-04T18:00:03Z,2017-01-19T12:07:53Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00008,2017-01-19T12:07:53Z,2017-01-24T22:30:02Z,,NOT_AVAILABLE,,check: data gap: 5 days 10:22:09,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00008,2017-01-24T22:30:02Z,2017-02-13T16:34:28Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00008,2017-02-13T16:34:28Z,2017-02-19T00:00:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 5 days 07:25:32,Leila,2017-05-17T00:00:00Z

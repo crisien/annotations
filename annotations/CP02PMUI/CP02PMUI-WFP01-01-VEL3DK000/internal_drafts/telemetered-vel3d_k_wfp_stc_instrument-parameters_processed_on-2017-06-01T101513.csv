@@ -1,0 +1,72 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+vel3d_k_heading,,,,,,,,Leila,2017-05-17T00:00:00Z
+vel3d_k_heading,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_temp_c,,,,,,,,Leila,2017-05-17T00:00:00Z
+vel3d_k_eastward_velocity,,,,,,,,Leila,2017-05-17T00:00:00Z
+vel3d_k_eastward_velocity,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_v_scale,,,,,,,,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel2,,,,,,,,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel2,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel0,,,,,,,,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel0,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel1,,,,,,,,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel1,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_northward_velocity,,,,,,,,Leila,2017-05-17T00:00:00Z
+vel3d_k_northward_velocity,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_amp2,,,,,,,,Leila,2017-05-17T00:00:00Z
+vel3d_k_amp1,,,,,,,,Leila,2017-05-17T00:00:00Z
+vel3d_k_amp0,,,,,,,,Leila,2017-05-17T00:00:00Z
+vel3d_k_beams,,,,,,,,Leila,2017-05-17T00:00:00Z
+vel3d_k_beams,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_pitch,,,,,,,,Leila,2017-05-17T00:00:00Z
+vel3d_k_pitch,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_data_set_description,,,,,,,,Leila,2017-05-17T00:00:00Z
+vel3d_k_data_set_description,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_upward_velocity,,,,,,,,Leila,2017-05-17T00:00:00Z
+vel3d_k_upward_velocity,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument-ctdpf_ckl_seawater_pressure,,,,,,,,Leila,2017-05-17T00:00:00Z
+vel3d_k_roll,,,,,,,,Leila,2017-05-17T00:00:00Z
+vel3d_k_roll,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_heading,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel2,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel0,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel1,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_pitch,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_data_set_description,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_roll,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_heading,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel2,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel0,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel1,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_pitch,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_data_set_description,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_roll,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_heading,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel2,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel0,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel1,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_pitch,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_data_set_description,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_roll,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_heading,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_eastward_velocity,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel2,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel0,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel1,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_northward_velocity,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_beams,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_pitch,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_data_set_description,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_upward_velocity,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_roll,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_heading,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_eastward_velocity,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel2,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel0,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel1,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_northward_velocity,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_beams,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_pitch,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_data_set_description,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_upward_velocity,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_roll,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z

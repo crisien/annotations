@@ -4,5 +4,9 @@ ctdpf_ckl_wfp_instrument-ctdpf_ckl_seawater_temperature,,,,,,,,Leila,2017-05-17T
 ctdpf_ckl_wfp_instrument-ctdpf_ckl_seawater_pressure,,,,,,,,Leila,2017-05-17T00:00:00Z
 ctdpf_ckl_wfp_instrument-practical_salinity,,,,,,,,Leila,2017-05-17T00:00:00Z
 dofst_k_oxygen,,,,,,,,Leila,2017-05-17T00:00:00Z
-dofst_k_oxygen,D00006,2015-10-16T22:00:03Z,2016-04-03T13:35:29Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
-dofst_k_oxygen,D00008,2016-10-04T18:00:03Z,2017-02-13T18:08:15Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+dofst_k_oxygen,D00006,2015-10-16T22:00:03Z,2016-05-21T12:00:00Z,values are 10 times higher than expected,FAILED,9445,,Leila,2017-05-17T00:00:00Z
+dofst_k_oxygen_l2,D00006,2015-10-16T22:00:03Z,2016-05-21T12:00:00Z,values are wrong because input parameter has the wrong scale (dofst_k_oxygen),FAILED,9445,,Leila,2017-05-17T00:00:00Z
+dofst_k_oxygen,D00007,2016-08-23T19:30:08Z,2016-08-26T00:00:03Z,sharp drop in values for leass than 3 days,SUSPECT,,,Leila,2017-05-17T00:00:00Z
+dofst_k_oxygen_l2,D00007,2016-08-23T19:30:08Z,2016-08-26T00:00:03Z,sharp drop in values for leass than 3 days,SUSPECT,,,Leila,2017-05-17T00:00:00Z
+dofst_k_oxygen,D00008,2016-10-04T18:00:03Z,2017-02-19T00:00:00Z,values are 10 times higher than expected,FAILED,9445,,Leila,2017-05-17T00:00:00Z
+dofst_k_oxygen_l2,D00008,2016-10-04T18:00:03Z,2017-02-19T00:00:00Z,values are wrong because input parameter has the wrong scale (dofst_k_oxygen),FAILED,9445,,Leila,2017-05-17T00:00:00Z

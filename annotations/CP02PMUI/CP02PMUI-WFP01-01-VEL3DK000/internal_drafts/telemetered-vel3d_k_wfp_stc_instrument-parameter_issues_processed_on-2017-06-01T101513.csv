@@ -1,0 +1,224 @@
+Level,Deployment,StartTime,EndTime,Notes,Test,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdpf_ckl_wfp_instrument-ctdpf_ckl_seawater_pressure,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,expected,vars_not_in_db,,check: variable listed in file but not in database,Leila,2017-05-17T00:00:00Z
+vel3d_k_heading,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_heading,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_temp_c,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_temp_c,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_eastward_velocity,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,extracted from 1st file of 1 files,Global Range Values,,global min = -3.0 global_max = 3.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_eastward_velocity,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_eastward_velocity,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_v_scale,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_v_scale,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel2,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel2,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel0,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel0,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel1,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel1,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_northward_velocity,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,extracted from 1st file of 1 files,Global Range Values,,global min = -3.0 global_max = 3.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_northward_velocity,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_northward_velocity,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_amp2,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_amp2,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_amp1,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_amp1,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_amp0,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_amp0,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_beams,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_beams,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_pitch,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_pitch,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_data_set_description,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_data_set_description,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_upward_velocity,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,extracted from 1st file of 1 files,Global Range Values,,global min = -1.0 global_max = 1.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_upward_velocity,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_upward_velocity,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_roll,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_roll,D00002,2014-04-12T18:00:03Z,2014-08-08T00:06:38Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument-ctdpf_ckl_seawater_pressure,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,expected,vars_not_in_db,,check: variable listed in file but not in database,Leila,2017-05-17T00:00:00Z
+vel3d_k_heading,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_heading,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_temp_c,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_temp_c,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_eastward_velocity,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,extracted from 1st file of 1 files,Global Range Values,,global min = -3.0 global_max = 3.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_eastward_velocity,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_eastward_velocity,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_v_scale,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_v_scale,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel2,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel2,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel0,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel0,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel1,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel1,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_northward_velocity,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,extracted from 1st file of 1 files,Global Range Values,,global min = -3.0 global_max = 3.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_northward_velocity,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_northward_velocity,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_amp2,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_amp2,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_amp1,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_amp1,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_amp0,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_amp0,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_beams,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_beams,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_pitch,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_pitch,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_data_set_description,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_data_set_description,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_upward_velocity,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,extracted from 1st file of 1 files,Global Range Values,,global min = -1.0 global_max = 1.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_upward_velocity,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_upward_velocity,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_upward_velocity,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_roll,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_roll,D00003,2014-10-09T22:00:03Z,2014-10-20T10:36:16Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument-ctdpf_ckl_seawater_pressure,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,expected,vars_not_in_db,,check: variable listed in file but not in database,Leila,2017-05-17T00:00:00Z
+vel3d_k_heading,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_heading,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_temp_c,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_temp_c,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_eastward_velocity,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,extracted from 1st file of 1 files,Global Range Values,,global min = -3.0 global_max = 3.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_eastward_velocity,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_eastward_velocity,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_eastward_velocity,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_v_scale,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_v_scale,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel2,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel2,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel0,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel0,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel1,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel1,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_northward_velocity,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,extracted from 1st file of 1 files,Global Range Values,,global min = -3.0 global_max = 3.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_northward_velocity,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_northward_velocity,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_northward_velocity,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_amp2,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_amp2,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_amp1,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_amp1,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_amp0,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_amp0,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_beams,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_beams,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_pitch,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_pitch,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_data_set_description,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_data_set_description,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_upward_velocity,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,extracted from 1st file of 1 files,Global Range Values,,global min = -1.0 global_max = 1.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_upward_velocity,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_upward_velocity,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_upward_velocity,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_roll,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_roll,D00005,2015-05-03T15:00:03Z,2015-10-16T10:36:19Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument-ctdpf_ckl_seawater_pressure,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,expected,vars_not_in_db,,check: variable listed in file but not in database,Leila,2017-05-17T00:00:00Z
+vel3d_k_heading,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_heading,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_temp_c,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_temp_c,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_eastward_velocity,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,extracted from 1st file of 1 files,Global Range Values,,global min = -3.0 global_max = 3.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_eastward_velocity,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_eastward_velocity,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_eastward_velocity,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_v_scale,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_v_scale,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel2,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel2,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel0,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel0,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel1,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel1,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_northward_velocity,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,extracted from 1st file of 1 files,Global Range Values,,global min = -3.0 global_max = 3.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_northward_velocity,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_northward_velocity,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_northward_velocity,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_amp2,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_amp2,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_amp1,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_amp1,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_amp0,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_amp0,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_beams,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_beams,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_pitch,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_pitch,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_data_set_description,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_data_set_description,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_upward_velocity,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,extracted from 1st file of 1 files,Global Range Values,,global min = -1.0 global_max = 1.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_upward_velocity,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_upward_velocity,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,applies to one file,Spike QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_upward_velocity,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_roll,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_roll,D00006,2015-10-16T22:00:03Z,2016-04-03T13:40:21Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument-ctdpf_ckl_seawater_pressure,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,expected,vars_not_in_db,,check: variable listed in file but not in database,Leila,2017-05-17T00:00:00Z
+vel3d_k_heading,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_heading,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_temp_c,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_temp_c,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_eastward_velocity,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,extracted from 1st file of 1 files,Global Range Values,,global min = -3.0 global_max = 3.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_eastward_velocity,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_eastward_velocity,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_v_scale,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_v_scale,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel2,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel2,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel0,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel0,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel1,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel1,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_northward_velocity,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,extracted from 1st file of 1 files,Global Range Values,,global min = -3.0 global_max = 3.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_northward_velocity,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_northward_velocity,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_amp2,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_amp2,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_amp1,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_amp1,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_amp0,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_amp0,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_beams,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_beams,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_pitch,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_pitch,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_data_set_description,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_data_set_description,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_upward_velocity,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,extracted from 1st file of 1 files,Global Range Values,,global min = -1.0 global_max = 1.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_upward_velocity,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_upward_velocity,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_roll,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_roll,D00007,2016-05-22T00:00:03Z,2016-10-04T13:37:11Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument-ctdpf_ckl_seawater_pressure,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,expected,vars_not_in_db,,check: variable listed in file but not in database,Leila,2017-05-17T00:00:00Z
+vel3d_k_heading,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_heading,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_temp_c,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_temp_c,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_eastward_velocity,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,extracted from 1st file of 1 files,Global Range Values,,global min = -3.0 global_max = 3.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_eastward_velocity,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_eastward_velocity,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_v_scale,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_v_scale,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel2,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel2,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel0,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel0,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel1,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_vel1,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_northward_velocity,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,extracted from 1st file of 1 files,Global Range Values,,global min = -3.0 global_max = 3.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_northward_velocity,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_northward_velocity,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_amp2,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_amp2,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_amp1,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_amp1,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_amp0,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_amp0,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_beams,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_beams,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_pitch,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_pitch,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_data_set_description,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_data_set_description,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z
+vel3d_k_upward_velocity,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,extracted from 1st file of 1 files,Global Range Values,,global min = -1.0 global_max = 1.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_upward_velocity,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,applies to one file,Global Range QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_upward_velocity,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,applies to one file,Stuck Value QC Test,,check: test triggered,Leila,2017-05-17T00:00:00Z
+vel3d_k_roll,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-17T00:00:00Z
+vel3d_k_roll,D00008,2016-10-04T18:00:03Z,2017-02-13T16:34:28Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-17T00:00:00Z

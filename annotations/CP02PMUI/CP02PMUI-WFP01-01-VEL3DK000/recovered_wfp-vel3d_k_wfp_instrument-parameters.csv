@@ -2,21 +2,16 @@ Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,Re
 vel3d_k_version,,,,,,,,Leila,2017-05-17T00:00:00Z
 vel3d_k_mag_z,,,,,,,,Leila,2017-05-17T00:00:00Z
 vel3d_k_error,,,,,,,,Leila,2017-05-17T00:00:00Z
-vel3d_k_error,D00001,2013-11-24T01:30:03Z,2014-04-11T22:37:38Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
 vel3d_k_cell_size,,,,,,,,Leila,2017-05-17T00:00:00Z
 vel3d_k_configuration,,,,,,,,Leila,2017-05-17T00:00:00Z
 vel3d_k_heading,,,,,,,,Leila,2017-05-17T00:00:00Z
-vel3d_k_heading,D00001,2013-11-24T01:30:03Z,2014-04-11T22:37:38Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
 vel3d_k_serial,,,,,,,,Leila,2017-05-17T00:00:00Z
 vel3d_k_eastward_velocity,,,,,,,,Leila,2017-05-17T00:00:00Z
 vel3d_k_v_scale,,,,,,,,Leila,2017-05-17T00:00:00Z
 vel3d_k_beams_coordinate,,,,,,,,Leila,2017-05-17T00:00:00Z
 vel3d_k_vel2,,,,,,,,Leila,2017-05-17T00:00:00Z
-vel3d_k_vel2,D00001,2013-11-24T01:30:03Z,2014-04-11T22:37:38Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
 vel3d_k_vel0,,,,,,,,Leila,2017-05-17T00:00:00Z
-vel3d_k_vel0,D00001,2013-11-24T01:30:03Z,2014-04-11T22:37:38Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
 vel3d_k_vel1,,,,,,,,Leila,2017-05-17T00:00:00Z
-vel3d_k_vel1,D00001,2013-11-24T01:30:03Z,2014-04-11T22:37:38Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
 vel3d_k_acc_y,,,,,,,,Leila,2017-05-17T00:00:00Z
 vel3d_k_acc_z,,,,,,,,Leila,2017-05-17T00:00:00Z
 vel3d_k_northward_velocity,,,,,,,,Leila,2017-05-17T00:00:00Z
@@ -28,45 +23,31 @@ vel3d_k_id,,,,,,,,Leila,2017-05-17T00:00:00Z
 vel3d_k_mag_x,,,,,,,,Leila,2017-05-17T00:00:00Z
 vel3d_k_mag_y,,,,,,,,Leila,2017-05-17T00:00:00Z
 vel3d_k_micro_second,,,,,,,,Leila,2017-05-17T00:00:00Z
-ctdpf_ckl_wfp_instrument_recovered-ctdpf_ckl_seawater_pressure,,,,,,,,Leila,2017-05-17T00:00:00Z
 vel3d_k_power_level,,,,,,,,Leila,2017-05-17T00:00:00Z
 vel3d_k_upward_velocity,,,,,,,,Leila,2017-05-17T00:00:00Z
 vel3d_k_pitch,,,,,,,,Leila,2017-05-17T00:00:00Z
-vel3d_k_pitch,D00001,2013-11-24T01:30:03Z,2014-04-11T22:37:38Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
 vel3d_k_data_set_description,,,,,,,,Leila,2017-05-17T00:00:00Z
-vel3d_k_data_set_description,D00001,2013-11-24T01:30:03Z,2014-04-11T22:37:38Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
 vel3d_k_velocity_range,,,,,,,,Leila,2017-05-17T00:00:00Z
 vel3d_k_corr0,,,,,,,,Leila,2017-05-17T00:00:00Z
 vel3d_k_corr1,,,,,,,,Leila,2017-05-17T00:00:00Z
 vel3d_k_corr2,,,,,,,,Leila,2017-05-17T00:00:00Z
 vel3d_k_blanking,,,,,,,,Leila,2017-05-17T00:00:00Z
 vel3d_k_transmit_energy,,,,,,,,Leila,2017-05-17T00:00:00Z
-vel3d_k_transmit_energy,D00001,2013-11-24T01:30:03Z,2014-04-11T22:37:38Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
 vel3d_k_pressure,,,,,,,,Leila,2017-05-17T00:00:00Z
-vel3d_k_pressure,D00001,2013-11-24T01:30:03Z,2014-04-11T22:37:38Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
 vel3d_k_status,,,,,,,,Leila,2017-05-17T00:00:00Z
 vel3d_k_temp_c,,,,,,,,Leila,2017-05-17T00:00:00Z
 vel3d_k_ambiguity,,,,,,,,Leila,2017-05-17T00:00:00Z
 vel3d_k_roll,,,,,,,,Leila,2017-05-17T00:00:00Z
-vel3d_k_roll,D00001,2013-11-24T01:30:03Z,2014-04-11T22:37:38Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
 vel3d_k_amp0,,,,,,,,Leila,2017-05-17T00:00:00Z
-vel3d_k_error,D00002,2014-04-12T21:00:02Z,2014-09-29T18:06:45Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
-vel3d_k_heading,D00002,2014-04-12T21:00:02Z,2014-09-29T18:06:45Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
-vel3d_k_vel2,D00002,2014-04-12T21:00:02Z,2014-09-29T18:06:45Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
-vel3d_k_vel0,D00002,2014-04-12T21:00:02Z,2014-09-29T18:06:45Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
-vel3d_k_vel1,D00002,2014-04-12T21:00:02Z,2014-09-29T18:06:45Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
-vel3d_k_pitch,D00002,2014-04-12T21:00:02Z,2014-09-29T18:06:45Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
-vel3d_k_data_set_description,D00002,2014-04-12T21:00:02Z,2014-09-29T18:06:45Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
-vel3d_k_transmit_energy,D00002,2014-04-12T21:00:02Z,2014-09-29T18:06:45Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
-vel3d_k_pressure,D00002,2014-04-12T21:00:02Z,2014-09-29T18:06:45Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
-vel3d_k_roll,D00002,2014-04-12T21:00:02Z,2014-09-29T18:06:45Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
-vel3d_k_error,D00005,2015-05-03T15:00:03Z,2015-10-16T12:07:39Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
-vel3d_k_heading,D00005,2015-05-03T15:00:03Z,2015-10-16T12:07:39Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
-vel3d_k_vel2,D00005,2015-05-03T15:00:03Z,2015-10-16T12:07:39Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
-vel3d_k_vel0,D00005,2015-05-03T15:00:03Z,2015-10-16T12:07:39Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
-vel3d_k_vel1,D00005,2015-05-03T15:00:03Z,2015-10-16T12:07:39Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
-vel3d_k_pitch,D00005,2015-05-03T15:00:03Z,2015-10-16T12:07:39Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
-vel3d_k_data_set_description,D00005,2015-05-03T15:00:03Z,2015-10-16T12:07:39Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
-vel3d_k_transmit_energy,D00005,2015-05-03T15:00:03Z,2015-10-16T12:07:39Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
-vel3d_k_pressure,D00005,2015-05-03T15:00:03Z,2015-10-16T12:07:39Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
-vel3d_k_roll,D00005,2015-05-03T15:00:03Z,2015-10-16T12:07:39Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-17T00:00:00Z
+vel3d_k_eastward_velocity,D00001,2013-11-24T01:30:03Z,2014-04-11T22:37:38Z,large percent of data exceeded global range of +or- 3 m/s,SUSPECT,,,Leila,2017-05-17T00:00:00Z
+vel3d_k_northward_velocity,D00001,2013-11-24T01:30:03Z,2014-04-11T22:37:38Z,large percent of data exceeded global range of +or- 3 m/s,SUSPECT,,,Leila,2017-05-17T00:00:00Z
+vel3d_k_upward_velocity,D00001,2013-11-24T01:30:03Z,2014-04-11T22:37:38Z,large percent of data exceeded global range of +or- 1 m/s,SUSPECT,,,Leila,2017-05-17T00:00:00Z
+vel3d_k_eastward_velocity,D00002,2014-04-12T21:00:02Z,2014-04-17T06:00:02Z,spiky data,SUSPECT,,,Leila,2017-05-17T00:00:00Z
+vel3d_k_eastward_velocity,D00002,2014-04-17T06:00:02Z,2014-09-29T18:06:45Z,change in data pattern: sharp increase in velocities to values as great as +or- 40 m/s,FAIL,,,Leila,2017-05-17T00:00:00Z
+vel3d_k_northward_velocity,D00002,2014-04-12T21:00:02Z,2014-04-17T06:00:02Z,spiky data,SUSPECT,,,Leila,2017-05-17T00:00:00Z
+vel3d_k_northward_velocity,D00002,2014-04-17T06:00:02Z,2014-09-29T18:06:45Z,change in data pattern: sharp increase in velocities to values as great as +or- 40 m/s,FAIL,,,Leila,2017-05-17T00:00:00Z
+vel3d_k_upward_velocity,D00002,2014-04-12T21:00:02Z,2014-04-17T06:00:02Z,spiky data,SUSPECT,,,Leila,2017-05-17T00:00:00Z
+vel3d_k_upward_velocity,D00002,2014-04-17T06:00:02Z,2014-09-29T18:06:45Z,change in data pattern: sharp increase in velocities to values as great as +or- 40 m/s,FAIL,,,Leila,2017-05-17T00:00:00Z
+vel3d_k_northward_velocity,D00005,2015-05-03T15:00:03Z,2015-10-16T12:07:39Z,spiky data,SUSPECT,,,Leila,2017-05-17T00:00:00Z
+vel3d_k_upward_velocity,D00005,2015-05-03T15:00:03Z,2015-10-16T12:07:39Z,spiky data,SUSPECT,,,Leila,2017-05-17T00:00:00Z
+vel3d_k_upward_velocity,D00005,2015-05-03T15:00:03Z,2015-10-16T12:07:39Z,large percent of data exceeded global range of +or- 3 m/s,FAIL,,,Leila,2017-05-17T00:00:00Z

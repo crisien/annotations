@@ -2,6 +2,12 @@ Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#
 parad_k__stc_imodem_instrument,D00001,2013-12-10T00:00:00Z,2014-04-11T22:37:56Z,Surface mooring went adrift,NOT_AVAILABLE,9445
 parad_k__stc_imodem_instrument,D00002,2014-07-21T06:04:54Z,2014-10-09T00:00:00Z,MMP failed- the list of files got too long for the inductuve moden run out of time to search and send out the last data file.,NOT_AVAILABLE,
 parad_k__stc_imodem_instrument,D00003,2014-10-20T10:34:27Z,2014-12-14T00:00:00Z,Surface buoy broke free,NOT_AVAILABLE,
+par_val_v,D00005,2015-10-04T16:32:23Z,2015-10-04T16:32:23Z,change in data pattern,SUSPECT,
+parad_k_par,D00005,2015-10-04T16:32:23Z,2015-10-04T16:32:23Z,change in data pattern,SUSPECT,
+par_val_v,D00006,2015-10-16T22:02:04Z,2015-10-29T13:34:53Z,data at the beginning of deployment are too high and show a exponnential decrease with time,SUSPECT,
+parad_k_par,D00006,2015-10-16T22:02:04Z,2015-10-29T13:34:53Z,data at the beginning of deployment are too high and show a exponnential decrease with time,SUSPECT,
 parad_k__stc_imodem_instrument,D00006,2016-04-03T13:33:23Z,2016-05-21T12:00:00Z,Surface buoy broke free,NOT_AVAILABLE,
+par_val_v,D00008,2016-10-04T18:02:04Z,2016-10-24T16:32:09Z,change in data pattern after this time range,SUSPECT,
+parad_k_par,D00008,2016-10-04T18:02:04Z,2016-10-24T16:32:09Z,change in data pattern after this time range,SUSPECT,
 parad_k__stc_imodem_instrument,D00008,2017-01-19T13:33:49Z,2017-01-24T22:32:19Z,The data are in the raw data repo need to purge and reingest to investigate the missing data,PENDING_INGEST,
 parad_k__stc_imodem_instrument,D00008,2017-02-13T18:06:09Z,2017-02-19T00:00:00Z,Surface buoy went adrift ,NOT_AVAILABLE,

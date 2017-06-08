@@ -1,4 +1,9 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
 par_val_v,,,,,,,,Leila,2017-05-17T00:00:00Z
 parad_k_par,,,,,,,,Leila,2017-05-17T00:00:00Z
-ctdpf_ckl_wfp_instrument-ctdpf_ckl_seawater_pressure,,,,,,,,Leila,2017-05-17T00:00:00Z
+par_val_v,D00005,2015-10-04T16:32:23Z,2015-10-04T16:32:23Z,change in data pattern,SUSPECT,,,Leila,2017-05-17T00:00:00Z
+parad_k_par,D00005,2015-10-04T16:32:23Z,2015-10-04T16:32:23Z,change in data pattern,SUSPECT,,,Leila,2017-05-17T00:00:00Z
+par_val_v,D00006,2015-10-16T22:02:04Z,2015-10-29T13:34:53Z,data at the beginning of deployment are too high and show a exponnential decrease with time,SUSPECT,,,Leila,2017-05-17T00:00:00Z
+parad_k_par,D00006,2015-10-16T22:02:04Z,2015-10-29T13:34:53Z,data at the beginning of deployment are too high and show a exponnential decrease with time,SUSPECT,,,Leila,2017-05-17T00:00:00Z
+par_val_v,D00008,2016-10-04T18:02:04Z,2016-10-24T16:32:09Z,change in data pattern after this time range,SUSPECT,,,Leila,2017-05-17T00:00:00Z
+parad_k_par,D00008,2016-10-04T18:02:04Z,2016-10-24T16:32:09Z,change in data pattern after this time range,SUSPECT,,,Leila,2017-05-17T00:00:00Z

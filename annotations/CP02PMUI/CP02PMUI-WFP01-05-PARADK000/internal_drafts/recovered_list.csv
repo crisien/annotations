@@ -1,3 +1,5 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#
 parad_k__stc_imodem_instrument_recovered,D00003,2014-10-20T10:34:12Z,2014-12-14T00:00:00Z,Surface buoy broke free,NOT_AVAILABLE,
+par_val_v,D00005,2015-10-04T16:32:23Z,2015-10-04T16:32:23Z,change in data pattern,SUSPECT,
+parad_k_par,D00005,2015-10-04T16:32:23Z,2015-10-04T16:32:23Z,change in data pattern,SUSPECT,
 parad_k__stc_imodem_instrument_recovered,D00008,2016-10-04T18:00:03Z,2017-02-19T00:00:00Z,Missing from raw data repo,NOT_AVAILABLE,

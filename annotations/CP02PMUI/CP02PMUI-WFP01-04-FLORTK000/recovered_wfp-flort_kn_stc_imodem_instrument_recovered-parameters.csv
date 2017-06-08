@@ -10,3 +10,4 @@ ctdpf_ckl_wfp_instrument_recovered-ctdpf_ckl_seawater_pressure,,,,,,,,Leila,2017
 optical_backscatter,,,,,,,,Leila,2017-05-17T00:00:00Z
 raw_signal_cdom,,,,,,,,Leila,2017-05-17T00:00:00Z
 ctdpf_ckl_wfp_instrument_recovered-practical_salinity,,,,,,,,Leila,2017-05-17T00:00:00Z
+ctdpf_ckl_wfp_instrument_recovered-practical_salinity,D00002,2014-05-03T07:33:24Z,2014-05-03T07:33:47Z,"spike in data, global range and spike tests triggered",FAIL,,,Leila,2017-05-17T00:00:00Z

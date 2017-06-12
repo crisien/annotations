@@ -8,12 +8,10 @@ import numpy as np
 
 
 # specify path to annotation csvs and reference designator reviewed
-assets = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/GS03FLMB/GS03FLMB.csv'
-# stream = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/GS03FLMB/GS03FLMB-RIM01-02-CTDMOH071/recovered_inst-ctdmo_ghqr_instrument_recovered.csv'
-# parameters = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/GS03FLMB/GS03FLMB-RIM01-02-CTDMOH071/recovered_inst-ctdmo_ghqr_instrument_recovered-parameters.csv'
-stream = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/GS03FLMB/GS03FLMB-RIM01-02-CTDMOH071/telemetered-ctdmo_ghqr_sio_mule_instrument.csv'
-parameters = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/GS03FLMB/GS03FLMB-RIM01-02-CTDMOH071/telemetered-ctdmo_ghqr_sio_mule_instrument-parameters.csv'
-reference_designator = 'GS03FLMB-RIM01-02-CTDMOH071'
+assets = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/CP02PMCO/CP02PMCO.csv'
+stream = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/CP02PMCO/CP02PMCO-WFP01-03-CTDPFK000/recovered_wfp-ctdpf_ckl_wfp_instrument_recovered.csv'
+parameters = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/CP02PMCO/CP02PMCO-WFP01-03-CTDPFK000/recovered_wfp-ctdpf_ckl_wfp_instrument_recovered-parameters.csv'
+reference_designator = 'CP02PMCO-WFP01-03-CTDPFK000'
 
 
 # read in csv files
@@ -32,12 +30,11 @@ df = assets_df
 df = df[(df.Level == subsite_name) | (df.Level == node_name) | (df.Level == reference_designator)]
 df = df.append(stream_df)
 df = df.append(parameters_df)
-df = df[df.Status != 'AVAILABLE']
 df = df[df.Annotation.notnull()]
 df = df.drop(df.columns[[7, 8, 9]], axis=1)
 columns = df.columns
 columns = [str(x) for x in columns.tolist()]
-df = df.sort([columns[2],columns[3]], ascending=[1,1])
+df = df.sort_values([columns[2],columns[3]], ascending=[1,1])
 df.to_csv(open('annotations_list.csv', 'w'),columns=columns, index=False)
 
 

@@ -1,0 +1,9 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+temperature,,,,,,,,friedrich,2017-06-08T00:00:00Z
+practical_salinity,,,,,,,,friedrich,2017-06-08T00:00:00Z
+density,,,,,,,,friedrich,2017-06-08T00:00:00Z
+ctdpf_ckl_seawater_conductivity,,,,,,,,friedrich,2017-06-08T00:00:00Z
+pressure,,,,,,,,friedrich,2017-06-08T00:00:00Z
+ctdpf_ckl_seawater_pressure,,,,,,,,friedrich,2017-06-08T00:00:00Z
+ctdpf_ckl_seawater_temperature,,,,,,,,friedrich,2017-06-08T00:00:00Z
+conductivity,,,,,,,,friedrich,2017-06-08T00:00:00Z

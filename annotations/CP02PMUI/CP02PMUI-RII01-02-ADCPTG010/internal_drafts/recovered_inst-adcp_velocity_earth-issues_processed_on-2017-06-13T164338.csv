@@ -1,0 +1,5 @@
+Level,Deployment,StartTime,EndTime,Notes,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+adcp_velocity_earth,D00001,2013-11-23T23:16:00Z,2013-11-23T23:30:00Z,0 days 00:14:00,,,check: difference between deploy start date and data file start date,Leila,2017-05-31T00:00:00Z
+adcp_velocity_earth,D00001,2014-04-11T23:45:00Z,2014-04-12T00:00:00Z,0 days 00:15:00,,,check: difference between deploy end date and data file end date,Leila,2017-05-31T00:00:00Z
+adcp_velocity_earth,D00002,2014-10-08T23:45:00Z,2014-10-09T00:00:00Z,0 days 00:15:00,,,check: difference between deploy end date and data file end date,Leila,2017-05-31T00:00:00Z
+adcp_velocity_earth,D00005,2015-10-16T12:30:00Z,2015-10-16T12:36:00Z,0 days 00:06:00,,,check: difference between deploy end date and data file end date,Leila,2017-05-31T00:00:00Z

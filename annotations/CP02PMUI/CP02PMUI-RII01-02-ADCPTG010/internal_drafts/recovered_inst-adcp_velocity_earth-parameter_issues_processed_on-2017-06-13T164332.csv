@@ -1,0 +1,196 @@
+Level,Deployment,StartTime,EndTime,Notes,Test,Redmine#,Todo,ReviewedBy,ReviewedDate
+corrected_echo_intensity_beam4,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 255.0,Leila,2017-05-31T00:00:00Z
+ensemble_number,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -1.0,Leila,2017-05-31T00:00:00Z
+ensemble_number,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+transducer_depth,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -1.0,Leila,2017-05-31T00:00:00Z
+transducer_depth,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+corrected_echo_intensity_beam3,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 255.0,Leila,2017-05-31T00:00:00Z
+corrected_echo_intensity_beam2,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 255.0,Leila,2017-05-31T00:00:00Z
+pitch,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999.0,Leila,2017-05-31T00:00:00Z
+pitch,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+percent_bad_beams,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -1.0,Leila,2017-05-31T00:00:00Z
+percent_bad_beams,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+percent_transforms_reject,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -1.0,Leila,2017-05-31T00:00:00Z
+percent_transforms_reject,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+error_seawater_velocity,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = -1.0 global_max = 1.0,Leila,2017-05-31T00:00:00Z
+cell_length,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-31T00:00:00Z
+cell_length,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+corrected_echo_intensity_beam1,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 255.0,Leila,2017-05-31T00:00:00Z
+percent_good_4beam,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -1.0,Leila,2017-05-31T00:00:00Z
+percent_good_4beam,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+water_velocity_north,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -32768.0,Leila,2017-05-31T00:00:00Z
+water_velocity_north,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = -3000.0 global_max = 3000.0,Leila,2017-05-31T00:00:00Z
+temperature,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999.0,Leila,2017-05-31T00:00:00Z
+temperature,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+salinity,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -1.0,Leila,2017-05-31T00:00:00Z
+salinity,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+percent_good_3beam,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -1.0,Leila,2017-05-31T00:00:00Z
+percent_good_3beam,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+eastward_seawater_velocity,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = -3.0 global_max = 3.0,Leila,2017-05-31T00:00:00Z
+water_velocity_up,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -32768.0,Leila,2017-05-31T00:00:00Z
+water_velocity_up,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = -1000.0 global_max = 1000.0,Leila,2017-05-31T00:00:00Z
+water_velocity_east,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -32768.0,Leila,2017-05-31T00:00:00Z
+water_velocity_east,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = -3000.0 global_max = 3000.0,Leila,2017-05-31T00:00:00Z
+sysconfig_vertical_orientation,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -99.0,Leila,2017-05-31T00:00:00Z
+sysconfig_vertical_orientation,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+roll,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999.0,Leila,2017-05-31T00:00:00Z
+roll,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+bin_depths,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+pressure,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-31T00:00:00Z
+pressure,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+num_cells,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-31T00:00:00Z
+num_cells,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+bin_1_distance,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -1.0,Leila,2017-05-31T00:00:00Z
+bin_1_distance,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+upward_seawater_velocity,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = -1.0 global_max = 1.0,Leila,2017-05-31T00:00:00Z
+northward_seawater_velocity,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = -3.0 global_max = 3.0,Leila,2017-05-31T00:00:00Z
+error_velocity,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -32768.0,Leila,2017-05-31T00:00:00Z
+error_velocity,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = -1000.0 global_max = 1000.0,Leila,2017-05-31T00:00:00Z
+echo_intensity_beam2,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-31T00:00:00Z
+echo_intensity_beam2,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+correlation_magnitude_beam4,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-31T00:00:00Z
+correlation_magnitude_beam4,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+correlation_magnitude_beam2,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-31T00:00:00Z
+correlation_magnitude_beam2,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+correlation_magnitude_beam3,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-31T00:00:00Z
+correlation_magnitude_beam3,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+correlation_magnitude_beam1,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-31T00:00:00Z
+correlation_magnitude_beam1,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+echo_intensity_beam4,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-31T00:00:00Z
+echo_intensity_beam4,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+echo_intensity_beam3,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-31T00:00:00Z
+echo_intensity_beam3,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+heading,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -1.0,Leila,2017-05-31T00:00:00Z
+heading,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+echo_intensity_beam1,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-31T00:00:00Z
+echo_intensity_beam1,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+corrected_echo_intensity_beam4,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 255.0,Leila,2017-05-31T00:00:00Z
+ensemble_number,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -1.0,Leila,2017-05-31T00:00:00Z
+ensemble_number,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+transducer_depth,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -1.0,Leila,2017-05-31T00:00:00Z
+transducer_depth,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+corrected_echo_intensity_beam3,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 255.0,Leila,2017-05-31T00:00:00Z
+corrected_echo_intensity_beam2,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 255.0,Leila,2017-05-31T00:00:00Z
+pitch,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999.0,Leila,2017-05-31T00:00:00Z
+pitch,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+percent_bad_beams,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -1.0,Leila,2017-05-31T00:00:00Z
+percent_bad_beams,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+percent_transforms_reject,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -1.0,Leila,2017-05-31T00:00:00Z
+percent_transforms_reject,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+error_seawater_velocity,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = -1.0 global_max = 1.0,Leila,2017-05-31T00:00:00Z
+cell_length,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-31T00:00:00Z
+cell_length,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+corrected_echo_intensity_beam1,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 255.0,Leila,2017-05-31T00:00:00Z
+percent_good_4beam,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -1.0,Leila,2017-05-31T00:00:00Z
+percent_good_4beam,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+water_velocity_north,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -32768.0,Leila,2017-05-31T00:00:00Z
+water_velocity_north,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = -3000.0 global_max = 3000.0,Leila,2017-05-31T00:00:00Z
+temperature,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999.0,Leila,2017-05-31T00:00:00Z
+temperature,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+salinity,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -1.0,Leila,2017-05-31T00:00:00Z
+salinity,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+percent_good_3beam,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -1.0,Leila,2017-05-31T00:00:00Z
+percent_good_3beam,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+eastward_seawater_velocity,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = -3.0 global_max = 3.0,Leila,2017-05-31T00:00:00Z
+water_velocity_up,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -32768.0,Leila,2017-05-31T00:00:00Z
+water_velocity_up,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = -1000.0 global_max = 1000.0,Leila,2017-05-31T00:00:00Z
+water_velocity_east,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -32768.0,Leila,2017-05-31T00:00:00Z
+water_velocity_east,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = -3000.0 global_max = 3000.0,Leila,2017-05-31T00:00:00Z
+sysconfig_vertical_orientation,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -99.0,Leila,2017-05-31T00:00:00Z
+sysconfig_vertical_orientation,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+roll,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999.0,Leila,2017-05-31T00:00:00Z
+roll,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+bin_depths,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+pressure,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-31T00:00:00Z
+pressure,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+num_cells,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-31T00:00:00Z
+num_cells,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+bin_1_distance,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -1.0,Leila,2017-05-31T00:00:00Z
+bin_1_distance,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+upward_seawater_velocity,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = -1.0 global_max = 1.0,Leila,2017-05-31T00:00:00Z
+northward_seawater_velocity,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = -3.0 global_max = 3.0,Leila,2017-05-31T00:00:00Z
+error_velocity,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -32768.0,Leila,2017-05-31T00:00:00Z
+error_velocity,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = -1000.0 global_max = 1000.0,Leila,2017-05-31T00:00:00Z
+echo_intensity_beam2,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-31T00:00:00Z
+echo_intensity_beam2,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+correlation_magnitude_beam4,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-31T00:00:00Z
+correlation_magnitude_beam4,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+correlation_magnitude_beam2,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-31T00:00:00Z
+correlation_magnitude_beam2,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+correlation_magnitude_beam3,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-31T00:00:00Z
+correlation_magnitude_beam3,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+correlation_magnitude_beam1,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-31T00:00:00Z
+correlation_magnitude_beam1,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+echo_intensity_beam4,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-31T00:00:00Z
+echo_intensity_beam4,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+echo_intensity_beam3,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-31T00:00:00Z
+echo_intensity_beam3,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+heading,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -1.0,Leila,2017-05-31T00:00:00Z
+heading,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+echo_intensity_beam1,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-31T00:00:00Z
+echo_intensity_beam1,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+corrected_echo_intensity_beam4,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 255.0,Leila,2017-05-31T00:00:00Z
+ensemble_number,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -1.0,Leila,2017-05-31T00:00:00Z
+ensemble_number,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+transducer_depth,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -1.0,Leila,2017-05-31T00:00:00Z
+transducer_depth,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+corrected_echo_intensity_beam3,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 255.0,Leila,2017-05-31T00:00:00Z
+corrected_echo_intensity_beam2,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 255.0,Leila,2017-05-31T00:00:00Z
+pitch,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999.0,Leila,2017-05-31T00:00:00Z
+pitch,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+percent_bad_beams,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -1.0,Leila,2017-05-31T00:00:00Z
+percent_bad_beams,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+percent_transforms_reject,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -1.0,Leila,2017-05-31T00:00:00Z
+percent_transforms_reject,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+error_seawater_velocity,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = -1.0 global_max = 1.0,Leila,2017-05-31T00:00:00Z
+cell_length,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-31T00:00:00Z
+cell_length,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+corrected_echo_intensity_beam1,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 255.0,Leila,2017-05-31T00:00:00Z
+percent_good_4beam,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -1.0,Leila,2017-05-31T00:00:00Z
+percent_good_4beam,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+water_velocity_north,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -32768.0,Leila,2017-05-31T00:00:00Z
+water_velocity_north,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = -3000.0 global_max = 3000.0,Leila,2017-05-31T00:00:00Z
+temperature,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999.0,Leila,2017-05-31T00:00:00Z
+temperature,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+salinity,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -1.0,Leila,2017-05-31T00:00:00Z
+salinity,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+percent_good_3beam,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -1.0,Leila,2017-05-31T00:00:00Z
+percent_good_3beam,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+eastward_seawater_velocity,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = -3.0 global_max = 3.0,Leila,2017-05-31T00:00:00Z
+water_velocity_up,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -32768.0,Leila,2017-05-31T00:00:00Z
+water_velocity_up,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = -1000.0 global_max = 1000.0,Leila,2017-05-31T00:00:00Z
+water_velocity_east,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -32768.0,Leila,2017-05-31T00:00:00Z
+water_velocity_east,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = -3000.0 global_max = 3000.0,Leila,2017-05-31T00:00:00Z
+sysconfig_vertical_orientation,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -99.0,Leila,2017-05-31T00:00:00Z
+sysconfig_vertical_orientation,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+roll,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -9999.0,Leila,2017-05-31T00:00:00Z
+roll,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+bin_depths,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+pressure,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-31T00:00:00Z
+pressure,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+num_cells,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-31T00:00:00Z
+num_cells,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+bin_1_distance,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -1.0,Leila,2017-05-31T00:00:00Z
+bin_1_distance,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+upward_seawater_velocity,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = -1.0 global_max = 1.0,Leila,2017-05-31T00:00:00Z
+northward_seawater_velocity,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = -3.0 global_max = 3.0,Leila,2017-05-31T00:00:00Z
+error_velocity,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -32768.0,Leila,2017-05-31T00:00:00Z
+error_velocity,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = -1000.0 global_max = 1000.0,Leila,2017-05-31T00:00:00Z
+echo_intensity_beam2,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-31T00:00:00Z
+echo_intensity_beam2,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+correlation_magnitude_beam4,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-31T00:00:00Z
+correlation_magnitude_beam4,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+correlation_magnitude_beam2,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-31T00:00:00Z
+correlation_magnitude_beam2,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+correlation_magnitude_beam3,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-31T00:00:00Z
+correlation_magnitude_beam3,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+correlation_magnitude_beam1,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-31T00:00:00Z
+correlation_magnitude_beam1,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+echo_intensity_beam4,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-31T00:00:00Z
+echo_intensity_beam4,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+echo_intensity_beam3,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-31T00:00:00Z
+echo_intensity_beam3,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+heading,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: -1.0,Leila,2017-05-31T00:00:00Z
+heading,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z
+echo_intensity_beam1,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Fill Value,,tested: -9999999.0 found: 0.0,Leila,2017-05-31T00:00:00Z
+echo_intensity_beam1,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-31T00:00:00Z

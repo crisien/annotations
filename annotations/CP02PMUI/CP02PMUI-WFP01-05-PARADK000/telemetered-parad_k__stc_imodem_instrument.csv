@@ -10,6 +10,6 @@ parad_k__stc_imodem_instrument,D00006,2015-10-16T22:02:04Z,2016-04-03T13:33:23Z,
 parad_k__stc_imodem_instrument,D00006,2016-04-03T13:33:23Z,2016-05-21T12:00:00Z,Surface buoy broke free,NOT_AVAILABLE,,,Leila,2017-05-17T00:00:00Z
 parad_k__stc_imodem_instrument,D00007,2016-05-22T00:02:03Z,2016-10-04T13:35:22Z,,AVAILABLE,,,Leila,2017-05-17T00:00:00Z
 parad_k__stc_imodem_instrument,D00008,2016-10-04T18:02:04Z,2017-01-19T13:33:49Z,,AVAILABLE,,,Leila,2017-05-17T00:00:00Z
-parad_k__stc_imodem_instrument,D00008,2017-01-19T13:33:49Z,2017-01-24T22:32:19Z,The data are in the raw data repo need to purge and reingest to investigate the missing data,PENDING_INGEST,,,Leila,2017-05-17T00:00:00Z
+parad_k__stc_imodem_instrument,D00008,2017-01-19T13:33:49Z,2017-01-24T22:32:19Z,The data are in the raw data repo need to purge and reingest to investigate the missing data,PENDING_INGEST,11959,,Leila,2017-05-17T00:00:00Z
 parad_k__stc_imodem_instrument,D00008,2017-01-24T22:32:19Z,2017-02-13T18:06:09Z,,AVAILABLE,,,Leila,2017-05-17T00:00:00Z
 parad_k__stc_imodem_instrument,D00008,2017-02-13T18:06:09Z,2017-02-19T00:00:00Z,Surface buoy went adrift ,NOT_AVAILABLE,,,Leila,2017-05-17T00:00:00Z

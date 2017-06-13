@@ -1,0 +1,12 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdpf_j_cspp_instrument,D00001,2014-04-17T23:18:23Z,2014-04-19T17:01:09Z,,NOT_EVALUATED,,check: evaluate parameters,michaesm,2017-04-12T00:00:00Z
+ctdpf_j_cspp_instrument,D00001,2014-04-19T17:01:09Z,2014-04-22T10:59:53Z,,NOT_AVAILABLE,,check: data gap: 2 days 17:58:44,michaesm,2017-04-12T00:00:00Z
+ctdpf_j_cspp_instrument,D00001,2014-04-22T10:59:53Z,2014-04-23T06:02:15Z,,NOT_EVALUATED,,check: evaluate parameters,michaesm,2017-04-12T00:00:00Z
+ctdpf_j_cspp_instrument,D00001,2014-04-23T06:02:15Z,2014-04-28T09:59:54Z,,NOT_AVAILABLE,,check: data gap: 5 days 03:57:39,michaesm,2017-04-12T00:00:00Z
+ctdpf_j_cspp_instrument,D00001,2014-04-28T09:59:54Z,2014-05-01T23:58:30Z,,NOT_EVALUATED,,check: evaluate parameters,michaesm,2017-04-12T00:00:00Z
+ctdpf_j_cspp_instrument,D00001,2014-05-01T23:58:30Z,2014-05-28T00:00:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 26 days 00:01:30,michaesm,2017-04-12T00:00:00Z
+ctdpf_j_cspp_instrument,D00004,2015-08-14T22:20:00Z,2015-08-23T19:46:18Z,,NOT_AVAILABLE,,check: difference between data begin and deployment begin date is: 8 days 21:26:18,michaesm,2017-04-12T00:00:00Z
+ctdpf_j_cspp_instrument,D00004,2015-08-23T19:46:18Z,2015-08-23T19:53:16Z,,NOT_EVALUATED,,check: evaluate parameters,michaesm,2017-04-12T00:00:00Z
+ctdpf_j_cspp_instrument,D00004,2015-08-23T19:53:16Z,2015-10-15T00:00:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 52 days 04:06:44,michaesm,2017-04-12T00:00:00Z
+ctdpf_j_cspp_instrument,D00005,2016-06-16T22:05:19Z,2016-06-19T08:06:24Z,,NOT_EVALUATED,,check: evaluate parameters,michaesm,2017-04-12T00:00:00Z
+ctdpf_j_cspp_instrument,D00005,2016-06-19T08:06:24Z,2016-08-08T00:00:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 49 days 15:53:36,michaesm,2017-04-12T00:00:00Z

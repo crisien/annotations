@@ -1,0 +1,7 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdpf_ckl_wfp_instrument_recovered,D00001,2014-04-18T00:00:00Z,2014-04-19T01:00:03Z,,NOT_AVAILABLE,,check: difference between data begin and deployment begin date is: 1 days 01:00:03,michaesm,2017-04-21T00:00:00Z
+ctdpf_ckl_wfp_instrument_recovered,D00001,2014-04-19T01:00:03Z,2014-04-29T13:04:51Z,,NOT_EVALUATED,,check: evaluate parameters,michaesm,2017-04-21T00:00:00Z
+ctdpf_ckl_wfp_instrument_recovered,D00001,2014-04-29T13:04:51Z,2014-08-15T00:00:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 107 days 10:55:09,michaesm,2017-04-21T00:00:00Z
+ctdpf_ckl_wfp_instrument_recovered,D00002,2014-10-08T20:30:03Z,2015-04-05T17:29:36Z,,NOT_EVALUATED,,check: evaluate parameters,michaesm,2017-04-21T00:00:00Z
+ctdpf_ckl_wfp_instrument_recovered,D00003,2015-04-06T02:30:03Z,2015-10-16T22:35:27Z,,NOT_EVALUATED,,check: evaluate parameters,michaesm,2017-04-21T00:00:00Z
+ctdpf_ckl_wfp_instrument_recovered,D00004,2015-10-16T23:00:03Z,2016-05-06T23:41:57Z,,NOT_EVALUATED,,check: evaluate parameters,michaesm,2017-04-21T00:00:00Z

@@ -1,0 +1,4 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdmo_ghqr_instrument_recovered,D00001,2014-09-16T13:30:01Z,2015-08-20T12:45:01Z,,NOT_EVALUATED,,check: evaluate parameters,michaesm,2017-05-16T00:00:00Z
+ctdmo_ghqr_instrument_recovered,D00002,2015-08-21T17:11:00Z,2015-08-25T20:15:01Z,,NOT_AVAILABLE,,check: difference between data begin and deployment begin date is: 4 days 03:04:01,michaesm,2017-05-16T00:00:00Z
+ctdmo_ghqr_instrument_recovered,D00002,2015-08-25T20:15:01Z,2016-07-17T23:45:01Z,,NOT_EVALUATED,,check: evaluate parameters,michaesm,2017-05-16T00:00:00Z

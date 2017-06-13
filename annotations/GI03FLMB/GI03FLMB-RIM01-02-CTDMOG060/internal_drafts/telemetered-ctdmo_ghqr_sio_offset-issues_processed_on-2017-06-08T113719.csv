@@ -1,0 +1,4 @@
+Level,Deployment,StartTime,EndTime,Notes,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdmo_ghqr_sio_offset,D00002,2015-08-21T17:11:00Z,2015-08-21T20:07:19Z,0 days 02:56:19,,,check: difference between deploy start date and data file start date,michaesm,2017-05-16T00:00:00Z
+ctdmo_ghqr_sio_offset,D00003,2016-07-13T15:49:00Z,2016-07-13T20:07:19Z,0 days 04:18:19,,,check: difference between deploy start date and data file start date,michaesm,2017-05-16T00:00:00Z
+ctdmo_ghqr_sio_offset,D00003,2016-07-13T15:49:00Z,None,,,,check: no deployment end date in asset management,michaesm,2017-05-16T00:00:00Z

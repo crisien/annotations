@@ -1,0 +1,12 @@
+Level,Deployment,StartTime,EndTime,Notes,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdpf_ckl_wfp_instrument,D00002,2014-10-08T19:00:00Z,2014-10-08T20:30:03Z,0 days 01:30:03,,,check: difference between deploy start date and data file start date,michaesm,2017-05-11T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00002,2015-04-04T23:56:10Z,2015-04-05T03:20:00Z,0 days 03:23:50,,,check: difference between deploy end date and data file end date,michaesm,2017-05-11T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00003,2015-04-05T21:15:00Z,2015-04-06T02:30:03Z,0 days 05:15:03,,,check: difference between deploy start date and data file start date,michaesm,2017-05-11T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00003,2015-10-16T14:35:06Z,2015-10-16T23:00:00Z,0 days 08:24:54,,,check: difference between deploy end date and data file end date,michaesm,2017-05-11T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00004,2015-10-16T21:56:00Z,2015-10-16T23:00:03Z,0 days 01:04:03,,,check: difference between deploy start date and data file start date,michaesm,2017-05-11T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00005,2016-05-12T22:30:00Z,2016-05-12T23:50:03Z,0 days 01:20:03,,,check: difference between deploy start date and data file start date,michaesm,2017-05-11T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00005,2016-09-21T14:59:18Z,2016-09-21T15:01:00Z,0 days 00:01:42,,,check: difference between deploy end date and data file end date,michaesm,2017-05-11T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00006,2016-09-22T02:18:00Z,2016-09-22T04:00:03Z,0 days 01:42:03,,,check: difference between deploy start date and data file start date,michaesm,2017-05-11T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00006,2016-09-22T02:18:00Z,None,,,,check: no deployment end date in asset management,michaesm,2017-05-11T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00007,2017-04-12T19:16:00Z,2017-04-12T21:00:03Z,0 days 01:44:03,,,check: difference between deploy start date and data file start date,michaesm,2017-05-11T00:00:00Z
+ctdpf_ckl_wfp_instrument,D00007,2017-04-12T19:16:00Z,None,,,,check: no deployment end date in asset management,michaesm,2017-05-11T00:00:00Z

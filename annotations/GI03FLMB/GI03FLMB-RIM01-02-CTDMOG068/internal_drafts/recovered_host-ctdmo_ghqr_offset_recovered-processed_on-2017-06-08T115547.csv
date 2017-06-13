@@ -1,0 +1,36 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdmo_ghqr_offset_recovered,D00002,2015-08-21T20:07:19Z,2015-08-25T20:07:19Z,,NOT_EVALUATED,,check: evaluate parameters,michaesm,2017-05-16T00:00:00Z
+ctdmo_ghqr_offset_recovered,D00002,2015-08-25T20:07:19Z,2015-08-26T20:07:20Z,,NOT_AVAILABLE,,check: data gap: 1 days 00:00:01,michaesm,2017-05-16T00:00:00Z
+ctdmo_ghqr_offset_recovered,D00002,2015-08-26T20:07:20Z,2015-08-27T20:07:19Z,,NOT_EVALUATED,,check: evaluate parameters,michaesm,2017-05-16T00:00:00Z
+ctdmo_ghqr_offset_recovered,D00002,2015-08-27T20:07:19Z,2015-08-28T20:07:20Z,,NOT_AVAILABLE,,check: data gap: 1 days 00:00:01,michaesm,2017-05-16T00:00:00Z
+ctdmo_ghqr_offset_recovered,D00002,2015-08-28T20:07:20Z,2015-08-29T20:07:19Z,,NOT_EVALUATED,,check: evaluate parameters,michaesm,2017-05-16T00:00:00Z
+ctdmo_ghqr_offset_recovered,D00002,2015-08-29T20:07:19Z,2015-08-30T20:07:20Z,,NOT_AVAILABLE,,check: data gap: 1 days 00:00:01,michaesm,2017-05-16T00:00:00Z
+ctdmo_ghqr_offset_recovered,D00002,2015-08-30T20:07:20Z,2015-08-31T20:07:19Z,,NOT_EVALUATED,,check: evaluate parameters,michaesm,2017-05-16T00:00:00Z
+ctdmo_ghqr_offset_recovered,D00002,2015-08-31T20:07:19Z,2015-09-01T20:07:20Z,,NOT_AVAILABLE,,check: data gap: 1 days 00:00:01,michaesm,2017-05-16T00:00:00Z
+ctdmo_ghqr_offset_recovered,D00002,2015-09-01T20:07:20Z,2015-09-02T20:07:19Z,,NOT_EVALUATED,,check: evaluate parameters,michaesm,2017-05-16T00:00:00Z
+ctdmo_ghqr_offset_recovered,D00002,2015-09-02T20:07:19Z,2015-09-03T20:07:20Z,,NOT_AVAILABLE,,check: data gap: 1 days 00:00:01,michaesm,2017-05-16T00:00:00Z
+ctdmo_ghqr_offset_recovered,D00002,2015-09-03T20:07:20Z,2015-11-10T20:07:19Z,,NOT_EVALUATED,,check: evaluate parameters,michaesm,2017-05-16T00:00:00Z
+ctdmo_ghqr_offset_recovered,D00002,2015-11-10T20:07:19Z,2015-11-11T20:07:20Z,,NOT_AVAILABLE,,check: data gap: 1 days 00:00:01,michaesm,2017-05-16T00:00:00Z
+ctdmo_ghqr_offset_recovered,D00002,2015-11-11T20:07:20Z,2016-01-13T20:07:19Z,,NOT_EVALUATED,,check: evaluate parameters,michaesm,2017-05-16T00:00:00Z
+ctdmo_ghqr_offset_recovered,D00002,2016-01-13T20:07:19Z,2016-01-14T20:07:20Z,,NOT_AVAILABLE,,check: data gap: 1 days 00:00:01,michaesm,2017-05-16T00:00:00Z
+ctdmo_ghqr_offset_recovered,D00002,2016-01-14T20:07:20Z,2016-01-15T20:07:19Z,,NOT_EVALUATED,,check: evaluate parameters,michaesm,2017-05-16T00:00:00Z
+ctdmo_ghqr_offset_recovered,D00002,2016-01-15T20:07:19Z,2016-01-16T20:07:20Z,,NOT_AVAILABLE,,check: data gap: 1 days 00:00:01,michaesm,2017-05-16T00:00:00Z
+ctdmo_ghqr_offset_recovered,D00002,2016-01-16T20:07:20Z,2016-01-17T20:07:19Z,,NOT_EVALUATED,,check: evaluate parameters,michaesm,2017-05-16T00:00:00Z
+ctdmo_ghqr_offset_recovered,D00002,2016-01-17T20:07:19Z,2016-01-18T20:07:20Z,,NOT_AVAILABLE,,check: data gap: 1 days 00:00:01,michaesm,2017-05-16T00:00:00Z
+ctdmo_ghqr_offset_recovered,D00002,2016-01-18T20:07:20Z,2016-01-21T20:07:19Z,,NOT_EVALUATED,,check: evaluate parameters,michaesm,2017-05-16T00:00:00Z
+ctdmo_ghqr_offset_recovered,D00002,2016-01-21T20:07:19Z,2016-01-22T20:07:20Z,,NOT_AVAILABLE,,check: data gap: 1 days 00:00:01,michaesm,2017-05-16T00:00:00Z
+ctdmo_ghqr_offset_recovered,D00002,2016-01-22T20:07:20Z,2016-01-26T20:07:19Z,,NOT_EVALUATED,,check: evaluate parameters,michaesm,2017-05-16T00:00:00Z
+ctdmo_ghqr_offset_recovered,D00002,2016-01-26T20:07:19Z,2016-01-27T20:07:20Z,,NOT_AVAILABLE,,check: data gap: 1 days 00:00:01,michaesm,2017-05-16T00:00:00Z
+ctdmo_ghqr_offset_recovered,D00002,2016-01-27T20:07:20Z,2016-03-23T20:07:19Z,,NOT_EVALUATED,,check: evaluate parameters,michaesm,2017-05-16T00:00:00Z
+ctdmo_ghqr_offset_recovered,D00002,2016-03-23T20:07:19Z,2016-03-24T20:07:20Z,,NOT_AVAILABLE,,check: data gap: 1 days 00:00:01,michaesm,2017-05-16T00:00:00Z
+ctdmo_ghqr_offset_recovered,D00002,2016-03-24T20:07:20Z,2016-03-31T20:07:19Z,,NOT_EVALUATED,,check: evaluate parameters,michaesm,2017-05-16T00:00:00Z
+ctdmo_ghqr_offset_recovered,D00002,2016-03-31T20:07:19Z,2016-04-01T20:07:20Z,,NOT_AVAILABLE,,check: data gap: 1 days 00:00:01,michaesm,2017-05-16T00:00:00Z
+ctdmo_ghqr_offset_recovered,D00002,2016-04-01T20:07:20Z,2016-06-02T20:07:19Z,,NOT_EVALUATED,,check: evaluate parameters,michaesm,2017-05-16T00:00:00Z
+ctdmo_ghqr_offset_recovered,D00002,2016-06-02T20:07:19Z,2016-06-03T20:07:20Z,,NOT_AVAILABLE,,check: data gap: 1 days 00:00:01,michaesm,2017-05-16T00:00:00Z
+ctdmo_ghqr_offset_recovered,D00002,2016-06-03T20:07:20Z,2016-06-08T20:07:19Z,,NOT_EVALUATED,,check: evaluate parameters,michaesm,2017-05-16T00:00:00Z
+ctdmo_ghqr_offset_recovered,D00002,2016-06-08T20:07:19Z,2016-06-09T20:07:20Z,,NOT_AVAILABLE,,check: data gap: 1 days 00:00:01,michaesm,2017-05-16T00:00:00Z
+ctdmo_ghqr_offset_recovered,D00002,2016-06-09T20:07:20Z,2016-06-12T20:07:19Z,,NOT_EVALUATED,,check: evaluate parameters,michaesm,2017-05-16T00:00:00Z
+ctdmo_ghqr_offset_recovered,D00002,2016-06-12T20:07:19Z,2016-06-13T20:07:20Z,,NOT_AVAILABLE,,check: data gap: 1 days 00:00:01,michaesm,2017-05-16T00:00:00Z
+ctdmo_ghqr_offset_recovered,D00002,2016-06-13T20:07:20Z,2016-06-14T20:07:19Z,,NOT_EVALUATED,,check: evaluate parameters,michaesm,2017-05-16T00:00:00Z
+ctdmo_ghqr_offset_recovered,D00002,2016-06-14T20:07:19Z,2016-06-15T20:07:20Z,,NOT_AVAILABLE,,check: data gap: 1 days 00:00:01,michaesm,2017-05-16T00:00:00Z
+ctdmo_ghqr_offset_recovered,D00002,2016-06-15T20:07:20Z,2016-07-17T20:07:20Z,,NOT_EVALUATED,,check: evaluate parameters,michaesm,2017-05-16T00:00:00Z

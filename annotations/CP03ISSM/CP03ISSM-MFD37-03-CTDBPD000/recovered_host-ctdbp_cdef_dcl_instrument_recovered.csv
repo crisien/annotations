@@ -1,5 +1,5 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
-ctdbp_cdef_dcl_instrument_recovered,D00002,2015-05-09T01:05:02Z,2015-05-09T01:05:02Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-10T00:00:00Z
-ctdbp_cdef_dcl_instrument_recovered,D00002,2015-05-09T01:05:02Z,2015-10-21T18:50:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 165 days 17:44:58,Leila,2017-05-10T00:00:00Z
-ctdbp_cdef_dcl_instrument_recovered,D00003,2015-10-21T18:02:10Z,2015-11-04T10:02:10Z,,NOT_EVALUATED,,check: evaluate parameters,Leila,2017-05-10T00:00:00Z
-ctdbp_cdef_dcl_instrument_recovered,D00003,2015-11-04T10:02:10Z,2016-05-14T13:45:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 192 days 03:42:50,Leila,2017-05-10T00:00:00Z
+ctdbp_cdef_dcl_instrument_recovered,D00002,2015-05-09T01:05:02Z,2015-05-09T01:05:02Z,one data point,AVAILABLE,,check: evaluate parameters,Leila,2017-05-10T00:00:00Z
+ctdbp_cdef_dcl_instrument_recovered,D00002,2015-05-09T01:05:02Z,2015-10-21T18:50:00Z,under investigation,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 165 days 17:44:58,Leila,2017-05-10T00:00:00Z
+ctdbp_cdef_dcl_instrument_recovered,D00003,2015-10-21T18:02:10Z,2015-11-04T10:02:10Z,,AVAILABLE,,check: evaluate parameters,Leila,2017-05-10T00:00:00Z
+ctdbp_cdef_dcl_instrument_recovered,D00003,2015-11-04T10:02:10Z,2016-05-14T13:45:00Z,under investigation,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 192 days 03:42:50,Leila,2017-05-10T00:00:00Z

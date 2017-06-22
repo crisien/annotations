@@ -1,0 +1,6 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#
+adcps_jln_stc_instrument,D00003,2014-10-09T18:26:00Z,2014-10-21T03:15:00Z,under investigation,NOT_AVAILABLE,
+adcps_jln_stc_instrument,D00006,2016-04-03T14:00:00Z,2016-05-21T12:00:00Z,Surface buoy broke free,NOT_AVAILABLE,
+adcps_jln_stc_instrument,D00008,2017-01-19T10:30:00Z,2017-01-24T20:00:00Z,The data are in the raw data repo need to purge and reingest to investigate the missing data,PENDING_INGEST,11959.0
+adcps_jln_stc_instrument,D00008,2017-02-13T16:30:00Z,2017-02-19T00:00:00Z,Surface buoy broke free,NOT_AVAILABLE,
+adcps_jln_stc_instrument,,,,missing parameters to calculate Depths_bin parameter necessary to  construct the velocity profile,,11612.0

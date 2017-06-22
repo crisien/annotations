@@ -1,68 +1,17 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
-corrected_echo_intensity_beam4,,,,,,,,Leila,2017-05-31T00:00:00Z
-corrected_echo_intensity_beam4,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-31T00:00:00Z
-ensemble_number,,,,,,,,Leila,2017-05-31T00:00:00Z
-transducer_depth,,,,,,,,Leila,2017-05-31T00:00:00Z
-corrected_echo_intensity_beam3,,,,,,,,Leila,2017-05-31T00:00:00Z
-corrected_echo_intensity_beam3,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-31T00:00:00Z
-corrected_echo_intensity_beam2,,,,,,,,Leila,2017-05-31T00:00:00Z
-corrected_echo_intensity_beam2,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-31T00:00:00Z
-pitch,,,,,,,,Leila,2017-05-31T00:00:00Z
-percent_bad_beams,,,,,,,,Leila,2017-05-31T00:00:00Z
-percent_transforms_reject,,,,,,,,Leila,2017-05-31T00:00:00Z
 error_seawater_velocity,,,,,,,,Leila,2017-05-31T00:00:00Z
-cell_length,,,,,,,,Leila,2017-05-31T00:00:00Z
-corrected_echo_intensity_beam1,,,,,,,,Leila,2017-05-31T00:00:00Z
-corrected_echo_intensity_beam1,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-31T00:00:00Z
-percent_good_4beam,,,,,,,,Leila,2017-05-31T00:00:00Z
-water_velocity_north,,,,,,,,Leila,2017-05-31T00:00:00Z
-water_velocity_north,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-31T00:00:00Z
-temperature,,,,,,,,Leila,2017-05-31T00:00:00Z
-salinity,,,,,,,,Leila,2017-05-31T00:00:00Z
-percent_good_3beam,,,,,,,,Leila,2017-05-31T00:00:00Z
 eastward_seawater_velocity,,,,,,,,Leila,2017-05-31T00:00:00Z
-water_velocity_up,,,,,,,,Leila,2017-05-31T00:00:00Z
-water_velocity_up,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-31T00:00:00Z
-water_velocity_east,,,,,,,,Leila,2017-05-31T00:00:00Z
-water_velocity_east,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-31T00:00:00Z
-sysconfig_vertical_orientation,,,,,,,,Leila,2017-05-31T00:00:00Z
-roll,,,,,,,,Leila,2017-05-31T00:00:00Z
-bin_depths,,,,,,,,Leila,2017-05-31T00:00:00Z
-pressure,,,,,,,,Leila,2017-05-31T00:00:00Z
-num_cells,,,,,,,,Leila,2017-05-31T00:00:00Z
-bin_1_distance,,,,,,,,Leila,2017-05-31T00:00:00Z
 upward_seawater_velocity,,,,,,,,Leila,2017-05-31T00:00:00Z
 northward_seawater_velocity,,,,,,,,Leila,2017-05-31T00:00:00Z
-error_velocity,,,,,,,,Leila,2017-05-31T00:00:00Z
-error_velocity,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-31T00:00:00Z
-echo_intensity_beam2,,,,,,,,Leila,2017-05-31T00:00:00Z
-correlation_magnitude_beam4,,,,,,,,Leila,2017-05-31T00:00:00Z
-correlation_magnitude_beam2,,,,,,,,Leila,2017-05-31T00:00:00Z
-correlation_magnitude_beam2,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-31T00:00:00Z
-correlation_magnitude_beam3,,,,,,,,Leila,2017-05-31T00:00:00Z
-correlation_magnitude_beam1,,,,,,,,Leila,2017-05-31T00:00:00Z
-echo_intensity_beam4,,,,,,,,Leila,2017-05-31T00:00:00Z
-echo_intensity_beam3,,,,,,,,Leila,2017-05-31T00:00:00Z
-heading,,,,,,,,Leila,2017-05-31T00:00:00Z
-echo_intensity_beam1,,,,,,,,Leila,2017-05-31T00:00:00Z
-corrected_echo_intensity_beam4,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-31T00:00:00Z
-corrected_echo_intensity_beam3,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-31T00:00:00Z
-corrected_echo_intensity_beam2,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-31T00:00:00Z
-corrected_echo_intensity_beam1,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-31T00:00:00Z
-water_velocity_north,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-31T00:00:00Z
-water_velocity_up,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-31T00:00:00Z
-water_velocity_east,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-31T00:00:00Z
-error_velocity,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-31T00:00:00Z
-correlation_magnitude_beam4,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-31T00:00:00Z
-correlation_magnitude_beam2,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-31T00:00:00Z
-correlation_magnitude_beam3,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-31T00:00:00Z
-corrected_echo_intensity_beam4,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-31T00:00:00Z
-corrected_echo_intensity_beam3,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-31T00:00:00Z
-corrected_echo_intensity_beam2,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-31T00:00:00Z
-corrected_echo_intensity_beam1,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-31T00:00:00Z
-water_velocity_north,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-31T00:00:00Z
-water_velocity_up,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-31T00:00:00Z
-water_velocity_east,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-31T00:00:00Z
-error_velocity,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-31T00:00:00Z
-correlation_magnitude_beam2,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-31T00:00:00Z
-correlation_magnitude_beam3,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,applies to one file,FAILED,,tested fill_test: True,Leila,2017-05-31T00:00:00Z
+corrected_echo_intensity_beam1,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,issue with retrieval of computed data products,FAIL,10073,,Leila,2017-05-31T00:00:00Z
+corrected_echo_intensity_beam2,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,issue with retrieval of computed data products,FAIL,10073,,Leila,2017-05-31T00:00:00Z
+corrected_echo_intensity_beam3,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,issue with retrieval of computed data products,FAIL,10073,,Leila,2017-05-31T00:00:00Z
+corrected_echo_intensity_beam4,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,issue with retrieval of computed data products,FAIL,10073,,Leila,2017-05-31T00:00:00Z
+corrected_echo_intensity_beam1,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,issue with retrieval of computed data products,FAIL,10073,,Leila,2017-05-31T00:00:00Z
+corrected_echo_intensity_beam2,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,issue with retrieval of computed data products,FAIL,10073,,Leila,2017-05-31T00:00:00Z
+corrected_echo_intensity_beam3,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,issue with retrieval of computed data products,FAIL,10073,,Leila,2017-05-31T00:00:00Z
+corrected_echo_intensity_beam4,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,issue with retrieval of computed data products,FAIL,10073,,Leila,2017-05-31T00:00:00Z
+corrected_echo_intensity_beam1,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,issue with retrieval of computed data products,FAIL,10073,,Leila,2017-05-31T00:00:00Z
+corrected_echo_intensity_beam2,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,issue with retrieval of computed data products,FAIL,10073,,Leila,2017-05-31T00:00:00Z
+corrected_echo_intensity_beam3,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,issue with retrieval of computed data products,FAIL,10073,,Leila,2017-05-31T00:00:00Z
+corrected_echo_intensity_beam4,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,issue with retrieval of computed data products,FAIL,10073,,Leila,2017-05-31T00:00:00Z

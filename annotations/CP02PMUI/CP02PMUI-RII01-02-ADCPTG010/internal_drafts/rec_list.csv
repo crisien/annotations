@@ -1,0 +1,14 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#
+corrected_echo_intensity_beam1,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,issue with retrieval of computed data products,FAIL,10073.0
+corrected_echo_intensity_beam2,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,issue with retrieval of computed data products,FAIL,10073.0
+corrected_echo_intensity_beam3,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,issue with retrieval of computed data products,FAIL,10073.0
+corrected_echo_intensity_beam4,D00001,2013-11-23T23:30:00Z,2014-04-11T23:45:00Z,issue with retrieval of computed data products,FAIL,10073.0
+adcp_velocity_earth,D00002,2014-04-12T16:42:00Z,2014-07-01T17:30:00Z,Data available in the CI server need to ingested.,PENDING_INGEST,
+corrected_echo_intensity_beam1,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,issue with retrieval of computed data products,FAIL,10073.0
+corrected_echo_intensity_beam2,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,issue with retrieval of computed data products,FAIL,10073.0
+corrected_echo_intensity_beam3,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,issue with retrieval of computed data products,FAIL,10073.0
+corrected_echo_intensity_beam4,D00002,2014-07-01T17:30:00Z,2014-10-08T23:45:00Z,issue with retrieval of computed data products,FAIL,10073.0
+corrected_echo_intensity_beam1,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,issue with retrieval of computed data products,FAIL,10073.0
+corrected_echo_intensity_beam2,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,issue with retrieval of computed data products,FAIL,10073.0
+corrected_echo_intensity_beam3,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,issue with retrieval of computed data products,FAIL,10073.0
+corrected_echo_intensity_beam4,D00005,2015-05-03T13:45:00Z,2015-10-16T12:30:00Z,issue with retrieval of computed data products,FAIL,10073.0

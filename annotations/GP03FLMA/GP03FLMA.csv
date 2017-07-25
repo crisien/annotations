@@ -1,2 +1,4 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
 GP03FLMA,D00004,2016-07-01T01:07:00Z,2017-04-05T00:00:00Z,"Consistent issues with data telemetry have persisted for this deployment. Due to glider failures on 1/27/2017, there will be no telemetered data from this platform.",,,Update end time as the deployment progresses,lori,2017-04-05T00:00:00Z
+GP03FLMA-RIM01-02-CTDMOG042,D00004,2016-07-01T01:07:00,2017-07-18T00:00:00,Instrument was deployed at 60m but slid to approximately 90m (confirmed on recovery of the mooring).,,,Update end time as the deployment progresses,lori,2017-07-25T00:00:00Z
+GP03FLMA,D00005,2017-07-07T00:00:00,2017-07-25T00:00:00Z,"Gliders were not deployed, so telemetered data from this platform will not be available for this deployment.",,,Update start time when asset management is updated. Update end time as the deployment progresses,lori,2017-07-25T00:00:00Z

@@ -1,17 +1,18 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
 GP03FLMB,D00001,2013-07-24T06:32:00Z,2014-06-18T00:00:00Z,Platform was deployed 5-10m shallower than intended.,,,,lori,2017-05-11T00:00:00Z
 GP03FLMB,D00002,2014-06-20T02:00:00Z,2015-06-07T00:00:00Z,Platform was deployed 10-15m shallower than intended.,,,,lori,2017-05-11T00:00:00Z
-GP03FLMB,D00003,2015-06-08T21:25:00Z,2016-07-03T18:35:00Z,Platform was deployed 10m deeper than intended.,,,,,2017-05-12T00:00:00Z
-GP03FLMB,D00004,2016-07-04T23:07:00Z,2017-05-12T00:00:00Z,Platform was deployed 10m deeper than intended.,,,Update end time as the deployment progresses,,2017-05-12T00:00:00Z
+GP03FLMB,D00003,2015-06-08T21:25:00Z,2016-07-03T18:35:00Z,Platform was deployed 10m deeper than intended.,,,,lori,2017-05-12T00:00:00Z
+GP03FLMB,D00004,2016-07-04T23:07:00Z,2017-05-12T00:00:00Z,Platform was deployed 10m deeper than intended.,,,Update end time as the deployment progresses,lori,2017-05-12T00:00:00Z
 GP03FLMB,D00004,2016-07-04T23:07:00Z,2017-05-11T00:00:00Z,"Consistent issues with data telemetry have persisted for this deployment. Due to glider failures on 1/27/2017, there will be no telemetered data from this platform for the remainder of the deployment.",,,Update end time as the deployment progresses,lori,2017-05-11T00:00:00Z
 GP03FLMB-RIM01,,,,,,,,lori,2017-05-11T00:00:00Z
 GP03FLMB-RIM01-02-CTDMOG060,,,,,,,,lori,2017-05-11T00:00:00Z
 GP03FLMB-RIM01-02-CTDMOG061,,,,,,,,lori,2017-05-11T00:00:00Z
-GP03FLMB-RIM01-02-CTDMOG062,D00004,2016-10-08T08:00:01Z,2016-12-05T20:00:01Z,Instrument should have been deployed around 60m but pressure values recorded around 100 dbar. This could be a bad pressure sensor - will know more when the instrument is recovered in the summer of 2017.,,,MIO investigating. Could be a bad pressure sensor.,lori,2017-05-12T00:00:00Z
+GP03FLMB-RIM01-02-CTDMOG062,D00004,2016-10-08T08:00:01Z,2016-12-05T20:00:01Z,Instrument was deployed at 60m but slid to approximately 90m (confirmed on recovery of the mooring).,,,,lori,2017-05-12T00:00:00Z
 GP03FLMB-RIM01-02-CTDMOG063,,,,,,,,lori,2017-05-12T00:00:00Z
-GP03FLMB-RIM01-02-CTDMOG064,,,,,,,,lori,2017-05-12T00:00:00Z
+GP03FLMB-RIM01-02-CTDMOG064,D00004,2016-10-08T08:00:01Z,2016-12-05T20:00:01Z,"Instrument was deployed at 130m but slid to approximately 180m (confirmed on recovery of the mooring). An abrupt pressure change was not seen in the telemetered data, so the event might have occurred during recovery of the mooring.",,,Check recovered data for abrupt pressure change - slipping event not seen in telemetered data.,lori,2017-07-25T00:00:00Z
 GP03FLMB-RIM01-02-CTDMOG065,,,,,,,,lori,2017-05-15T00:00:00Z
 GP03FLMB-RIM01-02-CTDMOG066,,,,,,,,lori,2017-05-15T00:00:00Z
 GP03FLMB-RIM01-02-CTDMOG067,,,,,,,,lori,2017-05-15T00:00:00Z
 GP03FLMB-RIM01-02-CTDMOG068,,,,,,,,lori,2017-05-15T00:00:00Z
 GP03FLMB-RIM01-02-CTDMOH069,,,,,,,,lori,2017-05-15T00:00:00Z
+GP03FLMB,D00005,2017-07-07T00:00:00,2017-07-25T00:00:00Z,"Gliders were not deployed, so telemetered data from this platform will not be available for this deployment.",,,Update start time when asset management is updated. Update end time as the deployment progresses,lori,2017-07-25T00:00:00Z

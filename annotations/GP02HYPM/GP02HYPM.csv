@@ -1,3 +1,4 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
 GP02HYPM,D00002,2014-06-21T03:28:00Z,2014-06-22T02:14:00Z,"Originally deployed on 6/16/2014, recovered on 6/21/2014 at 03:28 UTC due to firmware issue and re-deployed with updated firmware on 6/22/2014 at 02:14 UTC",NOT_OPERATIONAL,,,lori,2017-04-05T00:00:00Z
 GP02HYPM,D00004,2017-01-27T00:00:00Z,2017-04-05T00:00:00Z,"Due to glider failures, there will be no telemetered data from this platform starting around 1/27/2017.",,,Update end time as the deployment progresses,lori,2017-04-05T00:00:00Z
+GP02HYPM,D00005,2017-07-07T00:00:00,2017-07-25T00:00:00Z,"Gliders were not deployed, so telemetered data from this platform will not be available for this deployment.",,,Update start time when asset management is updated. Update end time as the deployment progresses,lori,2017-07-25T00:00:00Z

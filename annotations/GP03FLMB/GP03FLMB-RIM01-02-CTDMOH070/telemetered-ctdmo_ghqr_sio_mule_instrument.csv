@@ -1,0 +1,14 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdmo_ghqr_sio_mule_instrument,D00001,2013-07-24T10:00:01Z,2013-11-28T22:00:01Z,,AVAILABLE,,,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00001,2013-11-28T22:00:01Z,2013-11-30T02:00:01Z,,NOT_AVAILABLE,,,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00001,2013-11-30T02:00:01Z,2014-02-27T14:00:01Z,,AVAILABLE,,,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00001,2014-02-27T14:00:01Z,2014-06-18T00:00:00Z,,NOT_AVAILABLE,,,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00002,2014-06-20T04:00:01Z,2014-11-09T00:00:01Z,,AVAILABLE,,,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00002,2014-11-09T00:00:01Z,2015-06-07T00:00:00Z,,NOT_AVAILABLE,,,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00003,2015-06-09T00:00:01Z,2015-06-20T08:00:01Z,,AVAILABLE,,,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00003,2015-06-20T08:00:01Z,2015-06-21T12:00:01Z,,NOT_AVAILABLE,,,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00003,2015-06-21T12:00:01Z,2016-02-09T22:00:01Z,,AVAILABLE,,,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00003,2016-02-09T22:00:01Z,2016-07-03T18:35:00Z,,NOT_AVAILABLE,,,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00004,2016-07-04T23:07:00Z,2016-10-08T08:00:01Z,Issues with data telemetry. See platform level annotation for details.,NOT_AVAILABLE,,,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00004,2016-10-08T08:00:01Z,2016-12-05T20:00:01Z,Very sparse data available due to consistent issues with data telemetry.,AVAILABLE,,,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00004,2016-12-05T20:00:01Z,2017-07-14T00:00:00Z,Issues with data telemetry. See platform level annotation for details.,NOT_AVAILABLE,,Update end date when AM is updated,lori,2017-07-26T00:00:00Z

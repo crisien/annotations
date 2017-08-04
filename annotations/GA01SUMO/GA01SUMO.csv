@@ -18,3 +18,5 @@ GA01SUMO-RII11-02-CTDMOQ033,,,,,,,,lori,2017-04-21T00:00:00Z
 GA01SUMO-RII11-02-CTDMOR018,,,,,,"12238, 12250",1) Uframe is filtering out valid deployment data. Check when fix is implemented. 2) Deploy 2 and 3 telemetered/recovered_host temp values are slightly offset from recovered_inst values. I suspect cal values are incorrect,lori,2017-04-24T00:00:00Z
 GA01SUMO-RII11-02-CTDMOR019,,,,,,"12238, 12250",1) Uframe is filtering out valid deployment data. Check when fix is implemented. 2) Deploy 2 and 3 telemetered/recovered_host temp values are slightly offset from recovered_inst values. I suspect cal values are incorrect,lori,2017-04-25T00:00:00Z
 GA01SUMO-RII11-02-CTDMOR020,,,,,,,,lori,2017-04-25T00:00:00Z
+GA01SUMO-RID16-02-FLORTD000,D00003,2017-06-24T00:00:00Z,2017-08-04T00:00:00Z,Instrument stopped sending files via satellite transmission.,,11856,Update as deployment progresses,lori,2017-08-04T00:00:00Z
+GA01SUMO-RID16-07-NUTNRB000,D00003,2017-06-08T00:00:00Z,2017-08-04T00:00:00Z,"Instrument started sending files containing bad characters, and ceased satellite transmission on 2017-07-24.",,11856,Update as deployment progresses,lori,2017-08-04T00:00:00Z

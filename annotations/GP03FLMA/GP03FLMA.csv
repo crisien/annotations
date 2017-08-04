@@ -10,3 +10,4 @@ GP03FLMA-RIM01-02-CTDMOG041,D00002,2014-06-17T17:00:01Z,2015-06-05T00:00:00Z,Reg
 GP03FLMA-RIM01-02-CTDMOG042,D00003,2015-06-06T22:45:01Z,2016-06-28T19:00:01Z,Conductivity (therefore salinity and density) values are different between telemetered and recovered data: investigation pending,,12533,MIO to check cal coefficients,lori,2017-07-25T00:00:00Z
 GP03FLMA-RIM01-02-CTDMOG042,D00004,2016-07-01T01:07:00Z,2017-07-18T00:00:00Z,Instrument was deployed at 60m but slid to approximately 100m (confirmed on recovery of the mooring).,,,Update end time as the deployment progresses,lori,2017-07-25T00:00:00Z
 GP03FLMA-RIM01-02-CTDMOG043,,,,,,,,lori,2017-08-04T00:00:00Z
+GP03FLMA-RIM01-02-CTDMOG044,,,,,,,,lori,2017-08-04T00:00:00Z

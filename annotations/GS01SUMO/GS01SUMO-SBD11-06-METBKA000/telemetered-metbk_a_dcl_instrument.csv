@@ -1,0 +1,17 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+metbk_a_dcl_instrument,D00001,2015-02-18T21:06:00Z,2015-08-10T10:17:07Z,A few sparse data points are available,NOT_AVAILABLE,,,lori,2017-08-03T00:00:00Z
+metbk_a_dcl_instrument,D00001,2015-08-10T10:17:07Z,2015-08-25T00:16:46Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-08-03T00:00:00Z
+metbk_a_dcl_instrument,D00001,2015-08-25T00:16:46Z,2015-11-24T06:26:41Z,,NOT_AVAILABLE,,,lori,2017-08-03T00:00:00Z
+metbk_a_dcl_instrument,D00001,2015-11-24T06:26:41Z,2015-12-22T18:15:04Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-08-03T00:00:00Z
+metbk_a_dcl_instrument,D00001,2015-12-22T18:15:04Z,2015-12-27T11:20:00Z,,NOT_AVAILABLE,,,lori,2017-08-03T00:00:00Z
+metbk_a_dcl_instrument,D00002,2015-12-14T20:20:21Z,2016-09-08T07:01:02Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-08-03T00:00:00Z
+metbk_a_dcl_instrument,D00002,2016-09-08T07:01:02Z,2016-09-09T21:12:30Z,,NOT_AVAILABLE,,,lori,2017-08-03T00:00:00Z
+metbk_a_dcl_instrument,D00002,2016-09-09T21:12:30Z,2016-11-05T09:07:52Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-08-03T00:00:00Z
+metbk_a_dcl_instrument,D00002,2016-11-05T09:07:52Z,2016-11-07T00:00:56Z,,NOT_AVAILABLE,,,lori,2017-08-03T00:00:00Z
+metbk_a_dcl_instrument,D00002,2016-11-07T00:00:56Z,2016-11-08T07:00:51Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-08-03T00:00:00Z
+metbk_a_dcl_instrument,D00002,2016-11-08T07:00:51Z,2016-11-10T06:26:47Z,,NOT_AVAILABLE,,,lori,2017-08-03T00:00:00Z
+metbk_a_dcl_instrument,D00002,2016-11-10T06:26:47Z,2016-11-11T07:01:08Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-08-03T00:00:00Z
+metbk_a_dcl_instrument,D00002,2016-11-11T07:01:08Z,2016-11-13T00:00:28Z,,NOT_AVAILABLE,,,lori,2017-08-03T00:00:00Z
+metbk_a_dcl_instrument,D00002,2016-11-13T00:00:28Z,2016-11-13T00:34:29Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-08-03T00:00:00Z
+metbk_a_dcl_instrument,D00002,2016-11-13T00:34:29Z,2016-12-12T00:00:00Z,,NOT_AVAILABLE,,,lori,2017-08-03T00:00:00Z
+metbk_a_dcl_instrument,D00003,2016-11-25T01:12:01Z,2017-08-02T09:04:14Z,,NOT_EVALUATED,,update as deployment progresses,lori,2017-08-03T00:00:00Z

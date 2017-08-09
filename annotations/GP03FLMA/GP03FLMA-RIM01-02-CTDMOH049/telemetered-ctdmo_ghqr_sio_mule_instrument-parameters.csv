@@ -1,0 +1,9 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+temperature,,,,,,,,lori,2017-08-09T00:00:00Z
+ctdmo_seawater_temperature,,,,,,,,lori,2017-08-09T00:00:00Z
+density,D00004,2016-07-01T04:00:01Z,2016-07-10T12:00:01Z,Instrument should have been deployed around 750m but telemetered pressure readings around 930 dbar. Pressure would affect density calculations. Investigation pending.,SUSPECT,,check recovered data when available,lori,2017-08-09T00:00:00Z
+practical_salinity,D00004,2016-07-01T04:00:01Z,2016-07-10T12:00:01Z,Instrument should have been deployed around 750m but telemetered pressure readings around 930 dbar. Pressure would affect salinity calculations. Investigation pending.,SUSPECT,,check recovered data when available,lori,2017-08-09T00:00:00Z
+pressure,,,,,,,,lori,2017-08-09T00:00:00Z
+ctdmo_seawater_pressure,D00004,2016-07-01T04:00:01Z,2016-07-10T12:00:01Z,Instrument should have been deployed around 750m but telemetered pressure readings around 930 dbar. Investigation pending.,SUSPECT,,check recovered data when available,lori,2017-08-09T00:00:00Z
+ctdmo_seawater_conductivity,,,,,,,,lori,2017-08-09T00:00:00Z
+conductivity,,,,,,,,lori,2017-08-09T00:00:00Z

@@ -1,0 +1,14 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+temperature,,,,,,,,lori,2017-08-09T00:00:00Z
+ctdmo_seawater_temperature,,,,,,,,lori,2017-08-09T00:00:00Z
+pressure_temp,,,,,,,,lori,2017-08-09T00:00:00Z
+density,,,,,,,,lori,2017-08-09T00:00:00Z
+density,D00001,2013-07-21T22:45:01Z,2014-06-14T23:45:01Z,applies to one file,FAILED,,tested all_nans: True,lori,2017-08-09T00:00:00Z
+practical_salinity,,,,,,,,lori,2017-08-09T00:00:00Z
+practical_salinity,D00001,2013-07-21T22:45:01Z,2014-06-14T23:45:01Z,applies to one file,FAILED,,tested all_nans: True,lori,2017-08-09T00:00:00Z
+pressure,,,,,,,,lori,2017-08-09T00:00:00Z
+inductive_id,,,,,,,,lori,2017-08-09T00:00:00Z
+serial_number,,,,,,,,lori,2017-08-09T00:00:00Z
+ctdmo_seawater_pressure,,,,,,,,lori,2017-08-09T00:00:00Z
+ctdmo_seawater_conductivity,,,,,,,,lori,2017-08-09T00:00:00Z
+conductivity,,,,,,,,lori,2017-08-09T00:00:00Z

@@ -1,9 +1,9 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
 dpc_ctd_instrument_recovered,D00001,2014-08-16T23:30:00Z,2014-08-30T00:00:00Z,,PENDING_INGEST,11867,follow up on ingest,friedrich,2017-03-29T00:00:00Z
 dpc_ctd_instrument_recovered,D00001,2014-08-30T00:00:00Z,2015-07-23T00:00:00Z,Profiler not operational due to docking station overcurrent,NOT_AVAILABLE,,Annotation derived from RSN DEL. Check if redmine ticket exists that documents this issue.,friedrich,2017-03-29T00:00:00Z
-dpc_ctd_instrument_recovered,D00002,2015-07-24T21:40:33Z,2015-07-25T21:40:03Z,,AVAILABLE,,check: evaluate parameters,friedrich,2017-03-29T00:00:00Z
+dpc_ctd_instrument_recovered,D00002,2015-07-24T21:40:33Z,2015-07-25T21:40:03Z,,AVAILABLE,,,friedrich,2017-03-29T00:00:00Z
 dpc_ctd_instrument_recovered,D00002,2015-07-25T21:40:03Z,2015-10-28T21:05:06Z,Comm issues,NOT_AVAILABLE,,Annotation derived from RSN DEL. Check if redmine ticket exists that documents this issue.,friedrich,2017-03-29T00:00:00Z
-dpc_ctd_instrument_recovered,D00002,2015-10-28T21:05:06Z,2015-10-29T02:48:27Z,,AVAILABLE,,check: evaluate parameters,friedrich,2017-03-29T00:00:00Z
+dpc_ctd_instrument_recovered,D00002,2015-10-28T21:05:06Z,2015-10-29T02:48:27Z,,AVAILABLE,,,friedrich,2017-03-29T00:00:00Z
 dpc_ctd_instrument_recovered,D00002,2015-10-29T02:48:27Z,2015-12-22T23:00:00Z,,PENDING_INGEST,11867,follow up on ingest,friedrich,2017-03-29T00:00:00Z
 dpc_ctd_instrument_recovered,D00002,2015-12-22T23:00:00Z,2016-08-07T00:00:00Z,,NOT_AVAILABLE,,,friedrich,2017-03-29T00:00:00Z
 dpc_ctd_instrument_recovered,D00003,2016-08-07T03:50:00Z,2017-03-29T00:00:00Z," Initial data reported via inductive modem, but profiler no longer communicating",NOT_AVAILABLE,,Annotation derived from RSN DEL. Check if redmine ticket exists that documents this issue.,friedrich,2017-03-29T00:00:00Z

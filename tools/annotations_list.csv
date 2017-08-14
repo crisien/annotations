@@ -1,3 +1,2 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#
-ctdgv_m_glider_instrument,D00001,2015-02-12T19:13:59Z,2015-03-27T00:00:00Z,Awaiting ingestion if raw data if available,NOT_AVAILABLE,
-ctdgv_m_glider_instrument,D00002,2016-08-13T23:50:20Z,2016-08-18T08:45:00Z,Awaiting ingestion if raw data if available,NOT_AVAILABLE,
+ctdgv_m_glider_instrument,D00001,2015-01-11T20:47:00Z,2015-02-13T00:00:0Z,Awaiting ingestion if raw data if available,NOT_AVAILABLE,

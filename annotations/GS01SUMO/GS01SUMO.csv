@@ -5,3 +5,5 @@ GS01SUMO-RII11-02-CTDBPP031,D00003,2017-01-28T00:00:00Z,2017-08-04T00:00:00Z,Ins
 GS01SUMO-RII11-02-CTDBPP032,D00003,2017-05-01T00:00:00Z,2017-08-04T00:00:00Z,"Instrument started sending intermittent files containing bad characters, and ceased satellite transmission of files on 2017-08-02.",,11984,update as deployment progresses,lori,2017-08-04T00:00:00Z
 GS01SUMO-RII11-02-PCO2WC051,D00003,2017-06-15T00:00:00Z,2017-08-04T00:00:00Z,Instrument sending files via satellite transmission intermittently.,,11984,update as deployment progresses,lori,2017-08-04T00:00:00Z
 GS01SUMO-SBD12-08-FDCHPA000,D00003,2017-06-11T00:00:00Z,2017-08-04T00:00:00Z,Instrument stopped sending files via satellite transmission.,,11984,update as deployment progresses,lori,2017-08-04T00:00:00Z
+GS01SUMO-RID16-03-CTDBPF000,,,,,,,,lori,2017-08-14T00:00:00Z
+GS01SUMO-RID16,,,,,,,,lori,2017-08-14T00:00:00Z

@@ -1,0 +1,10 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdbp_seawater_temperature,D00002,2015-12-14T21:00:03Z,2016-05-06T12:00:03Z,Telemetered and recovered data don't match. Investigation pending,SUSPECT,12573,check cal sheets,lori,2017-08-15T00:00:00Z
+temperature,,,,,,,,lori,2017-08-15T00:00:00Z
+practical_salinity,D00002,2015-12-14T21:00:03Z,2016-05-06T12:00:03Z,Telemetered and recovered data don't match. Investigation pending,SUSPECT,12573,check cal sheets,lori,2017-08-15T00:00:00Z
+ctdbp_seawater_conductivity,,,,,,,,lori,2017-08-15T00:00:00Z
+ctdbp_seawater_pressure,D00002,2015-12-14T21:00:03Z,2016-05-06T12:00:03Z,Telemetered and recovered data don't match. Investigation pending,SUSPECT,12573,check cal sheets,lori,2017-08-15T00:00:00Z
+pressure,,,,,,,,lori,2017-08-15T00:00:00Z
+pressure_temp,,,,,,,,lori,2017-08-15T00:00:00Z
+density,D00002,2015-12-14T21:00:03Z,2016-05-06T12:00:03Z,Telemetered and recovered data don't match. Investigation pending,SUSPECT,12573,check cal sheets,lori,2017-08-15T00:00:00Z
+conductivity,,,,,,,,lori,2017-08-15T00:00:00Z

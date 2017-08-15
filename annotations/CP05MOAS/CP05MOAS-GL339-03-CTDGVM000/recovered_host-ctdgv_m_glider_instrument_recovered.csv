@@ -1,0 +1,5 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdgv_m_glider_instrument_recovered,D00001,2015-01-12T06:00:33Z,2015-04-28T23:47:06Z,,AVAILABLE,,,Leila,2017-05-10T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00002,2016-01-18T00:00:00Z,2016-01-21T15:08:06Z,,NOT_AVAILABLE,,check: difference between data begin and deployment begin date is: 3 days 15:08:06,Leila,2017-05-10T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00002,2016-01-21T15:08:06Z,2016-04-16T15:44:02Z,,AVAILABLE,,,Leila,2017-05-10T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00002,2016-04-16T15:44:02Z,2016-04-19T00:00:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 2 days 08:15:58,Leila,2017-05-10T00:00:00Z

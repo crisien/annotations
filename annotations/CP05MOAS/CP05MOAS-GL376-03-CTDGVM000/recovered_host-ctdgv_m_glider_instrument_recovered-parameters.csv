@@ -2,8 +2,12 @@ Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,Re
 practical_salinity,,,,,,,,Leila,2017-05-10T00:00:00Z
 sci_water_pressure_dbar,,,,,,,,Leila,2017-05-10T00:00:00Z
 sci_water_cond,,,,,,,,Leila,2017-05-10T00:00:00Z
-sci_m_present_secs_into_mission,,,,,,,,Leila,2017-05-10T00:00:00Z
 sci_water_pressure,,,,,,,,Leila,2017-05-10T00:00:00Z
 sci_seawater_density,,,,,,,,Leila,2017-05-10T00:00:00Z
-m_present_secs_into_mission,,,,,,,,Leila,2017-05-10T00:00:00Z
 sci_water_temp,,,,,,,,Leila,2017-05-10T00:00:00Z
+practical_salinity,2014-10-15T00:00:00Z,2014-12-12T23:09:55Z,CTD has been turned off,FAIL,,,,Leila,2017-05-10T00:00:00Z
+sci_water_pressure_dbar,2014-10-15T00:00:00Z,2014-12-12T23:09:55Z,CTD has been turned off,FAIL,,,,Leila,2017-05-10T00:00:00Z
+sci_water_cond,2014-10-15T00:00:00Z,2014-12-12T23:09:55Z,CTD has been turned off,FAIL,,,,Leila,2017-05-10T00:00:00Z
+sci_water_pressure,2014-10-15T00:00:00Z,2014-12-12T23:09:55Z,CTD has been turned off,FAIL,,,,Leila,2017-05-10T00:00:00Z
+sci_seawater_density,2014-10-15T00:00:00Z,2014-12-12T23:09:55Z,CTD has been turned off,FAIL,,,,Leila,2017-05-10T00:00:00Z
+sci_water_temp,2014-10-15T00:00:00Z,2014-12-12T23:09:55Z,CTD has been turned off,FAIL,,,,Leila,2017-05-10T00:00:00Z

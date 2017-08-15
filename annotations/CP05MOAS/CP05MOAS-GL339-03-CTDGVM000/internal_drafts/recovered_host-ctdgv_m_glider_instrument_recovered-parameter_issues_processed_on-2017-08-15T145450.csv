@@ -1,0 +1,17 @@
+Level,Deployment,StartTime,EndTime,Notes,Test,Redmine#,Todo,ReviewedBy,ReviewedDate
+practical_salinity,D00001,2015-01-12T06:00:33Z,2015-04-28T23:47:06Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 42.0,Leila,2017-05-10T00:00:00Z
+sci_water_pressure_dbar,D00001,2015-01-12T06:00:33Z,2015-04-28T23:47:06Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 6000.0,Leila,2017-05-10T00:00:00Z
+sci_water_cond,D00001,2015-01-12T06:00:33Z,2015-04-28T23:47:06Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 6.0,Leila,2017-05-10T00:00:00Z
+sci_m_present_secs_into_mission,D00001,2015-01-12T06:00:33Z,2015-04-28T23:47:06Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-10T00:00:00Z
+sci_water_pressure,D00001,2015-01-12T06:00:33Z,2015-04-28T23:47:06Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 6000.0,Leila,2017-05-10T00:00:00Z
+sci_seawater_density,D00001,2015-01-12T06:00:33Z,2015-04-28T23:47:06Z,extracted from 1st file of 1 files,Global Range Values,,global min = 1000.0 global_max = 1100.0,Leila,2017-05-10T00:00:00Z
+m_present_secs_into_mission,D00001,2015-01-12T06:00:33Z,2015-04-28T23:47:06Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-10T00:00:00Z
+sci_water_temp,D00001,2015-01-12T06:00:33Z,2015-04-28T23:47:06Z,extracted from 1st file of 1 files,Global Range Values,,global min = -2.0 global_max = 40.0,Leila,2017-05-10T00:00:00Z
+practical_salinity,D00002,2016-01-21T15:08:06Z,2016-04-16T15:44:02Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 42.0,Leila,2017-05-10T00:00:00Z
+sci_water_pressure_dbar,D00002,2016-01-21T15:08:06Z,2016-04-16T15:44:02Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 6000.0,Leila,2017-05-10T00:00:00Z
+sci_water_cond,D00002,2016-01-21T15:08:06Z,2016-04-16T15:44:02Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 6.0,Leila,2017-05-10T00:00:00Z
+sci_m_present_secs_into_mission,D00002,2016-01-21T15:08:06Z,2016-04-16T15:44:02Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-10T00:00:00Z
+sci_water_pressure,D00002,2016-01-21T15:08:06Z,2016-04-16T15:44:02Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 6000.0,Leila,2017-05-10T00:00:00Z
+sci_seawater_density,D00002,2016-01-21T15:08:06Z,2016-04-16T15:44:02Z,extracted from 1st file of 1 files,Global Range Values,,global min = 1000.0 global_max = 1100.0,Leila,2017-05-10T00:00:00Z
+m_present_secs_into_mission,D00002,2016-01-21T15:08:06Z,2016-04-16T15:44:02Z,extracted from 1st file of 1 files,Global Range Values,,global min = None global_max = None,Leila,2017-05-10T00:00:00Z
+sci_water_temp,D00002,2016-01-21T15:08:06Z,2016-04-16T15:44:02Z,extracted from 1st file of 1 files,Global Range Values,,global min = -2.0 global_max = 40.0,Leila,2017-05-10T00:00:00Z

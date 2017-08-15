@@ -1,9 +1,11 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+GS01SUMO,,,,,,,,lori,2017-05-08T00:00:00Z
+GS01SUMO-RID16,,,,,,,,lori,2017-08-14T00:00:00Z
+GS01SUMO-RII11,,,,,,,,lori,2017-08-15T00:00:00Z
 GS01SUMO-RID16-05-PCO2WB000,D00003,2017-04-30T00:00:00Z,2017-05-08T00:00:00Z,"Files that were telemetered during this deployment did not contain valid data with correct timestamps. Unit could have been configured to the incorrect time at deployment. In addition, the instrument stopped sending telemetered data files on 2017-04-30. Issue under investigation.",,"12210, 12312",update as deployment progresses,lori,2017-05-08T00:00:00Z
 GS01SUMO-SBD11-06-METBKA000,D00002,2016-01-01T00:00:00Z,2016-11-13T00:34:29Z,Downwelling Shortwave Irradiance (shortwave_irradiance) and Net Shortwave Irradiance (met_netsirr) minimum values jump from ~0 W m-2 to ~13-14 W m-2 and remain there through the rest of the deployment. Investigation pending.,,12543,Follow-up with MIO,lori,2017-08-03T00:00:00Z
-GS01SUMO-RII11-02-CTDBPP031,D00003,2017-01-28T00:00:00Z,2017-08-04T00:00:00Z,Instrument stopped sending files containing valid data via satellite transmission (files contain bad characters).,,11984,update as deployment progresses,lori,2017-08-04T00:00:00Z
 GS01SUMO-RII11-02-CTDBPP032,D00003,2017-05-01T00:00:00Z,2017-08-04T00:00:00Z,"Instrument started sending intermittent files containing bad characters, and ceased satellite transmission of files on 2017-08-02.",,11984,update as deployment progresses,lori,2017-08-04T00:00:00Z
 GS01SUMO-RII11-02-PCO2WC051,D00003,2017-06-15T00:00:00Z,2017-08-04T00:00:00Z,Instrument sending files via satellite transmission intermittently.,,11984,update as deployment progresses,lori,2017-08-04T00:00:00Z
 GS01SUMO-SBD12-08-FDCHPA000,D00003,2017-06-11T00:00:00Z,2017-08-04T00:00:00Z,Instrument stopped sending files via satellite transmission.,,11984,update as deployment progresses,lori,2017-08-04T00:00:00Z
 GS01SUMO-RID16-03-CTDBPF000,,,,,,,,lori,2017-08-14T00:00:00Z
-GS01SUMO-RID16,,,,,,,,lori,2017-08-14T00:00:00Z
+GS01SUMO-RII11-02-CTDBPP031,D00002,2015-12-14T20:20:00Z,2016-12-12T00:00:00Z,"Telemetered and recovered_host data files contain bad characters that prevent parsing data, and no data were recorded internally on the instrument.",NOT_OPERATIONAL,11172,,lori,2017-08-15T00:00:00Z

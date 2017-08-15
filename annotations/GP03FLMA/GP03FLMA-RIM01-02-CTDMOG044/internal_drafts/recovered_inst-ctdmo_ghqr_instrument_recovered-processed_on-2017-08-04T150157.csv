@@ -1,0 +1,26 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdmo_ghqr_instrument_recovered,D00001,2013-07-21T22:45:01Z,2014-06-14T23:45:01Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-08-04T00:00:00Z
+ctdmo_ghqr_instrument_recovered,D00002,2014-06-17T06:00:01Z,2014-06-21T02:30:01Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-08-04T00:00:00Z
+ctdmo_ghqr_instrument_recovered,D00002,2014-06-21T02:30:01Z,2014-07-01T19:00:01Z,,NOT_AVAILABLE,,check: data gap: 10 days 16:30:00,lori,2017-08-04T00:00:00Z
+ctdmo_ghqr_instrument_recovered,D00002,2014-07-01T19:00:01Z,2014-07-12T10:30:01Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-08-04T00:00:00Z
+ctdmo_ghqr_instrument_recovered,D00002,2014-07-12T10:30:01Z,2014-07-17T19:00:01Z,,NOT_AVAILABLE,,check: data gap: 5 days 08:30:00,lori,2017-08-04T00:00:00Z
+ctdmo_ghqr_instrument_recovered,D00002,2014-07-17T19:00:01Z,2014-07-28T10:30:01Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-08-04T00:00:00Z
+ctdmo_ghqr_instrument_recovered,D00002,2014-07-28T10:30:01Z,2014-08-02T19:00:01Z,,NOT_AVAILABLE,,check: data gap: 5 days 08:30:00,lori,2017-08-04T00:00:00Z
+ctdmo_ghqr_instrument_recovered,D00002,2014-08-02T19:00:01Z,2014-08-13T10:30:01Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-08-04T00:00:00Z
+ctdmo_ghqr_instrument_recovered,D00002,2014-08-13T10:30:01Z,2014-08-24T02:45:01Z,,NOT_AVAILABLE,,check: data gap: 10 days 16:15:00,lori,2017-08-04T00:00:00Z
+ctdmo_ghqr_instrument_recovered,D00002,2014-08-24T02:45:01Z,2014-08-29T10:30:01Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-08-04T00:00:00Z
+ctdmo_ghqr_instrument_recovered,D00002,2014-08-29T10:30:01Z,2014-09-03T19:00:01Z,,NOT_AVAILABLE,,check: data gap: 5 days 08:30:00,lori,2017-08-04T00:00:00Z
+ctdmo_ghqr_instrument_recovered,D00002,2014-09-03T19:00:01Z,2014-09-14T10:30:01Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-08-04T00:00:00Z
+ctdmo_ghqr_instrument_recovered,D00002,2014-09-14T10:30:01Z,2014-09-19T19:00:01Z,,NOT_AVAILABLE,,check: data gap: 5 days 08:30:00,lori,2017-08-04T00:00:00Z
+ctdmo_ghqr_instrument_recovered,D00002,2014-09-19T19:00:01Z,2014-09-30T10:30:01Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-08-04T00:00:00Z
+ctdmo_ghqr_instrument_recovered,D00002,2014-09-30T10:30:01Z,2014-10-05T19:00:01Z,,NOT_AVAILABLE,,check: data gap: 5 days 08:30:00,lori,2017-08-04T00:00:00Z
+ctdmo_ghqr_instrument_recovered,D00002,2014-10-05T19:00:01Z,2014-10-11T02:30:01Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-08-04T00:00:00Z
+ctdmo_ghqr_instrument_recovered,D00002,2014-10-11T02:30:01Z,2014-10-21T19:00:01Z,,NOT_AVAILABLE,,check: data gap: 10 days 16:30:00,lori,2017-08-04T00:00:00Z
+ctdmo_ghqr_instrument_recovered,D00002,2014-10-21T19:00:01Z,2014-11-01T10:30:01Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-08-04T00:00:00Z
+ctdmo_ghqr_instrument_recovered,D00002,2014-11-01T10:30:01Z,2014-11-21T11:00:01Z,,NOT_AVAILABLE,,check: data gap: 20 days 00:30:00,lori,2017-08-04T00:00:00Z
+ctdmo_ghqr_instrument_recovered,D00002,2014-11-21T11:00:01Z,2014-11-26T18:30:01Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-08-04T00:00:00Z
+ctdmo_ghqr_instrument_recovered,D00002,2014-11-26T18:30:01Z,2014-12-07T11:00:01Z,,NOT_AVAILABLE,,check: data gap: 10 days 16:30:00,lori,2017-08-04T00:00:00Z
+ctdmo_ghqr_instrument_recovered,D00002,2014-12-07T11:00:01Z,2014-12-12T18:30:01Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-08-04T00:00:00Z
+ctdmo_ghqr_instrument_recovered,D00002,2014-12-12T18:30:01Z,2014-12-23T10:45:01Z,,NOT_AVAILABLE,,check: data gap: 10 days 16:15:00,lori,2017-08-04T00:00:00Z
+ctdmo_ghqr_instrument_recovered,D00002,2014-12-23T10:45:01Z,2015-06-04T23:45:01Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-08-04T00:00:00Z
+ctdmo_ghqr_instrument_recovered,D00003,2015-06-06T22:45:01Z,2016-06-28T19:00:01Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-08-04T00:00:00Z

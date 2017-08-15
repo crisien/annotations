@@ -1,0 +1,4 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdmo_ghqr_instrument_recovered,D00001,2013-07-21T22:45:01Z,2014-06-14T23:45:01Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-08-08T00:00:00Z
+ctdmo_ghqr_instrument_recovered,D00002,2014-06-17T06:00:01Z,2015-06-04T23:45:01Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-08-08T00:00:00Z
+ctdmo_ghqr_instrument_recovered,D00003,2015-06-06T22:45:01Z,2016-06-28T19:00:01Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-08-08T00:00:00Z

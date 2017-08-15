@@ -1,0 +1,4 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdmo_ghqr_sio_mule_instrument,D00001,2013-07-21T22:44:00Z,2014-06-15T00:00:00Z,,PENDING_INGEST,12191,Data currently not being parsed. Check when parser is pushed to production and data are ingested.,lori,2017-07-31T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00002,2014-06-17T06:00:00Z,2015-06-05T00:00:00Z,,PENDING_INGEST,12191,Data currently not being parsed. Check when parser is pushed to production and data are ingested.,lori,2017-07-31T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00003,2015-06-06T22:40:00Z,2016-06-28T19:10:00Z,,PENDING_INGEST,12191,Data currently not being parsed. Check when parser is pushed to production and data are ingested.,lori,2017-07-31T00:00:00Z

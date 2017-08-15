@@ -1,0 +1,4 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdmo_ghqr_instrument_recovered,D00001,2013-07-24T06:45:01Z,2014-06-17T23:45:01Z,Files from three different CTDs are ingested for this one CTD. Data need to be purged and re-ingested.,AVAILABLE,12518,check when data are re-ingested,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_instrument_recovered,D00002,2014-06-20T02:00:01Z,2015-06-06T23:45:01Z,,AVAILABLE,,,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_instrument_recovered,D00003,2015-06-08T21:30:01Z,2016-07-03T18:30:01Z,Files from two different CTDs are ingested for this one CTD. Data need to be purged and re-ingested.,AVAILABLE,12518,check when data are re-ingested,lori,2017-07-26T00:00:00Z

@@ -1,0 +1,10 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdbp_seawater_temperature,,,,,,,,lori,2017-08-14T00:00:00Z
+temperature,,,,,,,,lori,2017-08-14T00:00:00Z
+practical_salinity,D00002,2015-12-14T20:20:08Z,2016-12-11T23:59:57Z,Instrument was deployed at 12m but pressure values recorded around 23 dbar. Pressure affects salinity values. Investigation pending.,FAIL,12569,check cal sheets,lori,2017-08-14T00:00:00Z
+ctdbp_seawater_conductivity,,,,,,,,lori,2017-08-14T00:00:00Z
+ctdbp_seawater_pressure,D00002,2015-12-14T20:20:08Z,2016-12-11T23:59:57Z,Instrument was deployed at 12m but pressure values recorded around 23 dbar. Investigation pending.,FAIL,12569,check cal sheets,lori,2017-08-14T00:00:00Z
+pressure,,,,,,,,lori,2017-08-14T00:00:00Z
+pressure_temp,,,,,,,,lori,2017-08-14T00:00:00Z
+density,D00002,2015-12-14T20:20:08Z,2016-12-11T23:59:57Z,Instrument was deployed at 12m but pressure values recorded around 23 dbar. Pressure affects density values. Investigation pending.,FAIL,12569,check cal sheets,lori,2017-08-14T00:00:00Z
+conductivity,,,,,,,,lori,2017-08-14T00:00:00Z

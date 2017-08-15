@@ -1,0 +1,7 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+metbk_a_dcl_instrument_recovered,D00001,2015-02-18T21:06:00Z,2015-08-10T10:17:07Z,A few sparse data points are available,NOT_AVAILABLE,,,lori,2017-08-03T00:00:00Z
+metbk_a_dcl_instrument_recovered,D00001,2015-08-10T10:17:07Z,2015-08-25T00:16:46Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-08-03T00:00:00Z
+metbk_a_dcl_instrument_recovered,D00001,2015-08-25T00:16:46Z,2015-11-24T06:26:41Z,,NOT_AVAILABLE,,,lori,2017-08-03T00:00:00Z
+metbk_a_dcl_instrument_recovered,D00001,2015-11-24T06:26:41Z,2015-12-27T11:19:00Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-08-03T00:00:00Z
+metbk_a_dcl_instrument_recovered,D00002,2015-12-14T20:20:00Z,2016-11-28T07:00:20Z,Regular gaps in the data - investigation pending,NOT_EVALUATED,,There are regular gaps in the data which correspond with missing recovered_host files (telemetered files are available). Following up with MIO,lori,2017-08-03T00:00:00Z
+metbk_a_dcl_instrument_recovered,D00002,2016-11-28T07:00:20Z,2016-12-12T00:00:00Z,,NOT_AVAILABLE,,,lori,2017-08-03T00:00:00Z

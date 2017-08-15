@@ -1,0 +1,35 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdmo_ghqr_sio_mule_instrument,D00001,2013-07-24T10:00:01Z,2013-11-28T22:00:01Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00001,2013-11-28T22:00:01Z,2013-11-30T02:00:01Z,,NOT_AVAILABLE,,check: data gap: 1 days 04:00:00,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00001,2013-11-30T02:00:01Z,2014-02-27T14:00:01Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00001,2014-02-27T14:00:01Z,2014-06-18T00:00:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 110 days 09:59:59,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00003,2015-06-09T00:00:01Z,2015-06-20T08:00:01Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00003,2015-06-20T08:00:01Z,2015-06-21T12:00:01Z,,NOT_AVAILABLE,,check: data gap: 1 days 04:00:00,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00003,2015-06-21T12:00:01Z,2016-02-09T22:00:01Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00003,2016-02-09T22:00:01Z,2016-07-03T18:35:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 144 days 20:34:59,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00004,2016-07-04T23:07:00Z,2016-10-08T08:00:01Z,,NOT_AVAILABLE,,check: difference between data begin and deployment begin date is: 95 days 08:53:01,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00004,2016-10-08T08:00:01Z,2016-10-08T12:00:01Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00004,2016-10-08T12:00:01Z,2016-10-19T00:00:01Z,,NOT_AVAILABLE,,check: data gap: 10 days 12:00:00,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00004,2016-10-19T00:00:01Z,2016-10-20T12:00:01Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00004,2016-10-20T12:00:01Z,2016-10-25T12:00:01Z,,NOT_AVAILABLE,,check: data gap: 5 days 00:00:00,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00004,2016-10-25T12:00:01Z,2016-10-26T12:00:01Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00004,2016-10-26T12:00:01Z,2016-10-28T16:00:01Z,,NOT_AVAILABLE,,check: data gap: 2 days 04:00:00,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00004,2016-10-28T16:00:01Z,2016-10-28T16:00:01Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00004,2016-10-28T16:00:01Z,2016-10-30T12:00:01Z,,NOT_AVAILABLE,,check: data gap: 1 days 20:00:00,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00004,2016-10-30T12:00:01Z,2016-10-30T12:00:01Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00004,2016-10-30T12:00:01Z,2016-11-01T04:00:01Z,,NOT_AVAILABLE,,check: data gap: 1 days 16:00:00,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00004,2016-11-01T04:00:01Z,2016-11-01T04:00:01Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00004,2016-11-01T04:00:01Z,2016-11-04T20:00:01Z,,NOT_AVAILABLE,,check: data gap: 3 days 16:00:00,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00004,2016-11-04T20:00:01Z,2016-11-05T16:00:01Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00004,2016-11-05T16:00:01Z,2016-11-19T00:00:01Z,,NOT_AVAILABLE,,check: data gap: 13 days 08:00:00,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00004,2016-11-19T00:00:01Z,2016-11-19T00:00:01Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00004,2016-11-19T00:00:01Z,2016-11-20T04:00:01Z,,NOT_AVAILABLE,,check: data gap: 1 days 04:00:00,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00004,2016-11-20T04:00:01Z,2016-11-20T04:00:01Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00004,2016-11-20T04:00:01Z,2016-11-23T12:00:01Z,,NOT_AVAILABLE,,check: data gap: 3 days 08:00:00,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00004,2016-11-23T12:00:01Z,2016-11-23T12:00:01Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00004,2016-11-23T12:00:01Z,2016-11-25T16:00:01Z,,NOT_AVAILABLE,,check: data gap: 2 days 04:00:00,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00004,2016-11-25T16:00:01Z,2016-11-26T20:00:01Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00004,2016-11-26T20:00:01Z,2016-11-28T00:00:01Z,,NOT_AVAILABLE,,check: data gap: 1 days 04:00:00,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00004,2016-11-28T00:00:01Z,2016-11-28T00:00:01Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00004,2016-11-28T00:00:01Z,2016-12-01T12:00:01Z,,NOT_AVAILABLE,,check: data gap: 3 days 12:00:00,lori,2017-07-26T00:00:00Z
+ctdmo_ghqr_sio_mule_instrument,D00004,2016-12-01T12:00:01Z,2016-12-05T20:00:01Z,,NOT_EVALUATED,,check: evaluate parameters,lori,2017-07-26T00:00:00Z

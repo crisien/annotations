@@ -1,12 +1,2 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#
-ctdmo_ghqr_sio_mule_instrument,D00001,2015-05-27T04:00:01Z,2015-05-30T12:00:01Z,Need to ingest data if available.,NOT_AVAILABLE,11936.0
-ctdmo_ghqr_sio_mule_instrument,D00001,2015-05-31T00:00:01Z,2015-06-04T16:00:01Z,Need to ingest data if available.,NOT_AVAILABLE,11936.0
-ctdmo_ghqr_sio_mule_instrument,D00001,2015-06-04T16:00:01Z,2015-12-19T18:40:00Z,Need to ingest data if available.,NOT_AVAILABLE,11936.0
-GS03FLMB,D00002,2015-12-16T19:33:00Z,2016-12-05T00:00:00Z,"Due to glider failures, telemetered data is limited.",,
-ctdmo_ghqr_sio_mule_instrument,D00002,2016-02-04T00:00:01Z,2016-02-05T20:00:01Z,Need to ingest data if available.,NOT_AVAILABLE,11936.0
-ctdmo_ghqr_sio_mule_instrument,D00002,2016-02-07T20:00:01Z,2016-12-05T00:00:00Z,Need to ingest data if available.,NOT_AVAILABLE,11936.0
-GS03FLMB,D00003,2016-12-03T19:08:00Z,2017-04-05T00:00:00Z,"Gliders were not deployed, so telemetered data from this platform will not be available for this deployment.",,
-ctdmo_ghqr_sio_mule_instrument,D00003,2016-12-03T19:08:00Z,2017-05-24T00:00:00Z,"Gliders were not deployed, so telemetered data from this platform will not be available for this deployment.",NOT_AVAILABLE,
-GS03FLMB-RIM01,,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936.0
-GS03FLMB-RIM01-02-CTDMOH071,D00001,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936.0
-GS03FLMB-RIM01-02-CTDMOH071,D00002,,,Need to purge and reingest all data. Data were last ingested in May 2016.,,11936.0
+ctdgv_m_glider_instrument,D00001,2015-01-11T20:47:00Z,2015-02-13T00:00:0Z,Awaiting ingestion if raw data if available,NOT_AVAILABLE,

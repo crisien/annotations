@@ -1,0 +1,12 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+temperature,,,,,,,,lori,2017-08-11T00:00:00Z
+ctdmo_seawater_temperature,,,,,,,,lori,2017-08-11T00:00:00Z
+pressure_temp,,,,,,,,lori,2017-08-11T00:00:00Z
+density,,,,,,,,lori,2017-08-11T00:00:00Z
+practical_salinity,,,,,,,,lori,2017-08-11T00:00:00Z
+pressure,,,,,,,,lori,2017-08-11T00:00:00Z
+inductive_id,,,,,,,,lori,2017-08-11T00:00:00Z
+serial_number,,,,,,,,lori,2017-08-11T00:00:00Z
+ctdmo_seawater_pressure,,,,,,,,lori,2017-08-11T00:00:00Z
+ctdmo_seawater_conductivity,,,,,,,,lori,2017-08-11T00:00:00Z
+conductivity,,,,,,,,lori,2017-08-11T00:00:00Z

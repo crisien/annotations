@@ -1,0 +1,9 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+temperature,,,,,,,,lori,2017-08-02T00:00:00Z
+ctdmo_seawater_temperature,,,,,,,,lori,2017-08-02T00:00:00Z
+density,D00003,2015-06-07T00:00:01Z,2016-03-14T16:00:01Z,Values are different between telemetered and recovered data: investigation pending,SUSPECT,12533,MIO to check cal coefficients,lori,2017-08-02T00:00:00Z
+practical_salinity,D00003,2015-06-07T00:00:01Z,2016-03-14T16:00:01Z,Values are different between telemetered and recovered data: investigation pending,SUSPECT,12533,MIO to check cal coefficients,lori,2017-08-02T00:00:00Z
+pressure,,,,,,,,lori,2017-08-02T00:00:00Z
+ctdmo_seawater_pressure,,,,,,,,lori,2017-08-02T00:00:00Z
+ctdmo_seawater_conductivity,D00003,2015-06-07T00:00:01Z,2016-03-14T16:00:01Z,Values are different between telemetered and recovered data: investigation pending,SUSPECT,12533,MIO to check cal coefficients,lori,2017-08-02T00:00:00Z
+conductivity,,,,,,,,lori,2017-08-02T00:00:00Z

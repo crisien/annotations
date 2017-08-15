@@ -8,10 +8,10 @@ import numpy as np
 
 
 # specify path to annotation csvs and reference designator reviewed
-assets = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/CP02PMCO/CP02PMCO.csv'
-stream = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/CP02PMCO/CP02PMCO-WFP01-03-CTDPFK000/recovered_wfp-ctdpf_ckl_wfp_instrument_recovered.csv'
-parameters = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/CP02PMCO/CP02PMCO-WFP01-03-CTDPFK000/recovered_wfp-ctdpf_ckl_wfp_instrument_recovered-parameters.csv'
-reference_designator = 'CP02PMCO-WFP01-03-CTDPFK000'
+assets = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/CP05MOAS/CP05MOAS.csv'
+stream = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/CP05MOAS/CP05MOAS-GL375-03-CTDGVM000/telemetered-ctdgv_m_glider_instrument.csv'
+parameters = '/Users/knuth/Documents/ooi/repos/github/annotations/annotations/CP05MOAS/CP05MOAS-GL375-03-CTDGVM000/telemetered-ctdgv_m_glider_instrument-parameters.csv'
+reference_designator = 'CP05MOAS-GL375-03-CTDGVM000'
 
 
 # read in csv files
@@ -80,6 +80,7 @@ counter = -1
 # plot deployment timelines
 for index, row in stream_df.iterrows():
 	stream_time = np.array([row["StartTime"],row["EndTime"]])
+	print stream_time
 	stream_shape = np.full((stream_time.shape), y[counter])
 	if row["Status"] == 'AVAILABLE':
 		plt.plot(stream_time, stream_shape, linewidth=10, color='blue')

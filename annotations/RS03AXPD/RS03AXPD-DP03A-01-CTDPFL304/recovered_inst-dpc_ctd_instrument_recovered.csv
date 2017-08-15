@@ -1,11 +1,11 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
-dpc_ctd_instrument_recovered,D00001,2014-08-10T04:39:24Z,2014-08-26T06:19:13Z,,AVAILABLE,,check: evaluate parameters,friedrich,2017-04-27T00:00:00Z
+dpc_ctd_instrument_recovered,D00001,2014-08-10T04:39:24Z,2014-08-26T06:19:13Z,,AVAILABLE,,,friedrich,2017-04-27T00:00:00Z
 dpc_ctd_instrument_recovered,D00001,2014-08-26T06:19:13Z,2014-09-04T18:31:34Z,Profiler not operating due to docking station overcurrent,NOT_AVAILABLE,,check: data gap: 9 days 12:12:21,friedrich,2017-04-27T00:00:00Z
-dpc_ctd_instrument_recovered,D00001,2014-09-04T18:31:34Z,2014-09-08T02:36:00Z,,AVAILABLE,,check: evaluate parameters,friedrich,2017-04-27T00:00:00Z
+dpc_ctd_instrument_recovered,D00001,2014-09-04T18:31:34Z,2014-09-08T02:36:00Z,,AVAILABLE,,,friedrich,2017-04-27T00:00:00Z
 dpc_ctd_instrument_recovered,D00001,2014-09-08T02:36:00Z,2014-09-18T18:30:24Z,Profiler not operating due to docking station overcurrent,NOT_AVAILABLE,,check: data gap: 10 days 15:54:24,friedrich,2017-04-27T00:00:00Z
-dpc_ctd_instrument_recovered,D00001,2014-09-18T18:30:24Z,2014-09-21T16:24:12Z,,AVAILABLE,,check: evaluate parameters,friedrich,2017-04-27T00:00:00Z
+dpc_ctd_instrument_recovered,D00001,2014-09-18T18:30:24Z,2014-09-21T16:24:12Z,,AVAILABLE,,,friedrich,2017-04-27T00:00:00Z
 dpc_ctd_instrument_recovered,D00001,2014-09-21T16:24:12Z,2014-09-25T17:48:34Z,,PENDING_INGEST,9383,check: data gap: 4 days 01:24:22,friedrich,2017-04-27T00:00:00Z
-dpc_ctd_instrument_recovered,D00001,2014-09-25T17:48:34Z,2014-09-28T19:57:02Z,,AVAILABLE,,check: evaluate parameters,friedrich,2017-04-27T00:00:00Z
+dpc_ctd_instrument_recovered,D00001,2014-09-25T17:48:34Z,2014-09-28T19:57:02Z,,AVAILABLE,,,friedrich,2017-04-27T00:00:00Z
 dpc_ctd_instrument_recovered,D00001,2014-09-28T19:57:02Z,2014-10-01T00:00:02Z,Profiler not operating due to docking station overcurrent,NOT_AVAILABLE,,,friedrich,2017-04-27T00:00:00Z
 dpc_ctd_instrument_recovered,D00001,2014-10-01T00:00:02Z,2014-11-08T00:00:02Z,,PENDING_INGEST,9383,,friedrich,2017-04-27T00:00:00Z
 dpc_ctd_instrument_recovered,D00001,2014-11-08T00:00:02Z,2016-10-08T00:00:00Z,Profiler not operating due to docking station overcurrent,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 740 days 04:02:58,friedrich,2017-04-27T00:00:00Z

@@ -1,0 +1,25 @@
+Level,Deployment,StartTime,EndTime,Notes,Test,Redmine#,Todo,ReviewedBy,ReviewedDate
+temp,D00001,2015-02-18T21:15:07Z,2015-06-11T00:00:08Z,extracted from 1st file of 1 files,Global Range Values,,global min = -2.0 global_max = 40.0,lori,2017-08-14T00:00:00Z
+pressure,D00001,2015-02-18T21:15:07Z,2015-06-11T00:00:08Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 6000.0,lori,2017-08-14T00:00:00Z
+density,D00001,2015-02-18T21:15:07Z,2015-06-11T00:00:08Z,extracted from 1st file of 1 files,Global Range Values,,global min = 1000.0 global_max = 1100.0,lori,2017-08-14T00:00:00Z
+density,D00001,2015-02-18T21:15:07Z,2015-06-11T00:00:08Z,applies to one file,Stuck Value QC Test,,check: test triggered,lori,2017-08-14T00:00:00Z
+practical_salinity,D00001,2015-02-18T21:15:07Z,2015-06-11T00:00:08Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 42.0,lori,2017-08-14T00:00:00Z
+conductivity,D00001,2015-02-18T21:15:07Z,2015-06-11T00:00:08Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 6.0,lori,2017-08-14T00:00:00Z
+conductivity,D00001,2015-02-18T21:15:07Z,2015-06-11T00:00:08Z,applies to one file,Stuck Value QC Test,,check: test triggered,lori,2017-08-14T00:00:00Z
+temp,D00002,2015-12-14T20:20:06Z,2016-12-05T03:05:10Z,extracted from 1st file of 1 files,Global Range Values,,global min = -2.0 global_max = 40.0,lori,2017-08-14T00:00:00Z
+pressure,D00002,2015-12-14T20:20:06Z,2016-12-05T03:05:10Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 6000.0,lori,2017-08-14T00:00:00Z
+density,D00002,2015-12-14T20:20:06Z,2016-12-05T03:05:10Z,extracted from 1st file of 1 files,Global Range Values,,global min = 1000.0 global_max = 1100.0,lori,2017-08-14T00:00:00Z
+density,D00002,2015-12-14T20:20:06Z,2016-12-05T03:05:10Z,applies to one file,Spike QC Test,,check: test triggered,lori,2017-08-14T00:00:00Z
+density,D00002,2015-12-14T20:20:06Z,2016-12-05T03:05:10Z,applies to one file,Stuck Value QC Test,,check: test triggered,lori,2017-08-14T00:00:00Z
+practical_salinity,D00002,2015-12-14T20:20:06Z,2016-12-05T03:05:10Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 42.0,lori,2017-08-14T00:00:00Z
+practical_salinity,D00002,2015-12-14T20:20:06Z,2016-12-05T03:05:10Z,applies to one file,Spike QC Test,,check: test triggered,lori,2017-08-14T00:00:00Z
+conductivity,D00002,2015-12-14T20:20:06Z,2016-12-05T03:05:10Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 6.0,lori,2017-08-14T00:00:00Z
+conductivity,D00002,2015-12-14T20:20:06Z,2016-12-05T03:05:10Z,applies to one file,Stuck Value QC Test,,check: test triggered,lori,2017-08-14T00:00:00Z
+temp,D00003,2016-11-25T01:17:06Z,2017-07-14T18:00:23Z,extracted from 1st file of 1 files,Global Range Values,,global min = -2.0 global_max = 40.0,lori,2017-08-14T00:00:00Z
+pressure,D00003,2016-11-25T01:17:06Z,2017-07-14T18:00:23Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 6000.0,lori,2017-08-14T00:00:00Z
+density,D00003,2016-11-25T01:17:06Z,2017-07-14T18:00:23Z,extracted from 1st file of 1 files,Global Range Values,,global min = 1000.0 global_max = 1100.0,lori,2017-08-14T00:00:00Z
+density,D00003,2016-11-25T01:17:06Z,2017-07-14T18:00:23Z,applies to one file,Stuck Value QC Test,,check: test triggered,lori,2017-08-14T00:00:00Z
+practical_salinity,D00003,2016-11-25T01:17:06Z,2017-07-14T18:00:23Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 42.0,lori,2017-08-14T00:00:00Z
+practical_salinity,D00003,2016-11-25T01:17:06Z,2017-07-14T18:00:23Z,applies to one file,Spike QC Test,,check: test triggered,lori,2017-08-14T00:00:00Z
+conductivity,D00003,2016-11-25T01:17:06Z,2017-07-14T18:00:23Z,extracted from 1st file of 1 files,Global Range Values,,global min = 0.0 global_max = 6.0,lori,2017-08-14T00:00:00Z
+conductivity,D00003,2016-11-25T01:17:06Z,2017-07-14T18:00:23Z,applies to one file,Stuck Value QC Test,,check: test triggered,lori,2017-08-14T00:00:00Z

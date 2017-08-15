@@ -1,4 +1,21 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+GP03FLMA,D00001,2013-07-21T22:44:00Z,2014-06-15T00:00:00Z,Platform was deployed 10-15m shallower than intended. Telemetered data are not available for this deployment.,,,,lori,2017-07-28T00:00:00Z
+GP03FLMA,D00002,2014-06-17T06:00:00Z,2015-06-05T00:00:00Z,Platform was deployed 15-20m shallower than intended.,,,,lori,2017-07-28T00:00:00Z
+GP03FLMA,D00003,2015-06-06T22:40:00Z,2016-06-28T19:10:00Z,Platform was deployed 10-15m deeper than intended.,,,,lori,2017-07-28T00:00:00Z
+GP03FLMA,D00004,2016-07-01T01:07:00Z,2017-07-18T00:00:00Z,Platform was deployed 10-15m deeper than intended.,,,Update end time as the deployment progresses,lori,2017-07-31T00:00:00Z
 GP03FLMA,D00004,2016-07-01T01:07:00Z,2017-04-05T00:00:00Z,"Consistent issues with data telemetry have persisted for this deployment. Due to glider failures on 1/27/2017, there will be no telemetered data from this platform.",,,Update end time as the deployment progresses,lori,2017-04-05T00:00:00Z
-GP03FLMA-RIM01-02-CTDMOG042,D00004,2016-07-01T01:07:00,2017-07-18T00:00:00,Instrument was deployed at 60m but slid to approximately 90m (confirmed on recovery of the mooring).,,,Update end time as the deployment progresses,lori,2017-07-25T00:00:00Z
-GP03FLMA,D00005,2017-07-07T00:00:00,2017-07-25T00:00:00Z,"Gliders were not deployed, so telemetered data from this platform will not be available for this deployment.",,,Update start time when asset management is updated. Update end time as the deployment progresses,lori,2017-07-25T00:00:00Z
+GP03FLMA,D00005,2017-07-07T00:00:00Z,2017-07-25T00:00:00Z,"Gliders were not deployed, so telemetered data from this platform will not be available for this deployment.",,,Update start time when asset management is updated. Update end time as the deployment progresses,lori,2017-07-25T00:00:00Z
+GP03FLMA-RIM01,,,,,,,,lori,2017-07-28T00:00:00Z
+GP03FLMA-RIM01-02-CTDMOG040,D00002,2014-06-17T06:00:00Z,2015-06-05T00:00:00Z,"Upon recovery of the instrument, a shield that guards the sensor and holds the anti-fouling was missing.",,,,lori,2017-07-28T00:00:00Z
+GP03FLMA-RIM01-02-CTDMOG041,D00002,2014-06-17T17:00:01Z,2015-06-05T00:00:00Z,Regular gaps in recovered_inst data of 5 days 08:30:00,,,Check when data are re-ingested,lori,2017-07-31T00:00:00Z
+GP03FLMA-RIM01-02-CTDMOG042,D00003,2015-06-06T22:45:01Z,2016-06-28T19:00:01Z,Conductivity (therefore salinity and density) values are different between telemetered and recovered data: investigation pending,,12533,MIO to check cal coefficients,lori,2017-07-25T00:00:00Z
+GP03FLMA-RIM01-02-CTDMOG042,D00004,2016-07-01T01:07:00Z,2017-07-18T00:00:00Z,Instrument was deployed at 60m but slid to approximately 100m (confirmed on recovery of the mooring).,,,Update end time as the deployment progresses,lori,2017-07-25T00:00:00Z
+GP03FLMA-RIM01-02-CTDMOG043,,,,,,,,lori,2017-08-04T00:00:00Z
+GP03FLMA-RIM01-02-CTDMOG044,,,,,,,,lori,2017-08-04T00:00:00Z
+GP03FLMA-RIM01-02-CTDMOG045,,,,,,,,lori,2017-08-07T00:00:00Z
+GP03FLMA-RIM01-02-CTDMOG046,,,,,,,,lori,2017-08-08T00:00:00Z
+GP03FLMA-RIM01-02-CTDMOG047,,,,,,,,lori,2017-08-09T00:00:00Z
+GP03FLMA-RIM01-02-CTDMOG048,,,,,,,,lori,2017-08-09T00:00:00Z
+GP03FLMA-RIM01-02-CTDMOH049,D00004,2016-07-01T01:07:00Z,2017-07-18T00:00:00Z,Instrument should have been deployed around 750m but telemetered pressure readings around 930 dbar. Investigation pending.,,,check recovered data when available,lori,2017-08-09T00:00:00Z
+GP03FLMA-RIM01-02-CTDMOH050,,,,,,,,lori,2017-08-09T00:00:00Z
+GP03FLMA-RIM01-02-CTDMOH051,,,,,,,,lori,2017-08-11T00:00:00Z

@@ -1,5 +1,5 @@
 Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
-ctdgv_m_glider_instrument_recovered,D00001,2014-10-06T23:51:22Z,2014-12-12T23:09:55Z,,AVAILABLE,,,Leila,2017-05-10T00:00:00Z
+ctdgv_m_glider_instrument_recovered,D00001,2014-10-06T23:51:22Z,2014-10-15T00:00:00Z,,AVAILABLE,,,Leila,2017-05-10T00:00:00Z
 ctdgv_m_glider_instrument_recovered,D00001,2014-10-15T00:00:00Z,2014-12-12T23:09:55Z,CTD has been turned off,NOT_AVAILABLE,,,Leila,2017-05-10T00:00:00Z
 ctdgv_m_glider_instrument_recovered,D00003,2015-10-13T00:33:16Z,2015-12-01T21:07:23Z,,AVAILABLE,,,Leila,2017-05-10T00:00:00Z
 ctdgv_m_glider_instrument_recovered,D00003,2015-12-01T21:07:23Z,2015-12-08T00:00:00Z,,NOT_AVAILABLE,,check: difference between data end and deployment end date is: 6 days 02:52:37,Leila,2017-05-10T00:00:00Z

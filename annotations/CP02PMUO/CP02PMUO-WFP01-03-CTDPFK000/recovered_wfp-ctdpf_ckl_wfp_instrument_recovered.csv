@@ -11,4 +11,4 @@ ctdpf_ckl_wfp_instrument_recovered,D00004,2015-02-12T21:12:38Z,2015-04-30T00:00:
 ctdpf_ckl_wfp_instrument_recovered,D00005,2015-04-30T19:00:03Z,2015-10-13T12:13:23Z,,AVAILABLE,,,Leila,2017-05-09T00:00:00Z
 ctdpf_ckl_wfp_instrument_recovered,D00006,2015-10-13T22:00:03Z,2016-05-18T12:20:00Z,Data non-recoverable. WFP failed.,NOT_AVAILABLE,10303,,Leila,2017-05-09T00:00:00Z
 ctdpf_ckl_wfp_instrument_recovered,D00007,2016-05-19T00:00:03Z,2016-10-01T09:05:46Z,,PENDING_INGEST,11960,,Leila,2017-05-09T00:00:00Z
-ctdpf_ckl_wfp_instrument_recovered,D00008,2016-10-02T00:26:00Z,2017-05-09T00:00:00Z,Instrument not recovered from the water.,NOT_AVAILABLE,,,,
+ctdpf_ckl_wfp_instrument_recovered,D00008,2016-10-02T00:26:00Z,2017-05-09T00:00:00Z,Awaiting MIO raw data upload to the raw data server.,NOT_AVAILABLE,,,Leila,2017-08-10T00:00:00Z

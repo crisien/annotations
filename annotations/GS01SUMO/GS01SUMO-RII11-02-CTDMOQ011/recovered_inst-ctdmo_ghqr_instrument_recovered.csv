@@ -1,0 +1,5 @@
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+ctdmo_ghqr_instrument_recovered,D00001,2015-02-18T21:07:31Z,2015-12-27T11:15:01Z,,AVAILABLE,,,lori,2017-08-16T00:00:00Z
+ctdmo_ghqr_instrument_recovered,D00002,2015-12-14T20:22:31Z,2016-06-18T14:00:01Z,,AVAILABLE,,,lori,2017-08-16T00:00:00Z
+ctdmo_ghqr_instrument_recovered,D00002,2016-06-18T14:00:01Z,2016-07-12T15:45:01Z,,NOT_AVAILABLE,,,lori,2017-08-16T00:00:00Z
+ctdmo_ghqr_instrument_recovered,D00002,2016-07-12T15:45:01Z,2016-12-11T23:52:31Z,,AVAILABLE,,,lori,2017-08-16T00:00:00Z

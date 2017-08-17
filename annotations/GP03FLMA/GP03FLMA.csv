@@ -16,6 +16,6 @@ GP03FLMA-RIM01-02-CTDMOG045,,,,,,,,lori,2017-08-07T00:00:00Z
 GP03FLMA-RIM01-02-CTDMOG046,,,,,,,,lori,2017-08-08T00:00:00Z
 GP03FLMA-RIM01-02-CTDMOG047,,,,,,,,lori,2017-08-09T00:00:00Z
 GP03FLMA-RIM01-02-CTDMOG048,,,,,,,,lori,2017-08-09T00:00:00Z
-GP03FLMA-RIM01-02-CTDMOH049,D00004,2016-07-01T01:07:00Z,2017-07-18T00:00:00Z,Instrument should have been deployed around 750m but telemetered pressure readings around 930 dbar. Investigation pending.,,,check recovered data when available,lori,2017-08-09T00:00:00Z
-GP03FLMA-RIM01-02-CTDMOH050,,,,,,,,lori,2017-08-09T00:00:00Z
+GP03FLMA-RIM01-02-CTDMOH049,D00004,2016-07-01T01:07:00Z,2017-07-18T00:00:00Z,Instrument was deployed at 750m but slid to approximately 1000m (confirmed on recovery of the mooring).,,,Update end time as the deployment progresses,lori,2017-08-09T00:00:00Z
+GP03FLMA-RIM01-02-CTDMOH050,D00004,2016-07-01T01:07:00Z,2017-07-18T00:00:00Z,Instrument was recovered with a broken/missing guard.,,,Update end time as the deployment progresses,lori,2017-08-09T00:00:00Z
 GP03FLMA-RIM01-02-CTDMOH051,,,,,,,,lori,2017-08-11T00:00:00Z

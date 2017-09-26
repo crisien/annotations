@@ -1,4 +1,4 @@
-Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedBy,ReviewedDate
+Level,Deployment,StartTime,EndTime,Annotation,Status,Redmine#,Todo,ReviewedDate,ReviewedBy
 practical_salinity,D00001,2014-04-29T04:00:00Z,2014-04-29T13:30:00Z,Profiler only sampling on ascent,,,,2017-05-11T00:00:00Z,michaesm
 temperature,D00001,2014-04-29T04:00:00Z,2014-04-29T13:30:00Z,Profiler only sampling on ascent,,,,2017-05-11T00:00:00Z,michaesm
 density,D00001,2014-04-29T04:00:00Z,2014-04-29T13:30:00Z,Profiler only sampling on ascent,,,,2017-05-11T00:00:00Z,michaesm

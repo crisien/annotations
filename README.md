@@ -1,4 +1,4 @@
-# ooi-annotations
+Note: These annotations have been transposed into the OOI CI system. This repo is no longer being actively used to store annotations.
 
 Link to draft documentation describing Rest-In-Class annotation process
 
